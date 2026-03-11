@@ -11,7 +11,7 @@
     "lesson": "L1",
     "example": "学校へ行きます",
     "example_reading": "がっこう へ いきます",
-    "example_meaning": "I go to school"
+    "example_meaning": "Tôi đi học"
   },
   {
     "id": "vocab-n5-002",
@@ -25,7 +25,7 @@
     "lesson": "L1",
     "example": "本を読みます",
     "example_reading": "ほん を よみます",
-    "example_meaning": "I read a book"
+    "example_meaning": "Tôi đọc sách"
   },
   {
     "id": "vocab-n5-003",
@@ -39,7 +39,7 @@
     "lesson": "L2",
     "example": "ご飯を食べる",
     "example_reading": "ごはん を たべる",
-    "example_meaning": "to eat rice"
+    "example_meaning": "ăn cơm"
   },
   {
     "id": "vocab-n5-004",
@@ -53,7 +53,7 @@
     "lesson": "L1",
     "example": "水を飲む",
     "example_reading": "みず を のむ",
-    "example_meaning": "to drink water"
+    "example_meaning": "uống nước"
   },
   {
     "id": "vocab-n5-005",
@@ -67,7 +67,7 @@
     "lesson": "L2",
     "example": "東京に行く",
     "example_reading": "とうきょう に いく",
-    "example_meaning": "to go to Tokyo"
+    "example_meaning": "đi Tokyo"
   },
   {
     "id": "vocab-n5-006",
@@ -81,7 +81,7 @@
     "lesson": "L1",
     "example": "友達と遊ぶ",
     "example_reading": "ともだち と あそぶ",
-    "example_meaning": "to play with friends"
+    "example_meaning": "chơi với bạn bè"
   },
   {
     "id": "vocab-n5-007",
@@ -95,7 +95,7 @@
     "lesson": "L1",
     "example": "家に帰る",
     "example_reading": "いえ に かえる",
-    "example_meaning": "to return home"
+    "example_meaning": "về nhà"
   },
   {
     "id": "vocab-n5-008",
@@ -109,7 +109,7 @@
     "lesson": "L3",
     "example": "大きい犬",
     "example_reading": "おおきい いぬ",
-    "example_meaning": "big dog"
+    "example_meaning": "con chó lớn"
   },
   {
     "id": "vocab-n5-009",
@@ -123,7 +123,7 @@
     "lesson": "L3",
     "example": "小さい猫",
     "example_reading": "ちいさい ねこ",
-    "example_meaning": "small cat"
+    "example_meaning": "con mèo nhỏ"
   },
   {
     "id": "vocab-n5-010",
@@ -137,7 +137,7 @@
     "lesson": "L3",
     "example": "新しい車",
     "example_reading": "あたらしい くるま",
-    "example_meaning": "new car"
+    "example_meaning": "xe mới"
   },
   {
     "id": "vocab-n4-001",
@@ -151,7 +151,7 @@
     "lesson": "L5",
     "example": "会社で働く",
     "example_reading": "かいしゃ で はたらく",
-    "example_meaning": "to work at a company"
+    "example_meaning": "làm việc tại công ty"
   },
   {
     "id": "vocab-n4-002",
@@ -165,7 +165,7 @@
     "lesson": "L5",
     "example": "説明する",
     "example_reading": "せつめい する",
-    "example_meaning": "to explain"
+    "example_meaning": "giải thích"
   },
   {
     "id": "vocab-n4-003",
@@ -179,7 +179,7 @@
     "lesson": "L6",
     "example": "経験がある",
     "example_reading": "けいけん が ある",
-    "example_meaning": "to have experience"
+    "example_meaning": "có kinh nghiệm"
   },
   {
     "id": "vocab-n4-004",
@@ -193,7 +193,7 @@
     "lesson": "L6",
     "example": "準備する",
     "example_reading": "じゅんび する",
-    "example_meaning": "to prepare"
+    "example_meaning": "chuẩn bị"
   },
   {
     "id": "vocab-n4-005",
@@ -207,7 +207,7 @@
     "lesson": "L7",
     "example": "残念です",
     "example_reading": "ざんねん です",
-    "example_meaning": "that's regrettable"
+    "example_meaning": "thật đáng tiếc"
   },
   {
     "id": "vocab-n4-006",
@@ -221,7 +221,7 @@
     "lesson": "L7",
     "example": "便利な場所",
     "example_reading": "べんり な ばしょ",
-    "example_meaning": "convenient location"
+    "example_meaning": "địa điểm tiện lợi"
   },
   {
     "id": "vocab-n4-007",
@@ -235,7 +235,7 @@
     "lesson": "L7",
     "example": "簡単な問題",
     "example_reading": "かんたん な もんだい",
-    "example_meaning": "simple problem"
+    "example_meaning": "vấn đề đơn giản"
   },
   {
     "id": "vocab-n4-008",
@@ -249,7 +249,7 @@
     "lesson": "L8",
     "example": "時間を決める",
     "example_reading": "じかん を きめる",
-    "example_meaning": "to decide the time"
+    "example_meaning": "quyết định thời gian"
   },
   {
     "id": "vocab-n4-009",
@@ -263,7 +263,7 @@
     "lesson": "L8",
     "example": "予定を変える",
     "example_reading": "よてい を かえる",
-    "example_meaning": "to change plans"
+    "example_meaning": "thay đổi kế hoạch"
   },
   {
     "id": "vocab-n4-010",
@@ -277,7 +277,7 @@
     "lesson": "L8",
     "example": "勉強を続ける",
     "example_reading": "べんきょう を つづける",
-    "example_meaning": "to continue studying"
+    "example_meaning": "tiếp tục học tập"
   },
   {
     "id": "vocab-n3-001",
@@ -291,7 +291,7 @@
     "lesson": "L10",
     "example": "承知しました",
     "example_reading": "しょうち しました",
-    "example_meaning": "I understand"
+    "example_meaning": "Tôi hiểu"
   },
   {
     "id": "vocab-n3-002",
@@ -305,7 +305,7 @@
     "lesson": "L10",
     "example": "状況を把握する",
     "example_reading": "じょうきょう を はあく する",
-    "example_meaning": "to grasp the situation"
+    "example_meaning": "nắm bắt tình hình"
   },
   {
     "id": "vocab-n3-003",
@@ -319,7 +319,7 @@
     "lesson": "L11",
     "example": "計画を実施する",
     "example_reading": "けいかく を じっし する",
-    "example_meaning": "to implement a plan"
+    "example_meaning": "thực hiện kế hoạch"
   },
   {
     "id": "vocab-n3-004",
@@ -333,7 +333,7 @@
     "lesson": "L11",
     "example": "該当する項目",
     "example_reading": "がいとう する こうもく",
-    "example_meaning": "applicable items"
+    "example_meaning": "các mục tương ứng"
   },
   {
     "id": "vocab-n3-005",
@@ -347,7 +347,7 @@
     "lesson": "L12",
     "example": "仮にそうだとしても",
     "example_reading": "かりに そう だ としても",
-    "example_meaning": "even supposing that's true"
+    "example_meaning": "ngay cả khi giả sử điều đó đúng"
   },
   {
     "id": "vocab-n3-006",
@@ -361,7 +361,7 @@
     "lesson": "L12",
     "example": "比較的簡単",
     "example_reading": "ひかくてき かんたん",
-    "example_meaning": "relatively simple"
+    "example_meaning": "tương đối đơn giản"
   },
   {
     "id": "vocab-n3-007",
@@ -375,7 +375,7 @@
     "lesson": "L13",
     "example": "著しい変化",
     "example_reading": "いちじるしい へんか",
-    "example_meaning": "remarkable change"
+    "example_meaning": "sự thay đổi đáng kể"
   },
   {
     "id": "vocab-n3-008",
@@ -389,7 +389,7 @@
     "lesson": "L13",
     "example": "概ね順調",
     "example_reading": "おおむね じゅんちょう",
-    "example_meaning": "generally smooth"
+    "example_meaning": "nói chung suôn sẻ"
   },
   {
     "id": "vocab-n3-009",
@@ -403,7 +403,7 @@
     "lesson": "L14",
     "example": "専ら仕事に集中",
     "example_reading": "もっぱら しごと に しゅうちゅう",
-    "example_meaning": "mainly focus on work"
+    "example_meaning": "chủ yếu tập trung vào công việc"
   },
   {
     "id": "vocab-n3-010",
@@ -417,7 +417,7 @@
     "lesson": "L14",
     "example": "抜群の成績",
     "example_reading": "ばつぐん の せいせき",
-    "example_meaning": "outstanding results"
+    "example_meaning": "kết quả xuất sắc"
   },
   {
     "id": "vocab-n2-001",
@@ -431,7 +431,7 @@
     "lesson": "L15",
     "example": "任務を遂行する",
     "example_reading": "にんむ を すいこう する",
-    "example_meaning": "to accomplish a mission"
+    "example_meaning": "hoàn thành nhiệm vụ"
   },
   {
     "id": "vocab-n2-002",
@@ -445,7 +445,7 @@
     "lesson": "L15",
     "example": "顕著な効果",
     "example_reading": "けんちょ な こうか",
-    "example_meaning": "remarkable effect"
+    "example_meaning": "hiệu quả đáng kể"
   },
   {
     "id": "vocab-n2-003",
@@ -459,7 +459,7 @@
     "lesson": "L16",
     "example": "懸念を表明する",
     "example_reading": "けねん を ひょうめい する",
-    "example_meaning": "to express concern"
+    "example_meaning": "bày tỏ lo ngại"
   },
   {
     "id": "vocab-n2-004",
@@ -473,7 +473,7 @@
     "lesson": "L16",
     "example": "規則を遵守する",
     "example_reading": "きそく を じゅんしゅ する",
-    "example_meaning": "to comply with rules"
+    "example_meaning": "tuân thủ quy tắc"
   },
   {
     "id": "vocab-n2-005",
@@ -487,7 +487,7 @@
     "lesson": "L17",
     "example": "抽象的な概念",
     "example_reading": "ちゅうしょうてき な がいねん",
-    "example_meaning": "abstract concept"
+    "example_meaning": "khái niệm trừu tượng"
   },
   {
     "id": "vocab-n2-006",
@@ -501,7 +501,7 @@
     "lesson": "L17",
     "example": "妥当な判断",
     "example_reading": "だとう な はんだん",
-    "example_meaning": "appropriate judgment"
+    "example_meaning": "phán đoán thích đáng"
   },
   {
     "id": "vocab-n2-007",
@@ -515,7 +515,7 @@
     "lesson": "L18",
     "example": "問題が顕在化する",
     "example_reading": "もんだい が けんざいか する",
-    "example_meaning": "problems become apparent"
+    "example_meaning": "vấn đề trở nên rõ ràng"
   },
   {
     "id": "vocab-n2-008",
@@ -529,7 +529,7 @@
     "lesson": "L18",
     "example": "組織が硬直化する",
     "example_reading": "そしき が こうちょくか する",
-    "example_meaning": "organization becomes rigid"
+    "example_meaning": "tổ chức trở nên cứng nhắc"
   },
   {
     "id": "vocab-n2-009",
@@ -543,7 +543,7 @@
     "lesson": "L19",
     "example": "不安を払拭する",
     "example_reading": "ふあん を ふっしょく する",
-    "example_meaning": "to eliminate anxiety"
+    "example_meaning": "xóa bỏ lo lắng"
   },
   {
     "id": "vocab-n2-010",
@@ -557,7 +557,7 @@
     "lesson": "L19",
     "example": "前例を踏襲する",
     "example_reading": "ぜんれい を とうしゅう する",
-    "example_meaning": "to follow precedent"
+    "example_meaning": "theo tiền lệ"
   },
   {
     "id": "vocab-n1-001",
@@ -571,7 +571,7 @@
     "lesson": "L20",
     "example": "視力を矯正する",
     "example_reading": "しりょく を きょうせい する",
-    "example_meaning": "to correct eyesight"
+    "example_meaning": "chỉnh sửa thị lực"
   },
   {
     "id": "vocab-n1-002",
@@ -585,7 +585,7 @@
     "lesson": "L20",
     "example": "画面を凝視する",
     "example_reading": "がめん を ぎょうし する",
-    "example_meaning": "to stare at the screen"
+    "example_meaning": "nhìn chằm chằm vào màn hình"
   },
   {
     "id": "vocab-n1-003",
@@ -599,7 +599,7 @@
     "lesson": "L21",
     "example": "慣例に従う",
     "example_reading": "かんれい に したがう",
-    "example_meaning": "to follow custom"
+    "example_meaning": "theo tập quán"
   },
   {
     "id": "vocab-n1-004",
@@ -613,7 +613,7 @@
     "lesson": "L21",
     "example": "寡黙な人",
     "example_reading": "かもく な ひと",
-    "example_meaning": "taciturn person"
+    "example_meaning": "người ít nói"
   },
   {
     "id": "vocab-n1-005",
@@ -627,7 +627,7 @@
     "lesson": "L22",
     "example": "惰性で続ける",
     "example_reading": "だせい で つづける",
-    "example_meaning": "to continue by inertia"
+    "example_meaning": "tiếp tục theo quán tính"
   },
   {
     "id": "vocab-n1-006",
@@ -641,7 +641,7 @@
     "lesson": "L22",
     "example": "截然と区別する",
     "example_reading": "せつぜん と くべつ する",
-    "example_meaning": "to distinguish clearly"
+    "example_meaning": "phân biệt rõ ràng"
   },
   {
     "id": "vocab-n1-007",
@@ -655,7 +655,7 @@
     "lesson": "L23",
     "example": "功績を顕彰する",
     "example_reading": "こうせき を けんしょう する",
-    "example_meaning": "to commend achievements"
+    "example_meaning": "tôn vinh thành tích"
   },
   {
     "id": "vocab-n1-008",
@@ -669,7 +669,7 @@
     "lesson": "L23",
     "example": "逡巡している暇はない",
     "example_reading": "しゅんじゅん している ひま は ない",
-    "example_meaning": "no time for hesitation"
+    "example_meaning": "không có thời gian do dự"
   },
   {
     "id": "vocab-n1-009",
@@ -683,7 +683,7 @@
     "lesson": "L24",
     "example": "憔悴しきった顔",
     "example_reading": "しょうすい しきった かお",
-    "example_meaning": "haggard face"
+    "example_meaning": "khuôn mặt tiêu tụy"
   },
   {
     "id": "vocab-n1-010",
@@ -697,6 +697,6 @@
     "lesson": "L24",
     "example": "伝統を踏襲する",
     "example_reading": "でんとう を とうしゅう する",
-    "example_meaning": "to follow tradition"
+    "example_meaning": "kế thừa truyền thống"
   }
 ]
