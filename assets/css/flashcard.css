@@ -193,6 +193,10 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  .flashcard-container {
+    padding: 1.5rem 1rem;
+  }
+  
   .flashcard {
     height: 350px;
     max-width: 100%;
@@ -216,6 +220,7 @@
   
   .flashcard-controls {
     gap: 0.5rem;
+    margin-top: 1.5rem;
   }
   
   .flashcard-controls .btn {
@@ -223,11 +228,23 @@
     padding: 0.6rem 1.2rem;
     font-size: 0.9rem;
   }
+  
+  .flashcard-mode-selector {
+    margin-bottom: 1.5rem;
+  }
+  
+  .card-counter {
+    font-size: 0.95rem;
+  }
 }
 
 @media (max-width: 576px) {
+  .flashcard-container {
+    padding: 1rem 0.5rem;
+  }
+  
   .flashcard {
-    height: 300px;
+    height: 280px;
   }
   
   .flashcard-main {
@@ -238,15 +255,54 @@
     font-size: 1.2rem;
   }
   
+  .flashcard-readings {
+    font-size: 1rem;
+  }
+  
+  .flashcard-example {
+    font-size: 0.875rem;
+  }
+  
   .flashcard-front,
   .flashcard-back {
-    padding: 1.5rem;
+    padding: 1rem;
+  }
+  
+  .flashcard-controls {
+    gap: 0.4rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
   }
   
   .flashcard-controls .btn {
     min-width: 80px;
     padding: 0.5rem 1rem;
     font-size: 0.85rem;
+    flex: 1 1 auto;
+  }
+  
+  .flashcard-mode-selector {
+    margin-bottom: 1rem;
+  }
+  
+  .flashcard-mode-selector h5 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .flashcard-mode-selector .btn-group {
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+  
+  .flashcard-mode-selector .btn {
+    padding: 0.4rem 0.75rem;
+    font-size: 0.85rem;
+  }
+  
+  .card-counter {
+    font-size: 0.875rem;
+    margin-top: 0.75rem;
   }
 }
 

@@ -265,6 +265,27 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  .quiz-container {
+    padding: 1.5rem 1rem;
+  }
+  
+  .quiz-header {
+    margin-bottom: 1.5rem;
+  }
+  
+  .quiz-selectors {
+    margin-bottom: 1.5rem;
+  }
+  
+  .quiz-selectors .form-select {
+    font-size: 0.95rem;
+    padding: 0.5rem 2.5rem 0.5rem 0.75rem;
+  }
+  
+  .question-card {
+    padding: 2rem 1.5rem;
+  }
+  
   .question-display {
     font-size: 3rem;
   }
@@ -285,11 +306,51 @@
   .score-percentage {
     font-size: 2rem;
   }
+  
+  .quiz-controls .btn {
+    padding: 0.6rem 1.5rem;
+    font-size: 0.95rem;
+  }
 }
 
 @media (max-width: 576px) {
+  .quiz-container {
+    padding: 1rem 0.5rem;
+  }
+  
+  .quiz-header {
+    margin-bottom: 1rem;
+  }
+  
+  .quiz-header h2 {
+    font-size: 1.3rem;
+  }
+  
+  .quiz-selectors {
+    margin-bottom: 1rem;
+  }
+  
+  .quiz-selectors .row {
+    gap: 0.5rem;
+  }
+  
+  .quiz-selectors .form-select {
+    font-size: 0.875rem;
+    padding: 0.4rem 2rem 0.4rem 0.6rem;
+  }
+  
+  .quiz-selectors label {
+    font-size: 0.875rem;
+    margin-bottom: 0.3rem;
+  }
+  
+  .quiz-selectors select {
+    min-width: 150px;
+    width: 100%;
+  }
+  
   .question-card {
-    padding: 2rem 1rem;
+    padding: 1.5rem 0.75rem;
   }
   
   .question-display {
@@ -304,21 +365,43 @@
   }
   
   .score-display {
-    padding: 2rem 1rem;
+    padding: 1.5rem 1rem;
   }
   
   .score-display .display-1 {
     font-size: 2.5rem;
   }
   
-  .quiz-controls .btn {
-    min-width: 120px;
-    padding: 0.6rem 1.5rem;
-    font-size: 1rem;
+  .score-display h2 {
+    font-size: 1.25rem;
   }
   
-  .quiz-selectors select {
-    min-width: 150px;
-    width: 100%;
+  .score-display p {
+    font-size: 0.9rem;
+  }
+  
+  .score-percentage {
+    font-size: 1.5rem;
+  }
+  
+  .quiz-controls {
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  
+  .quiz-controls .btn {
+    min-width: 100px;
+    padding: 0.5rem 1.2rem;
+    font-size: 0.875rem;
+    flex: 1 1 auto;
+  }
+  
+  .progress {
+    height: 18px;
+    margin-bottom: 0.75rem;
+  }
+  
+  .progress-bar {
+    font-size: 0.75rem;
   }
 }

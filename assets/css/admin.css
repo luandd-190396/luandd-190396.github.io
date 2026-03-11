@@ -278,12 +278,21 @@
 /* Responsive Design */
 @media (max-width: 768px) {
   .admin-container {
-    padding: 1rem;
+    padding: 1.5rem 1rem;
+  }
+  
+  .admin-header {
+    margin-bottom: 1.5rem;
+  }
+  
+  .admin-header h2 {
+    font-size: 1.5rem;
   }
   
   .admin-toolbar {
     flex-direction: column;
     align-items: stretch;
+    gap: 0.75rem;
   }
   
   .admin-toolbar .btn-group {
@@ -294,11 +303,19 @@
   
   .admin-toolbar .btn {
     width: 100%;
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .nav-tabs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
   }
   
   .nav-tabs .nav-link {
     padding: 0.75rem 1rem;
     font-size: 0.9rem;
+    white-space: nowrap;
   }
   
   .admin-table {
@@ -313,16 +330,83 @@
   .modal-body {
     padding: 1.5rem;
   }
+  
+  .form-label {
+    font-size: 0.9rem;
+  }
+  
+  .form-control, .form-select {
+    font-size: 0.9rem;
+    padding: 0.5rem 0.75rem;
+  }
 }
 
 @media (max-width: 576px) {
+  .admin-container {
+    padding: 1rem 0.5rem;
+  }
+  
+  .admin-header {
+    margin-bottom: 1rem;
+  }
+  
+  .admin-header h2 {
+    font-size: 1.3rem;
+  }
+  
+  .admin-toolbar {
+    gap: 0.5rem;
+  }
+  
+  .admin-toolbar .btn {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+  }
+  
+  .nav-tabs .nav-link {
+    padding: 0.6rem 0.75rem;
+    font-size: 0.85rem;
+  }
+  
+  .admin-table {
+    font-size: 0.8rem;
+  }
+  
+  .admin-table thead th,
+  .admin-table tbody td {
+    padding: 0.5rem 0.3rem;
+  }
+  
   .admin-table .btn-sm {
     padding: 0.2rem 0.5rem;
-    font-size: 0.75rem;
+    font-size: 0.7rem;
   }
   
   .admin-table .btn-sm i {
-    display: none;
+    font-size: 0.8rem;
+  }
+  
+  .modal-body {
+    padding: 1rem;
+  }
+  
+  .form-label {
+    font-size: 0.85rem;
+    margin-bottom: 0.3rem;
+  }
+  
+  .form-control, .form-select, .form-control textarea {
+    font-size: 0.85rem;
+    padding: 0.4rem 0.6rem;
+  }
+  
+  .modal-footer .btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+  }
+  
+  .table-responsive {
+    margin-bottom: 1rem;
   }
 }
 
