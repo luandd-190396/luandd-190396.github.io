@@ -21,8 +21,14 @@ const AdminModule = {
    */
   setupEventListeners() {
     // Tab switching
-    $('button[data-bs-toggle="tab"]').on('shown.bs.tab', (e) => {
-      const tabId = $(e.target).attr('data-bs-target').replace('#tab-', '');
+    $('.nav-tabs button').on('click', (e) => {
+      // Remove active class from all buttons
+      $('.nav-tabs button').removeClass('active');
+      // Add active class to clicked button
+      $(e.target).addClass('active');
+      
+      // Get tab name from button id
+      const tabId = $(e.target).attr('id').replace('tab-', '').replace('-btn', '');
       this.loadTab(tabId);
     });
 
