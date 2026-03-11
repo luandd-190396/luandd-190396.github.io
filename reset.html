@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reset Data - Japanese Study App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    .container {
+      background: white;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+      text-align: center;
+      max-width: 500px;
+    }
+    h1 { color: #667eea; margin-bottom: 20px; }
+    p { color: #666; margin-bottom: 30px; line-height: 1.6; }
+    button {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      padding: 15px 40px;
+      font-size: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+      margin: 5px;
+    }
+    button:hover { opacity: 0.9; }
+    .success {
+      background: #28a745;
+      padding: 15px;
+      border-radius: 8px;
+      color: white;
+      margin-top: 20px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🔄 Reset Data</h1>
+    <p>Click the button below to clear localStorage and reload fresh data from JSON files (104 characters for Hiragana & Katakana).</p>
+    
+    <button onclick="resetAll()">Reset All Data</button>
+    <button onclick="goHome()" style="background: #6c757d;">Go to Home</button>
+    
+    <div class="success" id="success">
+      ✅ Data cleared! Redirecting...
+    </div>
+  </div>
+
+  <script>
+    function resetAll() {
+      // Clear all localStorage
+      localStorage.removeItem('jpapp_hiragana');
+      localStorage.removeItem('jpapp_katakana');
+      localStorage.removeItem('jpapp_vocab');
+      localStorage.removeItem('jpapp_kanji');
+      
+      // Show success
+      document.getElementById('success').style.display = 'block';
+      
+      // Redirect to home
+      setTimeout(() => {
+        window.location.href = 'index.html';
+      }, 1500);
+    }
+    
+    function goHome() {
+      window.location.href = 'index.html';
+    }
+  </script>
+</body>
+</html>
