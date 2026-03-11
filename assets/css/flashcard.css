@@ -51,6 +51,7 @@
   box-shadow: 0 8px 30px rgba(0,0,0,0.15);
   text-align: center;
   background: white;
+  overflow: auto;
 }
 
 .flashcard-front {
@@ -72,6 +73,9 @@
   margin-bottom: 1rem;
   line-height: 1.2;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+  max-width: 100%;
+  word-wrap: break-word;
+  transition: font-size 0.2s ease;
 }
 
 .flashcard-reading {
@@ -79,6 +83,9 @@
   font-size: 2rem;
   margin-bottom: 1rem;
   opacity: 0.95;
+  max-width: 100%;
+  word-wrap: break-word;
+  transition: font-size 0.2s ease;
 }
 
 .flashcard-readings {
@@ -96,6 +103,8 @@
   margin-top: 1rem;
   opacity: 0.9;
   line-height: 1.6;
+  max-width: 100%;
+  word-wrap: break-word;
 }
 
 .flashcard-example div {

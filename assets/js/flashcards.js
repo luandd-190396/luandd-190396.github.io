@@ -99,8 +99,64 @@ const FlashcardsModule = {
     this.renderFront(card);
     this.renderBack(card);
 
+    // Auto-scale text to fit
+    this.autoScaleText();
+
     // Update progress
     this.updateProgress();
+  },
+
+  /**
+   * Auto-scale text to fit in flashcard
+   */
+  autoScaleText() {
+    // Scale main text on front
+    this.scaleElement('.flashcard-front .flashcard-main', 5, 2, 350);
+    // Scale main text on back
+    this.scaleElement('.flashcard-back .flashcard-main', 5, 2, 350);
+    // Scale reading text
+    this.scaleElement('.flashcard-reading', 2, 1.2, 350);
+  },
+
+  /**
+   * Scale an element's font size to fit container
+   * @param {string} selector - Element selector
+   * @param {number} maxSize - Maximum font size in rem
+   * @param {number} minSize - Minimum font size in rem
+   * @param {number} maxHeight - Maximum height in px
+   */
+  scaleElement(selector, maxSize, minSize, maxHeight) {
+    const $element = $(selector);
+    if ($element.length === 0) return;
+
+    // Reset to max size first
+    $element.css('font-size', maxSize + 'rem');
+
+    // Get text length for adjustment
+    const textLength = $element.text().length;
+    const elementHeight = $element.outerHeight();
+
+    let fontSize = maxSize;
+
+    // Scale based on text length
+    if (textLength > 50) {
+      fontSize = Math.max(minSize, maxSize * 0.4);
+    } else if (textLength > 30) {
+      fontSize = Math.max(minSize, maxSize * 0.5);
+    } else if (textLength > 20) {
+      fontSize = Math.max(minSize, maxSize * 0.6);
+    } else if (textLength > 10) {
+      fontSize = Math.max(minSize, maxSize * 0.75);
+    } else if (textLength > 5) {
+      fontSize = Math.max(minSize, maxSize * 0.85);
+    }
+
+    // Also check height
+    if (elementHeight > maxHeight) {
+      fontSize = Math.max(minSize, fontSize * 0.7);
+    }
+
+    $element.css('font-size', fontSize + 'rem');
   },
 
   /**
