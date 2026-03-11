@@ -1,0 +1,247 @@
+/**
+ * Flashcards Module
+ * Handles interactive flashcard functionality
+ */
+
+const FlashcardsModule = {
+  deck: [],
+  currentIndex: 0,
+  isFlipped: false,
+  type: 'hiragana',
+
+  /**
+   * Initialize the module
+   */
+  async init() {
+    this.getTypeFromURL();
+    await this.loadDeck();
+    this.setupEventListeners();
+    this.updateTypeSelector();
+    this.showCard();
+  },
+
+  /**
+   * Get type from URL parameter
+   */
+  getTypeFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const type = urlParams.get('type');
+    if (type && ['hiragana', 'katakana', 'vocab', 'kanji'].includes(type)) {
+      this.type = type;
+    }
+  },
+
+  /**
+   * Load flashcard deck
+   */
+  async loadDeck(shuffle = false) {
+    const data = await DataService.getModuleData(this.type);
+    this.deck = shuffle ? Utils.shuffleArray(data) : [...data];
+    this.currentIndex = 0;
+    this.isFlipped = false;
+  },
+
+  /**
+   * Setup event listeners
+   */
+  setupEventListeners() {
+    // Type selector
+    $('#typeSelector').on('change', async (e) => {
+      this.type = $(e.target).val();
+      await this.loadDeck();
+      this.showCard();
+    });
+
+    // Navigation buttons
+    $('#btnPrev').on('click', () => this.prevCard());
+    $('#btnNext').on('click', () => this.nextCard());
+    $('#btnFlip').on('click', () => this.flipCard());
+    $('#btnShuffle').on('click', () => this.shuffleDeck());
+
+    // Keyboard navigation
+    $(document).on('keydown', (e) => {
+      if (e.key === 'ArrowLeft') this.prevCard();
+      if (e.key === 'ArrowRight') this.nextCard();
+      if (e.key === ' ' || e.key === 'Enter') {
+        e.preventDefault();
+        this.flipCard();
+      }
+    });
+
+    // Click on card to flip
+    $('.flashcard').on('click', () => this.flipCard());
+  },
+
+  /**
+   * Update type selector value
+   */
+  updateTypeSelector() {
+    $('#typeSelector').val(this.type);
+  },
+
+  /**
+   * Show current card
+   */
+  showCard() {
+    if (this.deck.length === 0) {
+      $('.flashcard-front').html('<h2>No data available</h2>');
+      $('.flashcard-back').html('<h2>No data available</h2>');
+      return;
+    }
+
+    const card = this.deck[this.currentIndex];
+    
+    // Reset flip state
+    this.isFlipped = false;
+    $('.flashcard').removeClass('flipped');
+
+    // Render front and back
+    this.renderFront(card);
+    this.renderBack(card);
+
+    // Update progress
+    this.updateProgress();
+  },
+
+  /**
+   * Render card front
+   * @param {Object} card - Card data
+   */
+  renderFront(card) {
+    const $front = $('.flashcard-front');
+    
+    switch(this.type) {
+      case 'hiragana':
+      case 'katakana':
+        $front.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.kana)}</div>
+        `);
+        break;
+      
+      case 'vocab':
+        $front.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.word)}</div>
+          <div class="flashcard-reading">${Utils.escapeHtml(card.reading)}</div>
+        `);
+        break;
+      
+      case 'kanji':
+        $front.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.kanji)}</div>
+        `);
+        break;
+    }
+  },
+
+  /**
+   * Render card back
+   * @param {Object} card - Card data
+   */
+  renderBack(card) {
+    const $back = $('.flashcard-back');
+    
+    switch(this.type) {
+      case 'hiragana':
+      case 'katakana':
+        $back.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.romaji)}</div>
+          <hr>
+          <div class="flashcard-example">
+            <div>${Utils.escapeHtml(card.example)}</div>
+            <div class="text-muted">${Utils.escapeHtml(card.example_meaning)}</div>
+          </div>
+        `);
+        break;
+      
+      case 'vocab':
+        $back.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.meaning_en)}</div>
+          <div class="flashcard-reading">${Utils.escapeHtml(card.meaning_vi)}</div>
+          <hr>
+          <div class="flashcard-example">
+            <div><strong>Romaji:</strong> ${Utils.escapeHtml(card.romaji)}</div>
+            ${card.example ? `
+              <div class="mt-2">${Utils.escapeHtml(card.example)}</div>
+              <div class="text-muted small">${Utils.escapeHtml(card.example_meaning)}</div>
+            ` : ''}
+          </div>
+        `);
+        break;
+      
+      case 'kanji':
+        $back.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.meaning_vi)}</div>
+          <hr>
+          <div class="flashcard-readings">
+            <div><strong>On:</strong> <span class="text-danger">${Utils.escapeHtml(card.onyomi)}</span></div>
+            <div><strong>Kun:</strong> <span class="text-success">${Utils.escapeHtml(card.kunyomi || '-')}</span></div>
+          </div>
+          ${card.example_word ? `
+            <hr>
+            <div class="flashcard-example">
+              <div>${Utils.escapeHtml(card.example_word)} - ${Utils.escapeHtml(card.example_reading)}</div>
+              <div class="text-muted">${Utils.escapeHtml(card.example_meaning)}</div>
+            </div>
+          ` : ''}
+        `);
+        break;
+    }
+  },
+
+  /**
+   * Flip the card
+   */
+  flipCard() {
+    this.isFlipped = !this.isFlipped;
+    $('.flashcard').toggleClass('flipped');
+  },
+
+  /**
+   * Go to next card
+   */
+  nextCard() {
+    if (this.deck.length === 0) return;
+    
+    this.currentIndex = (this.currentIndex + 1) % this.deck.length;
+    this.showCard();
+  },
+
+  /**
+   * Go to previous card
+   */
+  prevCard() {
+    if (this.deck.length === 0) return;
+    
+    this.currentIndex = (this.currentIndex - 1 + this.deck.length) % this.deck.length;
+    this.showCard();
+  },
+
+  /**
+   * Shuffle the deck
+   */
+  async shuffleDeck() {
+    await this.loadDeck(true);
+    this.showCard();
+    Utils.showToast('Deck shuffled!', 'success');
+  },
+
+  /**
+   * Update progress display
+   */
+  updateProgress() {
+    const current = this.currentIndex + 1;
+    const total = this.deck.length;
+    $('#cardProgress').text(`${current} / ${total}`);
+    
+    // Update progress bar
+    const percentage = (current / total) * 100;
+    $('#progressBar').css('width', `${percentage}%`);
+  }
+};
+
+// Initialize on page load
+$(document).ready(function() {
+  if ($('.flashcard').length) {
+    FlashcardsModule.init();
+  }
+});

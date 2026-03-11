@@ -1,0 +1,242 @@
+[
+  {
+    "id": "hira-a",
+    "kana": "あ",
+    "romaji": "a",
+    "group": "vowels",
+    "example": "あさ",
+    "example_meaning": "morning"
+  },
+  {
+    "id": "hira-i",
+    "kana": "い",
+    "romaji": "i",
+    "group": "vowels",
+    "example": "いぬ",
+    "example_meaning": "dog"
+  },
+  {
+    "id": "hira-u",
+    "kana": "う",
+    "romaji": "u",
+    "group": "vowels",
+    "example": "うみ",
+    "example_meaning": "sea"
+  },
+  {
+    "id": "hira-e",
+    "kana": "え",
+    "romaji": "e",
+    "group": "vowels",
+    "example": "えき",
+    "example_meaning": "station"
+  },
+  {
+    "id": "hira-o",
+    "kana": "お",
+    "romaji": "o",
+    "group": "vowels",
+    "example": "おんな",
+    "example_meaning": "woman"
+  },
+  {
+    "id": "hira-ka",
+    "kana": "か",
+    "romaji": "ka",
+    "group": "k-group",
+    "example": "かぞく",
+    "example_meaning": "family"
+  },
+  {
+    "id": "hira-ki",
+    "kana": "き",
+    "romaji": "ki",
+    "group": "k-group",
+    "example": "きれい",
+    "example_meaning": "beautiful"
+  },
+  {
+    "id": "hira-ku",
+    "kana": "く",
+    "romaji": "ku",
+    "group": "k-group",
+    "example": "くち",
+    "example_meaning": "mouth"
+  },
+  {
+    "id": "hira-ke",
+    "kana": "け",
+    "romaji": "ke",
+    "group": "k-group",
+    "example": "けさ",
+    "example_meaning": "this morning"
+  },
+  {
+    "id": "hira-ko",
+    "kana": "こ",
+    "romaji": "ko",
+    "group": "k-group",
+    "example": "ここ",
+    "example_meaning": "here"
+  },
+  {
+    "id": "hira-sa",
+    "kana": "さ",
+    "romaji": "sa",
+    "group": "s-group",
+    "example": "さかな",
+    "example_meaning": "fish"
+  },
+  {
+    "id": "hira-shi",
+    "kana": "し",
+    "romaji": "shi",
+    "group": "s-group",
+    "example": "しごと",
+    "example_meaning": "work"
+  },
+  {
+    "id": "hira-su",
+    "kana": "す",
+    "romaji": "su",
+    "group": "s-group",
+    "example": "すし",
+    "example_meaning": "sushi"
+  },
+  {
+    "id": "hira-se",
+    "kana": "せ",
+    "romaji": "se",
+    "group": "s-group",
+    "example": "せんせい",
+    "example_meaning": "teacher"
+  },
+  {
+    "id": "hira-so",
+    "kana": "そ",
+    "romaji": "so",
+    "group": "s-group",
+    "example": "そら",
+    "example_meaning": "sky"
+  },
+  {
+    "id": "hira-ta",
+    "kana": "た",
+    "romaji": "ta",
+    "group": "t-group",
+    "example": "たべる",
+    "example_meaning": "to eat"
+  },
+  {
+    "id": "hira-chi",
+    "kana": "ち",
+    "romaji": "chi",
+    "group": "t-group",
+    "example": "ちいさい",
+    "example_meaning": "small"
+  },
+  {
+    "id": "hira-tsu",
+    "kana": "つ",
+    "romaji": "tsu",
+    "group": "t-group",
+    "example": "つくえ",
+    "example_meaning": "desk"
+  },
+  {
+    "id": "hira-te",
+    "kana": "て",
+    "romaji": "te",
+    "group": "t-group",
+    "example": "て",
+    "example_meaning": "hand"
+  },
+  {
+    "id": "hira-to",
+    "kana": "と",
+    "romaji": "to",
+    "group": "t-group",
+    "example": "とけい",
+    "example_meaning": "watch"
+  },
+  {
+    "id": "hira-na",
+    "kana": "な",
+    "romaji": "na",
+    "group": "n-group",
+    "example": "なつ",
+    "example_meaning": "summer"
+  },
+  {
+    "id": "hira-ni",
+    "kana": "に",
+    "romaji": "ni",
+    "group": "n-group",
+    "example": "にく",
+    "example_meaning": "meat"
+  },
+  {
+    "id": "hira-nu",
+    "kana": "ぬ",
+    "romaji": "nu",
+    "group": "n-group",
+    "example": "ぬの",
+    "example_meaning": "cloth"
+  },
+  {
+    "id": "hira-ne",
+    "kana": "ね",
+    "romaji": "ne",
+    "group": "n-group",
+    "example": "ねこ",
+    "example_meaning": "cat"
+  },
+  {
+    "id": "hira-no",
+    "kana": "の",
+    "romaji": "no",
+    "group": "n-group",
+    "example": "のみもの",
+    "example_meaning": "drink"
+  },
+  {
+    "id": "hira-ha",
+    "kana": "は",
+    "romaji": "ha",
+    "group": "h-group",
+    "example": "はな",
+    "example_meaning": "flower"
+  },
+  {
+    "id": "hira-hi",
+    "kana": "ひ",
+    "romaji": "hi",
+    "group": "h-group",
+    "example": "ひと",
+    "example_meaning": "person"
+  },
+  {
+    "id": "hira-fu",
+    "kana": "ふ",
+    "romaji": "fu",
+    "group": "h-group",
+    "example": "ふゆ",
+    "example_meaning": "winter"
+  },
+  {
+    "id": "hira-he",
+    "kana": "へ",
+    "romaji": "he",
+    "group": "h-group",
+    "example": "へや",
+    "example_meaning": "room"
+  },
+  {
+    "id": "hira-ho",
+    "kana": "ほ",
+    "romaji": "ho",
+    "group": "h-group",
+    "example": "ほん",
+    "example_meaning": "book"
+  }
+]

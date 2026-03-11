@@ -1,0 +1,242 @@
+[
+  {
+    "id": "kata-a",
+    "kana": "ア",
+    "romaji": "a",
+    "group": "vowels",
+    "example": "アメリカ",
+    "example_meaning": "America"
+  },
+  {
+    "id": "kata-i",
+    "kana": "イ",
+    "romaji": "i",
+    "group": "vowels",
+    "example": "イギリス",
+    "example_meaning": "England"
+  },
+  {
+    "id": "kata-u",
+    "kana": "ウ",
+    "romaji": "u",
+    "group": "vowels",
+    "example": "ウイスキー",
+    "example_meaning": "whiskey"
+  },
+  {
+    "id": "kata-e",
+    "kana": "エ",
+    "romaji": "e",
+    "group": "vowels",
+    "example": "エレベーター",
+    "example_meaning": "elevator"
+  },
+  {
+    "id": "kata-o",
+    "kana": "オ",
+    "romaji": "o",
+    "group": "vowels",
+    "example": "オーストラリア",
+    "example_meaning": "Australia"
+  },
+  {
+    "id": "kata-ka",
+    "kana": "カ",
+    "romaji": "ka",
+    "group": "k-group",
+    "example": "カメラ",
+    "example_meaning": "camera"
+  },
+  {
+    "id": "kata-ki",
+    "kana": "キ",
+    "romaji": "ki",
+    "group": "k-group",
+    "example": "キッチン",
+    "example_meaning": "kitchen"
+  },
+  {
+    "id": "kata-ku",
+    "kana": "ク",
+    "romaji": "ku",
+    "group": "k-group",
+    "example": "クラス",
+    "example_meaning": "class"
+  },
+  {
+    "id": "kata-ke",
+    "kana": "ケ",
+    "romaji": "ke",
+    "group": "k-group",
+    "example": "ケーキ",
+    "example_meaning": "cake"
+  },
+  {
+    "id": "kata-ko",
+    "kana": "コ",
+    "romaji": "ko",
+    "group": "k-group",
+    "example": "コーヒー",
+    "example_meaning": "coffee"
+  },
+  {
+    "id": "kata-sa",
+    "kana": "サ",
+    "romaji": "sa",
+    "group": "s-group",
+    "example": "サッカー",
+    "example_meaning": "soccer"
+  },
+  {
+    "id": "kata-shi",
+    "kana": "シ",
+    "romaji": "shi",
+    "group": "s-group",
+    "example": "シャツ",
+    "example_meaning": "shirt"
+  },
+  {
+    "id": "kata-su",
+    "kana": "ス",
+    "romaji": "su",
+    "group": "s-group",
+    "example": "スポーツ",
+    "example_meaning": "sports"
+  },
+  {
+    "id": "kata-se",
+    "kana": "セ",
+    "romaji": "se",
+    "group": "s-group",
+    "example": "セーター",
+    "example_meaning": "sweater"
+  },
+  {
+    "id": "kata-so",
+    "kana": "ソ",
+    "romaji": "so",
+    "group": "s-group",
+    "example": "ソファ",
+    "example_meaning": "sofa"
+  },
+  {
+    "id": "kata-ta",
+    "kana": "タ",
+    "romaji": "ta",
+    "group": "t-group",
+    "example": "タクシー",
+    "example_meaning": "taxi"
+  },
+  {
+    "id": "kata-chi",
+    "kana": "チ",
+    "romaji": "chi",
+    "group": "t-group",
+    "example": "チーズ",
+    "example_meaning": "cheese"
+  },
+  {
+    "id": "kata-tsu",
+    "kana": "ツ",
+    "romaji": "tsu",
+    "group": "t-group",
+    "example": "ツアー",
+    "example_meaning": "tour"
+  },
+  {
+    "id": "kata-te",
+    "kana": "テ",
+    "romaji": "te",
+    "group": "t-group",
+    "example": "テレビ",
+    "example_meaning": "television"
+  },
+  {
+    "id": "kata-to",
+    "kana": "ト",
+    "romaji": "to",
+    "group": "t-group",
+    "example": "トイレ",
+    "example_meaning": "toilet"
+  },
+  {
+    "id": "kata-na",
+    "kana": "ナ",
+    "romaji": "na",
+    "group": "n-group",
+    "example": "ナイフ",
+    "example_meaning": "knife"
+  },
+  {
+    "id": "kata-ni",
+    "kana": "ニ",
+    "romaji": "ni",
+    "group": "n-group",
+    "example": "ニュース",
+    "example_meaning": "news"
+  },
+  {
+    "id": "kata-nu",
+    "kana": "ヌ",
+    "romaji": "nu",
+    "group": "n-group",
+    "example": "ヌードル",
+    "example_meaning": "noodle"
+  },
+  {
+    "id": "kata-ne",
+    "kana": "ネ",
+    "romaji": "ne",
+    "group": "n-group",
+    "example": "ネクタイ",
+    "example_meaning": "necktie"
+  },
+  {
+    "id": "kata-no",
+    "kana": "ノ",
+    "romaji": "no",
+    "group": "n-group",
+    "example": "ノート",
+    "example_meaning": "notebook"
+  },
+  {
+    "id": "kata-ha",
+    "kana": "ハ",
+    "romaji": "ha",
+    "group": "h-group",
+    "example": "ハンバーガー",
+    "example_meaning": "hamburger"
+  },
+  {
+    "id": "kata-hi",
+    "kana": "ヒ",
+    "romaji": "hi",
+    "group": "h-group",
+    "example": "ヒーター",
+    "example_meaning": "heater"
+  },
+  {
+    "id": "kata-fu",
+    "kana": "フ",
+    "romaji": "fu",
+    "group": "h-group",
+    "example": "フォーク",
+    "example_meaning": "fork"
+  },
+  {
+    "id": "kata-he",
+    "kana": "ヘ",
+    "romaji": "he",
+    "group": "h-group",
+    "example": "ヘリコプター",
+    "example_meaning": "helicopter"
+  },
+  {
+    "id": "kata-ho",
+    "kana": "ホ",
+    "romaji": "ho",
+    "group": "h-group",
+    "example": "ホテル",
+    "example_meaning": "hotel"
+  }
+]

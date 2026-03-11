@@ -1,0 +1,342 @@
+/**
+ * Admin Panel Styles
+ * Styles for data management interface
+ */
+
+/* Admin Container */
+.admin-container {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Admin Header */
+.admin-header {
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.admin-header h2 {
+  color: var(--primary-color);
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.admin-header p {
+  color: #666;
+  margin-bottom: 0;
+}
+
+/* Tabs */
+.nav-tabs {
+  border-bottom: 2px solid #e9ecef;
+  margin-bottom: 2rem;
+}
+
+.nav-tabs .nav-link {
+  border: none;
+  color: #666;
+  font-weight: 600;
+  padding: 1rem 1.5rem;
+  transition: all 0.3s ease;
+  border-radius: 0;
+  border-bottom: 3px solid transparent;
+}
+
+.nav-tabs .nav-link:hover {
+  color: var(--primary-color);
+  border-bottom-color: rgba(74, 144, 226, 0.3);
+}
+
+.nav-tabs .nav-link.active {
+  color: var(--primary-color);
+  background-color: transparent;
+  border-bottom-color: var(--primary-color);
+}
+
+/* Toolbar */
+.admin-toolbar {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.admin-toolbar .btn-group {
+  gap: 0.5rem;
+}
+
+.admin-toolbar .btn {
+  font-weight: 600;
+  padding: 0.5rem 1.5rem;
+  border-radius: 5px;
+}
+
+.admin-toolbar .btn i {
+  margin-right: 0.5rem;
+}
+
+/* Data Table */
+.admin-table-container {
+  overflow-x: auto;
+  margin-bottom: 2rem;
+}
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.admin-table thead {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+}
+
+.admin-table thead th {
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+  border: none;
+}
+
+.admin-table tbody tr {
+  border-bottom: 1px solid #e9ecef;
+  transition: background-color 0.2s ease;
+}
+
+.admin-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+.admin-table tbody td {
+  padding: 1rem;
+  vertical-align: middle;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.admin-table tbody td:first-child {
+  font-weight: 600;
+  color: #666;
+}
+
+/* Japanese Text in Table */
+.admin-table .japanese-text {
+  font-family: var(--japanese-font);
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+/* Action Buttons */
+.admin-table .btn-sm {
+  padding: 0.25rem 0.75rem;
+  font-size: 0.875rem;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.admin-table .btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.admin-table .btn-danger {
+  background-color: var(--danger-color);
+  border-color: var(--danger-color);
+}
+
+/* Modal */
+.modal-content {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px 30px rgba(0,0,0,0.3);
+}
+
+.modal-header {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+  border-radius: 10px 10px 0 0;
+  border: none;
+  padding: 1.5rem;
+}
+
+.modal-header .modal-title {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.modal-header .btn-close {
+  filter: brightness(0) invert(1);
+}
+
+.modal-body {
+  padding: 2rem;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.modal-footer {
+  border-top: 1px solid #e9ecef;
+  padding: 1rem 2rem;
+}
+
+/* Form in Modal */
+.modal-body .form-label {
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.modal-body .form-control,
+.modal-body .form-select {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 0.6rem 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.modal-body .form-control:focus,
+.modal-body .form-select:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 0.2rem rgba(74, 144, 226, 0.25);
+}
+
+/* Item Count */
+.item-count {
+  font-size: 0.9rem;
+  color: #666;
+  font-weight: 600;
+}
+
+/* Empty State */
+.admin-empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #999;
+}
+
+.admin-empty-state i {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+.admin-empty-state h4 {
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+/* Import File Input (Hidden) */
+#importFile {
+  display: none;
+}
+
+/* Alert Messages */
+.admin-alert {
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.admin-alert.alert-info {
+  background-color: #d1ecf1;
+  color: #0c5460;
+}
+
+.admin-alert.alert-warning {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.admin-alert.alert-danger {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+/* Badges in Admin */
+.admin-badge {
+  padding: 0.4rem 0.8rem;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .admin-container {
+    padding: 1rem;
+  }
+  
+  .admin-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .admin-toolbar .btn-group {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .admin-toolbar .btn {
+    width: 100%;
+  }
+  
+  .nav-tabs .nav-link {
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .admin-table {
+    font-size: 0.85rem;
+  }
+  
+  .admin-table thead th,
+  .admin-table tbody td {
+    padding: 0.75rem 0.5rem;
+  }
+  
+  .modal-body {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .admin-table .btn-sm {
+    padding: 0.2rem 0.5rem;
+    font-size: 0.75rem;
+  }
+  
+  .admin-table .btn-sm i {
+    display: none;
+  }
+}
+
+/* Loading State */
+.admin-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+}
+
+.admin-loading .spinner-border {
+  width: 3rem;
+  height: 3rem;
+  border-width: 0.3rem;
+  color: var(--primary-color);
+}

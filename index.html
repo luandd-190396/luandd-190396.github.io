@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Japanese Study App - Learn Hiragana, Katakana, Kanji, and JLPT Vocabulary">
+  <title>Japanese Study App - Home</title>
+  
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <i class="bi bi-translate"></i> Japanese Study
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pages/hiragana.html">Hiragana</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pages/katakana.html">Katakana</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pages/vocab.html">Vocabulary</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pages/kanji.html">Kanji</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pages/flashcards.html">Flashcards</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pages/quiz.html">Quiz</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="pages/admin.html">Admin</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <div class="container mt-4">
+    <div class="hero-section text-center">
+      <h1><i class="bi bi-book"></i> Welcome to Japanese Study App</h1>
+      <p class="lead">Master Japanese language with interactive learning tools</p>
+      <p>Learn Hiragana, Katakana, Kanji, and JLPT vocabulary through flashcards and quizzes</p>
+    </div>
+  </div>
+
+  <!-- Statistics -->
+  <div class="container mt-4">
+    <h2 class="text-center mb-4">Learning Progress</h2>
+    <div class="row g-4">
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">あ</div>
+          <div class="stat-number" id="stat-hiragana">0</div>
+          <div class="stat-label">Hiragana</div>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">ア</div>
+          <div class="stat-number" id="stat-katakana">0</div>
+          <div class="stat-label">Katakana</div>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">語</div>
+          <div class="stat-number" id="stat-vocab">0</div>
+          <div class="stat-label">Vocabulary</div>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">漢</div>
+          <div class="stat-number" id="stat-kanji">0</div>
+          <div class="stat-label">Kanji</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quick Links -->
+  <div class="container mt-5 mb-5">
+    <h2 class="text-center mb-4">Quick Access</h2>
+    <div class="row g-4 quick-links">
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-grid-3x3"></i> Characters</h3>
+            <p class="card-text">Study Hiragana and Katakana characters with examples</p>
+            <a href="pages/hiragana.html" class="btn btn-primary me-2">Hiragana</a>
+            <a href="pages/katakana.html" class="btn btn-outline-primary">Katakana</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-book"></i> Vocabulary</h3>
+            <p class="card-text">Learn JLPT vocabulary from N5 to N1 levels</p>
+            <a href="pages/vocab.html" class="btn btn-primary">Study Vocab</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-translate"></i> Kanji</h3>
+            <p class="card-text">Master Japanese Kanji characters and their meanings</p>
+            <a href="pages/kanji.html" class="btn btn-primary">Study Kanji</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-card-list"></i> Flashcards</h3>
+            <p class="card-text">Practice with interactive flashcards for better retention</p>
+            <a href="pages/flashcards.html" class="btn btn-success">Start Practice</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-question-circle"></i> Quiz</h3>
+            <p class="card-text">Test your knowledge with various quiz modes</p>
+            <a href="pages/quiz.html" class="btn btn-warning">Take Quiz</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-gear"></i> Admin Panel</h3>
+            <p class="card-text">Manage your learning data and import/export</p>
+            <a href="pages/admin.html" class="btn btn-secondary">Manage Data</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer mt-5">
+    <div class="container text-center">
+      <p>&copy; 2026 Japanese Study App. Built with Bootstrap 5 & jQuery.</p>
+      <p>
+        <a href="https://github.com" target="_blank"><i class="bi bi-github"></i> GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <!-- Bootstrap 5 JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Custom JS -->
+  <script src="./assets/js/storage.js"></script>
+  <script src="./assets/js/data-service.js"></script>
+  <script src="./assets/js/utils.js"></script>
+  <script src="./assets/js/app.js"></script>
+</body>
+</html>
