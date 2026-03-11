@@ -35,11 +35,25 @@
   background-color: #e9ecef;
   overflow: hidden;
   margin-top: 1rem;
+  position: relative;
 }
 
 .quiz-progress .progress-bar {
-  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
   transition: width 0.3s ease;
+}
+
+.quiz-progress .bg-secondary {
+  background-color: #6c757d !important;
+  opacity: 0.3;
+}
+
+.quiz-progress .bg-success {
+  background: linear-gradient(90deg, #28a745, #20c997);
+  z-index: 1;
 }
 
 /* Quiz Type and Mode Selectors */

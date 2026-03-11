@@ -327,9 +327,12 @@ const QuizModule = {
     $('#questionNumber').text(`Question ${current} of ${total}`);
     $('#currentScore').text(`Score: ${this.score}/${this.currentQuestionIndex}`);
     
-    // Update progress bar
-    const percentage = (this.currentQuestionIndex / total) * 100;
-    $('#quizProgress').css('width', `${percentage}%`);
+    // Update progress bars
+    const answeredPercentage = (this.currentQuestionIndex / total) * 100;
+    const correctPercentage = (this.score / total) * 100;
+    
+    $('#quizProgressAnswered').css('width', `${answeredPercentage}%`);
+    $('#quizProgressCorrect').css('width', `${correctPercentage}%`);
   },
 
   /**
