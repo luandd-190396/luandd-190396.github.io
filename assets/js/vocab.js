@@ -45,6 +45,11 @@ const VocabModule = {
       this.filterData();
     });
 
+    // Lesson filter
+    $('#lessonFilter').on('change', () => {
+      this.filterData();
+    });
+
     // Flashcard button
     $('#btnFlashcard').on('click', () => {
       window.location.href = 'flashcards.html?type=vocab';
@@ -57,12 +62,13 @@ const VocabModule = {
   },
 
   /**
-   * Filter data based on search, level, and type
+   * Filter data based on search, level, type, and lesson
    */
   filterData() {
     const searchTerm = $('#searchInput').val();
     const selectedLevel = $('#levelFilter').val();
     const selectedType = $('#typeFilter').val();
+    const selectedLesson = $('#lessonFilter').val();
 
     let filtered = [...this.data];
 
@@ -79,6 +85,11 @@ const VocabModule = {
     // Apply type filter
     if (selectedType && selectedType !== 'all') {
       filtered = filtered.filter(item => item.type === selectedType);
+    }
+
+    // Apply lesson filter
+    if (selectedLesson && selectedLesson !== 'all') {
+      filtered = filtered.filter(item => item.lesson === selectedLesson);
     }
 
     this.filteredData = filtered;
@@ -109,6 +120,15 @@ const VocabModule = {
     $typeSelect.append('<option value="all">All Types</option>');
     types.forEach(type => {
       $typeSelect.append(`<option value="${type}">${type}</option>`);
+    });
+
+    // Lesson filter
+    const lessons = Utils.getUniqueValues(this.data, 'lesson').sort();
+    const $lessonSelect = $('#lessonFilter');
+    $lessonSelect.empty();
+    $lessonSelect.append('<option value="all">All Lessons</option>');
+    lessons.forEach(lesson => {
+      $lessonSelect.append(`<option value="${lesson}">${lesson}</option>`);
     });
   },
 
