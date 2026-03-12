@@ -225,7 +225,7 @@ const LessonsModule = {
   renderVocabSection() {
     const data = this.lessonData?.vocab || [];
     if (!data.length) {
-      $('#lessonVocabContainer').html('<div class="lesson-empty">No vocabulary for this lesson.</div>');
+      $('#lessonVocabContainer').html('<div class="lesson-empty">Không có từ vựng cho bài học này.</div>');
       return;
     }
 
@@ -261,7 +261,7 @@ const LessonsModule = {
   renderGrammarSection() {
     const data = this.lessonData?.grammar || [];
     if (!data.length) {
-      $('#lessonGrammarContainer').html('<div class="lesson-empty">No grammar for this lesson.</div>');
+      $('#lessonGrammarContainer').html('<div class="lesson-empty">Không có ngữ pháp cho bài học này.</div>');
       return;
     }
 
@@ -295,7 +295,7 @@ const LessonsModule = {
   renderKanjiSection() {
     const data = this.lessonData?.kanji || [];
     if (!data.length) {
-      $('#lessonKanjiContainer').html('<div class="lesson-empty">No kanji for this lesson.</div>');
+      $('#lessonKanjiContainer').html('<div class="lesson-empty">Không có kanji cho bài học này.</div>');
       return;
     }
 

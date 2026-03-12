@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lessons - Japanese Study App</title>
+  <title>Bài học - Ứng dụng Học tiếng Nhật</title>
 
   <!-- PWA Meta Tags -->
   <link rel="manifest" href="../manifest.json">
@@ -24,26 +24,26 @@
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="../index.html">
-        <i class="bi bi-translate"></i> Japanese Study
+        <i class="bi bi-translate"></i> Học tiếng Nhật
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="lessons.html">Lessons</a></li>
-          <li class="nav-item"><a class="nav-link" href="vocab.html">Vocabulary</a></li>
-          <li class="nav-item"><a class="nav-link" href="grammar.html">Grammar</a></li>
+          <li class="nav-item"><a class="nav-link" href="../index.html">Trang chủ</a></li>
+          <li class="nav-item"><a class="nav-link" href="lessons.html">Bài học</a></li>
+          <li class="nav-item"><a class="nav-link" href="vocab.html">Từ vựng</a></li>
+          <li class="nav-item"><a class="nav-link" href="grammar.html">Ngữ pháp</a></li>
           <li class="nav-item"><a class="nav-link" href="kanji.html">Kanji</a></li>
           <li class="nav-item"><a class="nav-link" href="hiragana.html">Hiragana</a></li>
           <li class="nav-item"><a class="nav-link" href="katakana.html">Katakana</a></li>
-          <li class="nav-item"><a class="nav-link" href="flashcards.html">Flashcards</a></li>
-          <li class="nav-item"><a class="nav-link" href="quiz.html">Quiz</a></li>
-          <li class="nav-item"><a class="nav-link" href="admin.html">Admin</a></li>
+          <li class="nav-item"><a class="nav-link" href="flashcards.html">Thẻ ghi nhớ</a></li>
+          <li class="nav-item"><a class="nav-link" href="quiz.html">Kiểm tra</a></li>
+          <li class="nav-item"><a class="nav-link" href="admin.html">Quản trị</a></li>
           <li class="nav-item">
-            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Clear all cached data">
-              <i class="bi bi-trash"></i> Clear Cache
+            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Xóa tất cả dữ liệu đã lưu">
+              <i class="bi bi-trash"></i> Xóa bộ nhớ
             </button>
           </li>
         </ul>
@@ -53,8 +53,8 @@
 
   <div class="container mt-4">
     <div class="lessons-hero">
-      <h1><i class="bi bi-journal-richtext"></i> Lesson Mode</h1>
-      <p class="mb-0">Study by lesson like Minna no Nihongo: Vocabulary, Grammar, Kanji, then final quiz.</p>
+      <h1><i class="bi bi-journal-richtext"></i> Chế độ bài học</h1>
+      <p class="mb-0">Học theo từng bài như Minna no Nihongo: Từ vựng, Ngữ pháp, Kanji, sau đó làm bài kiểm tra cuối bài.</p>
     </div>
   </div>
 
@@ -62,7 +62,7 @@
     <div class="search-filters">
       <div class="row g-3 align-items-end">
         <div class="col-md-3">
-          <label for="levelSelector" class="form-label">Level</label>
+          <label for="levelSelector" class="form-label">Cấp độ</label>
           <select id="levelSelector" class="form-select">
             <option value="N5">N5</option>
             <option value="N4">N4</option>
@@ -72,24 +72,24 @@
           </select>
         </div>
         <div class="col-md-3">
-          <label for="lessonSelector" class="form-label">Lesson</label>
+          <label for="lessonSelector" class="form-label">Bài học</label>
           <select id="lessonSelector" class="form-select">
-            <option value="">Loading lessons...</option>
+            <option value="">Đang tải bài học...</option>
           </select>
         </div>
         <div class="col-md-3">
           <div class="d-flex gap-2">
             <button class="btn btn-outline-secondary w-100" id="btnPrevLesson">
-              <i class="bi bi-arrow-left"></i> Prev
+              <i class="bi bi-arrow-left"></i> Trước
             </button>
             <button class="btn btn-outline-secondary w-100" id="btnNextLesson">
-              Next <i class="bi bi-arrow-right"></i>
+              Tiếp <i class="bi bi-arrow-right"></i>
             </button>
           </div>
         </div>
         <div class="col-md-3 text-md-end">
           <a id="btnStartLessonQuiz" href="quiz.html?type=lesson" class="btn btn-warning w-100">
-            <i class="bi bi-patch-check"></i> Final Quiz
+            <i class="bi bi-patch-check"></i> Kiểm tra cuối bài
           </a>
         </div>
       </div>
@@ -100,13 +100,13 @@
     <div class="row g-3" id="lessonSummary">
       <div class="col-md-3">
         <div class="lesson-stat">
-          <div class="label">Vocabulary</div>
+          <div class="label">Từ vựng</div>
           <div class="value" id="statLessonVocab">0</div>
         </div>
       </div>
       <div class="col-md-3">
         <div class="lesson-stat">
-          <div class="label">Grammar</div>
+          <div class="label">Ngữ pháp</div>
           <div class="value" id="statLessonGrammar">0</div>
         </div>
       </div>
@@ -118,7 +118,7 @@
       </div>
       <div class="col-md-3">
         <div class="lesson-stat">
-          <div class="label">Last Quiz Score</div>
+          <div class="label">Điểm kiểm tra gần nhất</div>
           <div class="value" id="statLessonQuiz">-</div>
         </div>
       </div>
@@ -130,7 +130,7 @@
       <div class="accordion-item">
         <h2 class="accordion-header">
           <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#lessonVocabSection">
-            Vocabulary <span class="badge bg-primary ms-2" id="badgeVocabCount">0</span>
+            Từ vựng <span class="badge bg-primary ms-2" id="badgeVocabCount">0</span>
           </button>
         </h2>
         <div id="lessonVocabSection" class="accordion-collapse collapse show" data-bs-parent="#lessonAccordion">
@@ -143,7 +143,7 @@
       <div class="accordion-item">
         <h2 class="accordion-header">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#lessonGrammarSection">
-            Grammar <span class="badge bg-success ms-2" id="badgeGrammarCount">0</span>
+            Ngữ pháp <span class="badge bg-success ms-2" id="badgeGrammarCount">0</span>
           </button>
         </h2>
         <div id="lessonGrammarSection" class="accordion-collapse collapse" data-bs-parent="#lessonAccordion">
@@ -171,7 +171,7 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container text-center">
-      <p>&copy; 2026 Japanese Study App v2.0</p>
+      <p>&copy; 2026 Ứng dụng Học tiếng Nhật v2.0</p>
     </div>
   </footer>
 
