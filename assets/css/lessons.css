@@ -74,3 +74,101 @@
     font-size: 1.45rem;
   }
 }
+
+/* Grammar Cards */
+.grammar-card {
+  background: #fff;
+  border-radius: 10px;
+  border-left: 4px solid #28a745;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.grammar-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+}
+
+.grammar-header {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  padding: 0.8rem 1.2rem;
+  border-radius: 10px 10px 0 0;
+}
+
+.grammar-pattern {
+  font-family: var(--japanese-font);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #fff;
+  margin: 0;
+}
+
+.grammar-body {
+  padding: 1.2rem;
+}
+
+.grammar-info {
+  font-size: 0.95rem;
+}
+
+.grammar-info strong {
+  color: #495057;
+  font-weight: 600;
+}
+
+.grammar-examples {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 0.5rem;
+}
+
+.grammar-examples > strong {
+  color: #495057;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.grammar-example {
+  background: #fff;
+  border-radius: 6px;
+  padding: 0.8rem;
+  border-left: 3px solid #28a745;
+}
+
+.example-jp {
+  font-family: var(--japanese-font);
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #2c3e50;
+  margin-bottom: 0.3rem;
+}
+
+.example-reading {
+  font-size: 0.9rem;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 0.3rem;
+}
+
+.example-vi {
+  font-size: 0.95rem;
+  color: #495057;
+  padding-left: 0.5rem;
+  border-left: 2px solid #dee2e6;
+}
+
+@media (max-width: 768px) {
+  .grammar-pattern {
+    font-size: 1.15rem;
+  }
+
+  .example-jp {
+    font-size: 1rem;
+  }
+
+  .grammar-body {
+    padding: 1rem;
+  }
+}

@@ -265,28 +265,55 @@ const LessonsModule = {
       return;
     }
 
-    const rows = data.map(item => `
-      <tr>
-        <td class="lesson-japanese">${Utils.escapeHtml(item.pattern || '')}</td>
-        <td>${Utils.escapeHtml(item.meaning_vi || '')}</td>
-        <td>${Utils.escapeHtml(item.structure || '')}</td>
-      </tr>
-    `).join('');
+    const cards = data.map(item => {
+      let examplesHtml = '';
+      
+      // Add example 1
+      if (item.example_1) {
+        examplesHtml += `
+          <div class="grammar-example mb-2">
+            <div class="example-jp">${Utils.escapeHtml(item.example_1)}</div>
+            ${item.example_1_reading ? `<div class="example-reading">${Utils.escapeHtml(item.example_1_reading)}</div>` : ''}
+            ${item.example_1_translation_vi ? `<div class="example-vi">${Utils.escapeHtml(item.example_1_translation_vi)}</div>` : ''}
+          </div>
+        `;
+      }
+      
+      // Add example 2
+      if (item.example_2) {
+        examplesHtml += `
+          <div class="grammar-example mb-2">
+            <div class="example-jp">${Utils.escapeHtml(item.example_2)}</div>
+            ${item.example_2_reading ? `<div class="example-reading">${Utils.escapeHtml(item.example_2_reading)}</div>` : ''}
+            ${item.example_2_translation_vi ? `<div class="example-vi">${Utils.escapeHtml(item.example_2_translation_vi)}</div>` : ''}
+          </div>
+        `;
+      }
 
-    $('#lessonGrammarContainer').html(`
-      <div class="table-responsive">
-        <table class="table table-hover lesson-table">
-          <thead>
-            <tr>
-              <th>Pattern</th>
-              <th>Meaning</th>
-              <th>Structure</th>
-            </tr>
-          </thead>
-          <tbody>${rows}</tbody>
-        </table>
-      </div>
-    `);
+      return `
+        <div class="grammar-card mb-3">
+          <div class="grammar-header">
+            <h5 class="grammar-pattern">${Utils.escapeHtml(item.pattern || '')}</h5>
+          </div>
+          <div class="grammar-body">
+            <div class="grammar-info mb-2">
+              <strong>Nghĩa:</strong> ${Utils.escapeHtml(item.meaning_vi || '')}
+            </div>
+            <div class="grammar-info mb-3">
+              <strong>Cấu trúc:</strong> ${Utils.escapeHtml(item.structure || '')}
+            </div>
+            ${examplesHtml ? `
+              <div class="grammar-examples">
+                <strong>Ví dụ:</strong>
+                <div class="mt-2">${examplesHtml}</div>
+              </div>
+            ` : ''}
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    $('#lessonGrammarContainer').html(cards);
   },
 
   /**
