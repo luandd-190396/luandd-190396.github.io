@@ -38,6 +38,11 @@ const DataService = {
    * @returns {Promise<Array>} Default data
    */
   async loadDefaultData(type) {
+    // Special handling for vocab - load from multiple files
+    if (type === 'vocab') {
+      return await this.loadAllVocabData();
+    }
+
     const path = this.getDataPath(type);
     if (!path) {
       throw new Error(`Invalid data type: ${type}`);
@@ -54,6 +59,42 @@ const DataService = {
       console.error(`Error loading default data for "${type}":`, error);
       return [];
     }
+  },
+
+  /**
+   * Load all vocabulary data from N5 to N1 files
+   * @returns {Promise<Array>} Combined vocabulary data
+   */
+  async loadAllVocabData() {
+    const isInSubdir = window.location.pathname.includes('/pages/');
+    const basePath = isInSubdir ? '../assets/data/' : './assets/data/';
+    
+    const vocabFiles = [
+      'vocab_n5.json',
+      'vocab_n4.json',
+      'vocab_n3.json',
+      'vocab_n2.json',
+      'vocab_n1.json'
+    ];
+
+    let allVocab = [];
+
+    for (const file of vocabFiles) {
+      try {
+        const response = await fetch(basePath + file);
+        if (response.ok) {
+          const data = await response.json();
+          if (Array.isArray(data)) {
+            allVocab = allVocab.concat(data);
+          }
+        }
+      } catch (error) {
+        console.warn(`Error loading ${file}:`, error);
+      }
+    }
+
+    console.log(`Loaded ${allVocab.length} vocabulary items from all levels`);
+    return allVocab;
   },
 
   /**
