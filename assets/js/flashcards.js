@@ -17,6 +17,7 @@ const FlashcardsModule = {
     await this.loadDeck();
     this.setupEventListeners();
     this.updateTypeSelector();
+    await this.populateLessonFilter();
     this.showCard();
   },
 
@@ -43,6 +44,12 @@ const FlashcardsModule = {
       data = data.filter(item => item.level === savedLevel);
     }
     
+    // Filter by selected lesson if applicable
+    const selectedLesson = $('#lessonFilter').val();
+    if (selectedLesson && selectedLesson !== 'all' && (this.type === 'vocab' || this.type === 'kanji')) {
+      data = data.filter(item => item.lesson === selectedLesson);
+    }
+    
     this.deck = shuffle ? Utils.shuffleArray(data) : [...data];
     this.currentIndex = 0;
     this.isFlipped = false;
@@ -55,6 +62,13 @@ const FlashcardsModule = {
     // Type selector
     $('#typeSelector').on('change', async (e) => {
       this.type = $(e.target).val();
+      await this.populateLessonFilter();
+      await this.loadDeck();
+      this.showCard();
+    });
+
+    // Lesson filter
+    $('#lessonFilter').on('change', async () => {
       await this.loadDeck();
       this.showCard();
     });
@@ -84,6 +98,27 @@ const FlashcardsModule = {
    */
   updateTypeSelector() {
     $('#typeSelector').val(this.type);
+  },
+
+  /**
+   * Populate lesson filter dropdown
+   */
+  async populateLessonFilter() {
+    const $lessonSelect = $('#lessonFilter');
+    $lessonSelect.empty();
+    $lessonSelect.append('<option value="all">All Lessons</option>');
+    
+    // Only show lessons for vocab and kanji
+    if (this.type === 'vocab' || this.type === 'kanji') {
+      const data = await DataService.getModuleData(this.type);
+      const lessons = Utils.getUniqueValues(data, 'lesson').sort();
+      lessons.forEach(lesson => {
+        $lessonSelect.append(`<option value="${lesson}">${lesson}</option>`);
+      });
+      $lessonSelect.prop('disabled', false);
+    } else {
+      $lessonSelect.prop('disabled', true);
+    }
   },
 
   /**
