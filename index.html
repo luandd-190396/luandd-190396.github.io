@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Japanese Study App - Learn Hiragana, Katakana, Kanji, and JLPT Vocabulary">
-  <title>Japanese Study App - Home</title>
+  <meta name="description" content="Ứng dụng Học tiếng Nhật v2.0 - Học tiếng Nhật theo bài từ N5 đến N1">
+  <title>Ứng dụng Học tiếng Nhật v2.0 - Trang chủ</title>
   
   <!-- PWA Meta Tags -->
   <link rel="manifest" href="./manifest.json">
@@ -26,40 +26,26 @@
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="index.html">
-        <i class="bi bi-translate"></i> Japanese Study
+        <i class="bi bi-translate"></i> Học tiếng Nhật
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Trang chủ</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/lessons.html">Bài học</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/vocab.html">Từ vựng</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/grammar.html">Ngữ pháp</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/kanji.html">Kanji</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/hiragana.html">Hiragana</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/katakana.html">Katakana</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/flashcards.html">Thẻ ghi nhớ</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/quiz.html">Kiểm tra</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/admin.html">Quản trị</a></li>
           <li class="nav-item">
-            <a class="nav-link active" href="index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages/hiragana.html">Hiragana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages/katakana.html">Katakana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages/vocab.html">Vocabulary</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages/kanji.html">Kanji</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages/flashcards.html">Flashcards</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages/quiz.html">Quiz</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages/admin.html">Admin</a>
-          </li>
-          <li class="nav-item">
-            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Clear all cached data">
-              <i class="bi bi-trash"></i> Clear Cache
+            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Xóa tất cả dữ liệu đã lưu">
+              <i class="bi bi-trash"></i> Xóa bộ nhớ
             </button>
           </li>
         </ul>
@@ -70,9 +56,9 @@
   <!-- Hero Section -->
   <div class="container mt-4">
     <div class="hero-section text-center">
-      <h1><i class="bi bi-book"></i> Welcome to Japanese Study App</h1>
-      <p class="lead">Master Japanese language with interactive learning tools</p>
-      <p>Learn Hiragana, Katakana, Kanji, and JLPT vocabulary through flashcards and quizzes</p>
+      <h1><i class="bi bi-book"></i> Chào mừng đến với Ứng dụng Học tiếng Nhật v2.0</h1>
+      <p class="lead">Học tiếng Nhật theo bài từ N5 đến N1</p>
+      <p>Học từng bài với từ vựng, ngữ pháp và kanji, sau đó làm bài kiểm tra cuối bài.</p>
     </div>
   </div>
 
@@ -80,42 +66,42 @@
   <div class="container mt-4">
     <div class="card shadow-sm">
       <div class="card-body">
-        <h4 class="card-title mb-3"><i class="bi bi-mortarboard"></i> Select Your Learning Level</h4>
-        <p class="text-muted small mb-3">Choose your JLPT level to filter all content (vocabulary, kanji, flashcards, quizzes)</p>
+        <h4 class="card-title mb-3"><i class="bi bi-mortarboard"></i> Chọn cấp độ học tập</h4>
+        <p class="text-muted small mb-3">Chọn cấp độ JLPT để lọc nội dung (từ vựng, kanji, thẻ ghi nhớ, kiểm tra)</p>
         <div class="row g-2" id="levelSelector">
           <div class="col-6 col-md">
             <button class="btn btn-outline-primary w-100 level-btn" data-level="N5">
-              <strong>N5</strong><br><small>Beginner</small>
+              <strong>N5</strong><br><small>Sơ cấp</small>
             </button>
           </div>
           <div class="col-6 col-md">
             <button class="btn btn-outline-primary w-100 level-btn" data-level="N4">
-              <strong>N4</strong><br><small>Elementary</small>
+              <strong>N4</strong><br><small>Cơ bản</small>
             </button>
           </div>
           <div class="col-6 col-md">
             <button class="btn btn-outline-primary w-100 level-btn" data-level="N3">
-              <strong>N3</strong><br><small>Intermediate</small>
+              <strong>N3</strong><br><small>Trung cấp</small>
             </button>
           </div>
           <div class="col-6 col-md">
             <button class="btn btn-outline-primary w-100 level-btn" data-level="N2">
-              <strong>N2</strong><br><small>Upper Int.</small>
+              <strong>N2</strong><br><small>Trung cấp cao</small>
             </button>
           </div>
           <div class="col-6 col-md">
             <button class="btn btn-outline-primary w-100 level-btn" data-level="N1">
-              <strong>N1</strong><br><small>Advanced</small>
+              <strong>N1</strong><br><small>Nâng cao</small>
             </button>
           </div>
           <div class="col-6 col-md">
             <button class="btn btn-outline-secondary w-100 level-btn" data-level="ALL">
-              <strong>All</strong><br><small>No filter</small>
+              <strong>Tất cả</strong><br><small>Không lọc</small>
             </button>
           </div>
         </div>
         <div class="mt-3 text-center">
-          <small class="text-muted">Current Level: <strong id="currentLevelDisplay">Not selected</strong></small>
+          <small class="text-muted">Cấp độ hiện tại: <strong id="currentLevelDisplay">Chưa chọn</strong></small>
         </div>
       </div>
     </div>
@@ -123,7 +109,7 @@
 
   <!-- Statistics -->
   <div class="container mt-4">
-    <h2 class="text-center mb-4">Learning Progress</h2>
+    <h2 class="text-center mb-4">Tiến trình học tập</h2>
     <div class="row g-4">
       <div class="col-6 col-md-3">
         <div class="stat-card">
@@ -143,7 +129,7 @@
         <div class="stat-card">
           <div class="stat-icon">語</div>
           <div class="stat-number" id="stat-vocab">0</div>
-          <div class="stat-label">Vocabulary</div>
+          <div class="stat-label">Từ vựng</div>
         </div>
       </div>
       <div class="col-6 col-md-3">
@@ -153,18 +139,34 @@
           <div class="stat-label">Kanji</div>
         </div>
       </div>
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">文</div>
+          <div class="stat-number" id="stat-grammar">0</div>
+          <div class="stat-label">Ngữ pháp</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <!-- Quick Links -->
   <div class="container mt-5 mb-5">
-    <h2 class="text-center mb-4">Quick Access</h2>
+    <h2 class="text-center mb-4">Truy cập nhanh</h2>
     <div class="row g-4 quick-links">
       <div class="col-md-6 col-lg-4">
         <div class="card">
           <div class="card-body text-center">
-            <h3 class="card-title"><i class="bi bi-grid-3x3"></i> Characters</h3>
-            <p class="card-text">Study Hiragana and Katakana characters with examples</p>
+            <h3 class="card-title"><i class="bi bi-journal-richtext"></i> Bài học</h3>
+            <p class="card-text">Theo dõi các bài học theo phong cách Minna với kiểm tra cuối mỗi bài</p>
+            <a href="pages/lessons.html" class="btn btn-primary">Mở bài học</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-grid-3x3"></i> Chữ cái</h3>
+            <p class="card-text">Học chữ Hiragana và Katakana với các ví dụ</p>
             <a href="pages/hiragana.html" class="btn btn-primary me-2">Hiragana</a>
             <a href="pages/katakana.html" class="btn btn-outline-primary">Katakana</a>
           </div>
@@ -173,9 +175,9 @@
       <div class="col-md-6 col-lg-4">
         <div class="card">
           <div class="card-body text-center">
-            <h3 class="card-title"><i class="bi bi-book"></i> Vocabulary</h3>
-            <p class="card-text">Learn JLPT vocabulary from N5 to N1 levels</p>
-            <a href="pages/vocab.html" class="btn btn-primary">Study Vocab</a>
+            <h3 class="card-title"><i class="bi bi-book"></i> Từ vựng</h3>
+            <p class="card-text">Học từ vựng JLPT từ cấp độ N5 đến N1</p>
+            <a href="pages/vocab.html" class="btn btn-primary">Học từ vựng</a>
           </div>
         </div>
       </div>
@@ -183,35 +185,44 @@
         <div class="card">
           <div class="card-body text-center">
             <h3 class="card-title"><i class="bi bi-translate"></i> Kanji</h3>
-            <p class="card-text">Master Japanese Kanji characters and their meanings</p>
-            <a href="pages/kanji.html" class="btn btn-primary">Study Kanji</a>
+            <p class="card-text">Làm chủ chữ Kanji và ý nghĩa của chúng</p>
+            <a href="pages/kanji.html" class="btn btn-primary">Học Kanji</a>
           </div>
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="card">
           <div class="card-body text-center">
-            <h3 class="card-title"><i class="bi bi-card-list"></i> Flashcards</h3>
-            <p class="card-text">Practice with interactive flashcards for better retention</p>
-            <a href="pages/flashcards.html" class="btn btn-success">Start Practice</a>
+            <h3 class="card-title"><i class="bi bi-bookmarks"></i> Ngữ pháp</h3>
+            <p class="card-text">Học các mẫu ngữ pháp tiếng Nhật với Minna no Nihongo & JLPT</p>
+            <a href="pages/grammar.html" class="btn btn-primary">Học ngữ pháp</a>
           </div>
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="card">
           <div class="card-body text-center">
-            <h3 class="card-title"><i class="bi bi-question-circle"></i> Quiz</h3>
-            <p class="card-text">Test your knowledge with various quiz modes</p>
-            <a href="pages/quiz.html" class="btn btn-warning">Take Quiz</a>
+            <h3 class="card-title"><i class="bi bi-card-list"></i> Thẻ ghi nhớ</h3>
+            <p class="card-text">Luyện tập với thẻ ghi nhớ tương tác để ghi nhớ tốt hơn</p>
+            <a href="pages/flashcards.html" class="btn btn-success">Bắt đầu luyện tập</a>
           </div>
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
         <div class="card">
           <div class="card-body text-center">
-            <h3 class="card-title"><i class="bi bi-gear"></i> Admin Panel</h3>
-            <p class="card-text">Manage your learning data and import/export</p>
-            <a href="pages/admin.html" class="btn btn-secondary">Manage Data</a>
+            <h3 class="card-title"><i class="bi bi-question-circle"></i> Kiểm tra</h3>
+            <p class="card-text">Kiểm tra kiến thức của bạn với các chế độ khác nhau</p>
+            <a href="pages/quiz.html" class="btn btn-warning">Làm bài kiểm tra</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body text-center">
+            <h3 class="card-title"><i class="bi bi-gear"></i> Quản trị</h3>
+            <p class="card-text">Quản lý dữ liệu học tập và nhập/xuất dữ liệu</p>
+            <a href="pages/admin.html" class="btn btn-secondary">Quản lý dữ liệu</a>
           </div>
         </div>
       </div>
@@ -221,7 +232,7 @@
   <!-- Footer -->
   <footer class="footer mt-5">
     <div class="container text-center">
-      <p>&copy; 2026 Japanese Study App. Built with Bootstrap 5 & jQuery.</p>
+      <p>&copy; 2026 Ứng dụng Học tiếng Nhật v2.0. Xây dựng với Bootstrap 5 & jQuery.</p>
       <p>
         <a href="https://github.com" target="_blank"><i class="bi bi-github"></i> GitHub</a>
       </p>

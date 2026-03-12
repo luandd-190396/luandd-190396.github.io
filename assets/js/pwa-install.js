@@ -176,7 +176,7 @@ window.addEventListener('appinstalled', () => {
   
   // Show success message
   if (typeof Utils !== 'undefined' && Utils.showToast) {
-    Utils.showToast('App installed successfully! 🎉', 'success');
+    Utils.showToast('Ứng dụng đã được cài đặt thành công! 🎉', 'success');
   }
 });
 

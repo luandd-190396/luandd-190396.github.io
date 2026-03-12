@@ -27,7 +27,7 @@ const FlashcardsModule = {
   getTypeFromURL() {
     const urlParams = new URLSearchParams(window.location.search);
     const type = urlParams.get('type');
-    if (type && ['hiragana', 'katakana', 'vocab', 'kanji'].includes(type)) {
+    if (type && ['hiragana', 'katakana', 'vocab', 'kanji', 'grammar'].includes(type)) {
       this.type = type;
     }
   },
@@ -40,13 +40,13 @@ const FlashcardsModule = {
     
     // Filter by saved level if applicable
     const savedLevel = Storage.getCurrentLevel();
-    if (savedLevel && (this.type === 'vocab' || this.type === 'kanji')) {
-      data = data.filter(item => item.level === savedLevel);
+    if (savedLevel && (this.type === 'vocab' || this.type === 'kanji' || this.type === 'grammar')) {
+      data = data.filter(item => item.level === savedLevel || item.jlpt_level === savedLevel);
     }
     
     // Filter by selected lesson if applicable
     const selectedLesson = $('#lessonFilter').val();
-    if (selectedLesson && selectedLesson !== 'all' && (this.type === 'vocab' || this.type === 'kanji')) {
+    if (selectedLesson && selectedLesson !== 'all' && (this.type === 'vocab' || this.type === 'kanji' || this.type === 'grammar')) {
       data = data.filter(item => item.lesson === selectedLesson);
     }
     
@@ -108,8 +108,8 @@ const FlashcardsModule = {
     $lessonSelect.empty();
     $lessonSelect.append('<option value="all">All Lessons</option>');
     
-    // Only show lessons for vocab and kanji
-    if (this.type === 'vocab' || this.type === 'kanji') {
+    // Only show lessons for vocab, kanji, and grammar
+    if (this.type === 'vocab' || this.type === 'kanji' || this.type === 'grammar') {
       const data = await DataService.getModuleData(this.type);
       const lessons = Utils.getUniqueValues(data, 'lesson').sort();
       lessons.forEach(lesson => {
@@ -228,6 +228,13 @@ const FlashcardsModule = {
           <div class="flashcard-main">${Utils.escapeHtml(card.kanji)}</div>
         `);
         break;
+      
+      case 'grammar':
+        $front.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.pattern)}</div>
+          <div class="flashcard-reading">${Utils.escapeHtml(card.structure)}</div>
+        `);
+        break;
     }
   },
 
@@ -283,6 +290,21 @@ const FlashcardsModule = {
           ` : ''}
         `);
         break;
+      
+      case 'grammar':
+        $back.html(`
+          <div class="flashcard-main">${Utils.escapeHtml(card.meaning_vi)}</div>
+          <div class="flashcard-reading">${Utils.escapeHtml(card.meaning_en)}</div>
+          <hr>
+          <div class="flashcard-example">
+            <div class="mb-2"><strong>Usage:</strong> ${Utils.escapeHtml(card.usage_note_vi)}</div>
+            ${card.example_1 ? `
+              <div class="mt-2">${Utils.escapeHtml(card.example_1)}</div>
+              <div class="text-muted small">${Utils.escapeHtml(card.example_1_translation_vi)}</div>
+            ` : ''}
+          </div>
+        `);
+        break;
     }
   },
 
@@ -320,7 +342,7 @@ const FlashcardsModule = {
   async shuffleDeck() {
     await this.loadDeck(true);
     this.showCard();
-    Utils.showToast('Deck shuffled!', 'success');
+    Utils.showToast('Xáo trộn thành công!', 'success');
   },
 
   /**

@@ -1,7 +1,7 @@
 {
-  "name": "Japanese Study App",
+  "name": "Japanese Study App v2.0",
   "short_name": "JP Study",
-  "description": "Learn Japanese - Hiragana, Katakana, Kanji, and JLPT Vocabulary",
+  "description": "Learn Japanese with lesson-based flow: vocabulary, grammar, kanji, and final lesson quiz",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz - Japanese Study App</title>
+  <title>Kiểm tra - Ứng dụng Học tiếng Nhật</title>
   
   <!-- PWA Meta Tags -->
   <link rel="manifest" href="../manifest.json">
@@ -24,40 +24,26 @@
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="../index.html">
-        <i class="bi bi-translate"></i> Japanese Study
+        <i class="bi bi-translate"></i> Học tiếng Nhật
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="../index.html">Trang chủ</a></li>
+          <li class="nav-item"><a class="nav-link" href="lessons.html">Bài học</a></li>
+          <li class="nav-item"><a class="nav-link" href="vocab.html">Từ vựng</a></li>
+          <li class="nav-item"><a class="nav-link" href="grammar.html">Ngữ pháp</a></li>
+          <li class="nav-item"><a class="nav-link" href="kanji.html">Kanji</a></li>
+          <li class="nav-item"><a class="nav-link" href="hiragana.html">Hiragana</a></li>
+          <li class="nav-item"><a class="nav-link" href="katakana.html">Katakana</a></li>
+          <li class="nav-item"><a class="nav-link" href="flashcards.html">Thẻ ghi nhớ</a></li>
+          <li class="nav-item"><a class="nav-link" href="quiz.html">Kiểm tra</a></li>
+          <li class="nav-item"><a class="nav-link" href="admin.html">Quản trị</a></li>
           <li class="nav-item">
-            <a class="nav-link" href="../index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="hiragana.html">Hiragana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="katakana.html">Katakana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="vocab.html">Vocabulary</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="kanji.html">Kanji</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="flashcards.html">Flashcards</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="quiz.html">Quiz</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="admin.html">Admin</a>
-          </li>
-          <li class="nav-item">
-            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Clear all cached data">
-              <i class="bi bi-trash"></i> Clear Cache
+            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Xóa tất cả dữ liệu đã lưu">
+              <i class="bi bi-trash"></i> Xóa bộ nhớ
             </button>
           </li>
         </ul>
@@ -70,16 +56,18 @@
     <div class="quiz-selectors">
       <div class="row g-3">
         <div class="col-md-6">
-          <label for="typeSelector" class="form-label">Quiz Type:</label>
+          <label for="typeSelector" class="form-label">Loại kiểm tra:</label>
           <select id="typeSelector" class="form-select">
             <option value="hiragana">Hiragana</option>
             <option value="katakana">Katakana</option>
-            <option value="vocab">Vocabulary</option>
+            <option value="vocab">Từ vựng</option>
             <option value="kanji">Kanji</option>
+            <option value="grammar">Ngữ pháp</option>
+            <option value="lesson">Kiểm tra cuối bài</option>
           </select>
         </div>
         <div class="col-md-6">
-          <label for="modeSelector" class="form-label">Quiz Mode:</label>
+          <label for="modeSelector" class="form-label">Chế độ kiểm tra:</label>
           <select id="modeSelector" class="form-select">
             <!-- Options will be populated dynamically -->
           </select>
@@ -88,13 +76,20 @@
     </div>
   </div>
 
+  <div class="container mt-2" id="quizContextBanner" style="display: none;">
+    <div class="alert alert-info mb-0">
+      <i class="bi bi-info-circle"></i>
+      <strong id="quizContextText"></strong>
+    </div>
+  </div>
+
   <!-- Quiz Container -->
   <div class="container mt-4 quiz-container" id="quizContainer">
     <!-- Quiz Header -->
     <div class="quiz-header">
       <div class="d-flex justify-content-between align-items-center">
-        <h5 id="questionNumber">Question 1 of 10</h5>
-        <h5 id="currentScore">Score: 0/0</h5>
+        <h5 id="questionNumber">Câu hỏi 1 / 10</h5>
+        <h5 id="currentScore"Điểm: 0/0</h5>
       </div>
       <div class="quiz-progress">
         <div id="quizProgressAnswered" class="progress-bar bg-secondary" role="progressbar" style="width: 0%"></div>
@@ -105,7 +100,7 @@
     <!-- Question Card -->
     <div class="question-card">
       <div id="questionText">
-        <p class="text-center text-muted">Loading...</p>
+        <p class="text-center text-muted">Đang tải...</p>
       </div>
     </div>
 
@@ -117,7 +112,7 @@
     <!-- Restart Button -->
     <div class="text-center mt-4">
       <button id="btnRestart" class="btn btn-secondary">
-        <i class="bi bi-arrow-clockwise"></i> Restart Quiz
+        <i class="bi bi-arrow-clockwise"></i> Làm lại
       </button>
     </div>
   </div>
@@ -127,7 +122,7 @@
     <div class="quiz-summary">
       <!-- Score Display -->
       <div class="score-display">
-        <h2>Quiz Complete!</h2>
+        <h2>Hoàn thành kiểm tra!</h2>
         <div class="display-1" id="finalScore">0 / 0</div>
         <div class="score-percentage" id="scorePercentage">0%</div>
       </div>
@@ -146,7 +141,7 @@
 
       <!-- Detailed Results -->
       <div class="detailed-results">
-        <h4>Detailed Results</h4>
+        <h4>Kết quả chi tiết</h4>
         <div id="detailedResults">
           <!-- Will be populated dynamically -->
         </div>
@@ -155,10 +150,10 @@
       <!-- Controls -->
       <div class="quiz-controls">
         <button id="btnRestartSummary" class="btn btn-primary">
-          <i class="bi bi-arrow-clockwise"></i> Try Again
+          <i class="bi bi-arrow-clockwise"></i> Làm lại
         </button>
         <button id="btnHome" class="btn btn-secondary">
-          <i class="bi bi-house"></i> Back to Home
+          <i class="bi bi-house"></i> Về trang chủ
         </button>
       </div>
     </div>
@@ -167,7 +162,7 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container text-center">
-      <p>&copy; 2026 Japanese Study App</p>
+      <p>&copy; 2026 Ứng dụng Học tiếng Nhật</p>
     </div>
   </footer>
 

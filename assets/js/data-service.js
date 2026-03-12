@@ -9,7 +9,16 @@ const DataService = {
     hiragana: 'jpapp_hiragana',
     katakana: 'jpapp_katakana',
     vocab: 'jpapp_vocab',
-    kanji: 'jpapp_kanji'
+    kanji: 'jpapp_kanji',
+    grammar: 'jpapp_grammar'
+  },
+
+  GRAMMAR_LESSON_OFFSET: {
+    N5: 0,
+    N4: 25,
+    N3: 50,
+    N2: 75,
+    N1: 100
   },
 
   /**
@@ -22,7 +31,8 @@ const DataService = {
       hiragana: 'hiragana.json',
       katakana: 'katakana.json',
       vocab: 'vocab.json',
-      kanji: 'kanji.json'
+      kanji: 'kanji.json',
+      grammar: 'grammar.json'
     };
     
     // Detect if we're in a subdirectory (pages/) or root
@@ -33,8 +43,35 @@ const DataService = {
   },
 
   /**
+   * Normalize lesson value to integer form
+   * Supports formats like "L1", "1", "Lesson 1"
+   * @param {string|number} lesson - Lesson value
+   * @returns {number|null}
+   */
+  normalizeLessonNumber(lesson) {
+    if (lesson === null || lesson === undefined) return null;
+    const str = String(lesson).trim().toUpperCase();
+    if (!str) return null;
+    if (/^L\d+$/.test(str)) return parseInt(str.slice(1), 10);
+    if (/^\d+$/.test(str)) return parseInt(str, 10);
+    const match = str.match(/(\d+)/);
+    return match ? parseInt(match[1], 10) : null;
+  },
+
+  /**
+   * Convert a lesson number to grammar lesson index by level
+   * @param {string} level - JLPT level
+   * @param {number} lessonNumber - Relative lesson number
+   * @returns {number}
+   */
+  toGrammarLessonByLevel(level, lessonNumber) {
+    const offset = this.GRAMMAR_LESSON_OFFSET[level] || 0;
+    return offset + lessonNumber;
+  },
+
+  /**
    * Load default data from JSON file
-   * @param {string} type - Data type (hiragana, katakana, vocab, kanji)
+   * @param {string} type - Data type (hiragana, katakana, vocab, kanji, grammar)
    * @returns {Promise<Array>} Default data
    */
   async loadDefaultData(type) {
@@ -175,6 +212,111 @@ const DataService = {
     }
 
     return stats;
+  },
+
+  /**
+   * Get available lessons for a JLPT level with item counts
+   * @param {string} level - JLPT level (N5..N1)
+   * @returns {Promise<Array>}
+   */
+  async getAvailableLessons(level) {
+    const [vocab, kanji, grammar] = await Promise.all([
+      this.getModuleData('vocab'),
+      this.getModuleData('kanji'),
+      this.getModuleData('grammar')
+    ]);
+
+    const vocabByLesson = {};
+    const kanjiByLesson = {};
+    const grammarByLesson = {};
+
+    vocab
+      .filter(item => item.level === level)
+      .forEach(item => {
+        const lessonNo = this.normalizeLessonNumber(item.lesson);
+        if (!lessonNo) return;
+        vocabByLesson[lessonNo] = (vocabByLesson[lessonNo] || 0) + 1;
+      });
+
+    kanji
+      .filter(item => item.level === level)
+      .forEach(item => {
+        const lessonNo = this.normalizeLessonNumber(item.lesson);
+        if (!lessonNo) return;
+        kanjiByLesson[lessonNo] = (kanjiByLesson[lessonNo] || 0) + 1;
+      });
+
+    const offset = this.GRAMMAR_LESSON_OFFSET[level] || 0;
+    grammar
+      .filter(item => item.jlpt_level === level)
+      .forEach(item => {
+        const absoluteLesson = this.normalizeLessonNumber(item.lesson);
+        if (!absoluteLesson) return;
+        const lessonNo = absoluteLesson - offset;
+        if (lessonNo <= 0) return;
+        grammarByLesson[lessonNo] = (grammarByLesson[lessonNo] || 0) + 1;
+      });
+
+    const lessonSet = new Set([
+      ...Object.keys(vocabByLesson),
+      ...Object.keys(kanjiByLesson),
+      ...Object.keys(grammarByLesson)
+    ].map(x => parseInt(x, 10)));
+
+    return Array.from(lessonSet)
+      .sort((a, b) => a - b)
+      .map(lessonNo => ({
+        lesson: lessonNo,
+        vocabCount: vocabByLesson[lessonNo] || 0,
+        kanjiCount: kanjiByLesson[lessonNo] || 0,
+        grammarCount: grammarByLesson[lessonNo] || 0,
+        totalCount: (vocabByLesson[lessonNo] || 0) + (kanjiByLesson[lessonNo] || 0) + (grammarByLesson[lessonNo] || 0)
+      }));
+  },
+
+  /**
+   * Get lesson bundle for one level + lesson
+   * @param {string} level - JLPT level
+   * @param {number} lesson - Relative lesson number
+   * @returns {Promise<Object>}
+   */
+  async getLessonBundle(level, lesson) {
+    const lessonNo = this.normalizeLessonNumber(lesson);
+    if (!lessonNo) {
+      return {
+        level,
+        lesson: lesson,
+        vocab: [],
+        kanji: [],
+        grammar: []
+      };
+    }
+
+    const [vocab, kanji, grammar] = await Promise.all([
+      this.getModuleData('vocab'),
+      this.getModuleData('kanji'),
+      this.getModuleData('grammar')
+    ]);
+
+    const grammarLesson = this.toGrammarLessonByLevel(level, lessonNo);
+
+    const lessonVocab = vocab.filter(item =>
+      item.level === level && this.normalizeLessonNumber(item.lesson) === lessonNo
+    );
+    const lessonKanji = kanji.filter(item =>
+      item.level === level && this.normalizeLessonNumber(item.lesson) === lessonNo
+    );
+    const lessonGrammar = grammar.filter(item =>
+      item.jlpt_level === level && this.normalizeLessonNumber(item.lesson) === grammarLesson
+    );
+
+    return {
+      level,
+      lesson: lessonNo,
+      vocab: lessonVocab,
+      kanji: lessonKanji,
+      grammar: lessonGrammar
+    };
   },
 
   /**

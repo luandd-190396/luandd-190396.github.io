@@ -98,7 +98,7 @@ const HiraganaModule = {
     if (this.filteredData.length === 0) {
       $container.append(`
         <div class="col-12 text-center py-5">
-          <p class="text-muted">No characters found</p>
+          <p class="text-muted">Không tìm thấy ký tự</p>
         </div>
       `);
       return;
@@ -110,7 +110,7 @@ const HiraganaModule = {
     });
 
     // Update count
-    $('#resultCount').text(`${this.filteredData.length} characters`);
+    $('#resultCount').text(`${this.filteredData.length} ký tự`);
   },
 
   /**

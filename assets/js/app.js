@@ -51,6 +51,7 @@ const App = {
       $('#stat-katakana').text(stats.katakana || 0);
       $('#stat-vocab').text(stats.vocab || 0);
       $('#stat-kanji').text(stats.kanji || 0);
+      $('#stat-grammar').text(stats.grammar || 0);
     } catch (error) {
       console.error('Error loading statistics:', error);
     }
@@ -111,7 +112,7 @@ const App = {
       
       // Show success message
       const levelText = level === 'ALL' ? 'All levels' : level;
-      alert(`Learning level set to: ${levelText}\n\nAll vocabulary, kanji, flashcards, and quizzes will be filtered accordingly.`);
+      alert(`Cấp độ học tập đã được đặt thành: ${levelText}\n\nTất cả từ vựng, kanji, thẻ ghi nhớ và kiểm tra sẽ được lọc tương ứng.`);
     });
   },
 
@@ -166,16 +167,18 @@ const App = {
    * Clear all localStorage cache and reload page
    */
   clearCache() {
-    if (confirm('Are you sure you want to clear all cached data?\n\nThis will:\n- Clear all vocabulary, kanji, hiragana, katakana data\n- Reset learning level\n- Reload fresh data from files\n\nClick OK to proceed.')) {
+    if (confirm('Bạn có chắc chắn muốn xóa tất cả dữ liệu đã lưu?\n\nĐiều này sẽ:\n- Xóa tất cả dữ liệu từ vựng, kanji, hiragana, katakana, ngữ pháp\n- Xóa tiến trình kiểm tra bài học\n- Đặt lại cấp độ học tập\n- Tải lại dữ liệu mới từ các tệp\n\nNhấn OK để tiếp tục.')) {
       // Clear all app data from localStorage
       localStorage.removeItem('jpapp_hiragana');
       localStorage.removeItem('jpapp_katakana');
       localStorage.removeItem('jpapp_vocab');
       localStorage.removeItem('jpapp_kanji');
+      localStorage.removeItem('jpapp_grammar');
+      localStorage.removeItem('jpapp_lesson_progress');
       localStorage.removeItem('currentLevel');
       
       // Show success message
-      alert('Cache cleared successfully!\n\nThe page will reload to fetch fresh data.');
+      alert('Xóa bộ nhớ thành công!\n\nTrang sẽ tải lại để lấy dữ liệu mới.');
       
       // Reload page
       window.location.reload();

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Admin - Japanese Study App</title>
+  <title>Quản trị - Ứng dụng Học tiếng Nhật</title>
   
   <!-- PWA Meta Tags -->
   <link rel="manifest" href="../manifest.json">
@@ -24,40 +24,26 @@
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="../index.html">
-        <i class="bi bi-translate"></i> Japanese Study
+        <i class="bi bi-translate"></i> Học tiếng Nhật
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="../index.html">Trang chủ</a></li>
+          <li class="nav-item"><a class="nav-link" href="lessons.html">Bài học</a></li>
+          <li class="nav-item"><a class="nav-link" href="vocab.html">Từ vựng</a></li>
+          <li class="nav-item"><a class="nav-link" href="grammar.html">Ngữ pháp</a></li>
+          <li class="nav-item"><a class="nav-link" href="kanji.html">Kanji</a></li>
+          <li class="nav-item"><a class="nav-link" href="hiragana.html">Hiragana</a></li>
+          <li class="nav-item"><a class="nav-link" href="katakana.html">Katakana</a></li>
+          <li class="nav-item"><a class="nav-link" href="flashcards.html">Thẻ ghi nhớ</a></li>
+          <li class="nav-item"><a class="nav-link" href="quiz.html">Kiểm tra</a></li>
+          <li class="nav-item"><a class="nav-link" href="admin.html">Quản trị</a></li>
           <li class="nav-item">
-            <a class="nav-link" href="../index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="hiragana.html">Hiragana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="katakana.html">Katakana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="vocab.html">Vocabulary</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="kanji.html">Kanji</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="flashcards.html">Flashcards</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="quiz.html">Quiz</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="admin.html">Admin</a>
-          </li>
-          <li class="nav-item">
-            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Clear all cached data">
-              <i class="bi bi-trash"></i> Clear Cache
+            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Xóa tất cả dữ liệu đã lưu">
+              <i class="bi bi-trash"></i> Xóa bộ nhớ
             </button>
           </li>
         </ul>
@@ -70,8 +56,8 @@
     <div class="admin-container">
       <!-- Admin Header -->
       <div class="admin-header">
-        <h2>Data Management</h2>
-        <p>Add, edit, delete, import, export, and reset your learning data</p>
+        <h2>Quản lý dữ liệu</h2>
+        <p>Thêm, sửa, xóa, nhập, xuất và đặt lại dữ liệu học tập của bạn</p>
       </div>
 
       <!-- Tabs -->
@@ -88,12 +74,17 @@
         </li>
         <li class="nav-item" role="presentation">
           <button class="nav-link" id="tab-vocab-btn" type="button" role="tab">
-            Vocabulary
+            Từ vựng
           </button>
         </li>
         <li class="nav-item" role="presentation">
           <button class="nav-link" id="tab-kanji-btn" type="button" role="tab">
             Kanji
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="tab-grammar-btn" type="button" role="tab">
+            Ngữ pháp
           </button>
         </li>
       </ul>
@@ -102,26 +93,26 @@
           <!-- Toolbar -->
           <div class="admin-toolbar">
             <div>
-              <span class="item-count" id="itemCount">0 items</span>
+              <span class="item-count" id="itemCount">0 mục</span>
             </div>
             <div class="btn-group">
               <button id="btnAdd" class="btn btn-primary">
-                <i class="bi bi-plus-circle"></i> Add New
+                <i class="bi bi-plus-circle"></i> Thêm mới
               </button>
               <button id="btnExport" class="btn btn-success">
-                <i class="bi bi-download"></i> Export
+                <i class="bi bi-download"></i> Xuất
               </button>
               <button id="btnExportAll" class="btn btn-success">
-                <i class="bi bi-download"></i> Export All
+                <i class="bi bi-download"></i> Xuất tất cả
               </button>
               <button id="btnImport" class="btn btn-info">
-                <i class="bi bi-upload"></i> Import
+                <i class="bi bi-upload"></i> Nhập
               </button>
               <button id="btnReset" class="btn btn-warning">
-                <i class="bi bi-arrow-clockwise"></i> Reset
+                <i class="bi bi-arrow-clockwise"></i> Đặt lại
               </button>
               <button id="btnResetAll" class="btn btn-danger">
-                <i class="bi bi-exclamation-triangle"></i> Reset All
+                <i class="bi bi-exclamation-triangle"></i> Đặt lại tất cả
               </button>
             </div>
           </div>
@@ -135,15 +126,15 @@
               <thead>
                 <tr>
                   <th>#</th>
-                  <th colspan="5">Data will be displayed here</th>
-                  <th>Actions</th>
+                  <th colspan="5">Dữ liệu sẽ được hiển thị ở đây</th>
+                  <th>Hành động</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td colspan="7" class="text-center py-4">
                     <div class="spinner"></div>
-                    <p class="text-muted mt-3">Loading data...</p>
+                    <p class="text-muted mt-3">Đang tải dữ liệu...</p>
                   </td>
                 </tr>
               </tbody>
@@ -157,8 +148,8 @@
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="modalTitle">Edit Item</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          <h5 class="modal-title" id="modalTitle">Sửa mục</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Đóng"></button>
         </div>
         <div class="modal-body">
           <form id="itemForm">
@@ -166,8 +157,8 @@
           </form>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-          <button type="button" class="btn btn-primary" id="btnSaveItem">Save</button>
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Hủy</button>
+          <button type="button" class="btn btn-primary" id="btnSaveItem">Lưu</button>
         </div>
       </div>
     </div>
@@ -176,7 +167,7 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container text-center">
-      <p>&copy; 2026 Japanese Study App</p>
+      <p>&copy; 2026 Ứng dụng Học tiếng Nhật</p>
     </div>
   </footer>
 

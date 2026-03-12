@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hiragana - Japanese Study App</title>
+  <title>Hiragana - Ứng dụng Học tiếng Nhật</title>
   
   <!-- PWA Meta Tags -->
   <link rel="manifest" href="../manifest.json">
@@ -24,40 +24,26 @@
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="../index.html">
-        <i class="bi bi-translate"></i> Japanese Study
+        <i class="bi bi-translate"></i> Học tiếng Nhật
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="../index.html">Trang chủ</a></li>
+          <li class="nav-item"><a class="nav-link" href="lessons.html">Bài học</a></li>
+          <li class="nav-item"><a class="nav-link" href="vocab.html">Từ vựng</a></li>
+          <li class="nav-item"><a class="nav-link" href="grammar.html">Ngữ pháp</a></li>
+          <li class="nav-item"><a class="nav-link" href="kanji.html">Kanji</a></li>
+          <li class="nav-item"><a class="nav-link" href="hiragana.html">Hiragana</a></li>
+          <li class="nav-item"><a class="nav-link" href="katakana.html">Katakana</a></li>
+          <li class="nav-item"><a class="nav-link" href="flashcards.html">Thẻ ghi nhớ</a></li>
+          <li class="nav-item"><a class="nav-link" href="quiz.html">Kiểm tra</a></li>
+          <li class="nav-item"><a class="nav-link" href="admin.html">Quản trị</a></li>
           <li class="nav-item">
-            <a class="nav-link" href="../index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="hiragana.html">Hiragana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="katakana.html">Katakana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="vocab.html">Vocabulary</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="kanji.html">Kanji</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="flashcards.html">Flashcards</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="quiz.html">Quiz</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="admin.html">Admin</a>
-          </li>
-          <li class="nav-item">
-            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Clear all cached data">
-              <i class="bi bi-trash"></i> Clear Cache
+            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Xóa tất cả dữ liệu đã lưu">
+              <i class="bi bi-trash"></i> Xóa bộ nhớ
             </button>
           </li>
         </ul>
@@ -70,21 +56,21 @@
     <div class="search-filters">
       <div class="row g-3 align-items-end">
         <div class="col-md-4">
-          <label for="searchInput" class="form-label">Search</label>
-          <input type="text" id="searchInput" class="form-control" placeholder="Search kana, romaji, or example...">
+          <label for="searchInput" class="form-label">Tìm kiếm</label>
+          <input type="text" id="searchInput" class="form-control" placeholder="Tìm kana, romaji, hoặc ví dụ...">
         </div>
         <div class="col-md-3">
-          <label for="groupFilter" class="form-label">Filter by Group</label>
+          <label for="groupFilter" class="form-label">Lọc theo nhóm</label>
           <select id="groupFilter" class="form-select">
-            <option value="all">All Groups</option>
+            <option value="all">Tất cả nhóm</option>
           </select>
         </div>
         <div class="col-md-5 text-end">
           <button id="btnFlashcard" class="btn btn-success">
-            <i class="bi bi-card-list"></i> Flashcards
+            <i class="bi bi-card-list"></i> Thẻ ghi nhớ
           </button>
           <button id="btnQuiz" class="btn btn-warning">
-            <i class="bi bi-question-circle"></i> Quiz
+            <i class="bi bi-question-circle"></i> Kiểm tra
           </button>
         </div>
       </div>
@@ -94,7 +80,7 @@
   <!-- Results Count -->
   <div class="container mt-3">
     <div class="result-count">
-      <span id="resultCount">Loading...</span>
+      <span id="resultCount">Đang tải...</span>
     </div>
   </div>
 
@@ -104,7 +90,7 @@
       <!-- Cards will be dynamically loaded here -->
       <div class="col-12 text-center py-5">
         <div class="spinner"></div>
-        <p class="text-muted mt-3">Loading hiragana characters...</p>
+        <p class="text-muted mt-3">Đang tải chữ hiragana...</p>
       </div>
     </div>
   </div>
@@ -112,7 +98,7 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container text-center">
-      <p>&copy; 2026 Japanese Study App</p>
+      <p>&copy; 2026 Ứng dụng Học tiếng Nhật</p>
     </div>
   </footer>
 

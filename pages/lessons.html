@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lessons - Japanese Study App</title>
+
+  <!-- PWA Meta Tags -->
+  <link rel="manifest" href="../manifest.json">
+  <meta name="theme-color" content="#667eea">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="apple-touch-icon" href="../assets/images/icon-192.svg">
+
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/lessons.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <a class="navbar-brand" href="../index.html">
+        <i class="bi bi-translate"></i> Japanese Study
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="lessons.html">Lessons</a></li>
+          <li class="nav-item"><a class="nav-link" href="vocab.html">Vocabulary</a></li>
+          <li class="nav-item"><a class="nav-link" href="grammar.html">Grammar</a></li>
+          <li class="nav-item"><a class="nav-link" href="kanji.html">Kanji</a></li>
+          <li class="nav-item"><a class="nav-link" href="hiragana.html">Hiragana</a></li>
+          <li class="nav-item"><a class="nav-link" href="katakana.html">Katakana</a></li>
+          <li class="nav-item"><a class="nav-link" href="flashcards.html">Flashcards</a></li>
+          <li class="nav-item"><a class="nav-link" href="quiz.html">Quiz</a></li>
+          <li class="nav-item"><a class="nav-link" href="admin.html">Admin</a></li>
+          <li class="nav-item">
+            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Clear all cached data">
+              <i class="bi bi-trash"></i> Clear Cache
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container mt-4">
+    <div class="lessons-hero">
+      <h1><i class="bi bi-journal-richtext"></i> Lesson Mode</h1>
+      <p class="mb-0">Study by lesson like Minna no Nihongo: Vocabulary, Grammar, Kanji, then final quiz.</p>
+    </div>
+  </div>
+
+  <div class="container mt-3">
+    <div class="search-filters">
+      <div class="row g-3 align-items-end">
+        <div class="col-md-3">
+          <label for="levelSelector" class="form-label">Level</label>
+          <select id="levelSelector" class="form-select">
+            <option value="N5">N5</option>
+            <option value="N4">N4</option>
+            <option value="N3">N3</option>
+            <option value="N2">N2</option>
+            <option value="N1">N1</option>
+          </select>
+        </div>
+        <div class="col-md-3">
+          <label for="lessonSelector" class="form-label">Lesson</label>
+          <select id="lessonSelector" class="form-select">
+            <option value="">Loading lessons...</option>
+          </select>
+        </div>
+        <div class="col-md-3">
+          <div class="d-flex gap-2">
+            <button class="btn btn-outline-secondary w-100" id="btnPrevLesson">
+              <i class="bi bi-arrow-left"></i> Prev
+            </button>
+            <button class="btn btn-outline-secondary w-100" id="btnNextLesson">
+              Next <i class="bi bi-arrow-right"></i>
+            </button>
+          </div>
+        </div>
+        <div class="col-md-3 text-md-end">
+          <a id="btnStartLessonQuiz" href="quiz.html?type=lesson" class="btn btn-warning w-100">
+            <i class="bi bi-patch-check"></i> Final Quiz
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-3">
+    <div class="row g-3" id="lessonSummary">
+      <div class="col-md-3">
+        <div class="lesson-stat">
+          <div class="label">Vocabulary</div>
+          <div class="value" id="statLessonVocab">0</div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="lesson-stat">
+          <div class="label">Grammar</div>
+          <div class="value" id="statLessonGrammar">0</div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="lesson-stat">
+          <div class="label">Kanji</div>
+          <div class="value" id="statLessonKanji">0</div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="lesson-stat">
+          <div class="label">Last Quiz Score</div>
+          <div class="value" id="statLessonQuiz">-</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-3 mb-5">
+    <div class="accordion lesson-accordion" id="lessonAccordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#lessonVocabSection">
+            Vocabulary <span class="badge bg-primary ms-2" id="badgeVocabCount">0</span>
+          </button>
+        </h2>
+        <div id="lessonVocabSection" class="accordion-collapse collapse show" data-bs-parent="#lessonAccordion">
+          <div class="accordion-body">
+            <div id="lessonVocabContainer"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#lessonGrammarSection">
+            Grammar <span class="badge bg-success ms-2" id="badgeGrammarCount">0</span>
+          </button>
+        </h2>
+        <div id="lessonGrammarSection" class="accordion-collapse collapse" data-bs-parent="#lessonAccordion">
+          <div class="accordion-body">
+            <div id="lessonGrammarContainer"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#lessonKanjiSection">
+            Kanji <span class="badge bg-warning text-dark ms-2" id="badgeKanjiCount">0</span>
+          </button>
+        </h2>
+        <div id="lessonKanjiSection" class="accordion-collapse collapse" data-bs-parent="#lessonAccordion">
+          <div class="accordion-body">
+            <div id="lessonKanjiContainer"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container text-center">
+      <p>&copy; 2026 Japanese Study App v2.0</p>
+    </div>
+  </footer>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <!-- Bootstrap 5 JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Custom JS -->
+  <script src="../assets/js/storage.js"></script>
+  <script src="../assets/js/utils.js"></script>
+  <script src="../assets/js/data-service.js"></script>
+  <script src="../assets/js/app.js"></script>
+  <script src="../assets/js/lessons.js"></script>
+  <!-- PWA Install -->
+  <script src="../assets/js/pwa-install.js"></script>
+</body>
+</html>

@@ -1,6 +1,6 @@
-# Japanese Study App
+# Japanese Study App v2.0
 
-A complete static web application for learning Japanese language including Hiragana, Katakana, Kanji, and JLPT vocabulary (N5-N1).
+A complete static web application for learning Japanese language including Hiragana, Katakana, Kanji, Grammar, JLPT vocabulary (N5-N1), and lesson-based study flow.
 
 ## Features
 
@@ -8,6 +8,8 @@ A complete static web application for learning Japanese language including Hirag
 - **Katakana Learning** - Learn Katakana characters with usage examples  
 - **Vocabulary** - JLPT vocabulary from N5 to N1 levels
 - **Kanji** - Learn Japanese Kanji with readings and meanings
+- **Grammar** - Japanese grammar patterns based on Minna no Nihongo and JLPT levels
+- **Lesson Mode** - Study by lesson (Vocabulary + Grammar + Kanji) and do final lesson quiz
 - **Flashcards Mode** - Interactive flashcards with flip animations
 - **Quiz Mode** - Test your knowledge with multiple question types
 - **Admin Panel** - Full CRUD operations for data management
@@ -34,6 +36,7 @@ japanese-study-app/
 │   ├── katakana.html         # Katakana learning page
 │   ├── vocab.html            # Vocabulary page
 │   ├── kanji.html            # Kanji learning page
+│   ├── grammar.html          # Grammar patterns page
 │   ├── flashcards.html       # Flashcards practice
 │   ├── quiz.html             # Quiz interface
 │   └── admin.html            # Data management
@@ -43,6 +46,7 @@ japanese-study-app/
 │   │   ├── cards.css         # Card components
 │   │   ├── flashcard.css     # Flashcard animations
 │   │   ├── quiz.css          # Quiz interface styles
+│   │   ├── grammar.css       # Grammar patterns styles
 │   │   └── admin.css         # Admin panel styles
 │   ├── js/
 │   │   ├── app.js            # Main application logic
@@ -53,6 +57,7 @@ japanese-study-app/
 │   │   ├── katakana.js       # Katakana page logic
 │   │   ├── vocab.js          # Vocabulary page logic
 │   │   ├── kanji.js          # Kanji page logic
+│   │   ├── grammar.js        # Grammar page logic
 │   │   ├── flashcards.js     # Flashcards functionality
 │   │   ├── quiz.js           # Quiz functionality
 │   │   └── admin.js          # Admin panel logic
@@ -60,7 +65,8 @@ japanese-study-app/
 │       ├── hiragana.json     # Default Hiragana data
 │       ├── katakana.json     # Default Katakana data
 │       ├── vocab.json        # Default vocabulary data
-│       └── kanji.json        # Default Kanji data
+│       ├── kanji.json        # Default Kanji data
+│       └── grammar.json      # Default grammar patterns
 ```
 
 ## Installation & Usage
@@ -133,6 +139,8 @@ The app uses these localStorage keys:
 - `jpapp_katakana` - Katakana characters data
 - `jpapp_vocab` - Vocabulary data
 - `jpapp_kanji` - Kanji data
+- `jpapp_grammar` - Grammar patterns data
+- `jpapp_lesson_progress` - Lesson final quiz progress
 
 ### Data Flow
 
@@ -218,6 +226,32 @@ Files are saved as JSON with timestamp:
 }
 ```
 
+### Grammar
+
+```json
+{
+  "id": "grammar_l01_001",
+  "lesson": "1",
+  "jlpt_level": "N5",
+  "title": "〜は〜です",
+  "pattern": "〜は〜です",
+  "meaning_vi": "A là B",
+  "meaning_en": "A is B",
+  "structure": "Noun + は + Noun + です",
+  "formation": "Danh từ 1 + は + Danh từ 2 + です",
+  "usage_note_vi": "Dùng để giới thiệu hoặc khẳng định một danh từ là gì.",
+  "usage_note_en": "Used to identify or introduce a noun.",
+  "example_1": "私は学生です。",
+  "example_1_reading": "わたしはがくせいです。",
+  "example_1_translation_vi": "Tôi là sinh viên.",
+  "example_2": "マイクさんは会社員です。",
+  "example_2_reading": "マイクさんはかいしゃいんです。",
+  "example_2_translation_vi": "Anh Mike là nhân viên công ty.",
+  "related_patterns": ["〜は〜じゃありません", "〜は〜ですか"],
+  "tags": ["introduction", "copula", "lesson1"]
+}
+```
+
 ## Features Detail
 
 ### Learning Pages
@@ -228,13 +262,52 @@ Each learning page includes:
 - **Card Display** - Visual card-based layout
 - **Quick Actions** - Direct links to Flashcards and Quiz
 
+### Grammar Module
+
+The Grammar module provides comprehensive Japanese grammar learning:
+
+- **Organized Structure**:
+  - Organized by Minna no Nihongo lessons
+  - Categorized by JLPT levels (N5-N1)
+  - Searchable by pattern, meaning, or tags
+  
+- **Detailed Information**:
+  - Grammar pattern in Japanese
+  - Vietnamese and English meanings
+  - Structure and formation explanation
+  - Usage notes in both languages
+  - Two example sentences with readings and translations
+  - Related grammar patterns
+  - Tags for easy categorization
+
+- **View Modes**:
+  - Card view - Visual cards with key information
+  - List view - Table format for quick scanning
+
+- **Filtering Options**:
+  - Filter by JLPT level
+  - Filter by lesson number
+  - Filter by tags/categories
+  - Full-text search across all fields
+
+- **Grammar Detail Modal**:
+  - Complete pattern explanation
+  - All examples and translations
+  - Related patterns for deeper learning
+  - Quick access to flashcards and quizzes
+
+- **Integration**:
+  - Grammar flashcards for memorization
+  - Grammar quizzes for testing
+  - Admin panel for CRUD operations
+
 ### Flashcards Mode
 
 - **3D Flip Animation** - Smooth card flipping effect
 - **Navigation** - Previous/Next buttons and keyboard shortcuts
 - **Progress Tracking** - Visual progress bar
 - **Shuffle** - Randomize card order
-- **Multiple Datasets** - Choose from Hiragana, Katakana, Vocab, or Kanji
+- **Multiple Datasets** - Choose from Hiragana, Katakana, Vocab, Kanji, or Grammar
 
 **Keyboard Shortcuts**:
 - `Space` or `Enter` - Flip card
@@ -249,6 +322,9 @@ Each learning page includes:
   - Word → Meaning
   - Meaning → Word
   - Kanji → Meaning
+  - Pattern → Meaning (Grammar)
+  - Meaning → Pattern (Grammar)
+  - Pattern → Usage (Grammar)
   - And more...
 
 - **4 Multiple Choice Options**

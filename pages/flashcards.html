@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flashcards - Japanese Study App</title>
+  <title>Thẻ ghi nhớ - Ứng dụng Học tiếng Nhật</title>
   
   <!-- PWA Meta Tags -->
   <link rel="manifest" href="../manifest.json">
@@ -24,40 +24,26 @@
   <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
       <a class="navbar-brand" href="../index.html">
-        <i class="bi bi-translate"></i> Japanese Study
+        <i class="bi bi-translate"></i> Học tiếng Nhật
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="../index.html">Trang chủ</a></li>
+          <li class="nav-item"><a class="nav-link" href="lessons.html">Bài học</a></li>
+          <li class="nav-item"><a class="nav-link" href="vocab.html">Từ vựng</a></li>
+          <li class="nav-item"><a class="nav-link" href="grammar.html">Ngữ pháp</a></li>
+          <li class="nav-item"><a class="nav-link" href="kanji.html">Kanji</a></li>
+          <li class="nav-item"><a class="nav-link" href="hiragana.html">Hiragana</a></li>
+          <li class="nav-item"><a class="nav-link" href="katakana.html">Katakana</a></li>
+          <li class="nav-item"><a class="nav-link" href="flashcards.html">Thẻ ghi nhớ</a></li>
+          <li class="nav-item"><a class="nav-link" href="quiz.html">Kiểm tra</a></li>
+          <li class="nav-item"><a class="nav-link" href="admin.html">Quản trị</a></li>
           <li class="nav-item">
-            <a class="nav-link" href="../index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="hiragana.html">Hiragana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="katakana.html">Katakana</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="vocab.html">Vocabulary</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="kanji.html">Kanji</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="flashcards.html">Flashcards</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="quiz.html">Quiz</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="admin.html">Admin</a>
-          </li>
-          <li class="nav-item">
-            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Clear all cached data">
-              <i class="bi bi-trash"></i> Clear Cache
+            <button class="btn btn-sm btn-outline-warning ms-2" id="btnResetCache" title="Xóa tất cả dữ liệu đã lưu">
+              <i class="bi bi-trash"></i> Xóa bộ nhớ
             </button>
           </li>
         </ul>
@@ -70,23 +56,24 @@
     <div class="flashcard-type-selector">
       <div class="row align-items-center">
         <div class="col-md-4 mb-2 mb-md-0">
-          <label for="typeSelector" class="form-label mb-0">Select Study Type:</label>
+          <label for="typeSelector" class="form-label mb-0">Chọn loại học:</label>
           <select id="typeSelector" class="form-select d-inline-block w-auto ms-2">
             <option value="hiragana">Hiragana</option>
             <option value="katakana">Katakana</option>
-            <option value="vocab">Vocabulary</option>
+            <option value="vocab">Từ vựng</option>
             <option value="kanji">Kanji</option>
+            <option value="grammar">Ngữ pháp</option>
           </select>
         </div>
         <div class="col-md-4 mb-2 mb-md-0">
-          <label for="lessonFilter" class="form-label mb-0">Lesson:</label>
+          <label for="lessonFilter" class="form-label mb-0">Bài học:</label>
           <select id="lessonFilter" class="form-select d-inline-block w-auto ms-2">
-            <option value="all">All Lessons</option>
+            <option value="all">Tất cả bài</option>
           </select>
         </div>
         <div class="col-md-4 text-md-end">
           <button id="btnShuffle" class="btn btn-primary">
-            <i class="bi bi-shuffle"></i> Shuffle
+            <i class="bi bi-shuffle"></i> Xáo trộn
           </button>
         </div>
       </div>
@@ -109,10 +96,10 @@
       <div class="flashcard">
         <div class="flashcard-inner">
           <div class="flashcard-front">
-            <div class="flashcard-main">Loading...</div>
+            <div class="flashcard-main">Đang tải...</div>
           </div>
           <div class="flashcard-back">
-            <div class="flashcard-main">Loading...</div>
+            <div class="flashcard-main">Đang tải...</div>
           </div>
         </div>
       </div>
@@ -123,25 +110,25 @@
   <div class="container mt-2 mt-md-3">
     <div class="flashcard-controls">
       <button id="btnPrev" class="btn btn-secondary">
-        <i class="bi bi-arrow-left"></i> <span class="d-none d-sm-inline">Previous</span><span class="d-inline d-sm-none">Prev</span>
+        <i class="bi bi-arrow-left"></i> <span class="d-none d-sm-inline">Trước</span><span class="d-inline d-sm-none">Trước</span>
       </button>
       <button id="btnFlip" class="btn btn-primary btn-lg">
-        <i class="bi bi-arrow-repeat"></i> Flip
+        <i class="bi bi-arrow-repeat"></i> Lật thẻ
       </button>
       <button id="btnNext" class="btn btn-secondary">
-        <span class="d-none d-sm-inline">Next</span><span class="d-inline d-sm-none">Next</span> <i class="bi bi-arrow-right"></i>
+        <span class="d-none d-sm-inline">Tiếp</span><span class="d-inline d-sm-none">Tiếp</span> <i class="bi bi-arrow-right"></i>
       </button>
     </div>
     <div class="flashcard-hint">
-      <p class="d-none d-md-block">Click the card or press Space/Enter to flip • Use arrow keys to navigate</p>
-      <p class="d-md-none">Tap card to flip</p>
+      <p class="d-none d-md-block">Nhấp vào thẻ hoặc nhấn Space/Enter để lật • Dùng phím mũi tên để di chuyển</p>
+      <p class="d-md-none">Chạm vào thẻ để lật</p>
     </div>
   </div>
 
   <!-- Footer -->
   <footer class="footer mt-3 mt-md-5">
     <div class="container text-center">
-      <p>&copy; 2026 Japanese Study App</p>
+      <p>&copy; 2026 Ứng dụng Học tiếng Nhật</p>
     </div>
   </footer>
 

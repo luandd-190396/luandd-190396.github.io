@@ -1,0 +1,76 @@
+.lessons-hero {
+  background: linear-gradient(135deg, #4a90e2, #7b68ee);
+  color: #fff;
+  border-radius: 12px;
+  padding: 1.8rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.lessons-hero h1 {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+}
+
+.lesson-stat {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  height: 100%;
+}
+
+.lesson-stat .label {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.lesson-stat .value {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #1f3f5b;
+  line-height: 1.2;
+  margin-top: 0.3rem;
+}
+
+.lesson-accordion .accordion-item {
+  border: none;
+  margin-bottom: 0.8rem;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.lesson-accordion .accordion-button {
+  font-weight: 600;
+}
+
+.lesson-empty {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  color: #6c757d;
+  text-align: center;
+}
+
+.lesson-table th {
+  white-space: nowrap;
+}
+
+.lesson-japanese {
+  font-family: var(--japanese-font);
+  font-size: 1.15rem;
+}
+
+@media (max-width: 768px) {
+  .lessons-hero {
+    padding: 1.2rem;
+  }
+
+  .lessons-hero h1 {
+    font-size: 1.4rem;
+  }
+
+  .lesson-stat .value {
+    font-size: 1.45rem;
+  }
+}

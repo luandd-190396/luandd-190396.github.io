@@ -15,6 +15,7 @@ const KanjiModule = {
     this.setupEventListeners();
     this.populateFilters();
     this.applyLevelFilter(); // Apply saved level filter
+    this.applyURLFilters();
     this.filterData(); // Trigger filter to apply level
   },
 
@@ -103,7 +104,11 @@ const KanjiModule = {
     });
 
     // Lesson filter
-    const lessons = Utils.getUniqueValues(this.data, 'lesson').sort();
+    const lessons = Utils.getUniqueValues(this.data, 'lesson').sort((a, b) => {
+      const lessonA = DataService.normalizeLessonNumber(a) || 0;
+      const lessonB = DataService.normalizeLessonNumber(b) || 0;
+      return lessonA - lessonB;
+    });
     const $lessonSelect = $('#lessonFilter');
     $lessonSelect.empty();
     $lessonSelect.append('<option value="all">All Lessons</option>');
@@ -123,6 +128,31 @@ const KanjiModule = {
   },
 
   /**
+   * Apply URL filters if present (?level=N5&lesson=1)
+   */
+  applyURLFilters() {
+    const params = new URLSearchParams(window.location.search);
+    const level = params.get('level');
+    const lesson = params.get('lesson');
+
+    if (level) {
+      $('#levelFilter').val(level);
+    }
+
+    if (lesson) {
+      const lessonNo = DataService.normalizeLessonNumber(lesson);
+      if (lessonNo) {
+        const lessonKey = `L${lessonNo}`;
+        if ($('#lessonFilter option[value="' + lessonKey + '"]').length > 0) {
+          $('#lessonFilter').val(lessonKey);
+        } else if ($('#lessonFilter option[value="' + String(lessonNo) + '"]').length > 0) {
+          $('#lessonFilter').val(String(lessonNo));
+        }
+      }
+    }
+  },
+
+  /**
    * Render kanji cards
    */
   renderCards() {
@@ -132,7 +162,7 @@ const KanjiModule = {
     if (this.filteredData.length === 0) {
       $container.append(`
         <div class="col-12 text-center py-5">
-          <p class="text-muted">No kanji found</p>
+          <p class="text-muted">Không tìm thấy kanji</p>
         </div>
       `);
       return;
