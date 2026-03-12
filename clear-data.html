@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clear App Data</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    h1 { color: #333; margin-bottom: 20px; }
+    .info {
+      background: #e3f2fd;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 15px 0;
+      border-left: 4px solid #2196F3;
+    }
+    .warning {
+      background: #fff3cd;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 15px 0;
+      border-left: 4px solid #ffc107;
+    }
+    .success {
+      background: #d4edda;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 15px 0;
+      border-left: 4px solid #28a745;
+    }
+    button {
+      padding: 12px 30px;
+      font-size: 16px;
+      cursor: pointer;
+      border: none;
+      border-radius: 5px;
+      margin: 5px;
+      transition: all 0.3s;
+    }
+    .btn-danger {
+      background: #dc3545;
+      color: white;
+    }
+    .btn-danger:hover {
+      background: #c82333;
+    }
+    .btn-success {
+      background: #28a745;
+      color: white;
+    }
+    .btn-success:hover {
+      background: #218838;
+    }
+    pre {
+      background: #f5f5f5;
+      padding: 15px;
+      border-radius: 5px;
+      overflow-x: auto;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🧹 Clear App Data</h1>
+    
+    <div class="info">
+      <strong>📊 Current LocalStorage Data:</strong>
+      <pre id="currentData">Loading...</pre>
+    </div>
+
+    <div class="warning">
+      <strong>⚠️ Cảnh báo:</strong><br>
+      Nếu bạn thấy trang Kanji chỉ hiển thị khoảng 10 chữ khi filter N5, 
+      đó là do localStorage đang lưu data cũ. Hãy xóa localStorage để app load lại data mới từ file JSON.
+    </div>
+
+    <div style="text-align: center; margin: 30px 0;">
+      <button class="btn-danger" onclick="clearAllData()">
+        🗑️ Clear All Data
+      </button>
+      <button class="btn-success" onclick="location.reload()">
+        🔄 Refresh Status
+      </button>
+    </div>
+
+    <div id="result"></div>
+
+    <div class="info" style="margin-top: 30px;">
+      <strong>📝 Hướng dẫn:</strong><br>
+      1. Click "Clear All Data" để xóa localStorage<br>
+      2. Mở lại trang Kanji<br>
+      3. App sẽ tự động load data mới từ file JSON (2,136 kanji / 240 kanji N5)
+    </div>
+  </div>
+
+  <script>
+    function displayCurrentData() {
+      const keys = [
+        'jpapp_hiragana',
+        'jpapp_katakana', 
+        'jpapp_vocab',
+        'jpapp_kanji',
+        'currentLevel'
+      ];
+
+      let info = '';
+      keys.forEach(key => {
+        const data = localStorage.getItem(key);
+        if (data) {
+          if (key === 'currentLevel') {
+            info += `${key}: ${data}\n`;
+          } else {
+            try {
+              const parsed = JSON.parse(data);
+              const length = Array.isArray(parsed) ? parsed.length : 'N/A';
+              info += `${key}: ${length} items\n`;
+              
+              // Show N5 count for kanji
+              if (key === 'jpapp_kanji' && Array.isArray(parsed)) {
+                const n5Count = parsed.filter(item => item.level === 'N5').length;
+                info += `  └─ N5 Kanji: ${n5Count}\n`;
+              }
+            } catch (e) {
+              info += `${key}: Invalid JSON\n`;
+            }
+          }
+        } else {
+          info += `${key}: (empty)\n`;
+        }
+      });
+
+      document.getElementById('currentData').textContent = info || 'No data in localStorage';
+    }
+
+    function clearAllData() {
+      if (confirm('Bạn có chắc muốn xóa tất cả data trong localStorage?\n\nApp sẽ tự động load lại data mới từ file JSON.')) {
+        const keys = [
+          'jpapp_hiragana',
+          'jpapp_katakana', 
+          'jpapp_vocab',
+          'jpapp_kanji'
+        ];
+
+        let cleared = 0;
+        keys.forEach(key => {
+          if (localStorage.getItem(key)) {
+            localStorage.removeItem(key);
+            cleared++;
+          }
+        });
+
+        document.getElementById('result').innerHTML = `
+          <div class="success">
+            ✅ Đã xóa ${cleared} items từ localStorage<br>
+            <br>
+            <strong>Bước tiếp theo:</strong><br>
+            1. Đóng trang này<br>
+            2. Mở lại trang <a href="pages/kanji.html">Kanji</a><br>
+            3. App sẽ tự động load 2,136 kanji từ file JSON
+          </div>
+        `;
+
+        displayCurrentData();
+      }
+    }
+
+    // Display on load
+    displayCurrentData();
+  </script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Debug Kanji Data</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    .info { background: #f0f0f0; padding: 15px; margin: 10px 0; border-radius: 5px; }
+    button { padding: 10px 20px; margin: 5px; cursor: pointer; }
+    .success { background: #4CAF50; color: white; border: none; }
+    .danger { background: #f44336; color: white; border: none; }
+    pre { background: #f5f5f5; padding: 10px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>🔍 Debug Kanji Data</h1>
+  
+  <div class="info">
+    <h3>Current Status:</h3>
+    <p><strong>Total Kanji in File:</strong> <span id="fileCount">Loading...</span></p>
+    <p><strong>Total Kanji in LocalStorage:</strong> <span id="storageCount">Loading...</span></p>
+    <p><strong>N5 Kanji in File:</strong> <span id="fileN5Count">Loading...</span></p>
+    <p><strong>N5 Kanji in LocalStorage:</strong> <span id="storageN5Count">Loading...</span></p>
+  </div>
+
+  <div>
+    <button class="success" onclick="loadFromFile()">🔄 Load from File</button>
+    <button class="danger" onclick="clearStorage()">🗑️ Clear LocalStorage</button>
+    <button onclick="showData()">👁️ Show Data</button>
+  </div>
+
+  <div id="output"></div>
+
+  <script>
+    const STORAGE_KEY = 'jpapp_kanji';
+
+    async function loadFromFile() {
+      try {
+        const response = await fetch('../assets/data/kanji.json');
+        const data = await response.json();
+        document.getElementById('fileCount').textContent = data.length;
+        
+        const n5Count = data.filter(k => k.level === 'N5').length;
+        document.getElementById('fileN5Count').textContent = n5Count;
+        
+        document.getElementById('output').innerHTML = `
+          <div class="info" style="background: #d4edda;">
+            ✅ Successfully loaded ${data.length} kanji from file<br>
+            ✅ Found ${n5Count} N5 kanji
+          </div>
+        `;
+      } catch (error) {
+        document.getElementById('output').innerHTML = `
+          <div class="info" style="background: #f8d7da;">
+            ❌ Error loading file: ${error.message}
+          </div>
+        `;
+      }
+      checkStorage();
+    }
+
+    function checkStorage() {
+      const storedData = localStorage.getItem(STORAGE_KEY);
+      if (storedData) {
+        const data = JSON.parse(storedData);
+        document.getElementById('storageCount').textContent = data.length;
+        
+        const n5Count = data.filter(k => k.level === 'N5').length;
+        document.getElementById('storageN5Count').textContent = n5Count;
+      } else {
+        document.getElementById('storageCount').textContent = 'No data';
+        document.getElementById('storageN5Count').textContent = 'No data';
+      }
+    }
+
+    function clearStorage() {
+      if (confirm('Are you sure you want to clear kanji data from LocalStorage?')) {
+        localStorage.removeItem(STORAGE_KEY);
+        document.getElementById('output').innerHTML = `
+          <div class="info" style="background: #fff3cd;">
+            ⚠️ LocalStorage cleared. Refresh the kanji page to reload data.
+          </div>
+        `;
+        checkStorage();
+      }
+    }
+
+    function showData() {
+      const storedData = localStorage.getItem(STORAGE_KEY);
+      if (storedData) {
+        const data = JSON.parse(storedData);
+        const n5Data = data.filter(k => k.level === 'N5').slice(0, 20);
+        document.getElementById('output').innerHTML = `
+          <h3>First 20 N5 Kanji in LocalStorage:</h3>
+          <pre>${JSON.stringify(n5Data, null, 2)}</pre>
+        `;
+      } else {
+        document.getElementById('output').innerHTML = `
+          <div class="info" style="background: #f8d7da;">
+            ❌ No data in LocalStorage
+          </div>
+        `;
+      }
+    }
+
+    // Load on page load
+    loadFromFile();
+  </script>
+</body>
+</html>
