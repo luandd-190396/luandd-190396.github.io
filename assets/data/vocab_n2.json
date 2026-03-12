@@ -1,0 +1,30 @@
+[
+  {
+    "id": "vocab-n2-001",
+    "word": "概念",
+    "reading": "がいねん",
+    "romaji": "gainen",
+    "meaning_vi": "general idea, ý tưởng, quan niệm",
+    "meaning_en": "general idea; concept; notion",
+    "level": "N2",
+    "type": "noun",
+    "lesson": "L1",
+    "example": "",
+    "example_reading": "",
+    "example_meaning": ""
+  },
+  {
+    "id": "vocab-n2-002",
+    "word": "議論",
+    "reading": "ぎろん",
+    "romaji": "giron",
+    "meaning_vi": "lý lẽ, cuộc thảo luận, tranh luận",
+    "meaning_en": "argument; discussion; dispute",
+    "level": "N2",
+    "type": "noun",
+    "lesson": "L1",
+    "example": "",
+    "example_reading": "",
+    "example_meaning": ""
+  }
+]

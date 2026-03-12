@@ -70,5 +70,35 @@ const Storage = {
    */
   hasKey(key) {
     return localStorage.getItem(key) !== null;
+  },
+
+  /**
+   * Get current learning level
+   * @returns {string|null} Current level (N5, N4, N3, N2, N1) or null
+   */
+  getCurrentLevel() {
+    return this.getData('currentLevel');
+  },
+
+  /**
+   * Set current learning level
+   * @param {string} level - Level to set (N5, N4, N3, N2, N1)
+   * @returns {boolean} Success status
+   */
+  setCurrentLevel(level) {
+    const validLevels = ['N5', 'N4', 'N3', 'N2', 'N1'];
+    if (!validLevels.includes(level)) {
+      console.error(`Invalid level: ${level}`);
+      return false;
+    }
+    return this.setData('currentLevel', level);
+  },
+
+  /**
+   * Clear current learning level
+   * @returns {boolean} Success status
+   */
+  clearCurrentLevel() {
+    return this.removeData('currentLevel');
   }
 };

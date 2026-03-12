@@ -13,8 +13,9 @@ const VocabModule = {
   async init() {
     await this.loadData();
     this.setupEventListeners();
-    this.renderCards();
     this.populateFilters();
+    this.applyLevelFilter(); // Apply saved level filter
+    this.filterData(); // Trigger filter to apply level
   },
 
   /**
@@ -109,6 +110,16 @@ const VocabModule = {
     types.forEach(type => {
       $typeSelect.append(`<option value="${type}">${type}</option>`);
     });
+  },
+
+  /**
+   * Apply saved level filter from storage
+   */
+  applyLevelFilter() {
+    const savedLevel = Storage.getCurrentLevel();
+    if (savedLevel) {
+      $('#levelFilter').val(savedLevel);
+    }
   },
 
   /**

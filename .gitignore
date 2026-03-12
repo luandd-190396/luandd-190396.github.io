@@ -1,0 +1,40 @@
+# Dataset Builder - Ignore toàn bộ folder này
+dataset-builder/
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+ENV/
+
+# IDE và Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs và temporary files
+*.log
+*.tmp
+*.bak
+
+# Node modules (nếu có)
+node_modules/
+
+# Git files
+.git/

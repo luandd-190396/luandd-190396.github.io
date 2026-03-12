@@ -1,0 +1,854 @@
+[
+  {
+    "id": "kana-001",
+    "kana": "あ",
+    "romaji": "a",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-002",
+    "kana": "い",
+    "romaji": "i",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-003",
+    "kana": "う",
+    "romaji": "u",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-004",
+    "kana": "え",
+    "romaji": "e",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-005",
+    "kana": "お",
+    "romaji": "o",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-006",
+    "kana": "か",
+    "romaji": "ka",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-007",
+    "kana": "き",
+    "romaji": "ki",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-008",
+    "kana": "く",
+    "romaji": "ku",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-009",
+    "kana": "け",
+    "romaji": "ke",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-010",
+    "kana": "こ",
+    "romaji": "ko",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-011",
+    "kana": "が",
+    "romaji": "ga",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-012",
+    "kana": "ぎ",
+    "romaji": "gi",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-013",
+    "kana": "ぐ",
+    "romaji": "gu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-014",
+    "kana": "げ",
+    "romaji": "ge",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-015",
+    "kana": "ご",
+    "romaji": "go",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-016",
+    "kana": "さ",
+    "romaji": "sa",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-017",
+    "kana": "し",
+    "romaji": "shi",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-018",
+    "kana": "す",
+    "romaji": "su",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-019",
+    "kana": "せ",
+    "romaji": "se",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-020",
+    "kana": "そ",
+    "romaji": "so",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-021",
+    "kana": "ざ",
+    "romaji": "za",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-022",
+    "kana": "じ",
+    "romaji": "ji",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-023",
+    "kana": "ず",
+    "romaji": "zu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-024",
+    "kana": "ぜ",
+    "romaji": "ze",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-025",
+    "kana": "ぞ",
+    "romaji": "zo",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-026",
+    "kana": "た",
+    "romaji": "ta",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-027",
+    "kana": "ち",
+    "romaji": "chi",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-028",
+    "kana": "つ",
+    "romaji": "tsu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-029",
+    "kana": "て",
+    "romaji": "te",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-030",
+    "kana": "と",
+    "romaji": "to",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-031",
+    "kana": "だ",
+    "romaji": "da",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-032",
+    "kana": "ぢ",
+    "romaji": "ji",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-033",
+    "kana": "づ",
+    "romaji": "zu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-034",
+    "kana": "で",
+    "romaji": "de",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-035",
+    "kana": "ど",
+    "romaji": "do",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-036",
+    "kana": "な",
+    "romaji": "na",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-037",
+    "kana": "に",
+    "romaji": "ni",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-038",
+    "kana": "ぬ",
+    "romaji": "nu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-039",
+    "kana": "ね",
+    "romaji": "ne",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-040",
+    "kana": "の",
+    "romaji": "no",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-041",
+    "kana": "は",
+    "romaji": "ha",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-042",
+    "kana": "ひ",
+    "romaji": "hi",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-043",
+    "kana": "ふ",
+    "romaji": "fu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-044",
+    "kana": "へ",
+    "romaji": "he",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-045",
+    "kana": "ほ",
+    "romaji": "ho",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-046",
+    "kana": "ば",
+    "romaji": "ba",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-047",
+    "kana": "び",
+    "romaji": "bi",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-048",
+    "kana": "ぶ",
+    "romaji": "bu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-049",
+    "kana": "べ",
+    "romaji": "be",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-050",
+    "kana": "ぼ",
+    "romaji": "bo",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-051",
+    "kana": "ぱ",
+    "romaji": "pa",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-052",
+    "kana": "ぴ",
+    "romaji": "pi",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-053",
+    "kana": "ぷ",
+    "romaji": "pu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-054",
+    "kana": "ぺ",
+    "romaji": "pe",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-055",
+    "kana": "ぽ",
+    "romaji": "po",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-056",
+    "kana": "ま",
+    "romaji": "ma",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-057",
+    "kana": "み",
+    "romaji": "mi",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-058",
+    "kana": "む",
+    "romaji": "mu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-059",
+    "kana": "め",
+    "romaji": "me",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-060",
+    "kana": "も",
+    "romaji": "mo",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-061",
+    "kana": "や",
+    "romaji": "ya",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-062",
+    "kana": "ゆ",
+    "romaji": "yu",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-063",
+    "kana": "よ",
+    "romaji": "yo",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-064",
+    "kana": "ら",
+    "romaji": "ra",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-065",
+    "kana": "り",
+    "romaji": "ri",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-066",
+    "kana": "る",
+    "romaji": "ru",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-067",
+    "kana": "れ",
+    "romaji": "re",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-068",
+    "kana": "ろ",
+    "romaji": "ro",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-069",
+    "kana": "わ",
+    "romaji": "wa",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-070",
+    "kana": "を",
+    "romaji": "wo",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-071",
+    "kana": "ん",
+    "romaji": "n",
+    "type": "hiragana"
+  },
+  {
+    "id": "kana-072",
+    "kana": "ア",
+    "romaji": "a",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-073",
+    "kana": "イ",
+    "romaji": "i",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-074",
+    "kana": "ウ",
+    "romaji": "u",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-075",
+    "kana": "エ",
+    "romaji": "e",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-076",
+    "kana": "オ",
+    "romaji": "o",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-077",
+    "kana": "カ",
+    "romaji": "ka",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-078",
+    "kana": "キ",
+    "romaji": "ki",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-079",
+    "kana": "ク",
+    "romaji": "ku",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-080",
+    "kana": "ケ",
+    "romaji": "ke",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-081",
+    "kana": "コ",
+    "romaji": "ko",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-082",
+    "kana": "ガ",
+    "romaji": "ga",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-083",
+    "kana": "ギ",
+    "romaji": "gi",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-084",
+    "kana": "グ",
+    "romaji": "gu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-085",
+    "kana": "ゲ",
+    "romaji": "ge",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-086",
+    "kana": "ゴ",
+    "romaji": "go",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-087",
+    "kana": "サ",
+    "romaji": "sa",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-088",
+    "kana": "シ",
+    "romaji": "shi",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-089",
+    "kana": "ス",
+    "romaji": "su",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-090",
+    "kana": "セ",
+    "romaji": "se",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-091",
+    "kana": "ソ",
+    "romaji": "so",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-092",
+    "kana": "ザ",
+    "romaji": "za",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-093",
+    "kana": "ジ",
+    "romaji": "ji",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-094",
+    "kana": "ズ",
+    "romaji": "zu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-095",
+    "kana": "ゼ",
+    "romaji": "ze",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-096",
+    "kana": "ゾ",
+    "romaji": "zo",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-097",
+    "kana": "タ",
+    "romaji": "ta",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-098",
+    "kana": "チ",
+    "romaji": "chi",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-099",
+    "kana": "ツ",
+    "romaji": "tsu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-100",
+    "kana": "テ",
+    "romaji": "te",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-101",
+    "kana": "ト",
+    "romaji": "to",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-102",
+    "kana": "ダ",
+    "romaji": "da",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-103",
+    "kana": "ヂ",
+    "romaji": "ji",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-104",
+    "kana": "ヅ",
+    "romaji": "zu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-105",
+    "kana": "デ",
+    "romaji": "de",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-106",
+    "kana": "ド",
+    "romaji": "do",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-107",
+    "kana": "ナ",
+    "romaji": "na",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-108",
+    "kana": "ニ",
+    "romaji": "ni",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-109",
+    "kana": "ヌ",
+    "romaji": "nu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-110",
+    "kana": "ネ",
+    "romaji": "ne",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-111",
+    "kana": "ノ",
+    "romaji": "no",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-112",
+    "kana": "ハ",
+    "romaji": "ha",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-113",
+    "kana": "ヒ",
+    "romaji": "hi",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-114",
+    "kana": "フ",
+    "romaji": "fu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-115",
+    "kana": "ヘ",
+    "romaji": "he",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-116",
+    "kana": "ホ",
+    "romaji": "ho",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-117",
+    "kana": "バ",
+    "romaji": "ba",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-118",
+    "kana": "ビ",
+    "romaji": "bi",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-119",
+    "kana": "ブ",
+    "romaji": "bu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-120",
+    "kana": "ベ",
+    "romaji": "be",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-121",
+    "kana": "ボ",
+    "romaji": "bo",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-122",
+    "kana": "パ",
+    "romaji": "pa",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-123",
+    "kana": "ピ",
+    "romaji": "pi",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-124",
+    "kana": "プ",
+    "romaji": "pu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-125",
+    "kana": "ペ",
+    "romaji": "pe",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-126",
+    "kana": "ポ",
+    "romaji": "po",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-127",
+    "kana": "マ",
+    "romaji": "ma",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-128",
+    "kana": "ミ",
+    "romaji": "mi",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-129",
+    "kana": "ム",
+    "romaji": "mu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-130",
+    "kana": "メ",
+    "romaji": "me",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-131",
+    "kana": "モ",
+    "romaji": "mo",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-132",
+    "kana": "ヤ",
+    "romaji": "ya",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-133",
+    "kana": "ユ",
+    "romaji": "yu",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-134",
+    "kana": "ヨ",
+    "romaji": "yo",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-135",
+    "kana": "ラ",
+    "romaji": "ra",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-136",
+    "kana": "リ",
+    "romaji": "ri",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-137",
+    "kana": "ル",
+    "romaji": "ru",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-138",
+    "kana": "レ",
+    "romaji": "re",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-139",
+    "kana": "ロ",
+    "romaji": "ro",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-140",
+    "kana": "ワ",
+    "romaji": "wa",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-141",
+    "kana": "ヲ",
+    "romaji": "wo",
+    "type": "katakana"
+  },
+  {
+    "id": "kana-142",
+    "kana": "ン",
+    "romaji": "n",
+    "type": "katakana"
+  }
+]

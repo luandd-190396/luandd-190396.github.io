@@ -18,10 +18,14 @@ const App = {
     // Load statistics on homepage
     if (window.location.pathname.includes('index.html') || window.location.pathname.endsWith('/')) {
       await this.loadStatistics();
+      this.initLevelSelector();
     }
 
     // Set active navigation
     this.setActiveNav();
+    
+    // Display current level in navbar
+    this.displayCurrentLevel();
 
     // Initialize tooltips if Bootstrap is available
     if (typeof bootstrap !== 'undefined' && bootstrap.Tooltip) {
@@ -78,6 +82,72 @@ const App = {
    */
   reload() {
     window.location.reload();
+  },
+
+  /**
+   * Initialize level selector on homepage
+   */
+  initLevelSelector() {
+    const currentLevel = Storage.getCurrentLevel();
+    
+    // Update display
+    this.updateLevelDisplay(currentLevel);
+    
+    // Handle level button clicks
+    $('.level-btn').on('click', function() {
+      const level = $(this).data('level');
+      
+      if (level === 'ALL') {
+        Storage.clearCurrentLevel();
+      } else {
+        Storage.setCurrentLevel(level);
+      }
+      
+      // Update display
+      App.updateLevelDisplay(level === 'ALL' ? null : level);
+      
+      // Show success message
+      const levelText = level === 'ALL' ? 'All levels' : level;
+      alert(`Learning level set to: ${levelText}\n\nAll vocabulary, kanji, flashcards, and quizzes will be filtered accordingly.`);
+    });
+  },
+
+  /**
+   * Update level display on homepage
+   * @param {string|null} level - Current level or null
+   */
+  updateLevelDisplay(level) {
+    // Update buttons
+    $('.level-btn').removeClass('btn-primary btn-secondary').addClass('btn-outline-primary');
+    $('.level-btn[data-level="ALL"]').removeClass('btn-outline-primary').addClass('btn-outline-secondary');
+    
+    if (level) {
+      $(`.level-btn[data-level="${level}"]`).removeClass('btn-outline-primary').addClass('btn-primary');
+      $('#currentLevelDisplay').html(`<span class="badge bg-primary">${level}</span>`);
+    } else {
+      $('.level-btn[data-level="ALL"]').removeClass('btn-outline-secondary').addClass('btn-secondary');
+      $('#currentLevelDisplay').text('All levels (no filter)');
+    }
+  },
+
+  /**
+   * Display current level in navbar (all pages)
+   */
+  displayCurrentLevel() {
+    const currentLevel = Storage.getCurrentLevel();
+    
+    if (currentLevel) {
+      // Add level indicator to navbar
+      const levelIndicator = `
+        <li class="nav-item">
+          <span class="nav-link">
+            <i class="bi bi-mortarboard"></i> Level: <strong>${currentLevel}</strong>
+          </span>
+        </li>
+      `;
+      
+      $('.navbar-nav').prepend(levelIndicator);
+    }
   }
 };
 

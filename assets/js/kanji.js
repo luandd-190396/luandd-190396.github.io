@@ -13,8 +13,9 @@ const KanjiModule = {
   async init() {
     await this.loadData();
     this.setupEventListeners();
-    this.renderCards();
     this.populateFilters();
+    this.applyLevelFilter(); // Apply saved level filter
+    this.filterData(); // Trigger filter to apply level
   },
 
   /**
@@ -109,6 +110,16 @@ const KanjiModule = {
     lessons.forEach(lesson => {
       $lessonSelect.append(`<option value="${lesson}">${lesson}</option>`);
     });
+  },
+
+  /**
+   * Apply saved level filter from storage
+   */
+  applyLevelFilter() {
+    const savedLevel = Storage.getCurrentLevel();
+    if (savedLevel) {
+      $('#levelFilter').val(savedLevel);
+    }
   },
 
   /**

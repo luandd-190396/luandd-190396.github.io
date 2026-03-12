@@ -11,6 +11,7 @@
   align-items: center;
   justify-content: center;
   padding: 2rem 0;
+  margin-bottom: 1rem;
 }
 
 /* Flashcard */
@@ -194,115 +195,180 @@
 /* Responsive Design */
 @media (max-width: 768px) {
   .flashcard-container {
-    padding: 1.5rem 1rem;
+    padding: 1rem 1rem;
+    min-height: 350px;
+    margin-bottom: 0.5rem;
   }
   
   .flashcard {
-    height: 350px;
+    height: 320px;
     max-width: 100%;
   }
   
   .flashcard-main {
-    font-size: 3.5rem;
+    font-size: 3rem;
+    margin-bottom: 0.75rem;
   }
   
   .flashcard-reading {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
+    margin-bottom: 0.75rem;
   }
   
   .flashcard-readings {
     font-size: 1.2rem;
+    margin-top: 0.75rem;
   }
   
   .flashcard-example {
     font-size: 1rem;
+    margin-top: 0.75rem;
   }
   
   .flashcard-controls {
     gap: 0.5rem;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
   }
   
   .flashcard-controls .btn {
-    min-width: 100px;
-    padding: 0.6rem 1.2rem;
-    font-size: 0.9rem;
+    min-width: 90px;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
   }
   
-  .flashcard-mode-selector {
-    margin-bottom: 1.5rem;
+  .flashcard-progress {
+    margin-bottom: 1rem;
   }
   
-  .card-counter {
-    font-size: 0.95rem;
+  .flashcard-progress h4 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .flashcard-type-selector {
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+  }
+  
+  .flashcard-hint {
+    margin-top: 0.75rem;
+    font-size: 0.8rem;
   }
 }
 
 @media (max-width: 576px) {
   .flashcard-container {
-    padding: 1rem 0.5rem;
+    padding: 0.75rem 0.5rem;
+    min-height: 280px;
+    margin-bottom: 0.5rem;
   }
   
   .flashcard {
-    height: 280px;
+    height: 260px;
   }
   
   .flashcard-main {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
+    margin-bottom: 0.5rem;
   }
   
   .flashcard-reading {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
   }
   
   .flashcard-readings {
-    font-size: 1rem;
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    line-height: 1.5;
+  }
+  
+  .flashcard-readings div {
+    margin-bottom: 0.3rem;
   }
   
   .flashcard-example {
-    font-size: 0.875rem;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    line-height: 1.4;
+  }
+  
+  .flashcard-example div {
+    margin-bottom: 0.3rem;
   }
   
   .flashcard-front,
   .flashcard-back {
-    padding: 1rem;
+    padding: 1rem 0.75rem;
   }
   
   .flashcard-controls {
-    gap: 0.4rem;
-    margin-top: 1rem;
-    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-top: 0.75rem;
   }
   
   .flashcard-controls .btn {
-    min-width: 80px;
-    padding: 0.5rem 1rem;
+    min-width: 70px;
+    padding: 0.45rem 0.75rem;
+    font-size: 0.8rem;
+    flex: 1;
+  }
+  
+  .flashcard-controls .btn i {
+    margin-right: 0.25rem;
+  }
+  
+  .flashcard-controls .btn-lg {
+    padding: 0.5rem 0.85rem;
     font-size: 0.85rem;
-    flex: 1 1 auto;
   }
   
-  .flashcard-mode-selector {
-    margin-bottom: 1rem;
-  }
-  
-  .flashcard-mode-selector h5 {
-    font-size: 1rem;
+  .flashcard-progress {
     margin-bottom: 0.75rem;
   }
   
-  .flashcard-mode-selector .btn-group {
-    flex-wrap: wrap;
-    gap: 0.3rem;
+  .flashcard-progress h4 {
+    font-size: 1.1rem;
+    margin-bottom: 0.4rem;
   }
   
-  .flashcard-mode-selector .btn {
-    padding: 0.4rem 0.75rem;
-    font-size: 0.85rem;
+  .flashcard-type-selector {
+    padding: 0.5rem;
+    margin-bottom: 0.75rem;
   }
   
-  .card-counter {
+  .flashcard-type-selector .row {
+    row-gap: 0.5rem;
+  }
+  
+  .flashcard-type-selector label {
+    font-size: 0.9rem;
+    margin-right: 0.5rem;
+  }
+  
+  .flashcard-type-selector select {
+    min-width: 140px;
     font-size: 0.875rem;
-    margin-top: 0.75rem;
+  }
+  
+  .flashcard-type-selector .col-md-6:last-child {
+    text-align: left !important;
+  }
+  
+  .flashcard-type-selector .btn {
+    width: 100%;
+    padding: 0.4rem 0.75rem;
+    font-size: 0.875rem;
+  }
+  
+  .flashcard-hint {
+    margin-top: 0.5rem;
+    font-size: 0.75rem;
+    line-height: 1.4;
+  }
+  
+  .flashcard-hint p {
+    margin-bottom: 0.5rem;
   }
 }
 

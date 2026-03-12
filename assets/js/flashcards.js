@@ -35,7 +35,14 @@ const FlashcardsModule = {
    * Load flashcard deck
    */
   async loadDeck(shuffle = false) {
-    const data = await DataService.getModuleData(this.type);
+    let data = await DataService.getModuleData(this.type);
+    
+    // Filter by saved level if applicable
+    const savedLevel = Storage.getCurrentLevel();
+    if (savedLevel && (this.type === 'vocab' || this.type === 'kanji')) {
+      data = data.filter(item => item.level === savedLevel);
+    }
+    
     this.deck = shuffle ? Utils.shuffleArray(data) : [...data];
     this.currentIndex = 0;
     this.isFlipped = false;

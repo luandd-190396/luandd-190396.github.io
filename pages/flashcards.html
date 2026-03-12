@@ -61,10 +61,10 @@
   </nav>
 
   <!-- Type Selector -->
-  <div class="container mt-4">
+  <div class="container mt-3 mt-md-4">
     <div class="flashcard-type-selector">
       <div class="row align-items-center">
-        <div class="col-md-6">
+        <div class="col-md-6 mb-2 mb-md-0">
           <label for="typeSelector" class="form-label mb-0">Select Study Type:</label>
           <select id="typeSelector" class="form-select d-inline-block w-auto ms-2">
             <option value="hiragana">Hiragana</option>
@@ -73,7 +73,7 @@
             <option value="kanji">Kanji</option>
           </select>
         </div>
-        <div class="col-md-6 text-end">
+        <div class="col-md-6 text-md-end">
           <button id="btnShuffle" class="btn btn-primary">
             <i class="bi bi-shuffle"></i> Shuffle
           </button>
@@ -83,7 +83,7 @@
   </div>
 
   <!-- Progress -->
-  <div class="container mt-4">
+  <div class="container mt-2 mt-md-4">
     <div class="flashcard-progress">
       <h4 id="cardProgress">0 / 0</h4>
       <div class="progress">
@@ -93,7 +93,7 @@
   </div>
 
   <!-- Flashcard -->
-  <div class="container">
+  <div class="container mt-2 mt-md-3">
     <div class="flashcard-container">
       <div class="flashcard">
         <div class="flashcard-inner">
@@ -109,25 +109,26 @@
   </div>
 
   <!-- Controls -->
-  <div class="container">
+  <div class="container mt-2 mt-md-3">
     <div class="flashcard-controls">
       <button id="btnPrev" class="btn btn-secondary">
-        <i class="bi bi-arrow-left"></i> Previous
+        <i class="bi bi-arrow-left"></i> <span class="d-none d-sm-inline">Previous</span><span class="d-inline d-sm-none">Prev</span>
       </button>
       <button id="btnFlip" class="btn btn-primary btn-lg">
-        <i class="bi bi-arrow-repeat"></i> Flip Card
+        <i class="bi bi-arrow-repeat"></i> Flip
       </button>
       <button id="btnNext" class="btn btn-secondary">
-        Next <i class="bi bi-arrow-right"></i>
+        <span class="d-none d-sm-inline">Next</span><span class="d-inline d-sm-none">Next</span> <i class="bi bi-arrow-right"></i>
       </button>
     </div>
     <div class="flashcard-hint">
-      <p>Click the card or press Space/Enter to flip • Use arrow keys to navigate</p>
+      <p class="d-none d-md-block">Click the card or press Space/Enter to flip • Use arrow keys to navigate</p>
+      <p class="d-md-none">Tap card to flip</p>
     </div>
   </div>
 
   <!-- Footer -->
-  <footer class="footer">
+  <footer class="footer mt-3 mt-md-5">
     <div class="container text-center">
       <p>&copy; 2026 Japanese Study App</p>
     </div>
