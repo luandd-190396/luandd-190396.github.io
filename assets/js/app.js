@@ -34,6 +34,9 @@ const App = {
         return new bootstrap.Tooltip(tooltipTriggerEl);
       });
     }
+
+    // Setup reset cache button
+    this.setupResetCacheButton();
   },
 
   /**
@@ -147,6 +150,35 @@ const App = {
       `;
       
       $('.navbar-nav').prepend(levelIndicator);
+    }
+  },
+
+  /**
+   * Setup reset cache button event listener
+   */
+  setupResetCacheButton() {
+    $('#btnResetCache').on('click', () => {
+      this.clearCache();
+    });
+  },
+
+  /**
+   * Clear all localStorage cache and reload page
+   */
+  clearCache() {
+    if (confirm('Are you sure you want to clear all cached data?\n\nThis will:\n- Clear all vocabulary, kanji, hiragana, katakana data\n- Reset learning level\n- Reload fresh data from files\n\nClick OK to proceed.')) {
+      // Clear all app data from localStorage
+      localStorage.removeItem('jpapp_hiragana');
+      localStorage.removeItem('jpapp_katakana');
+      localStorage.removeItem('jpapp_vocab');
+      localStorage.removeItem('jpapp_kanji');
+      localStorage.removeItem('currentLevel');
+      
+      // Show success message
+      alert('Cache cleared successfully!\n\nThe page will reload to fetch fresh data.');
+      
+      // Reload page
+      window.location.reload();
     }
   }
 };
