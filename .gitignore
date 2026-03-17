@@ -1,5 +1,6 @@
 # Dataset Builder - Ignore toàn bộ folder này
 dataset-builder/
+data-pdf/
 
 # Python files
 __pycache__/
