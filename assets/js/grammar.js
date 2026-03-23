@@ -295,10 +295,15 @@ const GrammarModule = {
       ? item.tags.map(tag => `<span class="grammar-tag">${Utils.escapeHtml(tag)}</span>`).join('')
       : '';
 
-    return $(`
+    const $card = $(`
       <div class="col-md-6 col-lg-4">
         <div class="grammar-card">
-          <div class="grammar-pattern">${Utils.escapeHtml(item.pattern)}</div>
+          <div class="d-flex justify-content-between align-items-start mb-2">
+            <div class="grammar-pattern flex-grow-1">${Utils.escapeHtml(item.pattern)}</div>
+            <button class="btn btn-sm btn-outline-primary btn-speak ms-2" title="Phát âm mẫu câu" data-text="${Utils.escapeHtml(item.pattern)}">
+              <i class="bi bi-volume-up"></i>
+            </button>
+          </div>
           
           <div class="grammar-meta">
             <span class="grammar-level-badge ${levelClass}">${Utils.escapeHtml(item.jlpt_level)}</span>
@@ -314,11 +319,20 @@ const GrammarModule = {
             <strong>Structure:</strong> ${Utils.escapeHtml(item.structure)}
           </div>
 
-          <div class="grammar-example">
-            <div class="grammar-example-text">${Utils.escapeHtml(item.example_1)}</div>
-            <div class="grammar-example-reading">${Utils.escapeHtml(item.example_1_reading)}</div>
-            <div class="grammar-example-translation">${Utils.escapeHtml(item.example_1_translation_vi)}</div>
-          </div>
+          ${item.example_1 ? `
+            <div class="grammar-example">
+              <div class="d-flex justify-content-between align-items-start">
+                <div class="flex-grow-1">
+                  <div class="grammar-example-text">${Utils.escapeHtml(item.example_1)}</div>
+                  <div class="grammar-example-reading">${Utils.escapeHtml(item.example_1_reading || '')}</div>
+                  <div class="grammar-example-translation">${Utils.escapeHtml(item.example_1_translation_vi || '')}</div>
+                </div>
+                <button class="btn btn-sm btn-outline-secondary btn-speak ms-2" title="Phát âm ví dụ" data-text="${Utils.escapeHtml(item.example_1)}">
+                  <i class="bi bi-volume-up"></i>
+                </button>
+              </div>
+            </div>
+          ` : ''}
 
           ${tags ? `<div class="mb-2">${tags}</div>` : ''}
 
@@ -330,6 +344,17 @@ const GrammarModule = {
         </div>
       </div>
     `);
+
+    // Attach click event to speak buttons
+    $card.find('.btn-speak').on('click', function(e) {
+      e.stopPropagation();
+      const text = $(this).data('text');
+      if (text && typeof TextToSpeech !== 'undefined') {
+        TextToSpeech.speak(text);
+      }
+    });
+
+    return $card;
   },
 
   /**

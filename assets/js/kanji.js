@@ -190,12 +190,17 @@ const KanjiModule = {
    * @returns {jQuery} Card element
    */
   createCard(item) {
-    return $(`
+    const $card = $(`
       <div class="col-12 col-md-6 col-lg-4 mb-3">
         <div class="card h-100 kanji-card">
           <div class="card-body">
             <div class="d-flex justify-content-between align-items-start mb-3">
-              <div class="kanji-char-large">${Utils.escapeHtml(item.kanji)}</div>
+              <div class="d-flex align-items-center gap-2">
+                <div class="kanji-char-large">${Utils.escapeHtml(item.kanji)}</div>
+                <button class="btn btn-sm btn-outline-primary btn-speak" title="Phát âm kanji" data-text="${Utils.escapeHtml(item.kanji)}">
+                  <i class="bi bi-volume-up"></i>
+                </button>
+              </div>
               <span class="badge bg-primary">${Utils.escapeHtml(item.level)}</span>
             </div>
             <div class="meaning mb-3">
@@ -203,25 +208,57 @@ const KanjiModule = {
             </div>
             <hr>
             <div class="readings mb-2">
-              <div class="mb-1">
-                <strong>On'yomi:</strong> <span class="text-danger">${Utils.escapeHtml(item.onyomi)}</span>
+              <div class="mb-1 d-flex justify-content-between align-items-center">
+                <div>
+                  <strong>On'yomi:</strong> <span class="text-danger">${Utils.escapeHtml(item.onyomi)}</span>
+                </div>
+                ${item.onyomi ? `
+                  <button class="btn btn-sm btn-outline-danger btn-speak" title="Phát âm On'yomi" data-text="${Utils.escapeHtml(item.onyomi)}">
+                    <i class="bi bi-volume-up-fill"></i>
+                  </button>
+                ` : ''}
               </div>
-              <div>
-                <strong>Kun'yomi:</strong> <span class="text-success">${Utils.escapeHtml(item.kunyomi || '-')}</span>
+              <div class="d-flex justify-content-between align-items-center">
+                <div>
+                  <strong>Kun'yomi:</strong> <span class="text-success">${Utils.escapeHtml(item.kunyomi || '-')}</span>
+                </div>
+                ${item.kunyomi ? `
+                  <button class="btn btn-sm btn-outline-success btn-speak" title="Phát âm Kun'yomi" data-text="${Utils.escapeHtml(item.kunyomi.replace(/-/g, ''))}">
+                    <i class="bi bi-volume-up-fill"></i>
+                  </button>
+                ` : ''}
               </div>
             </div>
             ${item.example_word ? `
               <hr>
               <div class="example">
-                <div><strong>Example:</strong> ${Utils.escapeHtml(item.example_word)}</div>
-                <div class="text-muted">${Utils.escapeHtml(item.example_reading)}</div>
-                <div class="text-muted small">${Utils.escapeHtml(item.example_meaning)}</div>
+                <div class="d-flex justify-content-between align-items-start">
+                  <div class="flex-grow-1">
+                    <div><strong>Example:</strong> ${Utils.escapeHtml(item.example_word)}</div>
+                    <div class="text-muted">${Utils.escapeHtml(item.example_reading || '')}</div>
+                    <div class="text-muted small">${Utils.escapeHtml(item.example_meaning || '')}</div>
+                  </div>
+                  <button class="btn btn-sm btn-outline-secondary btn-speak ms-2" title="Phát âm ví dụ" data-text="${Utils.escapeHtml(item.example_word)}">
+                    <i class="bi bi-volume-up"></i>
+                  </button>
+                </div>
               </div>
             ` : ''}
           </div>
         </div>
       </div>
     `);
+
+    // Attach click event to speak buttons
+    $card.find('.btn-speak').on('click', function(e) {
+      e.stopPropagation();
+      const text = $(this).data('text');
+      if (text && typeof TextToSpeech !== 'undefined') {
+        TextToSpeech.speak(text);
+      }
+    });
+
+    return $card;
   }
 };
 

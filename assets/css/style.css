@@ -460,7 +460,89 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0.4rem 1.5rem;
     font-size: 0.9rem;
   }
+}
+
+/* Text-to-Speech Button Styles */
+.btn-speak {
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+}
+
+.btn-speak:hover {
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.btn-speak:active {
+  transform: scale(0.95);
+}
+
+.btn-speak i {
+  font-size: 0.9rem;
+}
+
+/* Flashcard Speak Button */
+.flashcard-speak-btn {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 1.2rem;
+  backdrop-filter: blur(10px);
+  z-index: 10;
+}
+
+.flashcard-speak-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  border-color: rgba(255, 255, 255, 0.8);
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.flashcard-speak-btn:active {
+  transform: scale(0.95);
+}
+
+.flashcard-speak-btn i {
+  filter: drop-shadow(1px 1px 2px rgba(0,0,0,0.3));
+}
+
+@media (max-width: 768px) {
+  .btn-speak {
+    width: 28px;
+    height: 28px;
+  }
   
+  .btn-speak i {
+    font-size: 0.8rem;
+  }
+  
+  .flashcard-speak-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+    bottom: 10px;
+    right: 10px;
+  }
+}
+
   h1 {
     font-size: 1.5rem;
   }

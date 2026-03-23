@@ -221,13 +221,19 @@ const VocabModule = {
     const meaningVi = item.meaning_vi || item.meaning_en || '';
     const meaningEn = item.meaning_en || item.meaning_vi || '';
     const type = item.type || item.category || '-';
+    const textToSpeak = reading || item.word || '';
 
-    return $(`
+    const $card = $(`
       <div class="col-12 col-md-6 col-lg-4 mb-3">
         <div class="card h-100 vocab-card">
           <div class="card-body">
             <div class="d-flex justify-content-between align-items-start mb-2">
-              <h5 class="card-title mb-0 kanji-char">${Utils.escapeHtml(item.word)}</h5>
+              <div class="d-flex align-items-center gap-2">
+                <h5 class="card-title mb-0 kanji-char">${Utils.escapeHtml(item.word)}</h5>
+                <button class="btn btn-sm btn-outline-primary btn-speak" title="Phát âm" data-text="${Utils.escapeHtml(textToSpeak)}">
+                  <i class="bi bi-volume-up"></i>
+                </button>
+              </div>
               <span class="badge bg-primary">${Utils.escapeHtml(level)}</span>
             </div>
             <div class="reading mb-2 text-secondary">${Utils.escapeHtml(reading)}</div>
@@ -243,7 +249,14 @@ const VocabModule = {
             ${item.example ? `
               <hr>
               <div class="example small">
-                <div><strong>Example:</strong> ${Utils.escapeHtml(item.example)}</div>
+                <div class="d-flex justify-content-between align-items-start">
+                  <div class="flex-grow-1">
+                    <strong>Example:</strong> ${Utils.escapeHtml(item.example)}
+                  </div>
+                  <button class="btn btn-sm btn-outline-secondary btn-speak ms-2" title="Phát âm ví dụ" data-text="${Utils.escapeHtml(item.example)}">
+                    <i class="bi bi-volume-up"></i>
+                  </button>
+                </div>
                 ${item.example_reading ? `<div class="text-muted">${Utils.escapeHtml(item.example_reading)}</div>` : ''}
                 ${item.example_meaning ? `<div class="text-muted">${Utils.escapeHtml(item.example_meaning)}</div>` : ''}
               </div>
@@ -252,6 +265,17 @@ const VocabModule = {
         </div>
       </div>
     `);
+
+    // Attach click event to speak buttons
+    $card.find('.btn-speak').on('click', function(e) {
+      e.stopPropagation();
+      const text = $(this).data('text');
+      if (text && typeof TextToSpeech !== 'undefined') {
+        TextToSpeech.speak(text);
+      }
+    });
+
+    return $card;
   }
 };
 

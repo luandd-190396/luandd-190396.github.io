@@ -152,11 +152,58 @@ const FlashcardsModule = {
     this.renderFront(card);
     this.renderBack(card);
 
+    // Add speak button
+    this.addSpeakButton(card);
+
     // Auto-scale text to fit
     this.autoScaleText();
 
     // Update progress
     this.updateProgress();
+  },
+
+  /**
+   * Add speak button to flashcard
+   * @param {Object} card - Card data
+   */
+  addSpeakButton(card) {
+    if (typeof TextToSpeech === 'undefined' || !TextToSpeech.isSupported) {
+      return;
+    }
+
+    let textToSpeak = '';
+    
+    switch(this.type) {
+      case 'hiragana':
+      case 'katakana':
+        textToSpeak = card.kana || '';
+        break;
+      case 'vocab':
+        textToSpeak = card.reading || card.word || '';
+        break;
+      case 'kanji':
+        textToSpeak = card.kanji || '';
+        break;
+      case 'grammar':
+        textToSpeak = card.pattern || '';
+        break;
+    }
+
+    if (!textToSpeak) return;
+
+    // Add button to front
+    const $frontBtn = $(`
+      <button class="flashcard-speak-btn" title="Phát âm">
+        <i class="bi bi-volume-up-fill"></i>
+      </button>
+    `);
+    
+    $frontBtn.on('click', (e) => {
+      e.stopPropagation();
+      TextToSpeech.speak(textToSpeak);
+    });
+
+    $('.flashcard-front').append($frontBtn);
   },
 
   /**
