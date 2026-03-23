@@ -68,7 +68,9 @@ const DataService = {
       ...item,
       word: item.word || '',
       reading: item.reading || '',
-      romaji: item.romaji || '',
+      romaji: item.romaji || item.reading_romaji || item.word_romaji || '',
+      word_romaji: item.word_romaji || item.romaji || '',
+      reading_romaji: item.reading_romaji || item.romaji || '',
       meaning_vi: item.meaning_vi || item.meaning_en || '',
       meaning_en: item.meaning_en || item.meaning_vi || '',
       level: level,
@@ -110,8 +112,11 @@ const DataService = {
         : expectedLesson !== '';
       const missingMeaningEn = (!item.meaning_en || String(item.meaning_en).trim() === '') &&
         (item.meaning_vi && String(item.meaning_vi).trim() !== '');
+      
+      // Check if romaji fields are missing
+      const missingRomaji = (!item.word_romaji && !item.reading_romaji && !item.romaji);
 
-      return levelMissing || lessonMismatch || missingMeaningEn;
+      return levelMissing || lessonMismatch || missingMeaningEn || missingRomaji;
     });
   },
 

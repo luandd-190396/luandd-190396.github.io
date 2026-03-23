@@ -228,10 +228,11 @@ const FlashcardsModule = {
         break;
       
       case 'vocab':
+        const frontRomaji = card.reading_romaji || card.word_romaji || card.romaji || '';
         $front.html(`
           <div class="flashcard-main">${Utils.escapeHtml(card.word || '')}</div>
           <div class="flashcard-reading">${Utils.escapeHtml(card.reading || '')}</div>
-          ${card.reading_romaji ? `<div class="flashcard-romaji text-muted">${Utils.escapeHtml(card.reading_romaji)}</div>` : ''}
+          ${frontRomaji ? `<div class="flashcard-romaji text-muted">${Utils.escapeHtml(frontRomaji)}</div>` : ''}
         `);
         break;
       
@@ -272,7 +273,16 @@ const FlashcardsModule = {
         break;
       
       case 'vocab':
-        const vocabRomaji = card.reading_romaji || card.word_romaji || '-';
+        // Debug logging
+        console.log('Vocab card data:', {
+          word: card.word,
+          reading: card.reading,
+          word_romaji: card.word_romaji,
+          reading_romaji: card.reading_romaji,
+          romaji: card.romaji
+        });
+        
+        const vocabRomaji = card.reading_romaji || card.word_romaji || card.romaji || '-';
         $back.html(`
           <div class="flashcard-main">${Utils.escapeHtml(card.meaning_en || card.meaning_vi || '')}</div>
           <div class="flashcard-reading">${Utils.escapeHtml(card.meaning_vi || card.meaning_en || '')}</div>
