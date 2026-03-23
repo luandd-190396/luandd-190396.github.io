@@ -231,6 +231,7 @@ const FlashcardsModule = {
         $front.html(`
           <div class="flashcard-main">${Utils.escapeHtml(card.word || '')}</div>
           <div class="flashcard-reading">${Utils.escapeHtml(card.reading || '')}</div>
+          ${card.reading_romaji ? `<div class="flashcard-romaji text-muted">${Utils.escapeHtml(card.reading_romaji)}</div>` : ''}
         `);
         break;
       
@@ -244,6 +245,7 @@ const FlashcardsModule = {
         $front.html(`
           <div class="flashcard-main">${Utils.escapeHtml(card.pattern)}</div>
           <div class="flashcard-reading">${Utils.escapeHtml(card.structure)}</div>
+          ${card.pattern_romaji ? `<div class="flashcard-romaji text-muted">${Utils.escapeHtml(card.pattern_romaji)}</div>` : ''}
         `);
         break;
     }
@@ -270,12 +272,16 @@ const FlashcardsModule = {
         break;
       
       case 'vocab':
+        const vocabRomaji = card.reading_romaji || card.word_romaji || '-';
         $back.html(`
           <div class="flashcard-main">${Utils.escapeHtml(card.meaning_en || card.meaning_vi || '')}</div>
           <div class="flashcard-reading">${Utils.escapeHtml(card.meaning_vi || card.meaning_en || '')}</div>
           <hr>
           <div class="flashcard-example">
-            <div><strong>Romaji:</strong> ${Utils.escapeHtml(card.romaji || '-')}</div>
+            <div><strong>Romaji:</strong> ${Utils.escapeHtml(vocabRomaji)}</div>
+            ${card.word_romaji && card.reading_romaji && card.word_romaji !== card.reading_romaji ? `
+              <div><strong>Word romaji:</strong> ${Utils.escapeHtml(card.word_romaji)}</div>
+            ` : ''}
             ${card.example ? `
               <div class="mt-2">${Utils.escapeHtml(card.example)}</div>
               <div class="text-muted small">${Utils.escapeHtml(card.example_meaning || '')}</div>
@@ -290,12 +296,15 @@ const FlashcardsModule = {
           <hr>
           <div class="flashcard-readings">
             <div><strong>On:</strong> <span class="text-danger">${Utils.escapeHtml(card.onyomi)}</span></div>
-            <div><strong>Kun:</strong> <span class="text-success">${Utils.escapeHtml(card.kunyomi || '-')}</span></div>
+            ${card.onyomi_romaji ? `<div class="flashcard-romaji-small text-muted">Romaji: ${Utils.escapeHtml(card.onyomi_romaji)}</div>` : ''}
+            <div class="mt-1"><strong>Kun:</strong> <span class="text-success">${Utils.escapeHtml(card.kunyomi || '-')}</span></div>
+            ${card.kunyomi_romaji ? `<div class="flashcard-romaji-small text-muted">Romaji: ${Utils.escapeHtml(card.kunyomi_romaji)}</div>` : ''}
           </div>
           ${card.example_word ? `
             <hr>
             <div class="flashcard-example">
               <div>${Utils.escapeHtml(card.example_word)} - ${Utils.escapeHtml(card.example_reading)}</div>
+              ${card.example_reading_romaji ? `<div class="flashcard-romaji-small text-muted">${Utils.escapeHtml(card.example_reading_romaji)}</div>` : ''}
               <div class="text-muted">${Utils.escapeHtml(card.example_meaning)}</div>
             </div>
           ` : ''}
@@ -306,6 +315,7 @@ const FlashcardsModule = {
         $back.html(`
           <div class="flashcard-main">${Utils.escapeHtml(card.meaning_vi)}</div>
           <div class="flashcard-reading">${Utils.escapeHtml(card.meaning_en)}</div>
+          ${card.pattern_romaji ? `<div class="flashcard-romaji-small text-muted">Romaji: ${Utils.escapeHtml(card.pattern_romaji)}</div>` : ''}
           <hr>
           <div class="flashcard-example">
             <div class="mb-2"><strong>Usage:</strong> ${Utils.escapeHtml(card.usage_note_vi)}</div>

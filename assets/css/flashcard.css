@@ -89,6 +89,26 @@
   transition: font-size 0.2s ease;
 }
 
+.flashcard-romaji {
+  font-family: Arial, sans-serif;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+  opacity: 0.85;
+  font-style: italic;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+
+.flashcard-romaji-small {
+  font-family: Arial, sans-serif;
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+  opacity: 0.8;
+  font-style: italic;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+
 .flashcard-readings {
   font-size: 1.5rem;
   margin-top: 1rem;
@@ -213,6 +233,16 @@
   .flashcard-reading {
     font-size: 1.4rem;
     margin-bottom: 0.75rem;
+  }
+  
+  .flashcard-romaji {
+    font-size: 1rem;
+    margin-top: 0.4rem;
+  }
+  
+  .flashcard-romaji-small {
+    font-size: 0.8rem;
+    margin-top: 0.2rem;
   }
   
   .flashcard-readings {
