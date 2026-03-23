@@ -1,0 +1,946 @@
+[
+  {
+    "id": "grammar_n5_sgk_01_1",
+    "lesson": 1,
+    "lesson_title": "TÊN CỦA BẠN LÀ GÌ?",
+    "item_no": "1",
+    "pattern": "N１は N２です。",
+    "usage_vi": "Dùng khi giới thiệu thông tin cá nhân (tên, tuổi, nghề nghiệp,…)."
+  },
+  {
+    "id": "grammar_n5_sgk_01_2",
+    "lesson": 1,
+    "lesson_title": "TÊN CỦA BẠN LÀ GÌ?",
+    "item_no": "2",
+    "pattern": "N１の N２",
+    "usage_vi": "Dùng khi nói về nơi làm việc của bản thân."
+  },
+  {
+    "id": "grammar_n5_sgk_01_3",
+    "lesson": 1,
+    "lesson_title": "TÊN CỦA BẠN LÀ GÌ?",
+    "item_no": "3",
+    "pattern": "N１は N２じゃ ありません。",
+    "usage_vi": "Dùng khi phủ nhận thông tin không chính xác."
+  },
+  {
+    "id": "grammar_n5_sgk_01_4",
+    "lesson": 1,
+    "lesson_title": "TÊN CỦA BẠN LÀ GÌ?",
+    "item_no": "4",
+    "pattern": "N１は ～ですか？",
+    "usage_vi": "Dùng khi muốn đặt câu hỏi cho đối phương."
+  },
+  {
+    "id": "grammar_n5_sgk_01_4_1",
+    "lesson": 1,
+    "lesson_title": "TÊN CỦA BẠN LÀ GÌ?",
+    "item_no": "4.1",
+    "pattern": "N１は N２ですか。",
+    "usage_vi": "Dùng khi muốn xác nhận thông tin."
+  },
+  {
+    "id": "grammar_n5_sgk_01_4_2",
+    "lesson": 1,
+    "lesson_title": "TÊN CỦA BẠN LÀ GÌ?",
+    "item_no": "4.2",
+    "pattern": "N１は［Từ để hỏi］ですか？",
+    "usage_vi": "Dùng khi muốn hỏi thông tin của người khác."
+  },
+  {
+    "id": "grammar_n5_sgk_01_5",
+    "lesson": 1,
+    "lesson_title": "TÊN CỦA BẠN LÀ GÌ?",
+    "item_no": "5",
+    "pattern": "N１も ～です。",
+    "usage_vi": "Dùng khi muốn nói thông tin tương đồng."
+  },
+  {
+    "id": "grammar_n5_sgk_02_1",
+    "lesson": 2,
+    "lesson_title": "ĐÂY LÀ CÁI GÌ VẬY?",
+    "item_no": "1",
+    "pattern": "これ／それ／あれは Nです。",
+    "usage_vi": "Dùng khi muốn miêu tả vị trí của sự vật."
+  },
+  {
+    "id": "grammar_n5_sgk_02_1_1",
+    "lesson": 2,
+    "lesson_title": "ĐÂY LÀ CÁI GÌ VẬY?",
+    "item_no": "1.1",
+    "pattern": "これ／それ／あれは Nですか。",
+    "usage_vi": "これ／それ／あれは N ですか。 Cái này/Cái đó/Cái kia"
+  },
+  {
+    "id": "grammar_n5_sgk_02_1_2",
+    "lesson": 2,
+    "lesson_title": "ĐÂY LÀ CÁI GÌ VẬY?",
+    "item_no": "1.2",
+    "pattern": "これ／それ／あれは 何",
+    "usage_vi": "ですか。 Cái này/Cái đó/Cái kia"
+  },
+  {
+    "id": "grammar_n5_sgk_02_2",
+    "lesson": 2,
+    "lesson_title": "ĐÂY LÀ CÁI GÌ VẬY?",
+    "item_no": "2",
+    "pattern": "N１の N２",
+    "usage_vi": "Ngoài cách sử dụng ở bài 1 thì còn có những cách sau đây:"
+  },
+  {
+    "id": "grammar_n5_sgk_02_3",
+    "lesson": 2,
+    "lesson_title": "ĐÂY LÀ CÁI GÌ VẬY?",
+    "item_no": "3",
+    "pattern": "この／その／あの N",
+    "usage_vi": "Dùng khi muốn nói về vị trí của một đồ vật cụ thể."
+  },
+  {
+    "id": "grammar_n5_sgk_02_4",
+    "lesson": 2,
+    "lesson_title": "ĐÂY LÀ CÁI GÌ VẬY?",
+    "item_no": "4",
+    "pattern": "～ N1ですか、N2ですか。",
+    "usage_vi": "Dùng khi muốn đặt câu hỏi lựa chọn."
+  },
+  {
+    "id": "grammar_n5_sgk_03_1",
+    "lesson": 3,
+    "lesson_title": "ĐÂY LÀ ĐÂU?",
+    "item_no": "1",
+    "pattern": "N１の N２",
+    "usage_vi": "Dùng khi muốn nói về xuất xứ của sản phẩm."
+  },
+  {
+    "id": "grammar_n5_sgk_03_2",
+    "lesson": 3,
+    "lesson_title": "ĐÂY LÀ ĐÂU?",
+    "item_no": "2",
+    "pattern": "ここ／そこ／あそこ",
+    "usage_vi": "Đây là đâu?"
+  },
+  {
+    "id": "grammar_n5_sgk_03_2_1",
+    "lesson": 3,
+    "lesson_title": "ĐÂY LÀ ĐÂU?",
+    "item_no": "2.1",
+    "pattern": "ここ／そこ／あそこは N です",
+    "usage_vi": "Dùng khi muốn nói về vị trí của sự vật."
+  },
+  {
+    "id": "grammar_n5_sgk_03_2_2",
+    "lesson": 3,
+    "lesson_title": "ĐÂY LÀ ĐÂU?",
+    "item_no": "2.2",
+    "pattern": "N は ここ／そこ／あそこです。",
+    "usage_vi": "Dùng khi muốn nói nhấn mạnh hơn vào địa điểm."
+  },
+  {
+    "id": "grammar_n5_sgk_03_3",
+    "lesson": 3,
+    "lesson_title": "ĐÂY LÀ ĐÂU?",
+    "item_no": "3",
+    "pattern": "N は Nđịa điểm です。",
+    "usage_vi": "Dùng khi muốn nói về vị trí của sự vật nào đó."
+  },
+  {
+    "id": "grammar_n5_sgk_03_4",
+    "lesson": 3,
+    "lesson_title": "ĐÂY LÀ ĐÂU?",
+    "item_no": "4",
+    "pattern": "いくら",
+    "usage_vi": "Dùng khi muốn hỏi về giá tiền."
+  },
+  {
+    "id": "grammar_n5_sgk_04_1",
+    "lesson": 4,
+    "lesson_title": "BÂY GIỜ",
+    "item_no": "1",
+    "pattern": "‐時",
+    "usage_vi": ""
+  },
+  {
+    "id": "grammar_n5_sgk_04_1_1",
+    "lesson": 4,
+    "lesson_title": "BÂY GIỜ",
+    "item_no": "1.1",
+    "pattern": "[今",
+    "usage_vi": "Dùng khi muốn nói về giờ và phút."
+  },
+  {
+    "id": "grammar_n5_sgk_04_1_2",
+    "lesson": 4,
+    "lesson_title": "BÂY GIỜ",
+    "item_no": "1.2",
+    "pattern": "N は ‐曜",
+    "usage_vi": "Dùng khi muốn nói về thứ trong tuần."
+  },
+  {
+    "id": "grammar_n5_sgk_04_2",
+    "lesson": 4,
+    "lesson_title": "BÂY GIỜ",
+    "item_no": "2",
+    "pattern": "Nthời gian に V",
+    "usage_vi": "Dùng khi muốn nói về thời điểm, thời gian diễn ra hành động"
+  },
+  {
+    "id": "grammar_n5_sgk_04_2_1",
+    "lesson": 4,
+    "lesson_title": "BÂY GIỜ",
+    "item_no": "2.1",
+    "pattern": "N は V",
+    "usage_vi": "Dùng khi muốn nói về việc diễn ra hành động."
+  },
+  {
+    "id": "grammar_n5_sgk_04_2_2",
+    "lesson": 4,
+    "lesson_title": "BÂY GIỜ",
+    "item_no": "2.2",
+    "pattern": "Nthời gian[に] V",
+    "usage_vi": "Dùng khi muốn nói về thời điểm, thời gian diễn ra hành động."
+  },
+  {
+    "id": "grammar_n5_sgk_04_3",
+    "lesson": 4,
+    "lesson_title": "BÂY GIỜ",
+    "item_no": "3",
+    "pattern": "N１から N２まで",
+    "usage_vi": "Dùng khi muốn nói về điểm bắt đầu và điểm kết thúc của thời gian,"
+  },
+  {
+    "id": "grammar_n5_sgk_05_1",
+    "lesson": 5,
+    "lesson_title": "HỌC SINH",
+    "item_no": "1",
+    "pattern": "Nđịa điểm へ 行",
+    "usage_vi": "Dùng khi muốn nói về việc đi/đến/về một địa điểm."
+  },
+  {
+    "id": "grammar_n5_sgk_05_2",
+    "lesson": 5,
+    "lesson_title": "HỌC SINH",
+    "item_no": "2",
+    "pattern": "Nphương tiện giao thông で 行",
+    "usage_vi": "Dùng khi muốn nói về việc đi/đến/về bằng phương tiện gì."
+  },
+  {
+    "id": "grammar_n5_sgk_05_3",
+    "lesson": 5,
+    "lesson_title": "HỌC SINH",
+    "item_no": "3",
+    "pattern": "Nngười と 行",
+    "usage_vi": "Dùng khi muốn nói về việc đi/ đến/ về với ai."
+  },
+  {
+    "id": "grammar_n5_sgk_05_4",
+    "lesson": 5,
+    "lesson_title": "HỌC SINH",
+    "item_no": "4",
+    "pattern": "Nthời gian[に] 行",
+    "usage_vi": "Dùng khi muốn nói về việc đi/đến/về tại 1 thời điểm nào đó."
+  },
+  {
+    "id": "grammar_n5_sgk_06_1",
+    "lesson": 6,
+    "lesson_title": "CÙNG ĂN",
+    "item_no": "1",
+    "pattern": "N を V ます。",
+    "usage_vi": "Dùng khi muốn diễn tả hành động có chủ ý."
+  },
+  {
+    "id": "grammar_n5_sgk_06_2",
+    "lesson": 6,
+    "lesson_title": "CÙNG ĂN",
+    "item_no": "2",
+    "pattern": "Nđịa điểm で V ます。",
+    "usage_vi": "Dùng khi muốn miêu tả hành động nào đó được thực hiện ở đâu."
+  },
+  {
+    "id": "grammar_n5_sgk_06_3",
+    "lesson": 6,
+    "lesson_title": "CÙNG ĂN",
+    "item_no": "3",
+    "pattern": "V ませんか。",
+    "usage_vi": "Dùng khi muốn mời rủ đối phương làm gì đó cùng mình."
+  },
+  {
+    "id": "grammar_n5_sgk_07_1",
+    "lesson": 7,
+    "lesson_title": "TÔI TẶNG HOA",
+    "item_no": "1",
+    "pattern": "N で V ます",
+    "usage_vi": "Dùng khi muốn nói sử dụng công cụ/cách thức để làm việc gì đó"
+  },
+  {
+    "id": "grammar_n5_sgk_07_2",
+    "lesson": 7,
+    "lesson_title": "TÔI TẶNG HOA",
+    "item_no": "2",
+    "pattern": "[A は] B に N を あげます",
+    "usage_vi": "Dùng khi muốn nói tặng cái gì cho ai đó."
+  },
+  {
+    "id": "grammar_n5_sgk_07_3",
+    "lesson": 7,
+    "lesson_title": "TÔI TẶNG HOA",
+    "item_no": "3",
+    "pattern": "[B は] A に N を もらいます",
+    "usage_vi": "Dùng khi muốn nói nhận được cái gì từ ai."
+  },
+  {
+    "id": "grammar_n5_sgk_07_4",
+    "lesson": 7,
+    "lesson_title": "TÔI TẶNG HOA",
+    "item_no": "4",
+    "pattern": "もう V ました",
+    "usage_vi": "Dùng khi muốn diễn tả một hành động đã kết thúc, hoàn thành."
+  },
+  {
+    "id": "grammar_n5_sgk_08_1",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "1",
+    "pattern": "N は A い／A なです。",
+    "usage_vi": "Dùng khi muốn miêu tả đặc điểm, trạng thái của con người hoặc vật."
+  },
+  {
+    "id": "grammar_n5_sgk_08_1_1",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "1.1",
+    "pattern": "Tính từ đuôi [な]",
+    "usage_vi": "Câu khẳng định:"
+  },
+  {
+    "id": "grammar_n5_sgk_08_1_2",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "1.2",
+    "pattern": "Tính từ đuôi [い]",
+    "usage_vi": "Câu khẳng định:"
+  },
+  {
+    "id": "grammar_n5_sgk_08_1_3",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "1.3",
+    "pattern": "N は どうですか。",
+    "usage_vi": "Dùng khi muốn hỏi về ấn tượng, ý kiến hoặc cảm tưởng của"
+  },
+  {
+    "id": "grammar_n5_sgk_08_2",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "2",
+    "pattern": "そして／が",
+    "usage_vi": ""
+  },
+  {
+    "id": "grammar_n5_sgk_08_2_1",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "2.1",
+    "pattern": "[Vế 1]。そして、[Vế 2]。",
+    "usage_vi": "Dùng khi muốn miêu tả 2 đặc điểm cùng tính chất của chủ thể."
+  },
+  {
+    "id": "grammar_n5_sgk_08_2_2",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "2.2",
+    "pattern": "[Vế 1]が、[Vế 2]。",
+    "usage_vi": "Dùng khi muốn miêu tả 2 đặc điểm có tính chất trái ngược"
+  },
+  {
+    "id": "grammar_n5_sgk_08_3",
+    "lesson": 8,
+    "lesson_title": "CUỘC SỐNG",
+    "item_no": "3",
+    "pattern": "N１は A い／A な N２です。",
+    "usage_vi": "Dùng khi muốn miêu tả đặc điểm, trạng thái của con người hoặc vật."
+  },
+  {
+    "id": "grammar_n5_sgk_09_1",
+    "lesson": 9,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "1",
+    "pattern": "N が A／V",
+    "usage_vi": ""
+  },
+  {
+    "id": "grammar_n5_sgk_09_1_1",
+    "lesson": 9,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "1.1",
+    "pattern": "N が 好",
+    "usage_vi": "Dùng khi muốn nói về sở thích, sở ghét, sở trường, sở đoản."
+  },
+  {
+    "id": "grammar_n5_sgk_09_1_2",
+    "lesson": 9,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "1.2",
+    "pattern": "N が わかります／あります",
+    "usage_vi": "Dùng khi muốn nói rằng bản thân hiểu biết, sở hữu một cái gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_09_2",
+    "lesson": 9,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "2",
+    "pattern": "どんな N が A ですか。",
+    "usage_vi": "Dùng khi muốn hỏi cụ thể thích, ghét, giỏi, kém thứ gì."
+  },
+  {
+    "id": "grammar_n5_sgk_09_3",
+    "lesson": 9,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "3",
+    "pattern": "～から、～",
+    "usage_vi": "Dùng khi muốn nói lý do, nguyên nhân của việc, điều gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_10_1",
+    "lesson": 10,
+    "lesson_title": "CÓ CON MÈO",
+    "item_no": "1",
+    "pattern": "N が あります／います。",
+    "usage_vi": "Dùng khi muốn nói về sự tồn tại của người và sự vật, sự việc."
+  },
+  {
+    "id": "grammar_n5_sgk_10_2",
+    "lesson": 10,
+    "lesson_title": "CÓ CON MÈO",
+    "item_no": "2",
+    "pattern": "N１の N２vị trí",
+    "usage_vi": "Dùng khi muốn miêu tả cụ thể hơn về vị trí của người, sự vật, sự việc."
+  },
+  {
+    "id": "grammar_n5_sgk_10_3",
+    "lesson": 10,
+    "lesson_title": "CÓ CON MÈO",
+    "item_no": "3",
+    "pattern": "N1vị trí, địa điểm に N2 が あります／います。",
+    "usage_vi": "Dùng khi muốn diễn tả ở đâu có ai/ cái gì."
+  },
+  {
+    "id": "grammar_n5_sgk_10_4",
+    "lesson": 10,
+    "lesson_title": "CÓ CON MÈO",
+    "item_no": "4",
+    "pattern": "N２は N１に あります／います。",
+    "usage_vi": "Dùng khi muốn nhấn mạnh một người/ vật ở một vị trí nào đó."
+  },
+  {
+    "id": "grammar_n5_sgk_10_5",
+    "lesson": 10,
+    "lesson_title": "CÓ CON MÈO",
+    "item_no": "5",
+    "pattern": "～や ～など",
+    "usage_vi": "Dùng khi muốn liệt kê các đối tượng tiêu biểu (từ 2 trở lên)."
+  },
+  {
+    "id": "grammar_n5_sgk_11_1",
+    "lesson": 11,
+    "lesson_title": "BẠN HỌC",
+    "item_no": "1",
+    "pattern": "người 二人",
+    "usage_vi": "2 người"
+  },
+  {
+    "id": "grammar_n5_sgk_11_1_3",
+    "lesson": 11,
+    "lesson_title": "BẠN HỌC",
+    "item_no": "1.3",
+    "pattern": "～を Lượng từ V",
+    "usage_vi": "Dùng khi muốn nói về số lượng đồ vật, sự vật, con người,… mà"
+  },
+  {
+    "id": "grammar_n5_sgk_11_2_2",
+    "lesson": 11,
+    "lesson_title": "BẠN HỌC",
+    "item_no": "2.2",
+    "pattern": "〜に ‐回",
+    "usage_vi": "Dùng khi muốn nói về số lần đã làm hành động trong"
+  },
+  {
+    "id": "grammar_n5_sgk_12_1_1",
+    "lesson": 12,
+    "lesson_title": "NÚI EVEREST",
+    "item_no": "1.1",
+    "pattern": "Thì quá khứ của A な và N",
+    "usage_vi": "N１は A な／N２"
+  },
+  {
+    "id": "grammar_n5_sgk_12_1_2",
+    "lesson": 12,
+    "lesson_title": "NÚI EVEREST",
+    "item_no": "1.2",
+    "pattern": "Thì quá khứ của A い",
+    "usage_vi": "N は"
+  },
+  {
+    "id": "grammar_n5_sgk_12_2",
+    "lesson": 12,
+    "lesson_title": "NÚI EVEREST",
+    "item_no": "2",
+    "pattern": "N１は N２より A です。",
+    "usage_vi": "Dùng khi muốn so sánh sự vật, sự việc nào đó so với một đối tượng"
+  },
+  {
+    "id": "grammar_n5_sgk_12_3",
+    "lesson": 12,
+    "lesson_title": "NÚI EVEREST",
+    "item_no": "3",
+    "pattern": "N１と N２と どちらが A ですか。",
+    "usage_vi": "Dùng khi muốn đặt câu hỏi so sánh giữa hai đối tượng."
+  },
+  {
+    "id": "grammar_n5_sgk_12_4",
+    "lesson": 12,
+    "lesson_title": "NÚI EVEREST",
+    "item_no": "4",
+    "pattern": "N[の中",
+    "usage_vi": "Dùng khi muốn so sánh trong phạm vi nhất định thì đối tượng nào A  nhất."
+  },
+  {
+    "id": "grammar_n5_sgk_13_1",
+    "lesson": 13,
+    "lesson_title": "TÔI KHÔNG MUỐN",
+    "item_no": "1",
+    "pattern": "N が 欲",
+    "usage_vi": "Dùng khi muốn nói về mong muốn sở hữu cái gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_13_2",
+    "lesson": 13,
+    "lesson_title": "TÔI KHÔNG MUỐN",
+    "item_no": "2",
+    "pattern": "V ます たいです",
+    "usage_vi": "Dùng khi muốn nói muốn làm một việc gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_13_3",
+    "lesson": 13,
+    "lesson_title": "TÔI KHÔNG MUỐN",
+    "item_no": "3",
+    "pattern": "Nđịa điểm へ [mục đích]に 行",
+    "usage_vi": "Dùng khi muốn nói đi đến đâu để làm gì."
+  },
+  {
+    "id": "grammar_n5_sgk_13_3_1",
+    "lesson": 13,
+    "lesson_title": "TÔI KHÔNG MUỐN",
+    "item_no": "3.1",
+    "pattern": "Nđịa điểm へ V ますに 行",
+    "usage_vi": "Nđịa điểm へ V ますに 行"
+  },
+  {
+    "id": "grammar_n5_sgk_13_3_2",
+    "lesson": 13,
+    "lesson_title": "TÔI KHÔNG MUỐN",
+    "item_no": "3.2",
+    "pattern": "Nđịa điểm へ N に 行",
+    "usage_vi": "Nđịa điểm へ N に 行"
+  },
+  {
+    "id": "grammar_n5_sgk_14_2",
+    "lesson": 14,
+    "lesson_title": "HÃY NÓI",
+    "item_no": "2",
+    "pattern": "Động từ thể て「V て 」",
+    "usage_vi": "Động từ NHÓM 1"
+  },
+  {
+    "id": "grammar_n5_sgk_14_3",
+    "lesson": 14,
+    "lesson_title": "HÃY NÓI",
+    "item_no": "3",
+    "pattern": "V て ください。",
+    "usage_vi": "Dùng khi người nói muốn đưa chỉ thị, nhờ vả, sai khiến hoặc"
+  },
+  {
+    "id": "grammar_n5_sgk_14_4",
+    "lesson": 14,
+    "lesson_title": "HÃY NÓI",
+    "item_no": "4",
+    "pattern": "V て います。",
+    "usage_vi": "Dùng khi muốn biểu thị một hành động đang diễn ra tại thời điểm nói."
+  },
+  {
+    "id": "grammar_n5_sgk_14_5",
+    "lesson": 14,
+    "lesson_title": "HÃY NÓI",
+    "item_no": "5",
+    "pattern": "V ましょうか。",
+    "usage_vi": "Dùng khi người nói muốn đưa ra đề nghị làm một việc gì đó"
+  },
+  {
+    "id": "grammar_n5_sgk_15_1",
+    "lesson": 15,
+    "lesson_title": "KHÔNG ĐƯỢC",
+    "item_no": "1",
+    "pattern": "V ても いいですか",
+    "usage_vi": "Dùng khi muốn xin phép hoặc cho phép đối phương làm một việc gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_15_2",
+    "lesson": 15,
+    "lesson_title": "KHÔNG ĐƯỢC",
+    "item_no": "2",
+    "pattern": "V ては いけません",
+    "usage_vi": "Dùng khi muốn diễn tả sự cấm đoán."
+  },
+  {
+    "id": "grammar_n5_sgk_15_3",
+    "lesson": 15,
+    "lesson_title": "KHÔNG ĐƯỢC",
+    "item_no": "3",
+    "pattern": "V て います",
+    "usage_vi": "Ngoài cách sử dụng ở bài 14 thì còn có những cách sau đây:"
+  },
+  {
+    "id": "grammar_n5_sgk_15_3_1",
+    "lesson": 15,
+    "lesson_title": "KHÔNG ĐƯỢC",
+    "item_no": "3.1",
+    "pattern": "V て います",
+    "usage_vi": "Dùng khi muốn diễn tả trạng thái của hành động đã diễn ra trong"
+  },
+  {
+    "id": "grammar_n5_sgk_15_3_2",
+    "lesson": 15,
+    "lesson_title": "KHÔNG ĐƯỢC",
+    "item_no": "3.2",
+    "pattern": "[いつも] V て います",
+    "usage_vi": "Dùng khi muốn diễn tả hành động mang tính thói quen"
+  },
+  {
+    "id": "grammar_n5_sgk_16_1",
+    "lesson": 16,
+    "lesson_title": "ANH ẤY ĐỘC THÂN",
+    "item_no": "1",
+    "pattern": "V1 て、V2 て、[それから] V ます。",
+    "usage_vi": "Dùng khi muốn liệt kê các hành động theo trình tự thời gian."
+  },
+  {
+    "id": "grammar_n5_sgk_16_2",
+    "lesson": 16,
+    "lesson_title": "ANH ẤY ĐỘC THÂN",
+    "item_no": "2",
+    "pattern": "V1 てから、V2。",
+    "usage_vi": "Dùng khi muốn diễn tả trình tự của hai hành động."
+  },
+  {
+    "id": "grammar_n5_sgk_16_3",
+    "lesson": 16,
+    "lesson_title": "ANH ẤY ĐỘC THÂN",
+    "item_no": "3",
+    "pattern": "N1 は N2 が A です。",
+    "usage_vi": "Dùng khi muốn miêu tả một đặc điểm hoặc trạng thái của một phần"
+  },
+  {
+    "id": "grammar_n5_sgk_17_1",
+    "lesson": 17,
+    "lesson_title": "CUỐI TUẦN",
+    "item_no": "1",
+    "pattern": "Động từ thể phủ định「V ない」",
+    "usage_vi": "Lưu ý:"
+  },
+  {
+    "id": "grammar_n5_sgk_17_2",
+    "lesson": 17,
+    "lesson_title": "CUỐI TUẦN",
+    "item_no": "2",
+    "pattern": "V ないで ください",
+    "usage_vi": "Dùng khi muốn yêu cầu hoặc chỉ thị cho ai đó không làm gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_17_3",
+    "lesson": 17,
+    "lesson_title": "CUỐI TUẦN",
+    "item_no": "3",
+    "pattern": "V なければ なりません",
+    "usage_vi": "Dùng khi muốn nói về sự bắt buộc, cần thiết phải làm gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_17_4",
+    "lesson": 17,
+    "lesson_title": "CUỐI TUẦN",
+    "item_no": "4",
+    "pattern": "V なくても いいです",
+    "usage_vi": "Dùng khi muốn nói không cần thiết phải làm gì đó."
+  },
+  {
+    "id": "grammar_n5_sgk_17_5",
+    "lesson": 17,
+    "lesson_title": "CUỐI TUẦN",
+    "item_no": "5",
+    "pattern": "Nthời gian までに V",
+    "usage_vi": "Dùng khi muốn nói về thời hạn của động tác hay sự việc."
+  },
+  {
+    "id": "grammar_n5_sgk_18_1",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "1",
+    "pattern": "Động từ thể từ điển 「V る」",
+    "usage_vi": "Lưu ý:"
+  },
+  {
+    "id": "grammar_n5_sgk_18_2",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "2",
+    "pattern": "N／V ることが できます。",
+    "usage_vi": "Dùng khi muốn nói về khả năng, năng lực của con người hoặc trong"
+  },
+  {
+    "id": "grammar_n5_sgk_18_2_1",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "2.1",
+    "pattern": "N が できます。",
+    "usage_vi": "N が できます。 Có thể làm (việc) …"
+  },
+  {
+    "id": "grammar_n5_sgk_18_2_2",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "2.2",
+    "pattern": "V ることが できます。",
+    "usage_vi": "Dùng khi muốn diễn tả làm việc gì đó phải mất nhiều thời gian,"
+  },
+  {
+    "id": "grammar_n5_sgk_18_3",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "3",
+    "pattern": "[Nngười の] 趣",
+    "usage_vi": "Dùng khi muốn nói chi tiết về sở thích của bản thân hoặc của ai đó."
+  },
+  {
+    "id": "grammar_n5_sgk_18_4",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "4",
+    "pattern": "〜前",
+    "usage_vi": "Dùng khi muốn diễn tả trình tự của hành động."
+  },
+  {
+    "id": "grammar_n5_sgk_18_4_1",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "4.1",
+    "pattern": "N の 前",
+    "usage_vi": "に V"
+  },
+  {
+    "id": "grammar_n5_sgk_18_4_2",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "4.2",
+    "pattern": "Nthời gian 前",
+    "usage_vi": "に ＋ V。"
+  },
+  {
+    "id": "grammar_n5_sgk_18_4_3",
+    "lesson": 18,
+    "lesson_title": "TÔI CÓ THỂ BƠI",
+    "item_no": "4.3",
+    "pattern": "V1 る 前",
+    "usage_vi": "に V２"
+  },
+  {
+    "id": "grammar_n5_sgk_19_1",
+    "lesson": 19,
+    "lesson_title": "TÔI ĐÃ TỪNG",
+    "item_no": "1",
+    "pattern": "Động từ thể quá khứ 「V た」",
+    "usage_vi": "Lưu ý:"
+  },
+  {
+    "id": "grammar_n5_sgk_19_2",
+    "lesson": 19,
+    "lesson_title": "TÔI ĐÃ TỪNG",
+    "item_no": "2",
+    "pattern": "V たことが あります",
+    "usage_vi": "Dùng khi muốn nói về những kinh nghiệm đã trải qua."
+  },
+  {
+    "id": "grammar_n5_sgk_19_3",
+    "lesson": 19,
+    "lesson_title": "TÔI ĐÃ TỪNG",
+    "item_no": "3",
+    "pattern": "V1 たり、V2 たり します",
+    "usage_vi": "Dùng khi muốn liệt kê hành động không theo trình tự thời gian."
+  },
+  {
+    "id": "grammar_n5_sgk_19_4",
+    "lesson": 19,
+    "lesson_title": "TÔI ĐÃ TỪNG",
+    "item_no": "4",
+    "pattern": "A／N[に] なります",
+    "usage_vi": "Dùng khi muốn nói về sự thay đổi trạng thái của một sự vật, sự việc."
+  },
+  {
+    "id": "grammar_n5_sgk_20_2_1",
+    "lesson": 20,
+    "lesson_title": "CẬU MUA CÁI NÀY",
+    "item_no": "2.1",
+    "pattern": "Thể thông thường của Tính từ đuôi い 「A い」",
+    "usage_vi": "Thể lịch sự Thể thông thường"
+  },
+  {
+    "id": "grammar_n5_sgk_20_2_2",
+    "lesson": 20,
+    "lesson_title": "CẬU MUA CÁI NÀY",
+    "item_no": "2.2",
+    "pattern": "Thể thông thường của Tính từ đuôi な 「A な」",
+    "usage_vi": "Thể lịch sự Thể thông thường"
+  },
+  {
+    "id": "grammar_n5_sgk_21_1",
+    "lesson": 21,
+    "lesson_title": "BẠN NGHĨ GÌ VỀ",
+    "item_no": "1",
+    "pattern": "〜と 思",
+    "usage_vi": "Dùng khi muốn bày tỏ quan điểm, suy nghĩ, suy đoán của bản thân."
+  },
+  {
+    "id": "grammar_n5_sgk_21_2",
+    "lesson": 21,
+    "lesson_title": "BẠN NGHĨ GÌ VỀ",
+    "item_no": "2",
+    "pattern": "〜と 言",
+    "usage_vi": "Dùng khi muốn trích dẫn lời nói trực tiếp hoặc gián tiếp."
+  },
+  {
+    "id": "grammar_n5_sgk_21_3",
+    "lesson": 21,
+    "lesson_title": "BẠN NGHĨ GÌ VỀ",
+    "item_no": "3",
+    "pattern": "～でしょう？",
+    "usage_vi": "Dùng khi muốn kêu gọi sự đồng tình hoặc xác nhận sự đồng tình,"
+  },
+  {
+    "id": "grammar_n5_sgk_21_4",
+    "lesson": 21,
+    "lesson_title": "BẠN NGHĨ GÌ VỀ",
+    "item_no": "4",
+    "pattern": "〜でも",
+    "usage_vi": "Dùng khi muốn đề xuất gì đó với người khác."
+  },
+  {
+    "id": "grammar_n5_sgk_22_2",
+    "lesson": 22,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "2",
+    "pattern": "N１は Vthể thông thường N２です。",
+    "usage_vi": "Dùng khi muốn sử dụng Cụm danh từ đóng vai trò Vị ngữ của câu."
+  },
+  {
+    "id": "grammar_n5_sgk_22_3",
+    "lesson": 22,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "3",
+    "pattern": "Vthể thông thường N は ～ です。",
+    "usage_vi": "Dùng khi muốn sử dụng Cụm danh từ đóng vai trò Chủ ngữ của câu."
+  },
+  {
+    "id": "grammar_n5_sgk_22_4",
+    "lesson": 22,
+    "lesson_title": "TÔI THÍCH",
+    "item_no": "4",
+    "pattern": "[N１は] V１thể thông thường N２を／が V２ます。",
+    "usage_vi": "Dùng khi muốn sử dụng Cụm danh từ đóng vai trò Tân ngữ của câu."
+  },
+  {
+    "id": "grammar_n5_sgk_23_1",
+    "lesson": 23,
+    "lesson_title": "KHI KHÔNG HIỂU",
+    "item_no": "1",
+    "pattern": "～とき、～",
+    "usage_vi": "Dùng khi muốn diễn tả thời điểm hoặc hoàn cảnh xảy ra một"
+  },
+  {
+    "id": "grammar_n5_sgk_23_2",
+    "lesson": 23,
+    "lesson_title": "KHI KHÔNG HIỂU",
+    "item_no": "2",
+    "pattern": "V ると～",
+    "usage_vi": "Dùng khi muốn diễn tả một sự việc xảy ra theo lẽ tự nhiên, thông thường."
+  },
+  {
+    "id": "grammar_n5_sgk_24_1",
+    "lesson": 24,
+    "lesson_title": "EM GÁI TÔI CHO BẠN",
+    "item_no": "1",
+    "pattern": "A は [B に] N を くれます。",
+    "usage_vi": "Dùng khi muốn diễn đạt ai đó tặng cái gì cho mình."
+  },
+  {
+    "id": "grammar_n5_sgk_24_2",
+    "lesson": 24,
+    "lesson_title": "EM GÁI TÔI CHO BẠN",
+    "item_no": "2",
+    "pattern": "V て くれます／あげます／もらいます。",
+    "usage_vi": "Dùng khi muốn diễn tả việc cho, nhận hành động (làm gì cho ai đó)."
+  },
+  {
+    "id": "grammar_n5_sgk_24_2_1",
+    "lesson": 24,
+    "lesson_title": "EM GÁI TÔI CHO BẠN",
+    "item_no": "2.1",
+    "pattern": "V て くれます",
+    "usage_vi": "A は／が [ 私"
+  },
+  {
+    "id": "grammar_n5_sgk_24_2_2",
+    "lesson": 24,
+    "lesson_title": "EM GÁI TÔI CHO BẠN",
+    "item_no": "2.2",
+    "pattern": "V て あげます",
+    "usage_vi": "A は B に [N を] V て あげます。 A làm … cho B"
+  },
+  {
+    "id": "grammar_n5_sgk_24_2_3",
+    "lesson": 24,
+    "lesson_title": "EM GÁI TÔI CHO BẠN",
+    "item_no": "2.3",
+    "pattern": "V て もらいます",
+    "usage_vi": "B は A に [N を] V て もらいます。 B được A làm … (giúp)"
+  },
+  {
+    "id": "grammar_n5_sgk_25_1",
+    "lesson": 25,
+    "lesson_title": "NẾU CÓ 100 TRIỆU,",
+    "item_no": "1",
+    "pattern": "～たら、～",
+    "usage_vi": ""
+  },
+  {
+    "id": "grammar_n5_sgk_25_1_1",
+    "lesson": 25,
+    "lesson_title": "NẾU CÓ 100 TRIỆU,",
+    "item_no": "1.1",
+    "pattern": "N／A たら、～",
+    "usage_vi": "Dùng khi muốn đưa ra suy nghĩ phán đoán dựa trên giả định"
+  },
+  {
+    "id": "grammar_n5_sgk_25_1_2",
+    "lesson": 25,
+    "lesson_title": "NẾU CÓ 100 TRIỆU,",
+    "item_no": "1.2",
+    "pattern": "V たら、～",
+    "usage_vi": "「Vたら」 có hai cách sử dụng như sau:"
+  },
+  {
+    "id": "grammar_n5_sgk_25_2",
+    "lesson": 25,
+    "lesson_title": "NẾU CÓ 100 TRIỆU,",
+    "item_no": "2",
+    "pattern": "～ても、～",
+    "usage_vi": "Dùng khi muốn diễn tả một giả định ngược, một kết quả trái với"
+  }
+]

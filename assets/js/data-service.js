@@ -22,6 +22,100 @@ const DataService = {
   },
 
   /**
+   * Infer vocab JLPT level from item metadata
+   * @param {Object} item - Vocabulary item
+   * @param {string} fallbackLevel - Level inferred from source file
+   * @returns {string}
+   */
+  inferVocabLevel(item, fallbackLevel = '') {
+    if (item.level && String(item.level).trim()) {
+      return String(item.level).trim().toUpperCase();
+    }
+
+    if (fallbackLevel) {
+      return String(fallbackLevel).trim().toUpperCase();
+    }
+
+    const id = String(item.id || '').toUpperCase();
+    const idMatch = id.match(/(?:^|[_-])(N[1-5])(?:[_-]|$)/);
+    if (idMatch) {
+      return idMatch[1];
+    }
+
+    const title = String(item.lesson_title || '').toUpperCase();
+    const titleMatch = title.match(/\b(N[1-5])\b/);
+    if (titleMatch) {
+      return titleMatch[1];
+    }
+
+    return '';
+  },
+
+  /**
+   * Normalize one vocab item to app schema
+   * @param {Object} item - Source item
+   * @param {string} fallbackLevel - Level inferred from source file
+   * @returns {Object}
+   */
+  normalizeVocabItem(item, fallbackLevel = '') {
+    const lessonNo = this.normalizeLessonNumber(item.lesson);
+    const lesson = lessonNo
+      ? `L${lessonNo}`
+      : (item.lesson !== undefined && item.lesson !== null ? String(item.lesson).trim() : '');
+    const level = this.inferVocabLevel(item, fallbackLevel);
+
+    return {
+      ...item,
+      word: item.word || '',
+      reading: item.reading || '',
+      romaji: item.romaji || '',
+      meaning_vi: item.meaning_vi || item.meaning_en || '',
+      meaning_en: item.meaning_en || item.meaning_vi || '',
+      level: level,
+      lesson: lesson,
+      type: item.type || item.category || '',
+      example: item.example || '',
+      example_reading: item.example_reading || '',
+      example_meaning: item.example_meaning || ''
+    };
+  },
+
+  /**
+   * Normalize an array of vocab items
+   * @param {Array} data - Raw vocabulary array
+   * @param {string} fallbackLevel - Level inferred from source file
+   * @returns {Array}
+   */
+  normalizeVocabData(data, fallbackLevel = '') {
+    if (!Array.isArray(data)) return [];
+    return data.map(item => this.normalizeVocabItem(item, fallbackLevel));
+  },
+
+  /**
+   * Check if stored vocab data still uses old/inconsistent schema
+   * @param {Array} data - Vocabulary array
+   * @returns {boolean}
+   */
+  isVocabNormalizationNeeded(data) {
+    if (!Array.isArray(data)) return false;
+    return data.some(item => {
+      if (!item || typeof item !== 'object') return true;
+      const levelMissing = !item.level || String(item.level).trim() === '';
+      const lessonNo = this.normalizeLessonNumber(item.lesson);
+      const expectedLesson = lessonNo
+        ? `L${lessonNo}`
+        : (item.lesson !== undefined && item.lesson !== null ? String(item.lesson).trim() : '');
+      const lessonMismatch = (item.lesson !== undefined && item.lesson !== null)
+        ? String(item.lesson) !== expectedLesson
+        : expectedLesson !== '';
+      const missingMeaningEn = (!item.meaning_en || String(item.meaning_en).trim() === '') &&
+        (item.meaning_vi && String(item.meaning_vi).trim() !== '');
+
+      return levelMissing || lessonMismatch || missingMeaningEn;
+    });
+  },
+
+  /**
    * Get the correct data path based on current location
    * @param {string} type - Data type
    * @returns {string} Correct path to data file
@@ -122,7 +216,10 @@ const DataService = {
         if (response.ok) {
           const data = await response.json();
           if (Array.isArray(data)) {
-            allVocab = allVocab.concat(data);
+            const levelMatch = file.match(/vocab_(n[1-5])\.json/i);
+            const fallbackLevel = levelMatch ? levelMatch[1].toUpperCase() : '';
+            const normalized = this.normalizeVocabData(data, fallbackLevel);
+            allVocab = allVocab.concat(normalized);
           }
         }
       } catch (error) {
@@ -149,6 +246,13 @@ const DataService = {
     const storedData = Storage.getData(key);
     
     if (storedData && Array.isArray(storedData) && storedData.length > 0) {
+      if (type === 'vocab') {
+        const normalized = this.normalizeVocabData(storedData);
+        if (this.isVocabNormalizationNeeded(storedData)) {
+          Storage.setData(key, normalized);
+        }
+        return normalized;
+      }
       return storedData;
     }
 

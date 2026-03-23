@@ -7,6 +7,7 @@ const QuizModule = {
   type: 'hiragana',
   mode: 'kana-to-romaji',
   data: [],
+  questionPool: [],
   lessonData: null,
   lessonContext: null,
   questions: [],
@@ -25,6 +26,91 @@ const QuizModule = {
     this.updateModeSelector();
     this.updateContextUI();
     this.startQuiz();
+  },
+
+  /**
+   * Check whether a value is usable in quiz question/option
+   * @param {*} value - Candidate value
+   * @returns {boolean}
+   */
+  isUsableValue(value) {
+    return value !== undefined && value !== null && String(value).trim() !== '';
+  },
+
+  /**
+   * Get normalized meaning for vocabulary (prefer EN then VI)
+   * @param {Object} item - Vocabulary item
+   * @returns {string}
+   */
+  getVocabMeaning(item) {
+    const en = item && this.isUsableValue(item.meaning_en) ? String(item.meaning_en).trim() : '';
+    if (en) return en;
+    const vi = item && this.isUsableValue(item.meaning_vi) ? String(item.meaning_vi).trim() : '';
+    return vi;
+  },
+
+  /**
+   * Resolve option value from item using primary + fallback fields
+   * @param {Object} item - Data item
+   * @param {string} field - Primary field
+   * @param {Array<string>} fallbackFields - Fallback fields
+   * @returns {string}
+   */
+  getOptionValue(item, field, fallbackFields = []) {
+    if (!item) return '';
+    const fields = [field, ...(fallbackFields || [])];
+    for (const key of fields) {
+      const value = item[key];
+      if (this.isUsableValue(value)) {
+        return String(value).trim();
+      }
+    }
+    return '';
+  },
+
+  /**
+   * Check if an item can be used for current type/mode
+   * @param {Object} item - Data item
+   * @returns {boolean}
+   */
+  isItemUsableForCurrentMode(item) {
+    if (!item || this.type === 'lesson') return false;
+
+    switch (this.type) {
+      case 'hiragana':
+      case 'katakana':
+        if (this.mode === 'kana-to-romaji') {
+          return this.isUsableValue(item.kana) && this.isUsableValue(item.romaji);
+        }
+        return this.isUsableValue(item.romaji) && this.isUsableValue(item.kana);
+
+      case 'vocab':
+        if (this.mode === 'word-to-meaning') {
+          return this.isUsableValue(item.word) && this.isUsableValue(this.getVocabMeaning(item));
+        } else if (this.mode === 'meaning-to-word') {
+          return this.isUsableValue(this.getVocabMeaning(item)) && this.isUsableValue(item.word);
+        } else if (this.mode === 'reading-to-word') {
+          return this.isUsableValue(item.reading) && this.isUsableValue(item.word);
+        }
+        return this.isUsableValue(item.word) && this.isUsableValue(item.reading);
+
+      case 'kanji':
+        if (this.mode === 'kanji-to-meaning') {
+          return this.isUsableValue(item.kanji) && this.isUsableValue(item.meaning_vi);
+        }
+        return this.isUsableValue(item.meaning_vi) && this.isUsableValue(item.kanji);
+
+      case 'grammar':
+        if (this.mode === 'pattern-to-meaning') {
+          return this.isUsableValue(item.pattern) && this.isUsableValue(item.meaning_vi);
+        } else if (this.mode === 'meaning-to-pattern') {
+          return this.isUsableValue(item.meaning_vi) && this.isUsableValue(item.pattern);
+        }
+        return this.isUsableValue(item.pattern) && this.isUsableValue(item.usage_note_vi);
+
+      default:
+        return false;
+    }
   },
 
   /**
@@ -206,10 +292,18 @@ const QuizModule = {
       return;
     }
 
-    const questionCount = Math.min(10, this.data.length);
-    const selectedData = Utils.getRandomItems(this.data, questionCount);
+    this.questionPool = this.data.filter(item => this.isItemUsableForCurrentMode(item));
+    const questionCount = Math.min(10, this.questionPool.length);
+    const selectedData = Utils.getRandomItems(this.questionPool, questionCount);
 
-    this.questions = selectedData.map(item => this.generateQuestion(item));
+    this.questions = selectedData
+      .map(item => this.generateQuestion(item))
+      .filter(question =>
+        this.isUsableValue(question.question) &&
+        this.isUsableValue(question.correctAnswer) &&
+        Array.isArray(question.options) &&
+        question.options.length >= 2
+      );
   },
 
   /**
@@ -315,6 +409,7 @@ const QuizModule = {
       correctAnswer: '',
       options: []
     };
+    const vocabMeaning = this.getVocabMeaning(item);
 
     // Generate question based on type and mode
     switch (this.type) {
@@ -334,10 +429,10 @@ const QuizModule = {
       case 'vocab':
         if (this.mode === 'word-to-meaning') {
           question.question = item.word;
-          question.correctAnswer = item.meaning_en;
-          question.options = this.generateOptions(item, 'meaning_en');
+          question.correctAnswer = vocabMeaning;
+          question.options = this.generateOptions(item, 'meaning_en', ['meaning_vi']);
         } else if (this.mode === 'meaning-to-word') {
-          question.question = item.meaning_en;
+          question.question = vocabMeaning;
           question.correctAnswer = item.word;
           question.options = this.generateOptions(item, 'word');
         } else if (this.mode === 'reading-to-word') {
@@ -387,16 +482,26 @@ const QuizModule = {
    * Generate answer options
    * @param {Object} correctItem - Correct answer item
    * @param {string} field - Field to use for options
+   * @param {Array<string>} fallbackFields - Fallback fields for option value
    * @returns {Array} Shuffled options
    */
-  generateOptions(correctItem, field) {
-    const options = [correctItem[field]];
-    const otherItems = this.data.filter(item => item.id !== correctItem.id);
+  generateOptions(correctItem, field, fallbackFields = []) {
+    const correctValue = this.getOptionValue(correctItem, field, fallbackFields);
+    if (!this.isUsableValue(correctValue)) {
+      return [];
+    }
+
+    const options = [correctValue];
+    const sourcePool = (Array.isArray(this.questionPool) && this.questionPool.length > 0)
+      ? this.questionPool
+      : this.data;
+    const otherItems = sourcePool.filter(item => item.id !== correctItem.id);
     const randomItems = Utils.getRandomItems(otherItems, 3);
 
     randomItems.forEach(item => {
-      if (item[field] && !options.includes(item[field])) {
-        options.push(item[field]);
+      const candidate = this.getOptionValue(item, field, fallbackFields);
+      if (this.isUsableValue(candidate) && !options.includes(candidate)) {
+        options.push(candidate);
       }
     });
 
@@ -404,8 +509,9 @@ const QuizModule = {
     let safetyCounter = 0;
     while (options.length < 4 && safetyCounter < 30 && otherItems.length > 0) {
       const randomItem = otherItems[Math.floor(Math.random() * otherItems.length)];
-      if (randomItem && randomItem[field] && !options.includes(randomItem[field])) {
-        options.push(randomItem[field]);
+      const candidate = this.getOptionValue(randomItem, field, fallbackFields);
+      if (this.isUsableValue(candidate) && !options.includes(candidate)) {
+        options.push(candidate);
       }
       safetyCounter++;
     }

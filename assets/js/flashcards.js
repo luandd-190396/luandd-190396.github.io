@@ -47,7 +47,14 @@ const FlashcardsModule = {
     // Filter by selected lesson if applicable
     const selectedLesson = $('#lessonFilter').val();
     if (selectedLesson && selectedLesson !== 'all' && (this.type === 'vocab' || this.type === 'kanji' || this.type === 'grammar')) {
-      data = data.filter(item => item.lesson === selectedLesson);
+      const selectedLessonNo = DataService.normalizeLessonNumber(selectedLesson);
+      data = data.filter(item => {
+        const itemLessonNo = DataService.normalizeLessonNumber(item.lesson);
+        if (selectedLessonNo && itemLessonNo) {
+          return itemLessonNo === selectedLessonNo;
+        }
+        return String(item.lesson) === selectedLesson;
+      });
     }
     
     this.deck = shuffle ? Utils.shuffleArray(data) : [...data];
@@ -111,7 +118,11 @@ const FlashcardsModule = {
     // Only show lessons for vocab, kanji, and grammar
     if (this.type === 'vocab' || this.type === 'kanji' || this.type === 'grammar') {
       const data = await DataService.getModuleData(this.type);
-      const lessons = Utils.getUniqueValues(data, 'lesson').sort();
+      const lessons = Utils.getUniqueValues(data, 'lesson').sort((a, b) => {
+        const lessonA = DataService.normalizeLessonNumber(a) || 0;
+        const lessonB = DataService.normalizeLessonNumber(b) || 0;
+        return lessonA - lessonB;
+      });
       lessons.forEach(lesson => {
         $lessonSelect.append(`<option value="${lesson}">${lesson}</option>`);
       });
@@ -218,8 +229,8 @@ const FlashcardsModule = {
       
       case 'vocab':
         $front.html(`
-          <div class="flashcard-main">${Utils.escapeHtml(card.word)}</div>
-          <div class="flashcard-reading">${Utils.escapeHtml(card.reading)}</div>
+          <div class="flashcard-main">${Utils.escapeHtml(card.word || '')}</div>
+          <div class="flashcard-reading">${Utils.escapeHtml(card.reading || '')}</div>
         `);
         break;
       
@@ -260,14 +271,14 @@ const FlashcardsModule = {
       
       case 'vocab':
         $back.html(`
-          <div class="flashcard-main">${Utils.escapeHtml(card.meaning_en)}</div>
-          <div class="flashcard-reading">${Utils.escapeHtml(card.meaning_vi)}</div>
+          <div class="flashcard-main">${Utils.escapeHtml(card.meaning_en || card.meaning_vi || '')}</div>
+          <div class="flashcard-reading">${Utils.escapeHtml(card.meaning_vi || card.meaning_en || '')}</div>
           <hr>
           <div class="flashcard-example">
-            <div><strong>Romaji:</strong> ${Utils.escapeHtml(card.romaji)}</div>
+            <div><strong>Romaji:</strong> ${Utils.escapeHtml(card.romaji || '-')}</div>
             ${card.example ? `
               <div class="mt-2">${Utils.escapeHtml(card.example)}</div>
-              <div class="text-muted small">${Utils.escapeHtml(card.example_meaning)}</div>
+              <div class="text-muted small">${Utils.escapeHtml(card.example_meaning || '')}</div>
             ` : ''}
           </div>
         `);

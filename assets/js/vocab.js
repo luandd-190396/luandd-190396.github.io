@@ -75,7 +75,9 @@ const VocabModule = {
 
     // Apply search filter
     if (searchTerm) {
-      filtered = Utils.filterBySearch(filtered, searchTerm, ['word', 'reading', 'romaji', 'meaning_vi', 'meaning_en']);
+      filtered = Utils.filterBySearch(filtered, searchTerm, [
+        'word', 'reading', 'romaji', 'meaning_vi', 'meaning_en', 'type', 'category', 'lesson_title'
+      ]);
     }
 
     // Apply level filter
@@ -90,7 +92,14 @@ const VocabModule = {
 
     // Apply lesson filter
     if (selectedLesson && selectedLesson !== 'all') {
-      filtered = filtered.filter(item => item.lesson === selectedLesson);
+      const selectedLessonNo = DataService.normalizeLessonNumber(selectedLesson);
+      filtered = filtered.filter(item => {
+        const itemLessonNo = DataService.normalizeLessonNumber(item.lesson);
+        if (selectedLessonNo && itemLessonNo) {
+          return itemLessonNo === selectedLessonNo;
+        }
+        return String(item.lesson) === selectedLesson;
+      });
     }
 
     this.filteredData = filtered;
@@ -115,7 +124,10 @@ const VocabModule = {
     });
 
     // Type filter
-    const types = Utils.getUniqueValues(this.data, 'type').sort();
+    const types = Utils.getUniqueValues(this.data, 'type')
+      .map(type => String(type || '').trim())
+      .filter(type => type !== '')
+      .sort();
     const $typeSelect = $('#typeFilter');
     $typeSelect.empty();
     $typeSelect.append('<option value="all">All Types</option>');
@@ -203,30 +215,37 @@ const VocabModule = {
    * @returns {jQuery} Card element
    */
   createCard(item) {
+    const level = item.level || '-';
+    const reading = item.reading || '';
+    const romaji = item.romaji || '';
+    const meaningVi = item.meaning_vi || item.meaning_en || '';
+    const meaningEn = item.meaning_en || item.meaning_vi || '';
+    const type = item.type || item.category || '-';
+
     return $(`
       <div class="col-12 col-md-6 col-lg-4 mb-3">
         <div class="card h-100 vocab-card">
           <div class="card-body">
             <div class="d-flex justify-content-between align-items-start mb-2">
               <h5 class="card-title mb-0 kanji-char">${Utils.escapeHtml(item.word)}</h5>
-              <span class="badge bg-primary">${Utils.escapeHtml(item.level)}</span>
+              <span class="badge bg-primary">${Utils.escapeHtml(level)}</span>
             </div>
-            <div class="reading mb-2 text-secondary">${Utils.escapeHtml(item.reading)}</div>
-            <div class="romaji mb-2 text-muted small">${Utils.escapeHtml(item.romaji)}</div>
+            <div class="reading mb-2 text-secondary">${Utils.escapeHtml(reading)}</div>
+            ${romaji ? `<div class="romaji mb-2 text-muted small">${Utils.escapeHtml(romaji)}</div>` : ''}
             <hr>
             <div class="meaning mb-2">
-              <strong>VN:</strong> ${Utils.escapeHtml(item.meaning_vi)}<br>
-              <strong>EN:</strong> ${Utils.escapeHtml(item.meaning_en)}
+              <strong>VN:</strong> ${Utils.escapeHtml(meaningVi)}<br>
+              <strong>EN:</strong> ${Utils.escapeHtml(meaningEn)}
             </div>
             <div class="type-badge">
-              <span class="badge bg-secondary">${Utils.escapeHtml(item.type)}</span>
+              <span class="badge bg-secondary">${Utils.escapeHtml(type)}</span>
             </div>
             ${item.example ? `
               <hr>
               <div class="example small">
                 <div><strong>Example:</strong> ${Utils.escapeHtml(item.example)}</div>
-                <div class="text-muted">${Utils.escapeHtml(item.example_reading)}</div>
-                <div class="text-muted">${Utils.escapeHtml(item.example_meaning)}</div>
+                ${item.example_reading ? `<div class="text-muted">${Utils.escapeHtml(item.example_reading)}</div>` : ''}
+                ${item.example_meaning ? `<div class="text-muted">${Utils.escapeHtml(item.example_meaning)}</div>` : ''}
               </div>
             ` : ''}
           </div>
