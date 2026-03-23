@@ -127,7 +127,7 @@
     "category": "A. Cách xưng hô trong tiếng Nhật",
     "word": "どなた",
     "reading": "",
-    "meaning_vi": "cách nói lịch sự, kính trọng của",
+    "meaning_vi": "ai? (kính ngữ)",
     "word_romaji": "donata",
     "reading_romaji": "donata"
   },
@@ -271,7 +271,7 @@
     "category": "B. Một số nghề nghiệp cơ bản",
     "word": "エディター",
     "reading": "",
-    "meaning_vi": "biên tập viên, người chỉnh sửa Tên của bạn là gì?",
+    "meaning_vi": "biên tập viên, người chỉnh sửa",
     "word_romaji": "editaa",
     "reading_romaji": "editaa"
   },
@@ -1123,7 +1123,7 @@
     "category": "B. Danh từ chỉ nơi chốn",
     "word": "スーパー",
     "reading": "",
-    "meaning_vi": "siêu thị Đây là đâu?",
+    "meaning_vi": "siêu thị",
     "word_romaji": "suupaa",
     "reading_romaji": "suupaa"
   },
@@ -1530,10 +1530,10 @@
     "item_no": 17,
     "category": "C. Danh từ",
     "word": "休",
-    "reading": "やす み",
-    "meaning_vi": "sự nghỉ ngơi Bây giờ là mấy giờ?",
+    "reading": "やすみ",
+    "meaning_vi": "sự nghỉ ngơi, ngày nghỉ",
     "word_romaji": "kyuu",
-    "reading_romaji": "yasu   mi"
+    "reading_romaji": "yasumi"
   },
   {
     "id": "vocab_n5_sgk_04_018",

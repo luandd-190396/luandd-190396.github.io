@@ -236,7 +236,7 @@
   {
     "id": "vocab-n4-014",
     "word": "フリーマーケット",
-    "reading": "14",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Chợ đồ cũ, chợ trời",
     "meaning_en": "Second hand market, flea market",
@@ -249,7 +249,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "furiimaaketto",
-    "reading_romaji": "14"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-015",
@@ -272,7 +272,7 @@
   {
     "id": "vocab-n4-016",
     "word": "ボランティア",
-    "reading": "16",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "công tác từ thiện, tình nguyện viên",
     "meaning_en": "charity work, volunteers",
@@ -285,7 +285,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "boranteia",
-    "reading_romaji": "16"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-017",
@@ -308,7 +308,7 @@
   {
     "id": "vocab-n4-018",
     "word": "ごみ",
-    "reading": "18",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "rác",
     "meaning_en": "garbage",
@@ -321,7 +321,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "gomi",
-    "reading_romaji": "18"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-019",
@@ -398,7 +398,7 @@
   {
     "id": "vocab-n4-023",
     "word": "ずいぶん",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "khá, tương đối",
     "meaning_en": "pretty, relatively",
@@ -411,7 +411,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "zuibun",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-024",
@@ -434,7 +434,7 @@
   {
     "id": "vocab-n4-025",
     "word": "いつでも",
-    "reading": "25",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "luôn luôn",
     "meaning_en": "always",
@@ -447,12 +447,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "itsudemo",
-    "reading_romaji": "25"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-026",
     "word": "どこでも",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mọi người",
     "meaning_en": "everyone",
@@ -465,12 +465,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "dokodemo",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-027",
     "word": "だれでも",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chắc chắn",
     "meaning_en": "certain",
@@ -483,12 +483,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "daredemo",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-028",
     "word": "なんでも",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Cái gì cũng được",
     "meaning_en": "Anything also",
@@ -501,12 +501,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "nandemo",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-029",
     "word": "こんな…",
-    "reading": "29",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "..như thế này",
     "meaning_en": "..like this",
@@ -519,12 +519,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "konna …",
-    "reading_romaji": "29"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-030",
     "word": "そんな…",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "…như thế",
     "meaning_en": "…like that",
@@ -537,12 +537,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "sonna …",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-031",
     "word": "あんな…",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "… như thế",
     "meaning_en": "… like that",
@@ -555,7 +555,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "anna …",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-032",
@@ -686,7 +686,7 @@
   {
     "id": "vocab-n4-039",
     "word": "ガス",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "khí đốt",
     "meaning_en": "gas",
@@ -699,7 +699,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26-vocabulary.html",
     "word_romaji": "gasu",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-040",
@@ -938,10 +938,10 @@
   {
     "id": "vocab-n4-053",
     "word": "できます",
-    "reading": "7",
+    "reading": "",
     "romaji": "",
-    "meaning_vi": "xong rồi, xong rồi",
-    "meaning_en": "be done, done",
+    "meaning_vi": "hoàn thành, xong",
+    "meaning_en": "be done, be completed",
     "level": "N4",
     "type": "noun",
     "lesson": "L2",
@@ -951,7 +951,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "dekimasu",
-    "reading_romaji": "7"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-054",
@@ -974,7 +974,7 @@
   {
     "id": "vocab-n4-055",
     "word": "ペット",
-    "reading": "9",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thú cưng và thú cưng",
     "meaning_en": "pets and pets",
@@ -987,7 +987,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "petto",
-    "reading_romaji": "9"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-056",
@@ -1009,11 +1009,11 @@
   },
   {
     "id": "vocab-n4-057",
-    "word": "こえ",
-    "reading": "",
+    "word": "声",
+    "reading": "こえ",
     "romaji": "",
-    "meaning_vi": "Giọng nói, giọng nói",
-    "meaning_en": "Voice, voice",
+    "meaning_vi": "giọng nói, tiếng nói",
+    "meaning_en": "voice",
     "level": "N4",
     "type": "noun",
     "lesson": "L2",
@@ -1172,7 +1172,7 @@
   {
     "id": "vocab-n4-066",
     "word": "クリーニング",
-    "reading": "20",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "giặt ủi",
     "meaning_en": "laundry",
@@ -1185,12 +1185,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "kuriiningu",
-    "reading_romaji": "20"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-067",
     "word": "マンション",
-    "reading": "21",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "căn hộ",
     "meaning_en": "apartment",
@@ -1203,7 +1203,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "manshon",
-    "reading_romaji": "21"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-068",
@@ -1244,7 +1244,7 @@
   {
     "id": "vocab-n4-070",
     "word": "～しか",
-    "reading": "24",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chỉ",
     "meaning_en": "just",
@@ -1257,7 +1257,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "~ shika",
-    "reading_romaji": "24"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-071",
@@ -1280,7 +1280,7 @@
   {
     "id": "vocab-n4-072",
     "word": "パーティールーム",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tiệc",
     "meaning_en": "Banquet",
@@ -1293,7 +1293,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "paateiiruumu",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-073",
@@ -1388,7 +1388,7 @@
   {
     "id": "vocab-n4-078",
     "word": "いつか",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "một ngày nào đó",
     "meaning_en": "someday",
@@ -1401,7 +1401,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "itsuka",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-079",
@@ -1441,11 +1441,11 @@
   },
   {
     "id": "vocab-n4-081",
-    "word": "開きます素晴らしい",
+    "word": "素晴らしい",
     "reading": "すばらしい",
     "romaji": "",
-    "meaning_vi": "Tuyệt",
-    "meaning_en": "great",
+    "meaning_vi": "tuyệt vời, tuyệt hảo",
+    "meaning_en": "great, wonderful",
     "level": "N4",
     "type": "adjective",
     "lesson": "L2",
@@ -1454,7 +1454,7 @@
     "example_reading": "",
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
-    "word_romaji": "hiraki masu subarashii",
+    "word_romaji": "subarashii",
     "reading_romaji": "subarashii"
   },
   {
@@ -1549,10 +1549,10 @@
   },
   {
     "id": "vocab-n4-087",
-    "word": "景色",
-    "reading": "ロボット",
+    "word": "ロボット",
+    "reading": "",
     "romaji": "",
-    "meaning_vi": "người máy",
+    "meaning_vi": "người máy, rô-bốt",
     "meaning_en": "robot",
     "level": "N4",
     "type": "noun",
@@ -1562,7 +1562,7 @@
     "example_reading": "",
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
-    "word_romaji": "keshiki",
+    "word_romaji": "robotto",
     "reading_romaji": "robotto"
   },
   {
@@ -1586,7 +1586,7 @@
   {
     "id": "vocab-n4-089",
     "word": "ポケット",
-    "reading": "43",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "túi xách",
     "meaning_en": "handbag",
@@ -1599,7 +1599,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "poketto",
-    "reading_romaji": "43"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-090",
@@ -1730,7 +1730,7 @@
   {
     "id": "vocab-n4-097",
     "word": "ドラえもん",
-    "reading": "51",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Đôrêmon",
     "meaning_en": "Doraemon",
@@ -1743,7 +1743,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27-vocabulary.html",
     "word_romaji": "dora emon",
-    "reading_romaji": "51"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-098",
@@ -1784,7 +1784,7 @@
   {
     "id": "vocab-n4-100",
     "word": "かみます",
-    "reading": "3",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nhai, cắn",
     "meaning_en": "chew, bite",
@@ -1797,7 +1797,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "kamimasu",
-    "reading_romaji": "3"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-101",
@@ -1930,8 +1930,8 @@
     "word": "優しい",
     "reading": "やさしい",
     "romaji": "",
-    "meaning_vi": "phong cảnh",
-    "meaning_en": "scenery",
+    "meaning_vi": "dịu dàng, tốt bụng, nhẹ nhàng",
+    "meaning_en": "kind, gentle, tender",
     "level": "N4",
     "type": "adjective",
     "lesson": "L3",
@@ -2072,7 +2072,7 @@
   {
     "id": "vocab-n4-116",
     "word": "ガム",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "kẹo cao su",
     "meaning_en": "gum",
@@ -2085,7 +2085,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "gamu",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-117",
@@ -2180,7 +2180,7 @@
   {
     "id": "vocab-n4-122",
     "word": "ドラマ",
-    "reading": "25",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "kịch, kịch",
     "meaning_en": "drama, drama",
@@ -2193,7 +2193,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "dorama",
-    "reading_romaji": "25"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-123",
@@ -2378,7 +2378,7 @@
   {
     "id": "vocab-n4-133",
     "word": "しばらく",
-    "reading": "36",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "một chút, một chút",
     "meaning_en": "a little bit, a little bit",
@@ -2391,12 +2391,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "shibaraku",
-    "reading_romaji": "36"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-134",
     "word": "たいてい",
-    "reading": "37",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thường xuyên, thông thường",
     "meaning_en": "often, usually",
@@ -2409,12 +2409,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "taitei",
-    "reading_romaji": "37"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-135",
     "word": "それに",
-    "reading": "38",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Bên cạnh đó",
     "meaning_en": "Besides",
@@ -2427,12 +2427,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "soreni",
-    "reading_romaji": "38"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-136",
     "word": "それで",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "để có thể",
     "meaning_en": "so that",
@@ -2445,7 +2445,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "sorede",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-137",
@@ -2468,7 +2468,7 @@
   {
     "id": "vocab-n4-138",
     "word": "ホームステイ",
-    "reading": "41",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nhà trọ",
     "meaning_en": "homestay",
@@ -2481,7 +2481,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28-vocabulary.html",
     "word_romaji": "hoomusutei",
-    "reading_romaji": "41"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-139",
@@ -2648,7 +2648,7 @@
   {
     "id": "vocab-n4-148",
     "word": "つきます",
-    "reading": "3",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bật, bật (đèn)",
     "meaning_en": "turn on, light up (lamp)",
@@ -2661,7 +2661,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "tsukimasu",
-    "reading_romaji": "3"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-149",
@@ -2702,7 +2702,7 @@
   {
     "id": "vocab-n4-151",
     "word": "すきます",
-    "reading": "6",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vắng (đường)",
     "meaning_en": "absent (road)",
@@ -2715,7 +2715,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "sukimasu",
-    "reading_romaji": "6"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-152",
@@ -2864,7 +2864,7 @@
   {
     "id": "vocab-n4-160",
     "word": "まちがえます",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nhầm lẫn, sai",
     "meaning_en": "confused, wrong",
@@ -2877,7 +2877,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "machigaemasu",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-161",
@@ -2918,7 +2918,7 @@
   {
     "id": "vocab-n4-163",
     "word": "ふきます",
-    "reading": "18",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cây lau nhà (cửa)",
     "meaning_en": "mop (door)",
@@ -2931,12 +2931,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "fukimasu",
-    "reading_romaji": "18"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-164",
     "word": "とりかえます",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thay pin)",
     "meaning_en": "replace batteries)",
@@ -2949,7 +2949,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "torikaemasu",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-165",
@@ -3008,7 +3008,7 @@
   {
     "id": "vocab-n4-168",
     "word": "コップ",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cái cốc",
     "meaning_en": "the cup",
@@ -3021,12 +3021,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "koppu",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-169",
     "word": "ガラス",
-    "reading": "24",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thủy tinh",
     "meaning_en": "glass",
@@ -3039,7 +3039,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "garasu",
-    "reading_romaji": "24"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-170",
@@ -3134,7 +3134,7 @@
   {
     "id": "vocab-n4-175",
     "word": "スピーチ",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lời nói",
     "meaning_en": "speech",
@@ -3147,7 +3147,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "supiichi",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-176",
@@ -3242,7 +3242,7 @@
   {
     "id": "vocab-n4-181",
     "word": "このくらい",
-    "reading": "36",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cỡ này, cỡ này",
     "meaning_en": "this size, about this size",
@@ -3255,7 +3255,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "konokurai",
-    "reading_romaji": "36"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-182",
@@ -3278,7 +3278,7 @@
   {
     "id": "vocab-n4-183",
     "word": "ポケット",
-    "reading": "38",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "túi xách",
     "meaning_en": "handbag",
@@ -3291,7 +3291,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "poketto",
-    "reading_romaji": "38"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-184",
@@ -3368,7 +3368,7 @@
   {
     "id": "vocab-n4-188",
     "word": "ああ、よかった",
-    "reading": "43",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Ôi, may mắn thay",
     "meaning_en": "Oh, lucky",
@@ -3381,7 +3381,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29-vocabulary.html",
     "word_romaji": "aa , yokatta",
-    "reading_romaji": "43"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-189",
@@ -3530,7 +3530,7 @@
   {
     "id": "vocab-n4-197",
     "word": "はります",
-    "reading": "1",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dán",
     "meaning_en": "paste",
@@ -3543,7 +3543,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "harimasu",
-    "reading_romaji": "1"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-198",
@@ -3638,7 +3638,7 @@
   {
     "id": "vocab-n4-203",
     "word": "まとめます",
-    "reading": "7",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Được nhóm lại, tóm tắt",
     "meaning_en": "Grouped, summarized",
@@ -3651,7 +3651,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "matomemasu",
-    "reading_romaji": "7"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-204",
@@ -3674,7 +3674,7 @@
   {
     "id": "vocab-n4-205",
     "word": "しまいます",
-    "reading": "9",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Cho vào, cho vào",
     "meaning_en": "Put in, put in",
@@ -3687,7 +3687,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "shimaimasu",
-    "reading_romaji": "9"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-206",
@@ -3782,7 +3782,7 @@
   {
     "id": "vocab-n4-211",
     "word": "そのままにします",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cứ để vậy đi",
     "meaning_en": "leave it like that",
@@ -3795,7 +3795,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "sonomamanishimasu",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-212",
@@ -3854,7 +3854,7 @@
   {
     "id": "vocab-n4-215",
     "word": "ミーテイング",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cuộc họp",
     "meaning_en": "meeting",
@@ -3867,7 +3867,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "miiteingu",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-216",
@@ -3926,7 +3926,7 @@
   {
     "id": "vocab-n4-219",
     "word": "カレンダー",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lịch, tờ lịch",
     "meaning_en": "calendar, calendar sheet",
@@ -3939,12 +3939,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "karendaa",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-220",
     "word": "ポスター",
-    "reading": "24",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tờ rơi, áp phích",
     "meaning_en": "Flyer, poster",
@@ -3957,7 +3957,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "posutaa",
-    "reading_romaji": "24"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-221",
@@ -4196,7 +4196,7 @@
   {
     "id": "vocab-n4-234",
     "word": "すみ",
-    "reading": "38",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "góc",
     "meaning_en": "corner",
@@ -4209,12 +4209,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "sumi",
-    "reading_romaji": "38"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-235",
     "word": "まだ",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Chưa",
     "meaning_en": "not yet",
@@ -4227,12 +4227,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "mada",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-236",
     "word": "―ほど",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "một số-",
     "meaning_en": "some-",
@@ -4245,7 +4245,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "- hodo",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-237",
@@ -4268,7 +4268,7 @@
   {
     "id": "vocab-n4-238",
     "word": "ごくろうさま",
-    "reading": "42",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "các anh chị em đã làm việc chăm chỉ / cảm ơn chị",
     "meaning_en": "brothers and sisters worked hard / thank you, sister",
@@ -4281,7 +4281,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "gokurousama",
-    "reading_romaji": "42"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-239",
@@ -4322,7 +4322,7 @@
   {
     "id": "vocab-n4-241",
     "word": "ミュージカル",
-    "reading": "45",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Opera",
     "meaning_en": "Opera",
@@ -4335,7 +4335,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "myuujikaru",
-    "reading_romaji": "45"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-242",
@@ -4394,7 +4394,7 @@
   {
     "id": "vocab-n4-245",
     "word": "うれしい",
-    "reading": "50",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vui vẻ",
     "meaning_en": "fun",
@@ -4407,12 +4407,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "ureshii",
-    "reading_romaji": "50"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-246",
     "word": "いや（な）",
-    "reading": "51",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chán, ghét, không thể chấp nhận được",
     "meaning_en": "bored, hate, unacceptable",
@@ -4425,12 +4425,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "iya ( na )",
-    "reading_romaji": "51"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-247",
     "word": "すると",
-    "reading": "52",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "sau đó",
     "meaning_en": "after that",
@@ -4443,7 +4443,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30-vocabulary.html",
     "word_romaji": "suruto",
-    "reading_romaji": "52"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-248",
@@ -4826,7 +4826,7 @@
   {
     "id": "vocab-n4-269",
     "word": "だれか",
-    "reading": "21",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đó là ai",
     "meaning_en": "who’s that",
@@ -4839,7 +4839,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31-vocabulary.html",
     "word_romaji": "dareka",
-    "reading_romaji": "21"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-270",
@@ -4862,7 +4862,7 @@
   {
     "id": "vocab-n4-271",
     "word": "ずっと",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "suôn sẻ, ngay lập tức",
     "meaning_en": "smoothly, immediately",
@@ -4875,7 +4875,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31-vocabulary.html",
     "word_romaji": "zutto",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-272",
@@ -4934,7 +4934,7 @@
   {
     "id": "vocab-n4-275",
     "word": "インターネット",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "internet",
     "meaning_en": "internet",
@@ -4947,7 +4947,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31-vocabulary.html",
     "word_romaji": "intaanetto",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-276",
@@ -5168,7 +5168,7 @@
   {
     "id": "vocab-n4-288",
     "word": "すばらしさ",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tuyệt",
     "meaning_en": "great",
@@ -5181,7 +5181,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31-vocabulary.html",
     "word_romaji": "subarashisa",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-289",
@@ -5294,7 +5294,7 @@
   {
     "id": "vocab-n4-295",
     "word": "やみます（雨が～）",
-    "reading": "6",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dừng lại, dừng lại",
     "meaning_en": "stop, stop",
@@ -5307,7 +5307,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "yamimasu ( ame ga ~ )",
-    "reading_romaji": "6"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-296",
@@ -5384,7 +5384,7 @@
   {
     "id": "vocab-n4-300",
     "word": "つづきます",
-    "reading": "11",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tiếp tục, tiếp tục",
     "meaning_en": "Go on, on and on",
@@ -5397,7 +5397,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "tsuzukimasu",
-    "reading_romaji": "11"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-301",
@@ -5456,7 +5456,7 @@
   {
     "id": "vocab-n4-304",
     "word": "おかしい",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Có vấn đề, không bình thường",
     "meaning_en": "There is a problem, not normal",
@@ -5469,12 +5469,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "okashii",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-305",
     "word": "うるさい",
-    "reading": "16",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ồn ào",
     "meaning_en": "noisy",
@@ -5487,12 +5487,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "urusai",
-    "reading_romaji": "16"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-306",
     "word": "やけど",
-    "reading": "17",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đốt cháy",
     "meaning_en": "burn",
@@ -5505,12 +5505,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "yakedo",
-    "reading_romaji": "17"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-307",
     "word": "けが",
-    "reading": "18",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bị thương",
     "meaning_en": "injured",
@@ -5523,12 +5523,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "kega",
-    "reading_romaji": "18"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-308",
     "word": "せき",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ho",
     "meaning_en": "cough",
@@ -5541,12 +5541,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "seki",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-309",
     "word": "インフルエンザ",
-    "reading": "20",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đại dịch cúm",
     "meaning_en": "flu pandemic",
@@ -5559,7 +5559,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "infuruenza",
-    "reading_romaji": "20"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-310",
@@ -5744,7 +5744,7 @@
   {
     "id": "vocab-n4-320",
     "word": "エンジン",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "động cơ",
     "meaning_en": "engine",
@@ -5757,12 +5757,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "enjin",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-321",
     "word": "チーム",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đội",
     "meaning_en": "team",
@@ -5775,7 +5775,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "chiimu",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-322",
@@ -5852,7 +5852,7 @@
   {
     "id": "vocab-n4-326",
     "word": "こんなに",
-    "reading": "37",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "như thế này",
     "meaning_en": "like this",
@@ -5865,12 +5865,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "konnani",
-    "reading_romaji": "37"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-327",
     "word": "そんなに",
-    "reading": "38",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "như thế",
     "meaning_en": "like that",
@@ -5883,12 +5883,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "sonnani",
-    "reading_romaji": "38"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-328",
     "word": "あんなに",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "như thế",
     "meaning_en": "like that",
@@ -5901,12 +5901,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "annani",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-329",
     "word": "もしかしたら",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "có lẽ, biết dâu tây là, có khả năng",
     "meaning_en": "maybe, know strawberry is, capable",
@@ -5919,12 +5919,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "moshikashitara",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-330",
     "word": "それはいけませんね",
-    "reading": "41",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Điều đó không tốt.",
     "meaning_en": "That’s not good.",
@@ -5937,12 +5937,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "sorehaikemasenne",
-    "reading_romaji": "41"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-331",
     "word": "オリンピック",
-    "reading": "42",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thế vận hội",
     "meaning_en": "olympic",
@@ -5955,7 +5955,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "orinpikku",
-    "reading_romaji": "42"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-332",
@@ -6014,7 +6014,7 @@
   {
     "id": "vocab-n4-335",
     "word": "ストレス",
-    "reading": "46",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "căng thẳng, căng thẳng tâm lý",
     "meaning_en": "stress, psychological stress",
@@ -6027,7 +6027,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "sutoresu",
-    "reading_romaji": "46"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-336",
@@ -6050,7 +6050,7 @@
   {
     "id": "vocab-n4-337",
     "word": "ゆっくりします",
-    "reading": "48",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nghỉ ngơi, thư giãn, chăm sóc sức khỏe",
     "meaning_en": "rest, relaxation, health care",
@@ -6063,7 +6063,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32-vocabulary.html",
     "word_romaji": "yukkurishimasu",
-    "reading_romaji": "48"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-338",
@@ -6266,7 +6266,7 @@
   {
     "id": "vocab-n4-349",
     "word": "あきらめます",
-    "reading": "3",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "từ bỏ, đầu hàng",
     "meaning_en": "give up, surrender",
@@ -6279,7 +6279,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "akiramemasu",
-    "reading_romaji": "3"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-350",
@@ -6410,7 +6410,7 @@
   {
     "id": "vocab-n4-357",
     "word": "だめ",
-    "reading": "11",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "không thể",
     "meaning_en": "can not",
@@ -6423,7 +6423,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "dame",
-    "reading_romaji": "11"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-358",
@@ -6464,7 +6464,7 @@
   {
     "id": "vocab-n4-360",
     "word": "マーク",
-    "reading": "14",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dấu hiệu",
     "meaning_en": "sign",
@@ -6477,12 +6477,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "maaku",
-    "reading_romaji": "14"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-361",
     "word": "ボール",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "quả bóng",
     "meaning_en": "ball",
@@ -6495,7 +6495,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "booru",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-362",
@@ -6734,7 +6734,7 @@
   {
     "id": "vocab-n4-375",
     "word": "どういうー",
-    "reading": "29",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "–Cái gì, – thế nào",
     "meaning_en": "–What, – how",
@@ -6747,12 +6747,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "douiuu",
-    "reading_romaji": "29"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-376",
     "word": "もう",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "không còn nữa -",
     "meaning_en": "no more —",
@@ -6765,12 +6765,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "mou",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-377",
     "word": "あと",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "trái ~",
     "meaning_en": "left ~",
@@ -6783,7 +6783,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "ato",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-378",
@@ -6806,7 +6806,7 @@
   {
     "id": "vocab-n4-379",
     "word": "そりゃあ",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Vậy thì, ồ",
     "meaning_en": "Well then, oh",
@@ -6819,7 +6819,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "soryaa",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-380",
@@ -6968,7 +6968,7 @@
   {
     "id": "vocab-n4-388",
     "word": "できるだけ",
-    "reading": "42",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cố gắng, càng nhiều càng tốt",
     "meaning_en": "try, as much as possible",
@@ -6981,7 +6981,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "dekirudake",
-    "reading_romaji": "42"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-389",
@@ -7004,7 +7004,7 @@
   {
     "id": "vocab-n4-390",
     "word": "また",
-    "reading": "44",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hơn nữa",
     "meaning_en": "further",
@@ -7017,7 +7017,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "mata",
-    "reading_romaji": "44"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-391",
@@ -7130,7 +7130,7 @@
   {
     "id": "vocab-n4-397",
     "word": "(お）いわい",
-    "reading": "51",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lễ ăn mừng",
     "meaning_en": "celebration",
@@ -7143,12 +7143,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "( o ) iwai",
-    "reading_romaji": "51"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-398",
     "word": "なくなります",
-    "reading": "52",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mất tích, chết",
     "meaning_en": "lost, dead",
@@ -7161,7 +7161,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33-vocabulary.html",
     "word_romaji": "nakunarimasu",
-    "reading_romaji": "52"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-399",
@@ -7310,7 +7310,7 @@
   {
     "id": "vocab-n4-407",
     "word": "します（ネクタイを）",
-    "reading": "7",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mặc, buộc",
     "meaning_en": "wear, tie",
@@ -7323,7 +7323,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "shimasu ( nekutai wo )",
-    "reading_romaji": "7"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-408",
@@ -7400,7 +7400,7 @@
   {
     "id": "vocab-n4-412",
     "word": "スポーツクラブ",
-    "reading": "12",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "câu lạc bộ thể thao",
     "meaning_en": "sport Club",
@@ -7413,7 +7413,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "supootsukurabu",
-    "reading_romaji": "12"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-413",
@@ -7436,7 +7436,7 @@
   {
     "id": "vocab-n4-414",
     "word": "キー",
-    "reading": "14",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chìa khóa",
     "meaning_en": "key",
@@ -7449,12 +7449,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "kii",
-    "reading_romaji": "14"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-415",
     "word": "シートべルト",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dây an toàn",
     "meaning_en": "seat belt",
@@ -7467,7 +7467,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "shiito be ruto",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-416",
@@ -7670,7 +7670,7 @@
   {
     "id": "vocab-n4-427",
     "word": "しょうゆ",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nước tương",
     "meaning_en": "soy sauce",
@@ -7683,12 +7683,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "shouyu",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-428",
     "word": "ソース",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nước chấm, nước chấm",
     "meaning_en": "dipping sauce, gravy",
@@ -7701,12 +7701,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "soosu",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-429",
     "word": "ゆうべ",
-    "reading": "29",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đêm qua, đêm qua",
     "meaning_en": "last night, last night",
@@ -7719,12 +7719,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "yuube",
-    "reading_romaji": "29"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-430",
     "word": "さっき",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ngay bây giờ, ngay bây giờ",
     "meaning_en": "just now, just now",
@@ -7737,7 +7737,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "sakki",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-431",
@@ -7814,7 +7814,7 @@
   {
     "id": "vocab-n4-435",
     "word": "これでいいですか",
-    "reading": "35",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Điều này có ổn không?",
     "meaning_en": "Is this okay / okay?",
@@ -7827,7 +7827,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "koredeiidesuka",
-    "reading_romaji": "35"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-436",
@@ -7922,7 +7922,7 @@
   {
     "id": "vocab-n4-441",
     "word": "ーグラマ",
-    "reading": "41",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "gam-",
     "meaning_en": "gam-",
@@ -7935,12 +7935,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "- gurama",
-    "reading_romaji": "41"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-442",
     "word": "たまねぎ",
-    "reading": "42",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "củ hành",
     "meaning_en": "onion",
@@ -7953,7 +7953,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "tamanegi",
-    "reading_romaji": "42"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-443",
@@ -7994,7 +7994,7 @@
   {
     "id": "vocab-n4-445",
     "word": "なべ",
-    "reading": "45",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "trốn",
     "meaning_en": "hide",
@@ -8007,7 +8007,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "nabe",
-    "reading_romaji": "45"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-446",
@@ -8084,7 +8084,7 @@
   {
     "id": "vocab-n4-450",
     "word": "どんぶり",
-    "reading": "50",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Cái bát",
     "meaning_en": "Bowl",
@@ -8097,7 +8097,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34-vocabulary.html",
     "word_romaji": "donburi",
-    "reading_romaji": "50"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-451",
@@ -8192,7 +8192,7 @@
   {
     "id": "vocab-n4-456",
     "word": "かかります",
-    "reading": "6",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "có một chiếc điện thoại",
     "meaning_en": "have a phone",
@@ -8205,7 +8205,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "kakarimasu",
-    "reading_romaji": "6"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-457",
@@ -8426,7 +8426,7 @@
   {
     "id": "vocab-n4-469",
     "word": "ハイキング",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đi bộ trên núi",
     "meaning_en": "walking on the mountain",
@@ -8439,7 +8439,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "haikingu",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-470",
@@ -8552,7 +8552,7 @@
   {
     "id": "vocab-n4-476",
     "word": "カ－テン",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bức màn",
     "meaning_en": "the curtain",
@@ -8565,12 +8565,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "ka - ten",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-477",
     "word": "ひも",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dây thừng",
     "meaning_en": "rope",
@@ -8583,12 +8583,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "himo",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-478",
     "word": "ふた",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Nắp",
     "meaning_en": "Lid",
@@ -8601,7 +8601,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "futa",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-479",
@@ -8660,7 +8660,7 @@
   {
     "id": "vocab-n4-482",
     "word": "もっと",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hơn",
     "meaning_en": "more",
@@ -8673,7 +8673,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "motto",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-483",
@@ -8714,7 +8714,7 @@
   {
     "id": "vocab-n4-485",
     "word": "それなら",
-    "reading": "35",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Nếu vậy thì",
     "meaning_en": "If so, then",
@@ -8727,7 +8727,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "sorenara",
-    "reading_romaji": "35"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-486",
@@ -8804,7 +8804,7 @@
   {
     "id": "vocab-n4-490",
     "word": "しゅ",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đỏ, đỏ",
     "meaning_en": "red, red",
@@ -8817,7 +8817,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "shu",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-491",
@@ -8840,7 +8840,7 @@
   {
     "id": "vocab-n4-492",
     "word": "ことわざ",
-    "reading": "42",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "câu tục ngữ",
     "meaning_en": "proverb",
@@ -8853,7 +8853,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35-vocabulary.html",
     "word_romaji": "kotowaza",
-    "reading_romaji": "42"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-493",
@@ -8984,7 +8984,7 @@
   {
     "id": "vocab-n4-500",
     "word": "やせます",
-    "reading": "6",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "làm thon gọn, giảm cân",
     "meaning_en": "slim down, lose weight",
@@ -8997,7 +8997,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "yasemasu",
-    "reading_romaji": "6"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-501",
@@ -9020,7 +9020,7 @@
   {
     "id": "vocab-n4-502",
     "word": "なれます",
-    "reading": "8",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "quen, quen biết",
     "meaning_en": "acquainted, acquainted",
@@ -9033,7 +9033,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "naremasu",
-    "reading_romaji": "8"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-503",
@@ -9218,7 +9218,7 @@
   {
     "id": "vocab-n4-513",
     "word": "やっと",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "sau cùng",
     "meaning_en": "eventually",
@@ -9231,12 +9231,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "yatto",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-514",
     "word": "かなり",
-    "reading": "20",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "khá, tương đối",
     "meaning_en": "pretty, relatively",
@@ -9249,7 +9249,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "kanari",
-    "reading_romaji": "20"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-515",
@@ -9308,7 +9308,7 @@
   {
     "id": "vocab-n4-518",
     "word": "できるだけ",
-    "reading": "24",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thử",
     "meaning_en": "try",
@@ -9321,12 +9321,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "dekirudake",
-    "reading_romaji": "24"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-519",
     "word": "このごろ",
-    "reading": "25",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "gần đây, gần đây",
     "meaning_en": "lately, lately",
@@ -9339,12 +9339,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "konogoro",
-    "reading_romaji": "25"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-520",
     "word": "そのほうがー",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cái đó - hơn thế nữa",
     "meaning_en": "that – more",
@@ -9357,7 +9357,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "sonohougaa",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-521",
@@ -9434,7 +9434,7 @@
   {
     "id": "vocab-n4-525",
     "word": "～とか、～とか",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Có Có",
     "meaning_en": "Yes Yes",
@@ -9447,12 +9447,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "~ toka , ~ toka",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-526",
     "word": "タンゴ",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "tango",
     "meaning_en": "tango",
@@ -9465,7 +9465,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36-vocabulary.html",
     "word_romaji": "tango",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-527",
@@ -9740,7 +9740,7 @@
   {
     "id": "vocab-n4-542",
     "word": "しかります",
-    "reading": "2",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "la mắng",
     "meaning_en": "scold",
@@ -9753,7 +9753,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "shikarimasu",
-    "reading_romaji": "2"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-543",
@@ -9848,7 +9848,7 @@
   {
     "id": "vocab-n4-548",
     "word": "とります",
-    "reading": "8",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Trộm cắp",
     "meaning_en": "Stealing",
@@ -9861,7 +9861,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "torimasu",
-    "reading_romaji": "8"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-549",
@@ -10118,7 +10118,7 @@
   {
     "id": "vocab-n4-563",
     "word": "デート",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Hẹn hò",
     "meaning_en": "Dating",
@@ -10131,7 +10131,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "deeto",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-564",
@@ -10244,7 +10244,7 @@
   {
     "id": "vocab-n4-570",
     "word": "―によって",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "LÀM-",
     "meaning_en": "do–",
@@ -10257,12 +10257,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "- niyotte",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-571",
     "word": "よかったですね",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "may mắn",
     "meaning_en": "lucky",
@@ -10275,7 +10275,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "yokattadesune",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-572",
@@ -10370,7 +10370,7 @@
   {
     "id": "vocab-n4-577",
     "word": "アクセス",
-    "reading": "37",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Đầu nối, lưu lượng truy cập đi tới",
     "meaning_en": "Connector, traffic going to",
@@ -10383,12 +10383,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "akusesu",
-    "reading_romaji": "37"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-578",
     "word": "ドミニカ",
-    "reading": "38",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Dominica (tên một quốc gia ở Trung Mỹ)",
     "meaning_en": "Dominica (name of a country in Central America)",
@@ -10401,7 +10401,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "dominika",
-    "reading_romaji": "38"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-579",
@@ -10514,7 +10514,7 @@
   {
     "id": "vocab-n4-585",
     "word": "そのあと",
-    "reading": "45",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "sau đó",
     "meaning_en": "later",
@@ -10527,7 +10527,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "sonoato",
-    "reading_romaji": "45"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-586",
@@ -10550,7 +10550,7 @@
   {
     "id": "vocab-n4-587",
     "word": "ねずみ",
-    "reading": "47",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chuột",
     "meaning_en": "mouse",
@@ -10563,7 +10563,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37-vocabulary.html",
     "word_romaji": "nezumi",
-    "reading_romaji": "47"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-588",
@@ -10892,7 +10892,7 @@
   {
     "id": "vocab-n4-606",
     "word": "うそ",
-    "reading": "18",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nói dối, nói dối",
     "meaning_en": "lie, lie",
@@ -10905,7 +10905,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "uso",
-    "reading_romaji": "18"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-607",
@@ -10946,7 +10946,7 @@
   {
     "id": "vocab-n4-609",
     "word": "―せい",
-    "reading": "21",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "sản xuất tai–",
     "meaning_en": "ear production–",
@@ -10959,12 +10959,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "- sei",
-    "reading_romaji": "21"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-610",
     "word": "あ、いけない",
-    "reading": "22",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Ồ, nó hỏng rồi. / Ôi chúa ơi",
     "meaning_en": "Oh, it’s broken. / Oh, my God",
@@ -10977,7 +10977,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "a , ikenai",
-    "reading_romaji": "22"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-611",
@@ -11036,7 +11036,7 @@
   {
     "id": "vocab-n4-614",
     "word": "きちんと",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Nghiêm khắc, chắc chắn, không đứng đắn",
     "meaning_en": "Strict, certainly, indecent",
@@ -11049,7 +11049,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "kichinto",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-615",
@@ -11072,7 +11072,7 @@
   {
     "id": "vocab-n4-616",
     "word": "はんこ",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đóng dấu, niêm phong",
     "meaning_en": "seal, seal",
@@ -11085,7 +11085,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "hanko",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-617",
@@ -11198,7 +11198,7 @@
   {
     "id": "vocab-n4-623",
     "word": "おとなしい",
-    "reading": "35",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nhẹ nhàng, sâu sắc",
     "meaning_en": "gentle, deep",
@@ -11211,7 +11211,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "otonashii",
-    "reading_romaji": "35"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-624",
@@ -11270,7 +11270,7 @@
   {
     "id": "vocab-n4-627",
     "word": "クラス",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lớp, lớp",
     "meaning_en": "class, class",
@@ -11283,12 +11283,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "kurasu",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-628",
     "word": "けんかします",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cãi nhau",
     "meaning_en": "quarrel",
@@ -11301,7 +11301,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38-vocabulary.html",
     "word_romaji": "kenkashimasu",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-629",
@@ -11432,7 +11432,7 @@
   {
     "id": "vocab-n4-636",
     "word": "びっくりします",
-    "reading": "7",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ngạc nhiên, giật mình",
     "meaning_en": "surprised, startled",
@@ -11445,12 +11445,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "bikkurishimasu",
-    "reading_romaji": "7"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-637",
     "word": "がっかりします",
-    "reading": "8",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thất vọng",
     "meaning_en": "disappointed",
@@ -11463,7 +11463,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "gakkarishimasu",
-    "reading_romaji": "8"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-638",
@@ -11522,7 +11522,7 @@
   {
     "id": "vocab-n4-641",
     "word": "けんかします",
-    "reading": "12",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cãi nhau",
     "meaning_en": "quarrel",
@@ -11535,7 +11535,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "kenkashimasu",
-    "reading_romaji": "12"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-642",
@@ -11612,7 +11612,7 @@
   {
     "id": "vocab-n4-646",
     "word": "うれしい",
-    "reading": "17",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hân hoan",
     "meaning_en": "delight",
@@ -11625,7 +11625,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "ureshii",
-    "reading_romaji": "17"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-647",
@@ -11792,7 +11792,7 @@
   {
     "id": "vocab-n4-656",
     "word": "フロント",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bộ phận lễ tân",
     "meaning_en": "reception department",
@@ -11805,7 +11805,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "furonto",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-657",
@@ -11846,7 +11846,7 @@
   {
     "id": "vocab-n4-659",
     "word": "タオル",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "khăn, khăn",
     "meaning_en": "towels, towels",
@@ -11859,12 +11859,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "taoru",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-660",
     "word": "せっけん",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "xà phòng",
     "meaning_en": "soap",
@@ -11877,7 +11877,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "sekken",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-661",
@@ -11954,7 +11954,7 @@
   {
     "id": "vocab-n4-665",
     "word": "トラック",
-    "reading": "36",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "xe tải",
     "meaning_en": "truck",
@@ -11967,12 +11967,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "torakku",
-    "reading_romaji": "36"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-666",
     "word": "ぶつかります",
-    "reading": "37",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "va chạm, va chạm",
     "meaning_en": "crashing, collision",
@@ -11985,7 +11985,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39-vocabulary.html",
     "word_romaji": "butsukarimasu",
-    "reading_romaji": "37"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-667",
@@ -12368,7 +12368,7 @@
   {
     "id": "vocab-n4-688",
     "word": "マラソン",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chạy marathon",
     "meaning_en": "marathons",
@@ -12381,12 +12381,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "marason",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-689",
     "word": "コンテスト",
-    "reading": "16",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cuộc thi",
     "meaning_en": "competition",
@@ -12399,7 +12399,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "kontesuto",
-    "reading_romaji": "16"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-690",
@@ -12494,7 +12494,7 @@
   {
     "id": "vocab-n4-695",
     "word": "まちがい",
-    "reading": "22",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lỗi",
     "meaning_en": "errors",
@@ -12507,7 +12507,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "machigai",
-    "reading_romaji": "22"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-696",
@@ -12530,7 +12530,7 @@
   {
     "id": "vocab-n4-697",
     "word": "ズボン",
-    "reading": "24",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Quần dài",
     "meaning_en": "Trousers",
@@ -12543,7 +12543,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "zubon",
-    "reading_romaji": "24"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-698",
@@ -12638,7 +12638,7 @@
   {
     "id": "vocab-n4-703",
     "word": "―こ",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Các, các, thành viên",
     "meaning_en": "The, the, members",
@@ -12651,7 +12651,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "- ko",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-704",
@@ -12674,7 +12674,7 @@
   {
     "id": "vocab-n4-705",
     "word": "―はい",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "–Gà, –coc",
     "meaning_en": "–Chick, –coc",
@@ -12687,12 +12687,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "- hai",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-706",
     "word": "―キロ",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "–Ki-lo, –b cân bằng",
     "meaning_en": "–Ki-lo, –b balance",
@@ -12705,12 +12705,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "- kiro",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-707",
     "word": "―グラム",
-    "reading": "34",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "–Gam",
     "meaning_en": "–Gam",
@@ -12723,12 +12723,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "- guramu",
-    "reading_romaji": "34"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-708",
     "word": "ーセンチ",
-    "reading": "35",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "– cm",
     "meaning_en": "– centimeters",
@@ -12741,12 +12741,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "- senchi",
-    "reading_romaji": "35"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-709",
     "word": "ーミリ",
-    "reading": "36",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "- milimét",
     "meaning_en": "– millimeters",
@@ -12759,7 +12759,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "- miri",
-    "reading_romaji": "36"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-710",
@@ -12800,7 +12800,7 @@
   {
     "id": "vocab-n4-712",
     "word": "さあ",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ah .., ồ .., (dùng khi không rõ ràng về điều gì đó)",
     "meaning_en": "ah .., oh .., (use when not clear about something)",
@@ -12813,12 +12813,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "saa",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-713",
     "word": "どうでしょうか",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Làm sao? (cách nói lịch sự ど う で す か)",
     "meaning_en": "how? (polite way of saying ど う で す か）",
@@ -12831,12 +12831,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "doudeshouka",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-714",
     "word": "クラス",
-    "reading": "41",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lớp học",
     "meaning_en": "class",
@@ -12849,12 +12849,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "kurasu",
-    "reading_romaji": "41"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-715",
     "word": "テスト",
-    "reading": "42",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Bài kiểm tra",
     "meaning_en": "test",
@@ -12867,7 +12867,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "tesuto",
-    "reading_romaji": "42"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-716",
@@ -13070,7 +13070,7 @@
   {
     "id": "vocab-n4-727",
     "word": "ゆうに",
-    "reading": "54",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vội vã, đột ngột",
     "meaning_en": "rushed, suddenly",
@@ -13083,7 +13083,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "yuuni",
-    "reading_romaji": "54"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-728",
@@ -13178,7 +13178,7 @@
   {
     "id": "vocab-n4-733",
     "word": "うわさします",
-    "reading": "60",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "tin đồn",
     "meaning_en": "rumor",
@@ -13191,7 +13191,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40-vocabulary.html",
     "word_romaji": "uwasashimasu",
-    "reading_romaji": "60"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-734",
@@ -13466,7 +13466,7 @@
   {
     "id": "vocab-n4-749",
     "word": "えさ",
-    "reading": "16",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mồi; đồ ăn",
     "meaning_en": "bait; food",
@@ -13479,12 +13479,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "esa",
-    "reading_romaji": "16"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-750",
     "word": "おもちゃ",
-    "reading": "17",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đồ chơi",
     "meaning_en": "toy",
@@ -13497,7 +13497,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "omocha",
-    "reading_romaji": "17"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-751",
@@ -13538,7 +13538,7 @@
   {
     "id": "vocab-n4-753",
     "word": "ドライバー",
-    "reading": "20",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "tuốc nơ vít; tua vít",
     "meaning_en": "screwdriver; screwdrivers",
@@ -13551,12 +13551,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "doraibaa",
-    "reading_romaji": "20"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-754",
     "word": "ハンカチ",
-    "reading": "21",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "khăn tay",
     "meaning_en": "handkerchief",
@@ -13569,7 +13569,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "hankachi",
-    "reading_romaji": "21"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-755",
@@ -13628,7 +13628,7 @@
   {
     "id": "vocab-n4-758",
     "word": "バッグ",
-    "reading": "25",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "túi xách tay",
     "meaning_en": "hand bag",
@@ -13641,7 +13641,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "baggu",
-    "reading_romaji": "25"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-759",
@@ -13700,7 +13700,7 @@
   {
     "id": "vocab-n4-762",
     "word": "おじ",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chú (dì)",
     "meaning_en": "uncle (aunt)",
@@ -13713,12 +13713,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "oji",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-763",
     "word": "おじさん",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chú (ngta's)",
     "meaning_en": "uncle (ngta’s)",
@@ -13731,12 +13731,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "ojisan",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-764",
     "word": "おば",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dì (dì)",
     "meaning_en": "aunt (aunt)",
@@ -13749,12 +13749,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "oba",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-765",
     "word": "おばさん",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dì (của ngta)",
     "meaning_en": "aunt (of ngta)",
@@ -13767,12 +13767,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "obasan",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-766",
     "word": "おととし",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "năm ngoái",
     "meaning_en": "last year",
@@ -13785,12 +13785,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "ototoshi",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-767",
     "word": "はあ",
-    "reading": "34",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ừ tôi hiểu rồi",
     "meaning_en": "yeah I get it",
@@ -13803,7 +13803,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "haa",
-    "reading_romaji": "34"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-768",
@@ -13898,7 +13898,7 @@
   {
     "id": "vocab-n4-773",
     "word": "ある~",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "có một ~",
     "meaning_en": "have a ~",
@@ -13911,7 +13911,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "aru ~",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-774",
@@ -13952,7 +13952,7 @@
   {
     "id": "vocab-n4-776",
     "word": "いじめます",
-    "reading": "43",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "trêu chọc; xô",
     "meaning_en": "tease; poke",
@@ -13965,7 +13965,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "ijimemasu",
-    "reading_romaji": "43"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-777",
@@ -14096,7 +14096,7 @@
   {
     "id": "vocab-n4-784",
     "word": "すると",
-    "reading": "51",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "sau đó",
     "meaning_en": "then",
@@ -14109,7 +14109,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41-vocabulary.html",
     "word_romaji": "suruto",
-    "reading_romaji": "51"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-785",
@@ -14546,7 +14546,7 @@
   {
     "id": "vocab-n4-809",
     "word": "ミキサ",
-    "reading": "22",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "máy trộn; máy xay",
     "meaning_en": "mixer; grinder",
@@ -14559,12 +14559,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "mikisa",
-    "reading_romaji": "22"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-810",
     "word": "やかん",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ấm đun nước",
     "meaning_en": "kettle",
@@ -14577,7 +14577,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "yakan",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-811",
@@ -14636,7 +14636,7 @@
   {
     "id": "vocab-n4-814",
     "word": "ふろしき",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "gói khăn tắm",
     "meaning_en": "towel pack",
@@ -14649,12 +14649,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "furoshiki",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-815",
     "word": "そろばん",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bàn tính",
     "meaning_en": "abacus",
@@ -14667,7 +14667,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "soroban",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-816",
@@ -14726,7 +14726,7 @@
   {
     "id": "vocab-n4-819",
     "word": "ピラミッド",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "kim tự tháp",
     "meaning_en": "pyramid",
@@ -14739,12 +14739,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "piramiddo",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-820",
     "word": "データ",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dữ liệu",
     "meaning_en": "data",
@@ -14757,12 +14757,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "deeta",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-821",
     "word": "ファイル",
-    "reading": "34",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "tài liệu",
     "meaning_en": "file",
@@ -14775,12 +14775,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "fairu",
-    "reading_romaji": "34"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-822",
     "word": "ある～",
-    "reading": "35",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cái khác",
     "meaning_en": "the other",
@@ -14793,7 +14793,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "aru ~",
-    "reading_romaji": "35"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-823",
@@ -14816,7 +14816,7 @@
   {
     "id": "vocab-n4-824",
     "word": "なぜ",
-    "reading": "37",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tại sao",
     "meaning_en": "why",
@@ -14829,7 +14829,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "naze",
-    "reading_romaji": "37"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-825",
@@ -14870,7 +14870,7 @@
   {
     "id": "vocab-n4-827",
     "word": "ポーランド",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Phần Lan",
     "meaning_en": "Finland",
@@ -14883,12 +14883,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "poorando",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-828",
     "word": "ローン",
-    "reading": "41",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "khoản vay; trả góp",
     "meaning_en": "loan; installment",
@@ -14901,12 +14901,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "roon",
-    "reading_romaji": "41"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-829",
     "word": "セット",
-    "reading": "42",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bộ",
     "meaning_en": "the set",
@@ -14919,12 +14919,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "setto",
-    "reading_romaji": "42"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-830",
     "word": "あとは",
-    "reading": "43",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nghỉ ngơi",
     "meaning_en": "rest",
@@ -14937,12 +14937,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "atoha",
-    "reading_romaji": "43"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-831",
     "word": "カップラーメン",
-    "reading": "44",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mì ăn liền",
     "meaning_en": "instant noodles",
@@ -14955,12 +14955,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "kappuraamen",
-    "reading_romaji": "44"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-832",
     "word": "インスタントラーメン",
-    "reading": "45",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mì ăn liền",
     "meaning_en": "instant noodles",
@@ -14973,12 +14973,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "insutantoraamen",
-    "reading_romaji": "45"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-833",
     "word": "なべ",
-    "reading": "46",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cái nồi",
     "meaning_en": "pot",
@@ -14991,12 +14991,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "nabe",
-    "reading_romaji": "46"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-834",
     "word": "どんぶり",
-    "reading": "47",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bát lớn",
     "meaning_en": "big bowl",
@@ -15009,7 +15009,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "donburi",
-    "reading_romaji": "47"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-835",
@@ -15050,7 +15050,7 @@
   {
     "id": "vocab-n4-837",
     "word": "カップ",
-    "reading": "50",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tách; Tách",
     "meaning_en": "Cup; Cup",
@@ -15063,12 +15063,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "kappu",
-    "reading_romaji": "50"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-838",
     "word": "また",
-    "reading": "51",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lại; Bên cạnh đó",
     "meaning_en": "again; Besides",
@@ -15081,7 +15081,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "mata",
-    "reading_romaji": "51"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-839",
@@ -15104,7 +15104,7 @@
   {
     "id": "vocab-n4-840",
     "word": "どこででも",
-    "reading": "53",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bất cứ nơi nào",
     "meaning_en": "any where",
@@ -15117,7 +15117,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42-vocabulary.html",
     "word_romaji": "dokodedemo",
-    "reading_romaji": "53"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-841",
@@ -15230,7 +15230,7 @@
   {
     "id": "vocab-n4-847",
     "word": "とれます",
-    "reading": "6",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "trượt đi",
     "meaning_en": "slip off",
@@ -15243,12 +15243,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "toremasu",
-    "reading_romaji": "6"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-848",
     "word": "おちゃます",
-    "reading": "7",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ngã",
     "meaning_en": "fall",
@@ -15261,12 +15261,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "ochamasu",
-    "reading_romaji": "7"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-849",
     "word": "なくなります",
-    "reading": "8",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mất (kiệt sức)",
     "meaning_en": "lose (exhaust)",
@@ -15279,7 +15279,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "nakunarimasu",
-    "reading_romaji": "8"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-850",
@@ -15338,7 +15338,7 @@
   {
     "id": "vocab-n4-853",
     "word": "うまい",
-    "reading": "12",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ngon",
     "meaning_en": "tasty",
@@ -15351,12 +15351,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "umai",
-    "reading_romaji": "12"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-854",
     "word": "まずい",
-    "reading": "13",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "xấu",
     "meaning_en": "bad",
@@ -15369,12 +15369,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "mazui",
-    "reading_romaji": "13"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-855",
     "word": "つまらない",
-    "reading": "14",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nhàm chán, không hấp dẫn, không thú vị",
     "meaning_en": "boring, unattractive, not interesting",
@@ -15387,12 +15387,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "tsumaranai",
-    "reading_romaji": "14"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-856",
     "word": "ガソリン",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "xăng",
     "meaning_en": "gasoline",
@@ -15405,7 +15405,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "gasorin",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-857",
@@ -15464,7 +15464,7 @@
   {
     "id": "vocab-n4-860",
     "word": "センス",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "có năng khiếu",
     "meaning_en": "gifted",
@@ -15477,7 +15477,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "sensu",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-861",
@@ -15500,7 +15500,7 @@
   {
     "id": "vocab-n4-862",
     "word": "わあ",
-    "reading": "21",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Ồ!",
     "meaning_en": "Oh!",
@@ -15513,7 +15513,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "waa",
-    "reading_romaji": "21"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-863",
@@ -15590,7 +15590,7 @@
   {
     "id": "vocab-n4-867",
     "word": "ぴったり",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vừa phải, đúng",
     "meaning_en": "moderate, right",
@@ -15603,12 +15603,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "pittari",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-868",
     "word": "そのうえ",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hơn thế nữa",
     "meaning_en": "more to that",
@@ -15621,7 +15621,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "sonoue",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-869",
@@ -15644,7 +15644,7 @@
   {
     "id": "vocab-n4-870",
     "word": "ばら",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hoa hồng",
     "meaning_en": "rose",
@@ -15657,12 +15657,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "bara",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-871",
     "word": "ドライブ",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lái xe (đi chơi)",
     "meaning_en": "drive (hang out)",
@@ -15675,7 +15675,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43-vocabulary.html",
     "word_romaji": "doraibu",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-872",
@@ -15734,7 +15734,7 @@
   {
     "id": "vocab-n4-875",
     "word": "ぬれます Ⅱ",
-    "reading": "4",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ướt",
     "meaning_en": "wet",
@@ -15747,7 +15747,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "nuremasu   Ⅱ",
-    "reading_romaji": "4"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-876",
@@ -15968,7 +15968,7 @@
   {
     "id": "vocab-n4-888",
     "word": "おかず",
-    "reading": "17",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đồ ăn",
     "meaning_en": "food",
@@ -15981,7 +15981,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "okazu",
-    "reading_romaji": "17"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-889",
@@ -16040,7 +16040,7 @@
   {
     "id": "vocab-n4-892",
     "word": "シングル",
-    "reading": "21",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "phòng đơn",
     "meaning_en": "single room",
@@ -16053,12 +16053,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "shinguru",
-    "reading_romaji": "21"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-893",
     "word": "ツイン",
-    "reading": "22",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "phòng đôi",
     "meaning_en": "double room",
@@ -16071,12 +16071,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "tsuin",
-    "reading_romaji": "22"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-894",
     "word": "たんす",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tủ quần áo",
     "meaning_en": "Wardrobe",
@@ -16089,7 +16089,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "tansu",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-895",
@@ -16130,7 +16130,7 @@
   {
     "id": "vocab-n4-897",
     "word": "どう なさいますか",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tôi có thể giúp gì cho bạn?",
     "meaning_en": "How may I help you?",
@@ -16143,12 +16143,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "dou   nasaimasuka",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-898",
     "word": "カット",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cắt tóc",
     "meaning_en": "haircuts",
@@ -16161,12 +16161,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "katto",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-899",
     "word": "シャンプー",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dầu gội xà phòng",
     "meaning_en": "soap shampoo",
@@ -16179,12 +16179,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "shanpuu",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-900",
     "word": "どういうふうに なさいますか",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bạn muốn làm gì?",
     "meaning_en": "what do you want to do?",
@@ -16197,12 +16197,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "douiufuuni   nasaimasuka",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-901",
     "word": "ショート",
-    "reading": "30",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ngắn",
     "meaning_en": "short",
@@ -16215,12 +16215,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "shooto",
-    "reading_romaji": "30"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-902",
     "word": "～みたいに して ください",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Hãy làm điều tương tự",
     "meaning_en": "Please do the same",
@@ -16233,12 +16233,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "~ mitaini   shite   kudasai",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-903",
     "word": "これで よろしいでしょうか",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cái này ổn không?",
     "meaning_en": "is this ok?",
@@ -16251,12 +16251,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "korede   yoroshiideshouka",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-904",
     "word": "［どうも］お疲れさまでした",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Cảm ơn vì đã làm cho tôi",
     "meaning_en": "Thanks for making me",
@@ -16269,7 +16269,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "[ doumo ] o tsukare samadeshita",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-905",
@@ -16292,7 +16292,7 @@
   {
     "id": "vocab-n4-906",
     "word": "また",
-    "reading": "35",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Và",
     "meaning_en": "and",
@@ -16305,7 +16305,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "mata",
-    "reading_romaji": "35"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-907",
@@ -16382,7 +16382,7 @@
   {
     "id": "vocab-n4-911",
     "word": "これら",
-    "reading": "40",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "những thứ này",
     "meaning_en": "these things",
@@ -16395,7 +16395,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44-vocabulary.html",
     "word_romaji": "korera",
-    "reading_romaji": "40"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-912",
@@ -16436,7 +16436,7 @@
   {
     "id": "vocab-n4-914",
     "word": "あいます（じこに～）",
-    "reading": "2",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "tai nạn)",
     "meaning_en": "accident)",
@@ -16449,7 +16449,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "aimasu ( jikoni ~ )",
-    "reading_romaji": "2"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-915",
@@ -16490,7 +16490,7 @@
   {
     "id": "vocab-n4-917",
     "word": "キャンセルします",
-    "reading": "5",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hủy bỏ, hủy bỏ",
     "meaning_en": "cancel, cancel",
@@ -16503,7 +16503,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "kyanseru shimasu",
-    "reading_romaji": "5"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-918",
@@ -16598,7 +16598,7 @@
   {
     "id": "vocab-n4-923",
     "word": "キャンプ",
-    "reading": "11",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "trại",
     "meaning_en": "camp",
@@ -16611,7 +16611,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "kyanpu",
-    "reading_romaji": "11"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-924",
@@ -16670,7 +16670,7 @@
   {
     "id": "vocab-n4-927",
     "word": "レバー",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nứt tay, chuyển tay, đòn bẩy",
     "meaning_en": "hand crack, hand shift, lever",
@@ -16683,7 +16683,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "rebaa",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-928",
@@ -16706,7 +16706,7 @@
   {
     "id": "vocab-n4-929",
     "word": "ちゃんと",
-    "reading": "17",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Vâng, vâng",
     "meaning_en": "Yes, yes",
@@ -16719,7 +16719,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "chanto",
-    "reading_romaji": "17"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-930",
@@ -16796,7 +16796,7 @@
   {
     "id": "vocab-n4-934",
     "word": "ロース",
-    "reading": "22",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đường chạy (maraton)",
     "meaning_en": "running track (maraton)",
@@ -16809,12 +16809,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "roosu",
-    "reading_romaji": "22"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-935",
     "word": "スタート",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bắt đầu",
     "meaning_en": "start",
@@ -16827,7 +16827,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "sutaato",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-936",
@@ -16958,7 +16958,7 @@
   {
     "id": "vocab-n4-943",
     "word": "なります",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "thắt dây",
     "meaning_en": "lace up",
@@ -16971,12 +16971,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "narimasu",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-944",
     "word": "セットします",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Cài đặt",
     "meaning_en": "Setting",
@@ -16989,12 +16989,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "setto shimasu",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-945",
     "word": "それでも",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tuy nhiên",
     "meaning_en": "However",
@@ -17007,7 +17007,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45-vocabulary.html",
     "word_romaji": "soredemo",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-946",
@@ -17192,7 +17192,7 @@
   {
     "id": "vocab-n4-956",
     "word": "ステレオ",
-    "reading": "11",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Âm thanh nổi",
     "meaning_en": "Stereo",
@@ -17205,12 +17205,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "sutereo",
-    "reading_romaji": "11"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-957",
     "word": "こちら",
-    "reading": "12",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "chỗ ngồi (chúng tôi), bên (chúng tôi)",
     "meaning_en": "seat (we), side (we)",
@@ -17223,7 +17223,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "kochira",
-    "reading_romaji": "12"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-958",
@@ -17246,7 +17246,7 @@
   {
     "id": "vocab-n4-959",
     "word": "ちょうど",
-    "reading": "14",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vừa phải",
     "meaning_en": "just right",
@@ -17259,7 +17259,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "choudo",
-    "reading_romaji": "14"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-960",
@@ -17300,7 +17300,7 @@
   {
     "id": "vocab-n4-962",
     "word": "ガスサービスセンター",
-    "reading": "17",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Trung tâm dịch vụ gas",
     "meaning_en": "Gas service center",
@@ -17313,12 +17313,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "gasusaabisusentaa",
-    "reading_romaji": "17"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-963",
     "word": "ガスコンロ",
-    "reading": "18",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "bếp ga",
     "meaning_en": "gas stove",
@@ -17331,7 +17331,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "gasukonro",
-    "reading_romaji": "18"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-964",
@@ -17444,7 +17444,7 @@
   {
     "id": "vocab-n4-970",
     "word": "なやみ",
-    "reading": "25",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Những điều lo lắng, trăn trở, phiền muộn",
     "meaning_en": "Things to worry about, concern, sorrow",
@@ -17457,7 +17457,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "nayami",
-    "reading_romaji": "25"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-971",
@@ -17480,7 +17480,7 @@
   {
     "id": "vocab-n4-972",
     "word": "システム",
-    "reading": "27",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hệ thống",
     "meaning_en": "system",
@@ -17493,12 +17493,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "shisutemu",
-    "reading_romaji": "27"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-973",
     "word": "キーワード",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Từ khóa, điểm mấu chốt",
     "meaning_en": "Keyword, key points",
@@ -17511,7 +17511,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46-vocabulary.html",
     "word_romaji": "kiiwaado",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-974",
@@ -17678,7 +17678,7 @@
   {
     "id": "vocab-n4-983",
     "word": "[においが~] します",
-    "reading": "6",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "có [~ mùi]",
     "meaning_en": "have [~ smell]",
@@ -17691,7 +17691,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "[ nioiga ~ ]   shimasu",
-    "reading_romaji": "6"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-984",
@@ -17714,7 +17714,7 @@
   {
     "id": "vocab-n4-985",
     "word": "ひどい",
-    "reading": "8",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Xấu, tệ",
     "meaning_en": "Bad, bad",
@@ -17727,7 +17727,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "hidoi",
-    "reading_romaji": "8"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-986",
@@ -17822,7 +17822,7 @@
   {
     "id": "vocab-n4-991",
     "word": "におい",
-    "reading": "14",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "mùi",
     "meaning_en": "odor",
@@ -17835,7 +17835,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "nioi",
-    "reading_romaji": "14"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-992",
@@ -17894,7 +17894,7 @@
   {
     "id": "vocab-n4-995",
     "word": "パトカー",
-    "reading": "18",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "xe tuần tra",
     "meaning_en": "patrol car",
@@ -17907,7 +17907,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "patokaa",
-    "reading_romaji": "18"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-996",
@@ -18002,7 +18002,7 @@
   {
     "id": "vocab-n4-1001",
     "word": "どうも",
-    "reading": "24",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dường như (dùng khi đánh giá)",
     "meaning_en": "seem (to use when judging)",
@@ -18015,12 +18015,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "doumo",
-    "reading_romaji": "24"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1002",
     "word": "~によると",
-    "reading": "25",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "dựa trên … (ghi rõ nguồn thông tin)",
     "meaning_en": "based on … (indicating source of information)",
@@ -18033,12 +18033,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "~ niyoruto",
-    "reading_romaji": "25"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1003",
     "word": "イラン",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đất nước Iran",
     "meaning_en": "IRAN country",
@@ -18051,7 +18051,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "iran",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1004",
@@ -18200,7 +18200,7 @@
   {
     "id": "vocab-n4-1012",
     "word": "ホルチン",
-    "reading": "35",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hormone",
     "meaning_en": "hormones",
@@ -18213,7 +18213,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47-vocabulary.html",
     "word_romaji": "horuchin",
-    "reading_romaji": "35"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1013",
@@ -18326,7 +18326,7 @@
   {
     "id": "vocab-n4-1019",
     "word": "いや[な]",
-    "reading": "4",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "không thích, chán",
     "meaning_en": "don’t like, bored",
@@ -18339,7 +18339,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "iya [ na ]",
-    "reading_romaji": "4"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1020",
@@ -18380,7 +18380,7 @@
   {
     "id": "vocab-n4-1022",
     "word": "スケジュール",
-    "reading": "7",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lịch trình, lịch trình",
     "meaning_en": "timetables, schedules",
@@ -18393,7 +18393,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "sukejuuru",
-    "reading_romaji": "7"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1023",
@@ -18506,7 +18506,7 @@
   {
     "id": "vocab-n4-1029",
     "word": "いいことですね。",
-    "reading": "14",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Tốt / tốt",
     "meaning_en": "Good / good",
@@ -18519,7 +18519,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "iikotodesune .",
-    "reading_romaji": "14"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1030",
@@ -18578,7 +18578,7 @@
   {
     "id": "vocab-n4-1033",
     "word": "それまでに",
-    "reading": "18",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đến trước đó",
     "meaning_en": "came before that",
@@ -18591,12 +18591,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "soremadeni",
-    "reading_romaji": "18"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1034",
     "word": "かまいません",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Được rồi, không sao đâu, không có gì đâu",
     "meaning_en": "Okay, no problem, it’s nothing",
@@ -18609,7 +18609,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "kamaimasen",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1035",
@@ -18632,7 +18632,7 @@
   {
     "id": "vocab-n4-1036",
     "word": "もともと",
-    "reading": "21",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ban đầu",
     "meaning_en": "originally",
@@ -18645,7 +18645,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "motomoto",
-    "reading_romaji": "21"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1037",
@@ -18686,7 +18686,7 @@
   {
     "id": "vocab-n4-1039",
     "word": "スピード",
-    "reading": "24",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "tốc độ",
     "meaning_en": "speed",
@@ -18699,7 +18699,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "supiido",
-    "reading_romaji": "24"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1040",
@@ -18722,7 +18722,7 @@
   {
     "id": "vocab-n4-1041",
     "word": "サーカス",
-    "reading": "26",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "rạp xiếc",
     "meaning_en": "circus",
@@ -18735,7 +18735,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "saakasu",
-    "reading_romaji": "26"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1042",
@@ -18812,7 +18812,7 @@
   {
     "id": "vocab-n4-1046",
     "word": "とらえます",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nhận được",
     "meaning_en": "gain",
@@ -18825,12 +18825,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "toraemasu",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1047",
     "word": "~にとって",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cho ~",
     "meaning_en": "for ~",
@@ -18843,7 +18843,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48-vocabulary.html",
     "word_romaji": "~ nitotte",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1048",
@@ -18938,7 +18938,7 @@
   {
     "id": "vocab-n4-1053",
     "word": "いらっしゃいます",
-    "reading": "6",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "kính ngữ của います、いきます、きます",
     "meaning_en": "honorifics of います、いきます、きます",
@@ -18951,7 +18951,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "irasshaimasu",
-    "reading_romaji": "6"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1054",
@@ -18974,7 +18974,7 @@
   {
     "id": "vocab-n4-1055",
     "word": "おっしゃいます",
-    "reading": "8",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "nói (kính ngữ)",
     "meaning_en": "say (honorifics)",
@@ -18987,12 +18987,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "osshaimasu",
-    "reading_romaji": "8"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1056",
     "word": "なさいます",
-    "reading": "9",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "làm (kính ngữ)",
     "meaning_en": "do (honorifics)",
@@ -19005,7 +19005,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "nasaimasu",
-    "reading_romaji": "9"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1057",
@@ -19028,7 +19028,7 @@
   {
     "id": "vocab-n4-1058",
     "word": "あいさつ",
-    "reading": "11",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Lời chào (~をします: lời chào)",
     "meaning_en": "Greetings (~ を し ま す: greetings)",
@@ -19041,7 +19041,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "aisatsu",
-    "reading_romaji": "11"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1059",
@@ -19100,7 +19100,7 @@
   {
     "id": "vocab-n4-1062",
     "word": "バスてい",
-    "reading": "15",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Trạm dừng xe buýt",
     "meaning_en": "BUS stop",
@@ -19113,7 +19113,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "basu tei",
-    "reading_romaji": "15"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1063",
@@ -19172,7 +19172,7 @@
   {
     "id": "vocab-n4-1066",
     "word": "たまに",
-    "reading": "19",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "đôi khi, đôi khi",
     "meaning_en": "sometimes, sometimes",
@@ -19185,12 +19185,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "tamani",
-    "reading_romaji": "19"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1067",
     "word": "ちっとも",
-    "reading": "20",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "cũng một chút (dùng với dạng phủ định)",
     "meaning_en": "a little bit also (used with negative form)",
@@ -19203,7 +19203,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "chittomo",
-    "reading_romaji": "20"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1068",
@@ -19244,7 +19244,7 @@
   {
     "id": "vocab-n4-1070",
     "word": "では",
-    "reading": "23",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Vậy thì (dạng lịch sự của じ ゃ)",
     "meaning_en": "Well then (polite form of じ ゃ)",
@@ -19257,7 +19257,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "deha",
-    "reading_romaji": "23"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1071",
@@ -19424,7 +19424,7 @@
   {
     "id": "vocab-n4-1080",
     "word": "~でございます。",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "là (dạng tôn kính của で す)",
     "meaning_en": "is (revered form of で す)",
@@ -19437,7 +19437,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "~ degozaimasu .",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1081",
@@ -19478,7 +19478,7 @@
   {
     "id": "vocab-n4-1083",
     "word": "お持ちです",
-    "reading": "36",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vâng (cách biểu đạt kính trọng của もっています)",
     "meaning_en": "yes (honorific expression of もっています)",
@@ -19491,7 +19491,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "o mochi desu",
-    "reading_romaji": "36"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1084",
@@ -19532,7 +19532,7 @@
   {
     "id": "vocab-n4-1086",
     "word": "それでは",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "sau đó (chỉ phần đầu hoặc phần cuối)",
     "meaning_en": "then (only the beginning or the end)",
@@ -19545,7 +19545,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49-vocabulary.html",
     "word_romaji": "soredeha",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1087",
@@ -19604,7 +19604,7 @@
   {
     "id": "vocab-n4-1090",
     "word": "おります",
-    "reading": "2",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vâng (dạng khiêm tốn của います)",
     "meaning_en": "yes (modest form of います)",
@@ -19617,12 +19617,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "orimasu",
-    "reading_romaji": "2"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1091",
     "word": "いただきます",
-    "reading": "3",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "ăn, uống, nhận (dạng khiêm tốn của た べ ま す)",
     "meaning_en": "eat, drink, receive (humble form of た べ ま す)",
@@ -19635,7 +19635,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "itadakimasu",
-    "reading_romaji": "3"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1092",
@@ -19658,7 +19658,7 @@
   {
     "id": "vocab-n4-1093",
     "word": "いたします",
-    "reading": "5",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "làm (dạng khiêm tốn của します)",
     "meaning_en": "do (humble form of します)",
@@ -19671,7 +19671,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "itashimasu",
-    "reading_romaji": "5"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1094",
@@ -19748,7 +19748,7 @@
   {
     "id": "vocab-n4-1098",
     "word": "ございます",
-    "reading": "10",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "vâng (dạng lịch sự của あります)",
     "meaning_en": "yes (polite form of あります)",
@@ -19761,12 +19761,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "gozaimasu",
-    "reading_romaji": "10"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1099",
     "word": "~でございます",
-    "reading": "11",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "là (dạng lịch sự của ~ で す)",
     "meaning_en": "is (polite form of ~ で す)",
@@ -19779,7 +19779,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "~ degozaimasu",
-    "reading_romaji": "11"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1100",
@@ -19802,7 +19802,7 @@
   {
     "id": "vocab-n4-1101",
     "word": "ガイド",
-    "reading": "13",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hướng dẫn viên du lịch",
     "meaning_en": "tour guide",
@@ -19815,7 +19815,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "gaido",
-    "reading_romaji": "13"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1102",
@@ -19856,7 +19856,7 @@
   {
     "id": "vocab-n4-1104",
     "word": "アルバム",
-    "reading": "16",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Album ảnh, Album",
     "meaning_en": "Photo album, Album",
@@ -19869,7 +19869,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "arubamu",
-    "reading_romaji": "16"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1105",
@@ -20090,7 +20090,7 @@
   {
     "id": "vocab-n4-1117",
     "word": "きりん",
-    "reading": "28",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "hươu cao cổ",
     "meaning_en": "giraffe",
@@ -20103,7 +20103,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "kirin",
-    "reading_romaji": "28"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1118",
@@ -20126,7 +20126,7 @@
   {
     "id": "vocab-n4-1119",
     "word": "ころ",
-    "reading": "31",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "lần, ngày",
     "meaning_en": "times, days",
@@ -20139,12 +20139,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "koro",
-    "reading_romaji": "31"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1120",
     "word": "かないます",
-    "reading": "32",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "(giấc mơ) trở thành hiện thực, đầy cảm hứng",
     "meaning_en": "(dream) come true, inspired",
@@ -20157,12 +20157,12 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "kanaimasu",
-    "reading_romaji": "32"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1121",
     "word": "ひとことよろしいでしょうか",
-    "reading": "33",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Hãy để tôi nói một lời",
     "meaning_en": "Let me say a word",
@@ -20175,7 +20175,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "hitokotoyoroshiideshouka",
-    "reading_romaji": "33"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1122",
@@ -20270,7 +20270,7 @@
   {
     "id": "vocab-n4-1127",
     "word": "おげんきでいらっしゃいますか?",
-    "reading": "39",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Bạn có khỏe không? (cách nói kính trọng おげんきですか。)",
     "meaning_en": "How are you? (revered way of saying おげんきですか。)",
@@ -20283,7 +20283,7 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "ogenkideirasshaimasuka ?",
-    "reading_romaji": "39"
+    "reading_romaji": ""
   },
   {
     "id": "vocab-n4-1128",
@@ -20360,7 +20360,7 @@
   {
     "id": "vocab-n4-1132",
     "word": "ミュンヘン",
-    "reading": "44",
+    "reading": "",
     "romaji": "",
     "meaning_vi": "Munich (thành phố lớn của Đức)",
     "meaning_en": "Munich (big city of Germany)",
@@ -20373,6 +20373,6 @@
     "example_meaning": "",
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50-vocabulary.html",
     "word_romaji": "myunhen",
-    "reading_romaji": "44"
+    "reading_romaji": ""
   }
 ]
