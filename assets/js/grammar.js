@@ -121,7 +121,14 @@ const GrammarModule = {
 
     // Apply lesson filter
     if (selectedLesson && selectedLesson !== 'all') {
-      filtered = filtered.filter(item => item.lesson === selectedLesson);
+      const selectedLessonNo = DataService.normalizeLessonNumber(selectedLesson);
+      filtered = filtered.filter(item => {
+        const itemLessonNo = DataService.normalizeLessonNumber(item.lesson);
+        if (selectedLessonNo && itemLessonNo) {
+          return itemLessonNo === selectedLessonNo;
+        }
+        return String(item.lesson) === String(selectedLesson);
+      });
     }
 
     // Apply tag filter
@@ -151,7 +158,9 @@ const GrammarModule = {
 
     // Populate lessons
     const lessons = Utils.getUniqueValues(this.data, 'lesson').sort((a, b) => {
-      return parseInt(a) - parseInt(b);
+      const lessonA = DataService.normalizeLessonNumber(a) || 0;
+      const lessonB = DataService.normalizeLessonNumber(b) || 0;
+      return lessonA - lessonB;
     });
     const $lessonSelect = $('#lessonFilter');
     lessons.forEach(lesson => {

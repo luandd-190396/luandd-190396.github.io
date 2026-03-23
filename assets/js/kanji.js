@@ -79,7 +79,14 @@ const KanjiModule = {
 
     // Apply lesson filter
     if (selectedLesson && selectedLesson !== 'all') {
-      filtered = filtered.filter(item => item.lesson === selectedLesson);
+      const selectedLessonNo = DataService.normalizeLessonNumber(selectedLesson);
+      filtered = filtered.filter(item => {
+        const itemLessonNo = DataService.normalizeLessonNumber(item.lesson);
+        if (selectedLessonNo && itemLessonNo) {
+          return itemLessonNo === selectedLessonNo;
+        }
+        return String(item.lesson) === selectedLesson;
+      });
     }
 
     this.filteredData = filtered;
