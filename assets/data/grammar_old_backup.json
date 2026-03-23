@@ -22,7 +22,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  ga   ichiban ~"
   },
   {
     "id": "grammar_n5_0002",
@@ -47,7 +48,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . keredomo , ~ B . (A .  Keredomo , ~ B . )"
   },
   {
     "id": "grammar_n5_0003",
@@ -72,7 +74,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . shikashi , ~ B ."
   },
   {
     "id": "grammar_n5_0004",
@@ -97,7 +100,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . ja , ~ B . (A .  Ja ,  ~B . )"
   },
   {
     "id": "grammar_n5_0005",
@@ -122,7 +126,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . soreja , ~ B . (A .  Soreja , ~B . )"
   },
   {
     "id": "grammar_n5_0006",
@@ -147,7 +152,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . soredeha , ~ B . (A .  Soredewa , ~B . )"
   },
   {
     "id": "grammar_n5_0007",
@@ -172,7 +178,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A .   deha , ~ B ."
   },
   {
     "id": "grammar_n5_0008",
@@ -197,7 +204,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . demo , ~ B . (A .  Demo ,  ~B )"
   },
   {
     "id": "grammar_n5_0009",
@@ -222,7 +230,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A to  B to   dochira ~"
   },
   {
     "id": "grammar_n5_0010",
@@ -247,7 +256,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A to B to   dotchi ~"
   },
   {
     "id": "grammar_n5_0011",
@@ -272,7 +282,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  ha  B  ga ~"
   },
   {
     "id": "grammar_n5_0012",
@@ -297,7 +308,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  ha  B  yori ~"
   },
   {
     "id": "grammar_n5_0013",
@@ -322,7 +334,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  yori  B  nohouga ~"
   },
   {
     "id": "grammar_n5_0014",
@@ -347,7 +360,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - i   ku  +    +  ộ ng t ừ"
   },
   {
     "id": "grammar_n5_0015",
@@ -372,7 +386,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - i   ku   shimasu"
   },
   {
     "id": "grammar_n5_0016",
@@ -397,7 +412,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - i : Negative Polite Form"
   },
   {
     "id": "grammar_n5_0017",
@@ -422,7 +438,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - i   te"
   },
   {
     "id": "grammar_n5_0018",
@@ -447,7 +464,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - na   ni  +    +  ộ ng t ừ"
   },
   {
     "id": "grammar_n5_0019",
@@ -472,7 +490,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - na   de ~"
   },
   {
     "id": "grammar_n5_0020",
@@ -497,7 +516,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - na   ni   shimasu"
   },
   {
     "id": "grammar_n5_0021",
@@ -522,7 +542,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - na   ni   narimasu"
   },
   {
     "id": "grammar_n5_0022",
@@ -547,7 +568,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ka  Danh t ừ   ka ~"
   },
   {
     "id": "grammar_n5_0023",
@@ -572,7 +594,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ga   dekimasu"
   },
   {
     "id": "grammar_n5_0024",
@@ -597,7 +620,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   gahoshiidesu"
   },
   {
     "id": "grammar_n5_0025",
@@ -622,7 +646,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   kara  Danh t ừ   made"
   },
   {
     "id": "grammar_n5_0026",
@@ -647,7 +672,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   kurai ~"
   },
   {
     "id": "grammar_n5_0027",
@@ -672,7 +698,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   gurai ~"
   },
   {
     "id": "grammar_n5_0028",
@@ -697,7 +724,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   goro ~"
   },
   {
     "id": "grammar_n5_0029",
@@ -722,7 +750,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   dake ~"
   },
   {
     "id": "grammar_n5_0030",
@@ -747,7 +776,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Noun de ~"
   },
   {
     "id": "grammar_n5_0031",
@@ -772,7 +802,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   to ~"
   },
   {
     "id": "grammar_n5_0032",
@@ -797,7 +828,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni ~"
   },
   {
     "id": "grammar_n5_0033",
@@ -822,7 +854,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   kaeri masu"
   },
   {
     "id": "grammar_n5_0034",
@@ -847,7 +880,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   shimasu"
   },
   {
     "id": "grammar_n5_0035",
@@ -872,7 +906,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   narimasu"
   },
   {
     "id": "grammar_n5_0036",
@@ -897,7 +932,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   kima su"
   },
   {
     "id": "grammar_n5_0037",
@@ -922,7 +958,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   iki masu"
   },
   {
     "id": "grammar_n5_0038",
@@ -947,7 +984,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no   atode"
   },
   {
     "id": "grammar_n5_0039",
@@ -972,7 +1010,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no   mae ni"
   },
   {
     "id": "grammar_n5_0040",
@@ -997,7 +1036,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ha ~"
   },
   {
     "id": "grammar_n5_0041",
@@ -1022,7 +1062,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   mo ~"
   },
   {
     "id": "grammar_n5_0042",
@@ -1047,7 +1088,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ya  Danh t ừ   nado ~"
   },
   {
     "id": "grammar_n5_0043",
@@ -1072,7 +1114,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo ~"
   },
   {
     "id": "grammar_n5_0044",
@@ -1097,7 +1140,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ta   atode"
   },
   {
     "id": "grammar_n5_0045",
@@ -1122,7 +1166,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   taidesu"
   },
   {
     "id": "grammar_n5_0046",
@@ -1147,7 +1192,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te ~"
   },
   {
     "id": "grammar_n5_0047",
@@ -1172,7 +1218,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   imasu"
   },
   {
     "id": "grammar_n5_0048",
@@ -1197,7 +1244,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tekara ~"
   },
   {
     "id": "grammar_n5_0049",
@@ -1222,7 +1270,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   kudasai"
   },
   {
     "id": "grammar_n5_0050",
@@ -1247,7 +1296,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naide   kudasai"
   },
   {
     "id": "grammar_n5_0051",
@@ -1272,7 +1322,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   modori masu"
   },
   {
     "id": "grammar_n5_0052",
@@ -1297,7 +1348,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ni   kima su"
   },
   {
     "id": "grammar_n5_0053",
@@ -1322,7 +1374,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ni   iki masu"
   },
   {
     "id": "grammar_n5_0054",
@@ -1347,7 +1400,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   mashou"
   },
   {
     "id": "grammar_n5_0055",
@@ -1372,7 +1426,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   mashouka ."
   },
   {
     "id": "grammar_n5_0056",
@@ -1397,7 +1452,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   masenka ."
   },
   {
     "id": "grammar_n5_0057",
@@ -1422,7 +1478,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   rukoto ~"
   },
   {
     "id": "grammar_n5_0058",
@@ -1447,7 +1504,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ru   koto   ga   dekimasu"
   },
   {
     "id": "grammar_n5_0059",
@@ -1472,7 +1530,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ru   koto   gadekiru"
   },
   {
     "id": "grammar_n5_0060",
@@ -1497,7 +1556,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ru   no ~"
   },
   {
     "id": "grammar_n5_0061",
@@ -1522,7 +1582,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ru   mae ni"
   },
   {
     "id": "grammar_n5_0062",
@@ -1547,7 +1608,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "amari ~ arimasen"
   },
   {
     "id": "grammar_n5_0063",
@@ -1572,7 +1634,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "amari ~ naidesu"
   },
   {
     "id": "grammar_n5_0064",
@@ -1597,7 +1660,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ arimasu"
   },
   {
     "id": "grammar_n5_0065",
@@ -1622,7 +1686,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ikagadesuka ."
   },
   {
     "id": "grammar_n5_0066",
@@ -1647,7 +1712,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "ikutsu ~"
   },
   {
     "id": "grammar_n5_0067",
@@ -1672,7 +1738,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "itsuka ~"
   },
   {
     "id": "grammar_n5_0068",
@@ -1697,7 +1764,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "itsudemo ~"
   },
   {
     "id": "grammar_n5_0069",
@@ -1722,7 +1790,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "itsumo ~"
   },
   {
     "id": "grammar_n5_0070",
@@ -1747,7 +1816,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ te   imasu"
   },
   {
     "id": "grammar_n5_0071",
@@ -1772,7 +1842,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ga"
   },
   {
     "id": "grammar_n5_0072",
@@ -1797,7 +1868,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ga , ~"
   },
   {
     "id": "grammar_n5_0073",
@@ -1822,7 +1894,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara , ~"
   },
   {
     "id": "grammar_n5_0074",
@@ -1847,7 +1920,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ karadesu"
   },
   {
     "id": "grammar_n5_0075",
@@ -1872,7 +1946,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara   moraimasu"
   },
   {
     "id": "grammar_n5_0076",
@@ -1897,7 +1972,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ga   watashi ni   kuremasu"
   },
   {
     "id": "grammar_n5_0077",
@@ -1922,7 +1998,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kedo , ~"
   },
   {
     "id": "grammar_n5_0078",
@@ -1947,7 +2024,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ keredo , ~"
   },
   {
     "id": "grammar_n5_0079",
@@ -1972,7 +2050,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "kochira ~"
   },
   {
     "id": "grammar_n5_0080",
@@ -1997,7 +2076,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "sakki ~"
   },
   {
     "id": "grammar_n5_0081",
@@ -2022,7 +2102,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "suguni ~"
   },
   {
     "id": "grammar_n5_0082",
@@ -2047,7 +2128,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "zenzen ~"
   },
   {
     "id": "grammar_n5_0083",
@@ -2072,7 +2154,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "soshite , ~"
   },
   {
     "id": "grammar_n5_0084",
@@ -2097,7 +2180,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "sochira ~"
   },
   {
     "id": "grammar_n5_0085",
@@ -2122,7 +2206,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "sorekara , ~"
   },
   {
     "id": "grammar_n5_0086",
@@ -2147,7 +2232,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "daitai ~"
   },
   {
     "id": "grammar_n5_0087",
@@ -2172,7 +2258,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "taitei ~"
   },
   {
     "id": "grammar_n5_0088",
@@ -2197,7 +2284,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dakara , ~"
   },
   {
     "id": "grammar_n5_0089",
@@ -2222,7 +2310,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tari , ~ tari   shimasu"
   },
   {
     "id": "grammar_n5_0090",
@@ -2247,7 +2336,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dare ~"
   },
   {
     "id": "grammar_n5_0091",
@@ -2272,7 +2362,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dareka ~"
   },
   {
     "id": "grammar_n5_0092",
@@ -2297,7 +2388,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "daredemo ~"
   },
   {
     "id": "grammar_n5_0093",
@@ -2322,7 +2414,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "daremo ~ naidesu"
   },
   {
     "id": "grammar_n5_0094",
@@ -2347,7 +2440,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "daremo ~ masen"
   },
   {
     "id": "grammar_n5_0095",
@@ -2372,7 +2466,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dou   shimasuka ."
   },
   {
     "id": "grammar_n5_0096",
@@ -2397,7 +2492,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ doudesuka ."
   },
   {
     "id": "grammar_n5_0097",
@@ -2422,7 +2518,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "douyatte ~"
   },
   {
     "id": "grammar_n5_0098",
@@ -2447,7 +2544,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dou   ii masuka ."
   },
   {
     "id": "grammar_n5_0099",
@@ -2472,7 +2570,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toki"
   },
   {
     "id": "grammar_n5_0100",
@@ -2497,7 +2596,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "tokidoki ~"
   },
   {
     "id": "grammar_n5_0101",
@@ -2522,7 +2622,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "doko ~"
   },
   {
     "id": "grammar_n5_0102",
@@ -2547,7 +2648,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokoka ~"
   },
   {
     "id": "grammar_n5_0103",
@@ -2572,7 +2674,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokodemo ~"
   },
   {
     "id": "grammar_n5_0104",
@@ -2597,7 +2700,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokonimo  +    +  ộ ng t ừ  +  naidesu"
   },
   {
     "id": "grammar_n5_0105",
@@ -2622,7 +2726,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokonimo  +    +  ộ ng t ừ  +  masen"
   },
   {
     "id": "grammar_n5_0106",
@@ -2647,7 +2752,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokohemo      ộ ng t ừ   naidesu"
   },
   {
     "id": "grammar_n5_0107",
@@ -2672,7 +2778,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokohemo      ộ ng t ừ   masen"
   },
   {
     "id": "grammar_n5_0108",
@@ -2697,7 +2804,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokomo      ộ ng t ừ   naidesu"
   },
   {
     "id": "grammar_n5_0109",
@@ -2722,7 +2830,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dokomo      ộ ng t ừ   masen"
   },
   {
     "id": "grammar_n5_0110",
@@ -2747,7 +2856,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dochira ~"
   },
   {
     "id": "grammar_n5_0111",
@@ -2772,7 +2882,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "donata ~"
   },
   {
     "id": "grammar_n5_0112",
@@ -2797,7 +2908,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dono  Danh t ừ"
   },
   {
     "id": "grammar_n5_0113",
@@ -2822,7 +2934,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "doredemo ~"
   },
   {
     "id": "grammar_n5_0114",
@@ -2847,7 +2960,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "donna  Danh t ừ"
   },
   {
     "id": "grammar_n5_0115",
@@ -2872,7 +2986,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "nani ~"
   },
   {
     "id": "grammar_n5_0116",
@@ -2897,7 +3012,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "nanika ~"
   },
   {
     "id": "grammar_n5_0117",
@@ -2922,7 +3038,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "nanimo ~ naidesu"
   },
   {
     "id": "grammar_n5_0118",
@@ -2947,7 +3064,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "nanimo ~ masen"
   },
   {
     "id": "grammar_n5_0119",
@@ -2972,7 +3090,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "nan ~"
   },
   {
     "id": "grammar_n5_0120",
@@ -2997,7 +3116,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "nande ~"
   },
   {
     "id": "grammar_n5_0121",
@@ -3022,7 +3142,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "nandemo ~"
   },
   {
     "id": "grammar_n5_0122",
@@ -3047,7 +3168,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nanto   ii masuka ."
   },
   {
     "id": "grammar_n5_0123",
@@ -3072,7 +3194,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni   agemasu"
   },
   {
     "id": "grammar_n5_0124",
@@ -3097,7 +3220,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni   moraimasu"
   },
   {
     "id": "grammar_n5_0125",
@@ -3122,7 +3246,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ no"
   },
   {
     "id": "grammar_n5_0126",
@@ -3147,7 +3272,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hataihendesu"
   },
   {
     "id": "grammar_n5_0127",
@@ -3172,7 +3298,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "hotondo ~"
   },
   {
     "id": "grammar_n5_0128",
@@ -3197,7 +3324,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "maamaa ~"
   },
   {
     "id": "grammar_n5_0129",
@@ -3222,7 +3350,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "mada ~"
   },
   {
     "id": "grammar_n5_0130",
@@ -3247,7 +3376,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "mada ~ naidesu"
   },
   {
     "id": "grammar_n5_0131",
@@ -3272,7 +3402,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "mada ~ masen"
   },
   {
     "id": "grammar_n5_0132",
@@ -3297,7 +3428,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "mou ~"
   },
   {
     "id": "grammar_n5_0133",
@@ -3322,7 +3454,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "mousugu ~"
   },
   {
     "id": "grammar_n5_0134",
@@ -3347,7 +3480,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "motto ~"
   },
   {
     "id": "grammar_n5_0135",
@@ -3372,7 +3506,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "yoku ~"
   },
   {
     "id": "grammar_n5_0136",
@@ -3397,7 +3532,8 @@
       "jlpt-n5",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ( basho ) ni ~ gaarimasu"
   },
   {
     "id": "grammar_n4_0001",
@@ -3422,7 +3558,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  toka  B  toka"
   },
   {
     "id": "grammar_n4_0002",
@@ -3447,7 +3584,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  ha  B  hodo ~ arimasen"
   },
   {
     "id": "grammar_n4_0003",
@@ -3472,7 +3610,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  ha  B  hodo ~ nai"
   },
   {
     "id": "grammar_n4_0004",
@@ -3497,7 +3636,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  yori  B  nohouga ~"
   },
   {
     "id": "grammar_n4_0005",
@@ -3522,7 +3662,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "T i nh t ừ - i   ku   suru / naru"
   },
   {
     "id": "grammar_n4_0006",
@@ -3547,7 +3688,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "na -adjective  ni   suru / naru"
   },
   {
     "id": "grammar_n4_0007",
@@ -3572,7 +3714,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   shika ~ nai"
   },
   {
     "id": "grammar_n4_0008",
@@ -3597,7 +3740,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   suru"
   },
   {
     "id": "grammar_n4_0009",
@@ -3622,7 +3766,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni   naru"
   },
   {
     "id": "grammar_n4_0010",
@@ -3647,7 +3792,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "notameni"
   },
   {
     "id": "grammar_n4_0011",
@@ -3672,7 +3818,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no   mani"
   },
   {
     "id": "grammar_n4_0012",
@@ -3697,7 +3844,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   bakari"
   },
   {
     "id": "grammar_n4_0013",
@@ -3722,7 +3870,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   ageru"
   },
   {
     "id": "grammar_n4_0014",
@@ -3747,7 +3896,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Noun woitadaku"
   },
   {
     "id": "grammar_n4_0015",
@@ -3772,7 +3922,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Noun wokudasaru"
   },
   {
     "id": "grammar_n4_0016",
@@ -3797,7 +3948,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   kureru"
   },
   {
     "id": "grammar_n4_0017",
@@ -3822,7 +3974,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   sashiageru"
   },
   {
     "id": "grammar_n4_0018",
@@ -3847,7 +4000,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   morau"
   },
   {
     "id": "grammar_n4_0019",
@@ -3872,7 +4026,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  naka"
   },
   {
     "id": "grammar_n4_0020",
@@ -3897,7 +4052,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   saserareru"
   },
   {
     "id": "grammar_n4_0021",
@@ -3922,7 +4078,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   saseru"
   },
   {
     "id": "grammar_n4_0022",
@@ -3947,7 +4104,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ta   kotogaaru"
   },
   {
     "id": "grammar_n4_0023",
@@ -3972,7 +4130,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ta   tokini"
   },
   {
     "id": "grammar_n4_0024",
@@ -3997,7 +4156,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ta   tokoro"
   },
   {
     "id": "grammar_n4_0025",
@@ -4022,7 +4182,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tahougaii"
   },
   {
     "id": "grammar_n4_0026",
@@ -4047,7 +4208,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tameni"
   },
   {
     "id": "grammar_n4_0027",
@@ -4072,7 +4234,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tsumori"
   },
   {
     "id": "grammar_n4_0028",
@@ -4097,7 +4260,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teageru"
   },
   {
     "id": "grammar_n4_0029",
@@ -4122,7 +4286,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   aru"
   },
   {
     "id": "grammar_n4_0030",
@@ -4147,7 +4312,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   iku"
   },
   {
     "id": "grammar_n4_0031",
@@ -4172,7 +4338,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teitadakitai"
   },
   {
     "id": "grammar_n4_0032",
@@ -4197,7 +4364,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teitadaku"
   },
   {
     "id": "grammar_n4_0033",
@@ -4222,7 +4390,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   itadakemasenka"
   },
   {
     "id": "grammar_n4_0034",
@@ -4247,7 +4416,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   iru"
   },
   {
     "id": "grammar_n4_0035",
@@ -4272,7 +4442,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   iru   tokoro"
   },
   {
     "id": "grammar_n4_0036",
@@ -4297,7 +4468,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teiru mani"
   },
   {
     "id": "grammar_n4_0037",
@@ -4322,7 +4494,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teoku"
   },
   {
     "id": "grammar_n4_0038",
@@ -4347,7 +4520,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   kudasaimasenka"
   },
   {
     "id": "grammar_n4_0039",
@@ -4372,7 +4546,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   kudasaru"
   },
   {
     "id": "grammar_n4_0040",
@@ -4397,7 +4572,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   kuru"
   },
   {
     "id": "grammar_n4_0041",
@@ -4422,7 +4598,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tekuremasenka"
   },
   {
     "id": "grammar_n4_0042",
@@ -4447,7 +4624,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   kureru"
   },
   {
     "id": "grammar_n4_0043",
@@ -4472,7 +4650,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te  +  sashiageru"
   },
   {
     "id": "grammar_n4_0044",
@@ -4497,7 +4676,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teshimau"
   },
   {
     "id": "grammar_n4_0045",
@@ -4522,7 +4702,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   hoshii"
   },
   {
     "id": "grammar_n4_0046",
@@ -4547,7 +4728,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   temiru"
   },
   {
     "id": "grammar_n4_0047",
@@ -4572,7 +4754,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   temoraitai"
   },
   {
     "id": "grammar_n4_0048",
@@ -4597,7 +4780,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   te   morau"
   },
   {
     "id": "grammar_n4_0049",
@@ -4622,7 +4806,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   temoraemasenka"
   },
   {
     "id": "grammar_n4_0050",
@@ -4647,7 +4832,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   nai   kotogaaru"
   },
   {
     "id": "grammar_n4_0051",
@@ -4672,7 +4858,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   nai  +  kotonisuru"
   },
   {
     "id": "grammar_n4_0052",
@@ -4697,7 +4884,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   nai   kotoninaru"
   },
   {
     "id": "grammar_n4_0053",
@@ -4722,7 +4910,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naihougaii"
   },
   {
     "id": "grammar_n4_0054",
@@ -4747,7 +4936,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   nagara"
   },
   {
     "id": "grammar_n4_0055",
@@ -4772,7 +4962,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   nasai"
   },
   {
     "id": "grammar_n4_0056",
@@ -4797,7 +4988,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   nikui"
   },
   {
     "id": "grammar_n4_0057",
@@ -4822,7 +5014,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   yasui"
   },
   {
     "id": "grammar_n4_0058",
@@ -4847,7 +5040,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youto omou"
   },
   {
     "id": "grammar_n4_0059",
@@ -4872,7 +5066,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youni"
   },
   {
     "id": "grammar_n4_0060",
@@ -4897,7 +5092,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   younisuru"
   },
   {
     "id": "grammar_n4_0061",
@@ -4922,7 +5118,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youninaru"
   },
   {
     "id": "grammar_n4_0062",
@@ -4947,7 +5144,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youni iu"
   },
   {
     "id": "grammar_n4_0063",
@@ -4972,7 +5170,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   rareru"
   },
   {
     "id": "grammar_n4_0064",
@@ -4997,7 +5196,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ru   kotogaaru"
   },
   {
     "id": "grammar_n4_0065",
@@ -5022,7 +5222,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   rukotogadekiru"
   },
   {
     "id": "grammar_n4_0066",
@@ -5047,7 +5248,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   rukotonisuru"
   },
   {
     "id": "grammar_n4_0067",
@@ -5072,7 +5274,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ru   kotoninaru"
   },
   {
     "id": "grammar_n4_0068",
@@ -5097,7 +5300,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   rutokini"
   },
   {
     "id": "grammar_n4_0069",
@@ -5122,7 +5326,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ru   tokoro"
   },
   {
     "id": "grammar_n4_0070",
@@ -5147,7 +5352,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   dasu"
   },
   {
     "id": "grammar_n4_0071",
@@ -5172,7 +5378,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   hou"
   },
   {
     "id": "grammar_n4_0072",
@@ -5197,7 +5404,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   owa ru"
   },
   {
     "id": "grammar_n4_0073",
@@ -5222,7 +5430,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ  +  tsuzuke ru"
   },
   {
     "id": "grammar_n4_0074",
@@ -5247,7 +5456,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kashira"
   },
   {
     "id": "grammar_n4_0075",
@@ -5272,7 +5482,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kadouka"
   },
   {
     "id": "grammar_n4_0076",
@@ -5297,7 +5508,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kanaa"
   },
   {
     "id": "grammar_n4_0077",
@@ -5322,7 +5534,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kamoshirenai"
   },
   {
     "id": "grammar_n4_0078",
@@ -5347,7 +5560,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara"
   },
   {
     "id": "grammar_n4_0079",
@@ -5372,7 +5586,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ keredo"
   },
   {
     "id": "grammar_n4_0080",
@@ -5397,7 +5612,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sasetekudasai"
   },
   {
     "id": "grammar_n4_0081",
@@ -5422,7 +5638,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ shi , ~ shi , ~"
   },
   {
     "id": "grammar_n4_0082",
@@ -5447,7 +5664,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sugiru"
   },
   {
     "id": "grammar_n4_0083",
@@ -5472,7 +5690,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ zutsu"
   },
   {
     "id": "grammar_n4_0084",
@@ -5497,7 +5716,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ souda"
   },
   {
     "id": "grammar_n4_0085",
@@ -5522,7 +5742,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "sonna  (sonna )  + Danh t ừ"
   },
   {
     "id": "grammar_n4_0086",
@@ -5547,7 +5768,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "sonnani ~"
   },
   {
     "id": "grammar_n4_0087",
@@ -5572,7 +5794,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ taraii"
   },
   {
     "id": "grammar_n4_0088",
@@ -5597,7 +5820,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tara   ikagadesuka"
   },
   {
     "id": "grammar_n4_0089",
@@ -5622,7 +5846,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tara   doudesuka"
   },
   {
     "id": "grammar_n4_0090",
@@ -5647,7 +5872,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tari ~ tari"
   },
   {
     "id": "grammar_n4_0091",
@@ -5672,7 +5898,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ darou"
   },
   {
     "id": "grammar_n4_0092",
@@ -5697,7 +5924,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tteiu"
   },
   {
     "id": "grammar_n4_0093",
@@ -5722,7 +5950,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ de"
   },
   {
     "id": "grammar_n4_0094",
@@ -5747,7 +5976,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ deshou"
   },
   {
     "id": "grammar_n4_0095",
@@ -5772,7 +6002,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tehaikenai"
   },
   {
     "id": "grammar_n4_0096",
@@ -5797,7 +6028,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ temoii"
   },
   {
     "id": "grammar_n4_0097",
@@ -5822,7 +6054,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ temo / demo"
   },
   {
     "id": "grammar_n4_0098",
@@ -5847,7 +6080,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toii"
   },
   {
     "id": "grammar_n4_0099",
@@ -5872,7 +6106,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiu  ( ~ to iu )  Danh t ừ"
   },
   {
     "id": "grammar_n4_0100",
@@ -5897,7 +6132,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "douiu  Danh t ừ"
   },
   {
     "id": "grammar_n4_0101",
@@ -5922,7 +6158,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ to omou"
   },
   {
     "id": "grammar_n4_0102",
@@ -5947,7 +6184,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiu"
   },
   {
     "id": "grammar_n4_0103",
@@ -5972,7 +6210,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ naitoikenai"
   },
   {
     "id": "grammar_n4_0104",
@@ -5997,7 +6236,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nakyaikenai"
   },
   {
     "id": "grammar_n4_0105",
@@ -6022,7 +6262,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nakuchaikenai"
   },
   {
     "id": "grammar_n4_0106",
@@ -6047,7 +6288,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nakutehaikenai"
   },
   {
     "id": "grammar_n4_0107",
@@ -6072,7 +6314,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nakutemoii"
   },
   {
     "id": "grammar_n4_0108",
@@ -6097,7 +6340,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nakereba   naranai"
   },
   {
     "id": "grammar_n4_0109",
@@ -6122,7 +6366,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni"
   },
   {
     "id": "grammar_n4_0110",
@@ -6147,7 +6392,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ node"
   },
   {
     "id": "grammar_n4_0111",
@@ -6172,7 +6418,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nodesu"
   },
   {
     "id": "grammar_n4_0112",
@@ -6197,7 +6444,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ noni"
   },
   {
     "id": "grammar_n4_0113",
@@ -6222,7 +6470,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ baii"
   },
   {
     "id": "grammar_n4_0114",
@@ -6247,7 +6496,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ made"
   },
   {
     "id": "grammar_n4_0115",
@@ -6272,7 +6522,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ madeni"
   },
   {
     "id": "grammar_n4_0116",
@@ -6297,7 +6548,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mama"
   },
   {
     "id": "grammar_n4_0117",
@@ -6322,7 +6574,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mitaida"
   },
   {
     "id": "grammar_n4_0118",
@@ -6347,7 +6600,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mo"
   },
   {
     "id": "grammar_n4_0119",
@@ -6372,7 +6626,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youda"
   },
   {
     "id": "grammar_n4_0120",
@@ -6397,7 +6652,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ndesu"
   },
   {
     "id": "grammar_n4_0121",
@@ -6422,7 +6678,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "bun A . sonoue   bun B ."
   },
   {
     "id": "grammar_n4_0122",
@@ -6447,7 +6704,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "bun A . sorede   bun B"
   },
   {
     "id": "grammar_n4_0123",
@@ -6472,7 +6730,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "bun A . soreni   bun B"
   },
   {
     "id": "grammar_n4_0124",
@@ -6497,7 +6756,8 @@
       "jlpt-n4",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "bun A . dakara   bun B"
   },
   {
     "id": "grammar_n3_0001",
@@ -6522,7 +6782,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  sono ue  B"
   },
   {
     "id": "grammar_n3_0002",
@@ -6547,7 +6808,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ uchini"
   },
   {
     "id": "grammar_n3_0003",
@@ -6572,7 +6834,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ utoshita"
   },
   {
     "id": "grammar_n3_0004",
@@ -6597,7 +6860,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ okagede"
   },
   {
     "id": "grammar_n3_0005",
@@ -6622,7 +6886,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kake"
   },
   {
     "id": "grammar_n3_0006",
@@ -6647,7 +6912,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kanaa"
   },
   {
     "id": "grammar_n3_0007",
@@ -6672,7 +6938,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ naide"
   },
   {
     "id": "grammar_n3_0008",
@@ -6697,7 +6964,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara ~ nikakete"
   },
   {
     "id": "grammar_n3_0009",
@@ -6722,7 +6990,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kawarini"
   },
   {
     "id": "grammar_n3_0010",
@@ -6747,7 +7016,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kiri"
   },
   {
     "id": "grammar_n3_0011",
@@ -6772,7 +7042,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kuseni"
   },
   {
     "id": "grammar_n3_0012",
@@ -6797,7 +7068,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kurai"
   },
   {
     "id": "grammar_n3_0013",
@@ -6822,7 +7094,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kurai ~ ha ~ nai"
   },
   {
     "id": "grammar_n3_0014",
@@ -6847,7 +7120,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ koso"
   },
   {
     "id": "grammar_n3_0015",
@@ -6872,7 +7146,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ koto"
   },
   {
     "id": "grammar_n3_0016",
@@ -6897,7 +7172,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotoda"
   },
   {
     "id": "grammar_n3_0017",
@@ -6922,7 +7198,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotonishiteiru"
   },
   {
     "id": "grammar_n3_0018",
@@ -6947,7 +7224,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotoninatteiru"
   },
   {
     "id": "grammar_n3_0019",
@@ -6972,7 +7250,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotoha … ga"
   },
   {
     "id": "grammar_n3_0020",
@@ -6997,7 +7276,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotohanai"
   },
   {
     "id": "grammar_n3_0021",
@@ -7022,7 +7302,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sa"
   },
   {
     "id": "grammar_n3_0022",
@@ -7047,7 +7328,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sae"
   },
   {
     "id": "grammar_n3_0023",
@@ -7072,7 +7354,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ shikanai"
   },
   {
     "id": "grammar_n3_0024",
@@ -7097,7 +7380,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "sukoshimo ~ nai"
   },
   {
     "id": "grammar_n3_0025",
@@ -7122,7 +7406,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ zuni"
   },
   {
     "id": "grammar_n3_0026",
@@ -7147,7 +7432,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ seide"
   },
   {
     "id": "grammar_n3_0027",
@@ -7172,7 +7458,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ setekudasai"
   },
   {
     "id": "grammar_n3_0028",
@@ -7197,7 +7484,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sonotameni"
   },
   {
     "id": "grammar_n3_0029",
@@ -7222,7 +7510,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sono kekka"
   },
   {
     "id": "grammar_n3_0030",
@@ -7247,7 +7536,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ soreto ~"
   },
   {
     "id": "grammar_n3_0031",
@@ -7272,7 +7562,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ？ soretomo ~ ？"
   },
   {
     "id": "grammar_n3_0032",
@@ -7297,7 +7588,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dakeshika"
   },
   {
     "id": "grammar_n3_0033",
@@ -7322,7 +7614,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dakedo"
   },
   {
     "id": "grammar_n3_0034",
@@ -7347,7 +7640,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tate"
   },
   {
     "id": "grammar_n3_0035",
@@ -7372,7 +7666,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tatoe ~ temo"
   },
   {
     "id": "grammar_n3_0036",
@@ -7397,7 +7692,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tatokoro"
   },
   {
     "id": "grammar_n3_0037",
@@ -7422,7 +7718,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tatotan"
   },
   {
     "id": "grammar_n3_0038",
@@ -7447,7 +7744,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tabini"
   },
   {
     "id": "grammar_n3_0039",
@@ -7472,7 +7770,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ damonoda"
   },
   {
     "id": "grammar_n3_0040",
@@ -7497,7 +7796,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ chatta"
   },
   {
     "id": "grammar_n3_0041",
@@ -7522,7 +7822,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tsuideni"
   },
   {
     "id": "grammar_n3_0042",
@@ -7547,7 +7848,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kke ？"
   },
   {
     "id": "grammar_n3_0043",
@@ -7572,7 +7874,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ppai"
   },
   {
     "id": "grammar_n3_0044",
@@ -7597,7 +7900,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ppanashi"
   },
   {
     "id": "grammar_n3_0045",
@@ -7622,7 +7926,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tsumari"
   },
   {
     "id": "grammar_n3_0046",
@@ -7647,7 +7952,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tsumorideshita"
   },
   {
     "id": "grammar_n3_0047",
@@ -7672,7 +7978,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tekureto"
   },
   {
     "id": "grammar_n3_0048",
@@ -7697,7 +8004,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tegoran"
   },
   {
     "id": "grammar_n3_0049",
@@ -7722,7 +8030,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "desukara ~"
   },
   {
     "id": "grammar_n3_0050",
@@ -7747,7 +8056,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tehajimete"
   },
   {
     "id": "grammar_n3_0051",
@@ -7772,7 +8082,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tehoshii"
   },
   {
     "id": "grammar_n3_0052",
@@ -7797,7 +8108,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ temo"
   },
   {
     "id": "grammar_n3_0053",
@@ -7822,7 +8134,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiinaa"
   },
   {
     "id": "grammar_n3_0054",
@@ -7847,7 +8160,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiu"
   },
   {
     "id": "grammar_n3_0055",
@@ -7872,7 +8186,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiukotoda"
   },
   {
     "id": "grammar_n3_0056",
@@ -7897,7 +8212,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiuto"
   },
   {
     "id": "grammar_n3_0057",
@@ -7922,7 +8238,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiuno ~"
   },
   {
     "id": "grammar_n3_0058",
@@ -7947,7 +8264,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiunoha"
   },
   {
     "id": "grammar_n3_0059",
@@ -7972,7 +8290,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiuyori"
   },
   {
     "id": "grammar_n3_0060",
@@ -7997,7 +8316,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toittemo"
   },
   {
     "id": "grammar_n3_0061",
@@ -8022,7 +8342,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toori"
   },
   {
     "id": "grammar_n3_0062",
@@ -8047,7 +8368,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toku"
   },
   {
     "id": "grammar_n3_0063",
@@ -8072,7 +8394,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tokoroga"
   },
   {
     "id": "grammar_n3_0064",
@@ -8097,7 +8420,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tokorodatta"
   },
   {
     "id": "grammar_n3_0065",
@@ -8122,7 +8446,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "tokorode"
   },
   {
     "id": "grammar_n3_0066",
@@ -8147,7 +8472,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toshitara"
   },
   {
     "id": "grammar_n3_0067",
@@ -8172,7 +8498,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toshite"
   },
   {
     "id": "grammar_n3_0068",
@@ -8197,7 +8524,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ donnani ~ kotoka"
   },
   {
     "id": "grammar_n3_0069",
@@ -8222,7 +8550,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "donnani ~ temo"
   },
   {
     "id": "grammar_n3_0070",
@@ -8247,7 +8576,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ naikotohanai"
   },
   {
     "id": "grammar_n3_0071",
@@ -8272,7 +8602,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ naito"
   },
   {
     "id": "grammar_n3_0072",
@@ -8297,7 +8628,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nazenara"
   },
   {
     "id": "grammar_n3_0073",
@@ -8322,7 +8654,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nado"
   },
   {
     "id": "grammar_n3_0074",
@@ -8347,7 +8680,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nanka"
   },
   {
     "id": "grammar_n3_0075",
@@ -8372,7 +8706,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nioite"
   },
   {
     "id": "grammar_n3_0076",
@@ -8397,7 +8732,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nikawatte"
   },
   {
     "id": "grammar_n3_0077",
@@ -8422,7 +8758,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nishiteha"
   },
   {
     "id": "grammar_n3_0078",
@@ -8447,7 +8784,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nishitemo"
   },
   {
     "id": "grammar_n3_0079",
@@ -8472,7 +8810,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nitsuite"
   },
   {
     "id": "grammar_n3_0080",
@@ -8497,7 +8836,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nitotte"
   },
   {
     "id": "grammar_n3_0081",
@@ -8522,7 +8862,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ niyotte"
   },
   {
     "id": "grammar_n3_0082",
@@ -8547,7 +8888,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ niyoreba"
   },
   {
     "id": "grammar_n3_0083",
@@ -8572,7 +8914,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni taishi te"
   },
   {
     "id": "grammar_n3_0084",
@@ -8597,7 +8940,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kurabe te"
   },
   {
     "id": "grammar_n3_0085",
@@ -8622,7 +8966,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kanshi te"
   },
   {
     "id": "grammar_n3_0086",
@@ -8647,7 +8992,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ no ~"
   },
   {
     "id": "grammar_n3_0087",
@@ -8672,7 +9018,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bakari"
   },
   {
     "id": "grammar_n3_0088",
@@ -8697,7 +9044,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bakarika  ( ~ bakarika )   ~ mo"
   },
   {
     "id": "grammar_n3_0089",
@@ -8722,7 +9070,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hazuda"
   },
   {
     "id": "grammar_n3_0090",
@@ -8747,7 +9096,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ba ~ noni"
   },
   {
     "id": "grammar_n3_0091",
@@ -8772,7 +9122,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ba ~ hodo"
   },
   {
     "id": "grammar_n3_0092",
@@ -8797,7 +9148,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hamochiron ~ mo"
   },
   {
     "id": "grammar_n3_0093",
@@ -8822,7 +9174,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bayokatta"
   },
   {
     "id": "grammar_n3_0094",
@@ -8847,7 +9200,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ furiwosuru"
   },
   {
     "id": "grammar_n3_0095",
@@ -8872,7 +9226,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bekida"
   },
   {
     "id": "grammar_n3_0096",
@@ -8897,7 +9252,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hodo ~"
   },
   {
     "id": "grammar_n3_0097",
@@ -8922,7 +9278,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ masuyouni"
   },
   {
     "id": "grammar_n3_0098",
@@ -8947,7 +9304,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "mattaku ~ nai"
   },
   {
     "id": "grammar_n3_0099",
@@ -8972,7 +9330,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ made"
   },
   {
     "id": "grammar_n3_0100",
@@ -8997,7 +9356,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mama"
   },
   {
     "id": "grammar_n3_0101",
@@ -9022,7 +9382,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "marude ~ you"
   },
   {
     "id": "grammar_n3_0102",
@@ -9047,7 +9408,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ temiru"
   },
   {
     "id": "grammar_n3_0103",
@@ -9072,7 +9434,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mitaida"
   },
   {
     "id": "grammar_n3_0104",
@@ -9097,7 +9460,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mettani ~ nai"
   },
   {
     "id": "grammar_n3_0105",
@@ -9122,7 +9486,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mettaninai"
   },
   {
     "id": "grammar_n3_0106",
@@ -9147,7 +9512,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "moshikasuruto ~ kamoshirenai"
   },
   {
     "id": "grammar_n3_0107",
@@ -9172,7 +9538,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "moshi ~ tanara"
   },
   {
     "id": "grammar_n3_0108",
@@ -9197,7 +9564,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "moshi ~ temo"
   },
   {
     "id": "grammar_n3_0109",
@@ -9222,7 +9590,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "moshimo ~ nara"
   },
   {
     "id": "grammar_n3_0110",
@@ -9247,7 +9616,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youtoshinai"
   },
   {
     "id": "grammar_n3_0111",
@@ -9272,7 +9642,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youto omou"
   },
   {
     "id": "grammar_n3_0112",
@@ -9297,7 +9668,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youni"
   },
   {
     "id": "grammar_n3_0113",
@@ -9322,7 +9694,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youni"
   },
   {
     "id": "grammar_n3_0114",
@@ -9347,7 +9720,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youni"
   },
   {
     "id": "grammar_n3_0115",
@@ -9372,7 +9746,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ younishimashou"
   },
   {
     "id": "grammar_n3_0116",
@@ -9397,7 +9772,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youninatta"
   },
   {
     "id": "grammar_n3_0117",
@@ -9422,7 +9798,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youni iu"
   },
   {
     "id": "grammar_n3_0118",
@@ -9447,7 +9824,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ rashii"
   },
   {
     "id": "grammar_n3_0119",
@@ -9472,7 +9850,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ rareta"
   },
   {
     "id": "grammar_n3_0120",
@@ -9497,7 +9876,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ teiru"
   },
   {
     "id": "grammar_n3_0121",
@@ -9522,7 +9902,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakeganai"
   },
   {
     "id": "grammar_n3_0122",
@@ -9547,7 +9928,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakeda"
   },
   {
     "id": "grammar_n3_0123",
@@ -9572,7 +9954,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakedehanai"
   },
   {
     "id": "grammar_n3_0124",
@@ -9597,7 +9980,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakenihaikanai"
   },
   {
     "id": "grammar_n3_0125",
@@ -9622,7 +10006,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wariniha"
   },
   {
     "id": "grammar_n3_0126",
@@ -9647,7 +10032,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ndatte"
   },
   {
     "id": "grammar_n3_0127",
@@ -9672,7 +10058,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ndamon"
   },
   {
     "id": "grammar_n3_0128",
@@ -9697,7 +10084,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ age ru"
   },
   {
     "id": "grammar_n3_0129",
@@ -9722,7 +10110,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kire nai"
   },
   {
     "id": "grammar_n3_0130",
@@ -9747,7 +10136,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "kanarazushimo ~ toha kagira nai"
   },
   {
     "id": "grammar_n3_0131",
@@ -9772,7 +10162,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ saichuu ni"
   },
   {
     "id": "grammar_n3_0132",
@@ -9797,7 +10188,8 @@
       "jlpt-n3",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "kesshite ~ nai"
   },
   {
     "id": "grammar_n2_0001",
@@ -9822,7 +10214,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  aruiha  B"
   },
   {
     "id": "grammar_n2_0002",
@@ -9847,7 +10240,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . omakeni  B . (~omake ni )"
   },
   {
     "id": "grammar_n2_0003",
@@ -9872,7 +10266,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . sate  B . (A .  Sate B . )"
   },
   {
     "id": "grammar_n2_0004",
@@ -9897,7 +10292,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . shikamo  B . (A .  Shikamo B . )"
   },
   {
     "id": "grammar_n2_0005",
@@ -9922,7 +10318,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . shitagatte  B . (A .  Shitagatte B . )"
   },
   {
     "id": "grammar_n2_0006",
@@ -9947,7 +10344,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  sunawachi  B ."
   },
   {
     "id": "grammar_n2_0007",
@@ -9972,7 +10370,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . suruto  B . (~suruto )"
   },
   {
     "id": "grammar_n2_0008",
@@ -9997,7 +10396,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . souieba  B . (~souieba )"
   },
   {
     "id": "grammar_n2_0009",
@@ -10022,7 +10422,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . sokode  B . (~sokode )"
   },
   {
     "id": "grammar_n2_0010",
@@ -10047,7 +10448,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . sorega B . (~sorega )"
   },
   {
     "id": "grammar_n2_0011",
@@ -10072,7 +10474,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . sorede  B ."
   },
   {
     "id": "grammar_n2_0012",
@@ -10097,7 +10500,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . soredemo  B . (~sore demo )"
   },
   {
     "id": "grammar_n2_0013",
@@ -10122,7 +10526,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . sorenanoni  B . (~sorenanoni )"
   },
   {
     "id": "grammar_n2_0014",
@@ -10147,7 +10552,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . sorenara  B . (A .  Sore nara B . )"
   },
   {
     "id": "grammar_n2_0015",
@@ -10172,7 +10578,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  sorehasouto  B ."
   },
   {
     "id": "grammar_n2_0016",
@@ -10197,7 +10604,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . daga  B . (~daga )"
   },
   {
     "id": "grammar_n2_0017",
@@ -10222,7 +10630,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . tada B . (~tada )"
   },
   {
     "id": "grammar_n2_0018",
@@ -10247,7 +10656,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . tadashi B ."
   },
   {
     "id": "grammar_n2_0019",
@@ -10272,7 +10682,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . datte  B . (Datte~ )"
   },
   {
     "id": "grammar_n2_0020",
@@ -10297,7 +10708,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . chinamini  B . (A .  Chinamini B . )"
   },
   {
     "id": "grammar_n2_0021",
@@ -10322,7 +10734,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . toiukotoha  B ."
   },
   {
     "id": "grammar_n2_0022",
@@ -10347,7 +10760,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . toiunoha  B . (Toiu no wa~ )"
   },
   {
     "id": "grammar_n2_0023",
@@ -10372,7 +10786,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . nao B . (A .  Nao B . )"
   },
   {
     "id": "grammar_n2_0024",
@@ -10397,7 +10812,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . mottomo  B . (Motto mo ~ )"
   },
   {
     "id": "grammar_n2_0025",
@@ -10422,7 +10838,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A . yousu runi  B . (A .  Yousuru ni B . )"
   },
   {
     "id": "grammar_n2_0026",
@@ -10447,7 +10864,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nitsuki"
   },
   {
     "id": "grammar_n2_0027",
@@ -10472,7 +10890,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nite"
   },
   {
     "id": "grammar_n2_0028",
@@ -10497,7 +10916,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no   kotodakara"
   },
   {
     "id": "grammar_n2_0029",
@@ -10522,7 +10942,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   hajime"
   },
   {
     "id": "grammar_n2_0030",
@@ -10547,7 +10968,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   hajimetoshite"
   },
   {
     "id": "grammar_n2_0031",
@@ -10572,7 +10994,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   hajimetosuru  Danh t ừ"
   },
   {
     "id": "grammar_n2_0032",
@@ -10597,7 +11020,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   megutte"
   },
   {
     "id": "grammar_n2_0033",
@@ -10622,7 +11046,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   meguru  Danh t ừ"
   },
   {
     "id": "grammar_n2_0034",
@@ -10647,7 +11072,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   motoni"
   },
   {
     "id": "grammar_n2_0035",
@@ -10672,7 +11098,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   motonishite"
   },
   {
     "id": "grammar_n2_0036",
@@ -10697,7 +11124,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   kotonaku"
   },
   {
     "id": "grammar_n2_0037",
@@ -10722,7 +11150,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naikotoniha      ộ ng t ừ   nai"
   },
   {
     "id": "grammar_n2_0038",
@@ -10747,7 +11176,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ageku"
   },
   {
     "id": "grammar_n2_0039",
@@ -10772,7 +11202,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ amari"
   },
   {
     "id": "grammar_n2_0040",
@@ -10797,7 +11228,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ uchini"
   },
   {
     "id": "grammar_n2_0041",
@@ -10822,7 +11254,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ gai"
   },
   {
     "id": "grammar_n2_0042",
@@ -10847,7 +11280,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kaigaatte"
   },
   {
     "id": "grammar_n2_0043",
@@ -10872,7 +11306,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kaimonaku"
   },
   {
     "id": "grammar_n2_0044",
@@ -10897,7 +11332,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kakeru"
   },
   {
     "id": "grammar_n2_0045",
@@ -10922,7 +11358,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ gachi"
   },
   {
     "id": "grammar_n2_0046",
@@ -10947,7 +11384,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ka ~ naikanouchini"
   },
   {
     "id": "grammar_n2_0047",
@@ -10972,7 +11410,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kanenai"
   },
   {
     "id": "grammar_n2_0048",
@@ -10997,7 +11436,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kaneru"
   },
   {
     "id": "grammar_n2_0049",
@@ -11022,7 +11462,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kanoyouda"
   },
   {
     "id": "grammar_n2_0050",
@@ -11047,7 +11488,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ka ~ maika"
   },
   {
     "id": "grammar_n2_0051",
@@ -11072,7 +11514,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ karakoso"
   },
   {
     "id": "grammar_n2_0052",
@@ -11097,7 +11540,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ karashite"
   },
   {
     "id": "grammar_n2_0053",
@@ -11122,7 +11566,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ karasuruto"
   },
   {
     "id": "grammar_n2_0054",
@@ -11147,7 +11592,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ karatoitte"
   },
   {
     "id": "grammar_n2_0055",
@@ -11172,7 +11618,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara ~ nikakete"
   },
   {
     "id": "grammar_n2_0056",
@@ -11197,7 +11644,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ karaniha"
   },
   {
     "id": "grammar_n2_0057",
@@ -11222,7 +11670,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara miru to"
   },
   {
     "id": "grammar_n2_0058",
@@ -11247,7 +11696,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara iu to"
   },
   {
     "id": "grammar_n2_0059",
@@ -11272,7 +11722,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kuseni"
   },
   {
     "id": "grammar_n2_0060",
@@ -11297,7 +11748,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotokara"
   },
   {
     "id": "grammar_n2_0061",
@@ -11322,7 +11774,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotoni"
   },
   {
     "id": "grammar_n2_0062",
@@ -11347,7 +11800,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kotoninatteiru"
   },
   {
     "id": "grammar_n2_0063",
@@ -11372,7 +11826,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sae ~ ba"
   },
   {
     "id": "grammar_n2_0064",
@@ -11397,7 +11852,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ zaruwo ena i"
   },
   {
     "id": "grammar_n2_0065",
@@ -11422,7 +11878,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ zunihairarenai"
   },
   {
     "id": "grammar_n2_0066",
@@ -11447,7 +11904,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ souninai"
   },
   {
     "id": "grammar_n2_0067",
@@ -11472,7 +11930,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ takato omotta ra"
   },
   {
     "id": "grammar_n2_0068",
@@ -11497,7 +11956,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ takiri"
   },
   {
     "id": "grammar_n2_0069",
@@ -11522,7 +11982,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dakeatte"
   },
   {
     "id": "grammar_n2_0070",
@@ -11547,7 +12008,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dakemashida"
   },
   {
     "id": "grammar_n2_0071",
@@ -11572,7 +12034,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tatokoro"
   },
   {
     "id": "grammar_n2_0072",
@@ -11597,7 +12060,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tatotan"
   },
   {
     "id": "grammar_n2_0073",
@@ -11622,7 +12086,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ darake"
   },
   {
     "id": "grammar_n2_0074",
@@ -11647,7 +12112,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kkonai"
   },
   {
     "id": "grammar_n2_0075",
@@ -11672,7 +12138,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tsutsu"
   },
   {
     "id": "grammar_n2_0076",
@@ -11697,7 +12164,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tsutsuaru"
   },
   {
     "id": "grammar_n2_0077",
@@ -11722,7 +12190,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ppanashi"
   },
   {
     "id": "grammar_n2_0078",
@@ -11747,7 +12216,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ppoi"
   },
   {
     "id": "grammar_n2_0079",
@@ -11772,7 +12242,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ teirarenai"
   },
   {
     "id": "grammar_n2_0080",
@@ -11797,7 +12268,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tekanawanai"
   },
   {
     "id": "grammar_n2_0081",
@@ -11822,7 +12294,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tekaradenaito"
   },
   {
     "id": "grammar_n2_0082",
@@ -11847,7 +12320,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tekoso"
   },
   {
     "id": "grammar_n2_0083",
@@ -11872,7 +12346,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ deshouganai"
   },
   {
     "id": "grammar_n2_0084",
@@ -11897,7 +12372,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ detamaranai"
   },
   {
     "id": "grammar_n2_0085",
@@ -11922,7 +12398,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ denaranai"
   },
   {
     "id": "grammar_n2_0086",
@@ -11947,7 +12424,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ debakarihairarenai"
   },
   {
     "id": "grammar_n2_0087",
@@ -11972,7 +12450,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dehanaika"
   },
   {
     "id": "grammar_n2_0088",
@@ -11997,7 +12476,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tehanaranai"
   },
   {
     "id": "grammar_n2_0089",
@@ -12022,7 +12502,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ temade"
   },
   {
     "id": "grammar_n2_0090",
@@ -12047,7 +12528,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ te touzen da"
   },
   {
     "id": "grammar_n2_0091",
@@ -12072,7 +12554,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiumonoda"
   },
   {
     "id": "grammar_n2_0092",
@@ -12097,7 +12580,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "dounika ~ naimonoka"
   },
   {
     "id": "grammar_n2_0093",
@@ -12122,7 +12606,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toori"
   },
   {
     "id": "grammar_n2_0094",
@@ -12147,7 +12632,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toka"
   },
   {
     "id": "grammar_n2_0095",
@@ -12172,7 +12658,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tokoro"
   },
   {
     "id": "grammar_n2_0096",
@@ -12197,7 +12684,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dokoroka"
   },
   {
     "id": "grammar_n2_0097",
@@ -12222,7 +12710,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dokorodehanai"
   },
   {
     "id": "grammar_n2_0098",
@@ -12247,7 +12736,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toshitara"
   },
   {
     "id": "grammar_n2_0099",
@@ -12272,7 +12762,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toshitemo"
   },
   {
     "id": "grammar_n2_0100",
@@ -12297,7 +12788,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ to ~ tomoni"
   },
   {
     "id": "grammar_n2_0101",
@@ -12322,7 +12814,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toha kagira nai"
   },
   {
     "id": "grammar_n2_0102",
@@ -12347,7 +12840,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ naikotohanai"
   },
   {
     "id": "grammar_n2_0103",
@@ -12372,7 +12866,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ naikotomonai"
   },
   {
     "id": "grammar_n2_0104",
@@ -12397,7 +12892,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ naidehairarenai"
   },
   {
     "id": "grammar_n2_0105",
@@ -12422,7 +12918,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nagara"
   },
   {
     "id": "grammar_n2_0106",
@@ -12447,7 +12944,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ niatari"
   },
   {
     "id": "grammar_n2_0107",
@@ -12472,7 +12970,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nioite"
   },
   {
     "id": "grammar_n2_0108",
@@ -12497,7 +12996,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nikakawarazu"
   },
   {
     "id": "grammar_n2_0109",
@@ -12522,7 +13022,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nikaketeha"
   },
   {
     "id": "grammar_n2_0110",
@@ -12547,7 +13048,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nishitagatte"
   },
   {
     "id": "grammar_n2_0111",
@@ -12572,7 +13074,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nishitara"
   },
   {
     "id": "grammar_n2_0112",
@@ -12597,7 +13100,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nishiro ~ nishiro"
   },
   {
     "id": "grammar_n2_0113",
@@ -12622,7 +13126,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nitsuke ~ nitsuke"
   },
   {
     "id": "grammar_n2_0114",
@@ -12647,7 +13152,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nitsurete"
   },
   {
     "id": "grammar_n2_0115",
@@ -12672,7 +13178,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nitomonatte"
   },
   {
     "id": "grammar_n2_0116",
@@ -12697,7 +13204,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nihokanaranai"
   },
   {
     "id": "grammar_n2_0117",
@@ -12722,7 +13230,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nimokakawarazu"
   },
   {
     "id": "grammar_n2_0118",
@@ -12747,7 +13256,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ niyori"
   },
   {
     "id": "grammar_n2_0119",
@@ -12772,7 +13282,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ niwatatte"
   },
   {
     "id": "grammar_n2_0120",
@@ -12797,7 +13308,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni sakidachi"
   },
   {
     "id": "grammar_n2_0121",
@@ -12822,7 +13334,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni hanshi te"
   },
   {
     "id": "grammar_n2_0122",
@@ -12847,7 +13360,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni motozu ite"
   },
   {
     "id": "grammar_n2_0123",
@@ -12872,7 +13386,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni taishi te"
   },
   {
     "id": "grammar_n2_0124",
@@ -12897,7 +13412,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kotae te"
   },
   {
     "id": "grammar_n2_0125",
@@ -12922,7 +13438,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni ouji te"
   },
   {
     "id": "grammar_n2_0126",
@@ -12947,7 +13464,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kima tteiru"
   },
   {
     "id": "grammar_n2_0127",
@@ -12972,7 +13490,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni sotte"
   },
   {
     "id": "grammar_n2_0128",
@@ -12997,7 +13516,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni sugina i"
   },
   {
     "id": "grammar_n2_0129",
@@ -13022,7 +13542,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kakawa tte"
   },
   {
     "id": "grammar_n2_0130",
@@ -13047,7 +13568,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kagiri"
   },
   {
     "id": "grammar_n2_0131",
@@ -13072,7 +13594,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni saishi te"
   },
   {
     "id": "grammar_n2_0132",
@@ -13097,7 +13620,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nebanaranai"
   },
   {
     "id": "grammar_n2_0133",
@@ -13122,7 +13646,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nominarazu ~ mo"
   },
   {
     "id": "grammar_n2_0134",
@@ -13147,7 +13672,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nomomottomoda"
   },
   {
     "id": "grammar_n2_0135",
@@ -13172,7 +13698,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ no uede ha"
   },
   {
     "id": "grammar_n2_0136",
@@ -13197,7 +13724,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ no shita de"
   },
   {
     "id": "grammar_n2_0137",
@@ -13222,7 +13750,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bakarika ~ mo"
   },
   {
     "id": "grammar_n2_0138",
@@ -13247,7 +13776,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bakarida"
   },
   {
     "id": "grammar_n2_0139",
@@ -13272,7 +13802,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bakarini"
   },
   {
     "id": "grammar_n2_0140",
@@ -13297,7 +13828,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ba ~ toiumonodemonai"
   },
   {
     "id": "grammar_n2_0141",
@@ -13322,7 +13854,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hatomokaku ~ ha"
   },
   {
     "id": "grammar_n2_0142",
@@ -13347,7 +13880,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hamadashimo"
   },
   {
     "id": "grammar_n2_0143",
@@ -13372,7 +13906,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hamotoyori"
   },
   {
     "id": "grammar_n2_0144",
@@ -13397,7 +13932,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ha nuki nishite"
   },
   {
     "id": "grammar_n2_0145",
@@ -13422,7 +13958,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bekidehanai"
   },
   {
     "id": "grammar_n2_0146",
@@ -13447,7 +13984,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mai"
   },
   {
     "id": "grammar_n2_0147",
@@ -13472,7 +14010,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ made ~ te"
   },
   {
     "id": "grammar_n2_0148",
@@ -13497,7 +14036,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mamani"
   },
   {
     "id": "grammar_n2_0149",
@@ -13522,7 +14062,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mokamawazu"
   },
   {
     "id": "grammar_n2_0150",
@@ -13547,7 +14088,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monoka"
   },
   {
     "id": "grammar_n2_0151",
@@ -13572,7 +14114,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monogaaru"
   },
   {
     "id": "grammar_n2_0152",
@@ -13597,7 +14140,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monoda"
   },
   {
     "id": "grammar_n2_0153",
@@ -13622,7 +14166,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monodakara"
   },
   {
     "id": "grammar_n2_0154",
@@ -13647,7 +14192,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monodehanai"
   },
   {
     "id": "grammar_n2_0155",
@@ -13672,7 +14218,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mononara"
   },
   {
     "id": "grammar_n2_0156",
@@ -13697,7 +14244,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monono , ~"
   },
   {
     "id": "grammar_n2_0157",
@@ -13722,7 +14270,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mo ~ ba ~ mo ~"
   },
   {
     "id": "grammar_n2_0158",
@@ -13747,7 +14296,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ mo douzen da"
   },
   {
     "id": "grammar_n2_0159",
@@ -13772,7 +14322,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ yara ~ yara"
   },
   {
     "id": "grammar_n2_0160",
@@ -13797,7 +14348,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ youganai"
   },
   {
     "id": "grammar_n2_0161",
@@ -13822,7 +14374,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ yorihokanai"
   },
   {
     "id": "grammar_n2_0162",
@@ -13847,7 +14400,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakeganai"
   },
   {
     "id": "grammar_n2_0163",
@@ -13872,7 +14426,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakeda"
   },
   {
     "id": "grammar_n2_0164",
@@ -13897,7 +14452,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakedehanai"
   },
   {
     "id": "grammar_n2_0165",
@@ -13922,7 +14478,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wakenihaikanai"
   },
   {
     "id": "grammar_n2_0166",
@@ -13947,7 +14504,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wokikkakeni"
   },
   {
     "id": "grammar_n2_0167",
@@ -13972,7 +14530,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wo ~ toshite"
   },
   {
     "id": "grammar_n2_0168",
@@ -13997,7 +14556,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wo chuushin ni"
   },
   {
     "id": "grammar_n2_0169",
@@ -14022,7 +14582,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wo towa zu"
   },
   {
     "id": "grammar_n2_0170",
@@ -14047,7 +14608,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wo kome te"
   },
   {
     "id": "grammar_n2_0171",
@@ -14072,7 +14634,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wo tsuuji te"
   },
   {
     "id": "grammar_n2_0172",
@@ -14097,7 +14660,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ wo tayori ni"
   },
   {
     "id": "grammar_n2_0173",
@@ -14122,7 +14686,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ippou"
   },
   {
     "id": "grammar_n2_0174",
@@ -14147,7 +14712,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ippou da"
   },
   {
     "id": "grammar_n2_0175",
@@ -14172,7 +14738,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ uede"
   },
   {
     "id": "grammar_n2_0176",
@@ -14197,7 +14764,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ueni"
   },
   {
     "id": "grammar_n2_0177",
@@ -14222,7 +14790,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ue ha"
   },
   {
     "id": "grammar_n2_0178",
@@ -14247,7 +14816,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ijou"
   },
   {
     "id": "grammar_n2_0179",
@@ -14272,7 +14842,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ irai"
   },
   {
     "id": "grammar_n2_0180",
@@ -14297,7 +14868,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kiru"
   },
   {
     "id": "grammar_n2_0181",
@@ -14322,7 +14894,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ hanmen"
   },
   {
     "id": "grammar_n2_0182",
@@ -14347,7 +14920,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ muke"
   },
   {
     "id": "grammar_n2_0183",
@@ -14372,7 +14946,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ osore gaaru"
   },
   {
     "id": "grammar_n2_0184",
@@ -14397,7 +14972,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ori niha"
   },
   {
     "id": "grammar_n2_0185",
@@ -14422,7 +14998,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ matsu"
   },
   {
     "id": "grammar_n2_0186",
@@ -14447,7 +15024,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ shidai"
   },
   {
     "id": "grammar_n2_0187",
@@ -14472,7 +15050,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ shidai de"
   },
   {
     "id": "grammar_n2_0188",
@@ -14497,7 +15076,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ shidai desu"
   },
   {
     "id": "grammar_n2_0189",
@@ -14522,7 +15102,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kimi"
   },
   {
     "id": "grammar_n2_0190",
@@ -14547,7 +15128,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kagiri"
   },
   {
     "id": "grammar_n2_0191",
@@ -14572,7 +15154,8 @@
       "jlpt-n2",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ saini"
   },
   {
     "id": "grammar_n1_0001",
@@ -14597,7 +15180,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  uga  B  uga"
   },
   {
     "id": "grammar_n1_0002",
@@ -14622,7 +15206,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  uto  B  uto"
   },
   {
     "id": "grammar_n1_0003",
@@ -14647,7 +15232,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  katawara  B"
   },
   {
     "id": "grammar_n1_0004",
@@ -14672,7 +15258,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  kare  B  kare"
   },
   {
     "id": "grammar_n1_0005",
@@ -14697,7 +15284,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  dano  B  dano"
   },
   {
     "id": "grammar_n1_0006",
@@ -14722,7 +15310,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  deare  B  deare"
   },
   {
     "id": "grammar_n1_0007",
@@ -14747,7 +15336,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  toiuka  B  toiuka"
   },
   {
     "id": "grammar_n1_0008",
@@ -14772,7 +15362,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  tomo  B  tomo"
   },
   {
     "id": "grammar_n1_0009",
@@ -14797,7 +15388,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  nishiro  B  nishiro"
   },
   {
     "id": "grammar_n1_0010",
@@ -14822,7 +15414,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  niseyo  B  niseyo"
   },
   {
     "id": "grammar_n1_0011",
@@ -14847,7 +15440,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  nitsuke  B  nitsuke"
   },
   {
     "id": "grammar_n1_0012",
@@ -14872,7 +15466,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "A  noyara  B  noyara"
   },
   {
     "id": "grammar_n1_0013",
@@ -14897,7 +15492,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ 1  ga  Danh t ừ 1  nara ,  Danh t ừ 2  mo  Danh t ừ 2  da"
   },
   {
     "id": "grammar_n1_0014",
@@ -14922,7 +15518,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ 1  mo  Danh t ừ 1  nara , Danh t ừ 2  mo  Danh t ừ 2  da"
   },
   {
     "id": "grammar_n1_0015",
@@ -14947,7 +15544,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  atteno  + Danh t ừ"
   },
   {
     "id": "grammar_n1_0016",
@@ -14972,7 +15570,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   katagata"
   },
   {
     "id": "grammar_n1_0017",
@@ -14997,7 +15596,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   gatera"
   },
   {
     "id": "grammar_n1_0018",
@@ -15022,7 +15622,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   karaaru"
   },
   {
     "id": "grammar_n1_0019",
@@ -15047,7 +15648,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   karasuru"
   },
   {
     "id": "grammar_n1_0020",
@@ -15072,7 +15674,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   karano"
   },
   {
     "id": "grammar_n1_0021",
@@ -15097,7 +15700,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   kara iwa sereba"
   },
   {
     "id": "grammar_n1_0022",
@@ -15122,7 +15726,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  gurumi"
   },
   {
     "id": "grammar_n1_0023",
@@ -15147,7 +15752,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   kosoare"
   },
   {
     "id": "grammar_n1_0024",
@@ -15172,7 +15778,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   koso ~ ga"
   },
   {
     "id": "grammar_n1_0025",
@@ -15197,7 +15804,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   kososure"
   },
   {
     "id": "grammar_n1_0026",
@@ -15222,7 +15830,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   gotoki  / Danh t ừ   gotoku"
   },
   {
     "id": "grammar_n1_0027",
@@ -15247,7 +15856,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   jaarumaishi"
   },
   {
     "id": "grammar_n1_0028",
@@ -15272,7 +15882,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   zukume"
   },
   {
     "id": "grammar_n1_0029",
@@ -15297,7 +15908,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   dakedehasumanai"
   },
   {
     "id": "grammar_n1_0030",
@@ -15322,7 +15934,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   taritomo ~ nai"
   },
   {
     "id": "grammar_n1_0031",
@@ -15347,7 +15960,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   taru  Danh t ừ"
   },
   {
     "id": "grammar_n1_0032",
@@ -15372,7 +15986,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   desura"
   },
   {
     "id": "grammar_n1_0033",
@@ -15397,7 +16012,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   denakutenandarou"
   },
   {
     "id": "grammar_n1_0034",
@@ -15422,7 +16038,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   dehaarumaishi"
   },
   {
     "id": "grammar_n1_0035",
@@ -15447,7 +16064,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   to  Danh t ừ   wo kane te"
   },
   {
     "id": "grammar_n1_0036",
@@ -15472,7 +16090,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   toii  Danh t ừ   toii"
   },
   {
     "id": "grammar_n1_0037",
@@ -15497,7 +16116,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   toiu  Danh t ừ"
   },
   {
     "id": "grammar_n1_0038",
@@ -15522,7 +16142,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   toiutokoroda"
   },
   {
     "id": "grammar_n1_0039",
@@ -15547,7 +16168,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  toiumono"
   },
   {
     "id": "grammar_n1_0040",
@@ -15572,7 +16194,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   toittatokoroda"
   },
   {
     "id": "grammar_n1_0041",
@@ -15597,7 +16220,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   toiwazu  Danh t ừ   toiwazu"
   },
   {
     "id": "grammar_n1_0042",
@@ -15622,7 +16246,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  tokitara"
   },
   {
     "id": "grammar_n1_0043",
@@ -15647,7 +16272,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   toha kurabe mononinaranai"
   },
   {
     "id": "grammar_n1_0044",
@@ -15672,7 +16298,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  tomoarou  + Danh t ừ"
   },
   {
     "id": "grammar_n1_0045",
@@ -15697,7 +16324,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   tomonaruto"
   },
   {
     "id": "grammar_n1_0046",
@@ -15722,7 +16350,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   tomonareba"
   },
   {
     "id": "grammar_n1_0047",
@@ -15747,7 +16376,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   to sou matte"
   },
   {
     "id": "grammar_n1_0048",
@@ -15772,7 +16402,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nakushite ~ hanai"
   },
   {
     "id": "grammar_n1_0049",
@@ -15797,7 +16428,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nashideha ~ nai"
   },
   {
     "id": "grammar_n1_0050",
@@ -15822,7 +16454,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nashiniha ~ nai"
   },
   {
     "id": "grammar_n1_0051",
@@ -15847,7 +16480,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   naraiza shirazu"
   },
   {
     "id": "grammar_n1_0052",
@@ -15872,7 +16506,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  naradeha"
   },
   {
     "id": "grammar_n1_0053",
@@ -15897,7 +16532,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nari  Danh t ừ   nari"
   },
   {
     "id": "grammar_n1_0054",
@@ -15922,7 +16558,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   naritomo"
   },
   {
     "id": "grammar_n1_0055",
@@ -15947,7 +16584,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni  Danh t ừ   wo omone te"
   },
   {
     "id": "grammar_n1_0056",
@@ -15972,7 +16610,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   niatteha"
   },
   {
     "id": "grammar_n1_0057",
@@ -15997,7 +16636,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   niarumajiki  Danh t ừ"
   },
   {
     "id": "grammar_n1_0058",
@@ -16022,7 +16662,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nishite"
   },
   {
     "id": "grammar_n1_0059",
@@ -16047,7 +16688,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nishite hajimete"
   },
   {
     "id": "grammar_n1_0060",
@@ -16072,7 +16714,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nisura"
   },
   {
     "id": "grammar_n1_0061",
@@ -16097,7 +16740,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nitodomarazu ~ mo"
   },
   {
     "id": "grammar_n1_0062",
@@ -16122,7 +16766,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nihikikae  Danh t ừ   ha"
   },
   {
     "id": "grammar_n1_0063",
@@ -16147,7 +16792,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nimomashite"
   },
   {
     "id": "grammar_n1_0064",
@@ -16172,7 +16818,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   niyorazu"
   },
   {
     "id": "grammar_n1_0065",
@@ -16197,7 +16844,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni sakigake te"
   },
   {
     "id": "grammar_n1_0066",
@@ -16222,7 +16870,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni sokushi ta  Danh t ừ"
   },
   {
     "id": "grammar_n1_0067",
@@ -16247,7 +16896,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni sokushi te      ộ ng t ừ"
   },
   {
     "id": "grammar_n1_0068",
@@ -16272,7 +16922,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni iwa sereba"
   },
   {
     "id": "grammar_n1_0069",
@@ -16297,7 +16948,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni kagitsu takotodehanai"
   },
   {
     "id": "grammar_n1_0070",
@@ -16322,7 +16974,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni kagitsu takotodemonai"
   },
   {
     "id": "grammar_n1_0071",
@@ -16347,7 +17000,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   ni kagiru"
   },
   {
     "id": "grammar_n1_0072",
@@ -16372,7 +17026,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nuita  Danh t ừ"
   },
   {
     "id": "grammar_n1_0073",
@@ -16397,7 +17052,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  nuite ( ~nuite )"
   },
   {
     "id": "grammar_n1_0074",
@@ -16422,7 +17078,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nuku"
   },
   {
     "id": "grammar_n1_0075",
@@ -16447,7 +17104,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ + noikanda"
   },
   {
     "id": "grammar_n1_0076",
@@ -16472,7 +17130,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   noikandeha"
   },
   {
     "id": "grammar_n1_0077",
@@ -16497,7 +17156,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   noikannikakawarazu"
   },
   {
     "id": "grammar_n1_0078",
@@ -16522,7 +17182,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   noikanniyotteha"
   },
   {
     "id": "grammar_n1_0079",
@@ -16547,7 +17208,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   noikanniyorazu"
   },
   {
     "id": "grammar_n1_0080",
@@ -16572,7 +17234,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nogotoki  Danh t ừ"
   },
   {
     "id": "grammar_n1_0081",
@@ -16597,7 +17260,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nokotodakara"
   },
   {
     "id": "grammar_n1_0082",
@@ -16622,7 +17286,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no   kirai gaaru"
   },
   {
     "id": "grammar_n1_0083",
@@ -16647,7 +17312,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no temae"
   },
   {
     "id": "grammar_n1_0084",
@@ -16672,7 +17338,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no kiwami"
   },
   {
     "id": "grammar_n1_0085",
@@ -16697,7 +17364,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   no   itari"
   },
   {
     "id": "grammar_n1_0086",
@@ -16722,7 +17390,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   haiza shirazu"
   },
   {
     "id": "grammar_n1_0087",
@@ -16747,7 +17416,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   haoroka ~ sura"
   },
   {
     "id": "grammar_n1_0088",
@@ -16772,7 +17442,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   haoroka ~ made"
   },
   {
     "id": "grammar_n1_0089",
@@ -16797,7 +17468,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   haoroka ~ mo"
   },
   {
     "id": "grammar_n1_0090",
@@ -16822,7 +17494,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   hasateoki"
   },
   {
     "id": "grammar_n1_0091",
@@ -16847,7 +17520,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  hadoudeare"
   },
   {
     "id": "grammar_n1_0092",
@@ -16872,7 +17546,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   mamire"
   },
   {
     "id": "grammar_n1_0093",
@@ -16897,7 +17572,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   mosarukotonagara  Danh t ừ   mo"
   },
   {
     "id": "grammar_n1_0094",
@@ -16922,7 +17598,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   mo kane te"
   },
   {
     "id": "grammar_n1_0095",
@@ -16947,7 +17624,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   mo sou matte"
   },
   {
     "id": "grammar_n1_0096",
@@ -16972,7 +17650,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo   oite hokani      ộ ng t ừ   nai"
   },
   {
     "id": "grammar_n1_0097",
@@ -16997,7 +17676,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   womotte"
   },
   {
     "id": "grammar_n1_0098",
@@ -17022,7 +17702,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   womonotomosezuni"
   },
   {
     "id": "grammar_n1_0099",
@@ -17047,7 +17728,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   woyosoni"
   },
   {
     "id": "grammar_n1_0100",
@@ -17072,7 +17754,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo yogina kusareru"
   },
   {
     "id": "grammar_n1_0101",
@@ -17097,7 +17780,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo zentei toshite"
   },
   {
     "id": "grammar_n1_0102",
@@ -17122,7 +17806,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo zentei nishite"
   },
   {
     "id": "grammar_n1_0103",
@@ -17147,7 +17832,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo sakai nishite"
   },
   {
     "id": "grammar_n1_0104",
@@ -17172,7 +17858,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo kini shite"
   },
   {
     "id": "grammar_n1_0105",
@@ -17197,7 +17884,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo kawakiri rini  /  wo kawakiri rinishite"
   },
   {
     "id": "grammar_n1_0106",
@@ -17222,7 +17910,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo kawakiri rinishite"
   },
   {
     "id": "grammar_n1_0107",
@@ -17247,7 +17936,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo kinji ena i"
   },
   {
     "id": "grammar_n1_0108",
@@ -17272,7 +17962,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo hete"
   },
   {
     "id": "grammar_n1_0109",
@@ -17297,7 +17988,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo fuma ete"
   },
   {
     "id": "grammar_n1_0110",
@@ -17322,7 +18014,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   wo kagiri ni"
   },
   {
     "id": "grammar_n1_0111",
@@ -17347,7 +18040,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ   nami"
   },
   {
     "id": "grammar_n1_0112",
@@ -17372,7 +18066,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Danh t ừ  +  zentei de"
   },
   {
     "id": "grammar_n1_0113",
@@ -17397,7 +18092,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru  / Danh t ừ ( dearu )  +  kagiri ( ha )  (kagiri"
   },
   {
     "id": "grammar_n1_0114",
@@ -17422,7 +18118,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   gatera"
   },
   {
     "id": "grammar_n1_0115",
@@ -17447,7 +18144,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   kososure"
   },
   {
     "id": "grammar_n1_0116",
@@ -17472,7 +18170,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   saserareru"
   },
   {
     "id": "grammar_n1_0117",
@@ -17497,7 +18196,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   zaruwo ena i"
   },
   {
     "id": "grammar_n1_0118",
@@ -17522,7 +18222,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   zujimai"
   },
   {
     "id": "grammar_n1_0119",
@@ -17547,7 +18248,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   zutomo"
   },
   {
     "id": "grammar_n1_0120",
@@ -17572,7 +18274,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   zunihaokanai"
   },
   {
     "id": "grammar_n1_0121",
@@ -17597,7 +18300,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   zunihasumanai"
   },
   {
     "id": "grammar_n1_0122",
@@ -17622,7 +18326,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   souninai"
   },
   {
     "id": "grammar_n1_0123",
@@ -17647,7 +18352,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   soumonai"
   },
   {
     "id": "grammar_n1_0124",
@@ -17672,7 +18378,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   sobakara"
   },
   {
     "id": "grammar_n1_0125",
@@ -17697,7 +18404,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   taga saigo"
   },
   {
     "id": "grammar_n1_0126",
@@ -17722,7 +18430,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   takotonishitekudasai"
   },
   {
     "id": "grammar_n1_0127",
@@ -17747,7 +18456,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tara      ộ ng t ừ   tade"
   },
   {
     "id": "grammar_n1_0128",
@@ -17772,7 +18482,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tara   kiriganai"
   },
   {
     "id": "grammar_n1_0129",
@@ -17797,7 +18508,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tara saigo"
   },
   {
     "id": "grammar_n1_0130",
@@ -17822,7 +18534,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tsu      ộ ng t ừ   tsu"
   },
   {
     "id": "grammar_n1_0131",
@@ -17847,7 +18560,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tekaratoiumono"
   },
   {
     "id": "grammar_n1_0132",
@@ -17872,7 +18586,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   tekoso"
   },
   {
     "id": "grammar_n1_0133",
@@ -17897,7 +18612,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teha"
   },
   {
     "id": "grammar_n1_0134",
@@ -17922,7 +18638,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teha      ộ ng t ừ"
   },
   {
     "id": "grammar_n1_0135",
@@ -17947,7 +18664,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   temademo"
   },
   {
     "id": "grammar_n1_0136",
@@ -17972,7 +18690,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   temiseru"
   },
   {
     "id": "grammar_n1_0137",
@@ -17997,7 +18716,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   teyamanai"
   },
   {
     "id": "grammar_n1_0138",
@@ -18022,7 +18742,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naidehaokanai"
   },
   {
     "id": "grammar_n1_0139",
@@ -18047,7 +18768,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naidehasumanai"
   },
   {
     "id": "grammar_n1_0140",
@@ -18072,7 +18794,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naimademo"
   },
   {
     "id": "grammar_n1_0141",
@@ -18097,7 +18820,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naimonodarouka"
   },
   {
     "id": "grammar_n1_0142",
@@ -18122,7 +18846,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   naimonodemonai"
   },
   {
     "id": "grammar_n1_0143",
@@ -18147,7 +18872,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   no   nai  Danh t ừ"
   },
   {
     "id": "grammar_n1_0144",
@@ -18172,7 +18898,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   ba   kiriganai"
   },
   {
     "id": "grammar_n1_0145",
@@ -18197,7 +18924,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   moshinaide"
   },
   {
     "id": "grammar_n1_0146",
@@ -18222,7 +18950,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   yashinai"
   },
   {
     "id": "grammar_n1_0147",
@@ -18247,7 +18976,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   you"
   },
   {
     "id": "grammar_n1_0148",
@@ -18272,7 +19002,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youka  Verb rumaika"
   },
   {
     "id": "grammar_n1_0149",
@@ -18297,7 +19028,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youga      ộ ng t ừ   rumaiga"
   },
   {
     "id": "grammar_n1_0150",
@@ -18322,7 +19054,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youganai"
   },
   {
     "id": "grammar_n1_0151",
@@ -18347,7 +19080,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youto  Verb ru   maito"
   },
   {
     "id": "grammar_n1_0152",
@@ -18372,7 +19106,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   younimo"
   },
   {
     "id": "grammar_n1_0153",
@@ -18397,7 +19132,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   younimo      ộ ng t ừ   renai"
   },
   {
     "id": "grammar_n1_0154",
@@ -18422,7 +19158,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": " ộ ng t ừ   youmonai"
   },
   {
     "id": "grammar_n1_0155",
@@ -18447,7 +19184,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   gamamani"
   },
   {
     "id": "grammar_n1_0156",
@@ -18472,7 +19210,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   ga hayai ka"
   },
   {
     "id": "grammar_n1_0157",
@@ -18497,7 +19236,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   kurainara"
   },
   {
     "id": "grammar_n1_0158",
@@ -18522,7 +19262,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   koto   nashi   ni"
   },
   {
     "id": "grammar_n1_0159",
@@ -18547,7 +19288,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   kotononaiyouni"
   },
   {
     "id": "grammar_n1_0160",
@@ -18572,7 +19314,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   tokiriganai"
   },
   {
     "id": "grammar_n1_0161",
@@ -18597,7 +19340,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   tomonaku      ộ ng t ừ"
   },
   {
     "id": "grammar_n1_0162",
@@ -18622,7 +19366,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   tomonashini      ộ ng t ừ"
   },
   {
     "id": "grammar_n1_0163",
@@ -18647,7 +19392,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   nari"
   },
   {
     "id": "grammar_n1_0164",
@@ -18672,7 +19418,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   nitodomarazu ~ mo"
   },
   {
     "id": "grammar_n1_0165",
@@ -18697,7 +19444,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   nihaataranai"
   },
   {
     "id": "grammar_n1_0166",
@@ -18722,7 +19470,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   nimo"
   },
   {
     "id": "grammar_n1_0167",
@@ -18747,7 +19496,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   nimo      ộ ng t ừ   renai"
   },
   {
     "id": "grammar_n1_0168",
@@ -18772,7 +19522,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   bekarazaru  Danh t ừ"
   },
   {
     "id": "grammar_n1_0169",
@@ -18797,7 +19548,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   bekarazu"
   },
   {
     "id": "grammar_n1_0170",
@@ -18822,7 +19574,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   beku"
   },
   {
     "id": "grammar_n1_0171",
@@ -18847,7 +19600,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   bekumonai"
   },
   {
     "id": "grammar_n1_0172",
@@ -18872,7 +19626,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   mademonai"
   },
   {
     "id": "grammar_n1_0173",
@@ -18897,7 +19652,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   monotosuru"
   },
   {
     "id": "grammar_n1_0174",
@@ -18922,7 +19678,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   ya hi ya"
   },
   {
     "id": "grammar_n1_0175",
@@ -18947,7 +19704,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   shimatsu da"
   },
   {
     "id": "grammar_n1_0176",
@@ -18972,7 +19730,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "Verb ru   kirai gaaru"
   },
   {
     "id": "grammar_n1_0177",
@@ -18997,7 +19756,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "itsumade ~ noyara"
   },
   {
     "id": "grammar_n1_0178",
@@ -19022,7 +19782,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ga      ộ ng t ừ   rareru"
   },
   {
     "id": "grammar_n1_0179",
@@ -19047,7 +19808,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kato omoi kiya"
   },
   {
     "id": "grammar_n1_0180",
@@ -19072,7 +19834,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ gayueni"
   },
   {
     "id": "grammar_n1_0181",
@@ -19097,7 +19860,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ gayueno  Danh t ừ"
   },
   {
     "id": "grammar_n1_0182",
@@ -19122,7 +19886,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kara  Danh t ừ   ni   itaru   made"
   },
   {
     "id": "grammar_n1_0183",
@@ -19147,7 +19912,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ gotoku"
   },
   {
     "id": "grammar_n1_0184",
@@ -19172,7 +19938,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kototote"
   },
   {
     "id": "grammar_n1_0185",
@@ -19197,7 +19964,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ zunisunda"
   },
   {
     "id": "grammar_n1_0186",
@@ -19222,7 +19990,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ daroutonakarouto"
   },
   {
     "id": "grammar_n1_0187",
@@ -19247,7 +20016,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tsumorida"
   },
   {
     "id": "grammar_n1_0188",
@@ -19272,7 +20042,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tsumoride"
   },
   {
     "id": "grammar_n1_0189",
@@ -19297,7 +20068,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ dehasumanai"
   },
   {
     "id": "grammar_n1_0190",
@@ -19322,7 +20094,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toatte"
   },
   {
     "id": "grammar_n1_0191",
@@ -19347,7 +20120,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toareba"
   },
   {
     "id": "grammar_n1_0192",
@@ -19372,7 +20146,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toiedomo"
   },
   {
     "id": "grammar_n1_0193",
@@ -19397,7 +20172,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toittaraarihashinai"
   },
   {
     "id": "grammar_n1_0194",
@@ -19422,7 +20198,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toittaraaryashinai"
   },
   {
     "id": "grammar_n1_0195",
@@ -19447,7 +20224,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toittaranai"
   },
   {
     "id": "grammar_n1_0196",
@@ -19472,7 +20250,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tokiteiru"
   },
   {
     "id": "grammar_n1_0197",
@@ -19497,7 +20276,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tokorowo"
   },
   {
     "id": "grammar_n1_0198",
@@ -19522,7 +20302,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tosareru"
   },
   {
     "id": "grammar_n1_0199",
@@ -19547,7 +20328,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ toshitatokorode"
   },
   {
     "id": "grammar_n1_0200",
@@ -19572,7 +20354,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tosuruto"
   },
   {
     "id": "grammar_n1_0201",
@@ -19597,7 +20380,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tosureba"
   },
   {
     "id": "grammar_n1_0202",
@@ -19622,7 +20406,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tonattara"
   },
   {
     "id": "grammar_n1_0203",
@@ -19647,7 +20432,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tonaruto"
   },
   {
     "id": "grammar_n1_0204",
@@ -19672,7 +20458,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tonareba"
   },
   {
     "id": "grammar_n1_0205",
@@ -19697,7 +20484,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tonokotoda"
   },
   {
     "id": "grammar_n1_0206",
@@ -19722,7 +20510,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tohaie"
   },
   {
     "id": "grammar_n1_0207",
@@ -19747,7 +20536,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tomiete"
   },
   {
     "id": "grammar_n1_0208",
@@ -19772,7 +20562,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tomirareru"
   },
   {
     "id": "grammar_n1_0209",
@@ -19797,7 +20588,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tomiruto"
   },
   {
     "id": "grammar_n1_0210",
@@ -19822,7 +20614,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "donnani ~ uga"
   },
   {
     "id": "grammar_n1_0211",
@@ -19847,7 +20640,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ to iwa nbakarini"
   },
   {
     "id": "grammar_n1_0212",
@@ -19872,7 +20666,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ to iwa nbakarino  Danh t ừ"
   },
   {
     "id": "grammar_n1_0213",
@@ -19897,7 +20692,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nagarani"
   },
   {
     "id": "grammar_n1_0214",
@@ -19922,7 +20718,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nagarano  Danh t ừ"
   },
   {
     "id": "grammar_n1_0215",
@@ -19947,7 +20744,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nagaramo"
   },
   {
     "id": "grammar_n1_0216",
@@ -19972,7 +20770,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nakuhanai"
   },
   {
     "id": "grammar_n1_0217",
@@ -19997,7 +20796,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nakumonai"
   },
   {
     "id": "grammar_n1_0218",
@@ -20022,7 +20822,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nara ~ narini"
   },
   {
     "id": "grammar_n1_0219",
@@ -20047,7 +20848,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ niha oyoba nai"
   },
   {
     "id": "grammar_n1_0220",
@@ -20072,7 +20874,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kotae nai"
   },
   {
     "id": "grammar_n1_0221",
@@ -20097,7 +20900,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni kotae ru"
   },
   {
     "id": "grammar_n1_0222",
@@ -20122,7 +20926,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni tae ru"
   },
   {
     "id": "grammar_n1_0223",
@@ -20147,7 +20952,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni itatsu ta"
   },
   {
     "id": "grammar_n1_0224",
@@ -20172,7 +20978,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni koshi takotohanai"
   },
   {
     "id": "grammar_n1_0225",
@@ -20197,7 +21004,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ni gataku nai"
   },
   {
     "id": "grammar_n1_0226",
@@ -20222,7 +21030,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ noha  Danh t ừ   gurainomonoda"
   },
   {
     "id": "grammar_n1_0227",
@@ -20247,7 +21056,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ba ~ monowo"
   },
   {
     "id": "grammar_n1_0228",
@@ -20272,7 +21082,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ bita"
   },
   {
     "id": "grammar_n1_0229",
@@ -20297,7 +21108,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ biru"
   },
   {
     "id": "grammar_n1_0230",
@@ -20322,7 +21134,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ butta"
   },
   {
     "id": "grammar_n1_0231",
@@ -20347,7 +21160,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ butte"
   },
   {
     "id": "grammar_n1_0232",
@@ -20372,7 +21186,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ buri"
   },
   {
     "id": "grammar_n1_0233",
@@ -20397,7 +21212,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ buru"
   },
   {
     "id": "grammar_n1_0234",
@@ -20422,7 +21238,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ madeda"
   },
   {
     "id": "grammar_n1_0235",
@@ -20447,7 +21264,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monandemonai"
   },
   {
     "id": "grammar_n1_0236",
@@ -20472,7 +21290,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ monotoshite"
   },
   {
     "id": "grammar_n1_0237",
@@ -20497,7 +21316,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ngatameni"
   },
   {
     "id": "grammar_n1_0238",
@@ -20522,7 +21342,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ nbakarini"
   },
   {
     "id": "grammar_n1_0239",
@@ -20547,7 +21368,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ sashitsukae nai"
   },
   {
     "id": "grammar_n1_0240",
@@ -20572,7 +21394,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ ori ni"
   },
   {
     "id": "grammar_n1_0241",
@@ -20597,7 +21420,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kiwamarinai"
   },
   {
     "id": "grammar_n1_0242",
@@ -20622,7 +21446,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kiwama ru"
   },
   {
     "id": "grammar_n1_0243",
@@ -20647,7 +21472,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ tari nai"
   },
   {
     "id": "grammar_n1_0244",
@@ -20672,7 +21498,8 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ taru  Danh t ừ"
   },
   {
     "id": "grammar_n1_0245",
@@ -20697,6 +21524,7 @@
       "jlpt-n1",
       "grammar",
       "minna-no-nihongo"
-    ]
+    ],
+    "pattern_romaji": "~ kagiri da"
   }
 ]

@@ -9,7 +9,10 @@
     "lesson": "L1",
     "example_word": "議論",
     "example_reading": "ぎろん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gi",
+    "example_reading_romaji": "giron",
+    "example_word_romaji": "giron"
   },
   {
     "id": "kanji-n4-002",
@@ -21,7 +24,11 @@
     "lesson": "L1",
     "example_word": "宿",
     "example_reading": "やど",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuku",
+    "kunyomi_romaji": "yado   yadoru   yadosu",
+    "example_reading_romaji": "yado",
+    "example_word_romaji": "yado"
   },
   {
     "id": "kanji-n4-003",
@@ -33,7 +40,10 @@
     "lesson": "L1",
     "example_word": "題",
     "example_reading": "だい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "dai",
+    "example_reading_romaji": "dai",
+    "example_word_romaji": "dai"
   },
   {
     "id": "kanji-n4-004",
@@ -45,7 +55,11 @@
     "lesson": "L1",
     "example_word": "収拾",
     "example_reading": "しゅうしゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuu   juu",
+    "kunyomi_romaji": "hirou",
+    "example_reading_romaji": "shuushuu",
+    "example_word_romaji": "shuushuu"
   },
   {
     "id": "kanji-n4-005",
@@ -57,7 +71,11 @@
     "lesson": "L1",
     "example_word": "連",
     "example_reading": "れん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ren",
+    "kunyomi_romaji": "tsuranaru   tsuraneru   tsureru  - zure",
+    "example_reading_romaji": "ren",
+    "example_word_romaji": "ren"
   },
   {
     "id": "kanji-n4-006",
@@ -69,7 +87,11 @@
     "lesson": "L1",
     "example_word": "悪",
     "example_reading": "あく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "aku   o",
+    "kunyomi_romaji": "warui   waru -  ashi   nikui  - nikui   aa   izukuni   izukunzo   nikumu",
+    "example_reading_romaji": "aku",
+    "example_word_romaji": "aku"
   },
   {
     "id": "kanji-n4-007",
@@ -81,7 +103,11 @@
     "lesson": "L1",
     "example_word": "運",
     "example_reading": "うん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "un",
+    "kunyomi_romaji": "hakobu",
+    "example_reading_romaji": "un",
+    "example_word_romaji": "un"
   },
   {
     "id": "kanji-n4-008",
@@ -93,7 +119,11 @@
     "lesson": "L1",
     "example_word": "動",
     "example_reading": "どう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "dou",
+    "kunyomi_romaji": "ugoku   ugokasu",
+    "example_reading_romaji": "dou",
+    "example_word_romaji": "dou"
   },
   {
     "id": "kanji-n4-009",
@@ -105,7 +135,11 @@
     "lesson": "L1",
     "example_word": "所",
     "example_reading": "ところ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sho",
+    "kunyomi_romaji": "tokoro  - tokoro   dokoro   toko",
+    "example_reading_romaji": "tokoro",
+    "example_word_romaji": "tokoro"
   },
   {
     "id": "kanji-n4-010",
@@ -117,7 +151,11 @@
     "lesson": "L1",
     "example_word": "仕事",
     "example_reading": "しごと",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ji   zu",
+    "kunyomi_romaji": "koto   tsukau   tsukaeru",
+    "example_reading_romaji": "shigoto",
+    "example_word_romaji": "shigoto"
   },
   {
     "id": "kanji-n4-011",
@@ -129,7 +167,11 @@
     "lesson": "L1",
     "example_word": "平",
     "example_reading": "ひら",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hei   byou   hyou",
+    "kunyomi_romaji": "taira   tairageru   hira",
+    "example_reading_romaji": "hira",
+    "example_word_romaji": "taira"
   },
   {
     "id": "kanji-n4-012",
@@ -141,7 +183,11 @@
     "lesson": "L1",
     "example_word": "末",
     "example_reading": "うら",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "matsu   batsu",
+    "kunyomi_romaji": "sue   ura   ure",
+    "example_reading_romaji": "ura",
+    "example_word_romaji": "matsu"
   },
   {
     "id": "kanji-n4-013",
@@ -153,7 +199,11 @@
     "lesson": "L1",
     "example_word": "阪",
     "example_reading": "はん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "han",
+    "kunyomi_romaji": "saka",
+    "example_reading_romaji": "han",
+    "example_word_romaji": "saka"
   },
   {
     "id": "kanji-n4-014",
@@ -165,7 +215,11 @@
     "lesson": "L1",
     "example_word": "度",
     "example_reading": "たび",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "do   to   taku",
+    "kunyomi_romaji": "tabi  - tai",
+    "example_reading_romaji": "tabi",
+    "example_word_romaji": "do"
   },
   {
     "id": "kanji-n4-015",
@@ -177,7 +231,11 @@
     "lesson": "L1",
     "example_word": "委付",
     "example_reading": "いふ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "fu",
+    "kunyomi_romaji": "tsukeru  - tsukeru  - zukeru   tsuke   tsuke - - tsuke  - zuke  - zuke   tsuku  - zuku   tsuki  - tsuki  - tsuki  - zuki  - zuki",
+    "example_reading_romaji": "ifu",
+    "example_word_romaji": "i tsuki"
   },
   {
     "id": "kanji-n4-016",
@@ -189,7 +247,11 @@
     "lesson": "L1",
     "example_word": "安置",
     "example_reading": "あんち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chi",
+    "kunyomi_romaji": "oku  - oki",
+    "example_reading_romaji": "anchi",
+    "example_word_romaji": "anchi"
   },
   {
     "id": "kanji-n4-017",
@@ -201,7 +263,11 @@
     "lesson": "L1",
     "example_word": "横",
     "example_reading": "よこ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ou",
+    "kunyomi_romaji": "yoko",
+    "example_reading_romaji": "yoko",
+    "example_word_romaji": "yoko"
   },
   {
     "id": "kanji-n4-018",
@@ -213,7 +279,11 @@
     "lesson": "L1",
     "example_word": "様",
     "example_reading": "ざま",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "you   shou",
+    "kunyomi_romaji": "sama   san",
+    "example_reading_romaji": "zama",
+    "example_word_romaji": "sama"
   },
   {
     "id": "kanji-n4-019",
@@ -225,7 +295,10 @@
     "lesson": "L1",
     "example_word": "客",
     "example_reading": "きゃく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyaku   kaku",
+    "example_reading_romaji": "kyaku",
+    "example_word_romaji": "kyaku"
   },
   {
     "id": "kanji-n4-020",
@@ -237,7 +310,11 @@
     "lesson": "L1",
     "example_word": "飛",
     "example_reading": "ひ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hi",
+    "kunyomi_romaji": "tobu   tobasu  - tobasu",
+    "example_reading_romaji": "hi",
+    "example_word_romaji": "hi"
   },
   {
     "id": "kanji-n4-021",
@@ -249,7 +326,11 @@
     "lesson": "L2",
     "example_word": "建久",
     "example_reading": "けんきゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ken   kon",
+    "kunyomi_romaji": "tateru   tate  - date   tatsu",
+    "example_reading_romaji": "kenkyuu",
+    "example_word_romaji": "kenkyuu"
   },
   {
     "id": "kanji-n4-022",
@@ -261,7 +342,11 @@
     "lesson": "L2",
     "example_word": "取",
     "example_reading": "しゅ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shu",
+    "kunyomi_romaji": "toru   tori   tori -  tori  - dori",
+    "example_reading_romaji": "shu",
+    "example_word_romaji": "shu"
   },
   {
     "id": "kanji-n4-023",
@@ -273,7 +358,11 @@
     "lesson": "L2",
     "example_word": "開",
     "example_reading": "かい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kai",
+    "kunyomi_romaji": "hiraku   hiraki  - biraki   hirakeru   aku   akeru",
+    "example_reading_romaji": "kai",
+    "example_word_romaji": "kai"
   },
   {
     "id": "kanji-n4-024",
@@ -285,7 +374,11 @@
     "lesson": "L2",
     "example_word": "波",
     "example_reading": "なみ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ha",
+    "kunyomi_romaji": "nami",
+    "example_reading_romaji": "nami",
+    "example_word_romaji": "nami"
   },
   {
     "id": "kanji-n4-025",
@@ -297,7 +390,10 @@
     "lesson": "L2",
     "example_word": "景",
     "example_reading": "けい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kei",
+    "example_reading_romaji": "kei",
+    "example_word_romaji": "kei"
   },
   {
     "id": "kanji-n4-026",
@@ -309,7 +405,11 @@
     "lesson": "L2",
     "example_word": "昔",
     "example_reading": "むかし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "seki   shaku",
+    "kunyomi_romaji": "mukashi",
+    "example_reading_romaji": "mukashi",
+    "example_word_romaji": "mukashi"
   },
   {
     "id": "kanji-n4-027",
@@ -321,7 +421,11 @@
     "lesson": "L2",
     "example_word": "具",
     "example_reading": "ぐ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gu",
+    "kunyomi_romaji": "sonaeru   tsubusani",
+    "example_reading_romaji": "gu",
+    "example_word_romaji": "gu"
   },
   {
     "id": "kanji-n4-028",
@@ -333,7 +437,11 @@
     "lesson": "L2",
     "example_word": "機",
     "example_reading": "はた",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ki",
+    "kunyomi_romaji": "hata",
+    "example_reading_romaji": "hata",
+    "example_word_romaji": "ki"
   },
   {
     "id": "kanji-n4-029",
@@ -345,7 +453,10 @@
     "lesson": "L2",
     "example_word": "信",
     "example_reading": "しん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shin",
+    "example_reading_romaji": "shin",
+    "example_word_romaji": "shin"
   },
   {
     "id": "kanji-n4-030",
@@ -357,7 +468,11 @@
     "lesson": "L2",
     "example_word": "関",
     "example_reading": "せき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kan",
+    "kunyomi_romaji": "seki  - zeki   kakawaru   karakuri   kannuki",
+    "example_reading_romaji": "seki",
+    "example_word_romaji": "kan"
   },
   {
     "id": "kanji-n4-031",
@@ -369,7 +484,11 @@
     "lesson": "L2",
     "example_word": "港",
     "example_reading": "みなと",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou",
+    "kunyomi_romaji": "minato",
+    "example_reading_romaji": "minato",
+    "example_word_romaji": "minato"
   },
   {
     "id": "kanji-n4-032",
@@ -381,7 +500,11 @@
     "lesson": "L2",
     "example_word": "葉",
     "example_reading": "は",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "you",
+    "kunyomi_romaji": "ha",
+    "example_reading_romaji": "ha",
+    "example_word_romaji": "ha"
   },
   {
     "id": "kanji-n4-033",
@@ -393,7 +516,11 @@
     "lesson": "L2",
     "example_word": "豆",
     "example_reading": "まめ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tou   zu",
+    "kunyomi_romaji": "mame   mame -",
+    "example_reading_romaji": "mame",
+    "example_word_romaji": "mame"
   },
   {
     "id": "kanji-n4-034",
@@ -405,7 +532,11 @@
     "lesson": "L2",
     "example_word": "好",
     "example_reading": "こう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou",
+    "kunyomi_romaji": "konomu   suku   yoi   ii",
+    "example_reading_romaji": "kou",
+    "example_word_romaji": "kou"
   },
   {
     "id": "kanji-n4-035",
@@ -417,7 +548,11 @@
     "lesson": "L2",
     "example_word": "主",
     "example_reading": "おも",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shu   su   shuu",
+    "kunyomi_romaji": "nushi   omo   aruji",
+    "example_reading_romaji": "omo",
+    "example_word_romaji": "shu"
   },
   {
     "id": "kanji-n4-036",
@@ -429,7 +564,10 @@
     "lesson": "L2",
     "example_word": "不",
     "example_reading": "ふ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "fu   bu",
+    "example_reading_romaji": "fu",
+    "example_word_romaji": "fu"
   },
   {
     "id": "kanji-n4-037",
@@ -441,7 +579,11 @@
     "lesson": "L2",
     "example_word": "例",
     "example_reading": "れい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "rei",
+    "kunyomi_romaji": "tatoeru",
+    "example_reading_romaji": "rei",
+    "example_word_romaji": "rei"
   },
   {
     "id": "kanji-n4-038",
@@ -453,7 +595,11 @@
     "lesson": "L2",
     "example_word": "由",
     "example_reading": "よし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "yu   yuu   yui",
+    "kunyomi_romaji": "yoshi   yoru",
+    "example_reading_romaji": "yoshi",
+    "example_word_romaji": "yu"
   },
   {
     "id": "kanji-n4-039",
@@ -465,7 +611,11 @@
     "lesson": "L3",
     "example_word": "選",
     "example_reading": "せん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sen",
+    "kunyomi_romaji": "erabu   eru   yoru",
+    "example_reading_romaji": "sen",
+    "example_word_romaji": "sen"
   },
   {
     "id": "kanji-n4-040",
@@ -477,7 +627,11 @@
     "lesson": "L3",
     "example_word": "真",
     "example_reading": "しん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shin",
+    "kunyomi_romaji": "ma   ma -  makoto",
+    "example_reading_romaji": "shin",
+    "example_word_romaji": "makoto"
   },
   {
     "id": "kanji-n4-041",
@@ -489,7 +643,11 @@
     "lesson": "L3",
     "example_word": "面",
     "example_reading": "おもて",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "men   ben",
+    "kunyomi_romaji": "omo   omote   tsura",
+    "example_reading_romaji": "omote",
+    "example_word_romaji": "men"
   },
   {
     "id": "kanji-n4-042",
@@ -501,7 +659,11 @@
     "lesson": "L3",
     "example_word": "熱",
     "example_reading": "ねつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "netsu",
+    "kunyomi_romaji": "atsui",
+    "example_reading_romaji": "netsu",
+    "example_word_romaji": "netsu"
   },
   {
     "id": "kanji-n4-043",
@@ -513,7 +675,11 @@
     "lesson": "L3",
     "example_word": "丁",
     "example_reading": "ちょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chou   tei   chin   tou   chi",
+    "kunyomi_romaji": "hinoto",
+    "example_reading_romaji": "chou",
+    "example_word_romaji": "chou"
   },
   {
     "id": "kanji-n4-044",
@@ -525,7 +691,11 @@
     "lesson": "L3",
     "example_word": "悪習",
     "example_reading": "あくしゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuu   ju",
+    "kunyomi_romaji": "narau   narai",
+    "example_reading_romaji": "akushuu",
+    "example_word_romaji": "akushuu"
   },
   {
     "id": "kanji-n4-045",
@@ -537,7 +707,11 @@
     "lesson": "L3",
     "example_word": "験",
     "example_reading": "げん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ken   gen",
+    "kunyomi_romaji": "akashi   shirushi   tamesu   tameshi",
+    "example_reading_romaji": "gen",
+    "example_word_romaji": "ken"
   },
   {
     "id": "kanji-n4-046",
@@ -549,7 +723,11 @@
     "lesson": "L3",
     "example_word": "味",
     "example_reading": "あじ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "mi",
+    "kunyomi_romaji": "aji   ajiwau",
+    "example_reading_romaji": "aji",
+    "example_word_romaji": "aji"
   },
   {
     "id": "kanji-n4-047",
@@ -561,7 +739,11 @@
     "lesson": "L3",
     "example_word": "品",
     "example_reading": "しな",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hin   hon",
+    "kunyomi_romaji": "shina",
+    "example_reading_romaji": "shina",
+    "example_word_romaji": "hin"
   },
   {
     "id": "kanji-n4-048",
@@ -573,7 +755,11 @@
     "lesson": "L3",
     "example_word": "物",
     "example_reading": "もの",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "butsu   motsu",
+    "kunyomi_romaji": "mono   mono -",
+    "example_reading_romaji": "mono",
+    "example_word_romaji": "mono"
   },
   {
     "id": "kanji-n4-049",
@@ -585,7 +771,11 @@
     "lesson": "L3",
     "example_word": "給",
     "example_reading": "きゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyuu",
+    "kunyomi_romaji": "tamau   tamou  - tamae",
+    "example_reading_romaji": "kyuu",
+    "example_word_romaji": "kyuu"
   },
   {
     "id": "kanji-n4-050",
@@ -597,7 +787,10 @@
     "lesson": "L3",
     "example_word": "料",
     "example_reading": "りょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ryou",
+    "example_reading_romaji": "ryou",
+    "example_word_romaji": "ryou"
   },
   {
     "id": "kanji-n4-051",
@@ -609,7 +802,11 @@
     "lesson": "L3",
     "example_word": "説",
     "example_reading": "せつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "setsu   zei",
+    "kunyomi_romaji": "toku",
+    "example_reading_romaji": "setsu",
+    "example_word_romaji": "setsu"
   },
   {
     "id": "kanji-n4-052",
@@ -621,7 +818,11 @@
     "lesson": "L3",
     "example_word": "管",
     "example_reading": "かん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kan",
+    "kunyomi_romaji": "kuda",
+    "example_reading_romaji": "kan",
+    "example_word_romaji": "kan"
   },
   {
     "id": "kanji-n4-053",
@@ -633,7 +834,11 @@
     "lesson": "L3",
     "example_word": "息",
     "example_reading": "いき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "soku",
+    "kunyomi_romaji": "iki",
+    "example_reading_romaji": "iki",
+    "example_word_romaji": "iki"
   },
   {
     "id": "kanji-n4-054",
@@ -645,7 +850,11 @@
     "lesson": "L3",
     "example_word": "願",
     "example_reading": "がん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gan",
+    "kunyomi_romaji": "negau  - negai",
+    "example_reading_romaji": "gan",
+    "example_word_romaji": "gan"
   },
   {
     "id": "kanji-n4-055",
@@ -657,7 +866,11 @@
     "lesson": "L3",
     "example_word": "紐育",
     "example_reading": "ニューヨーク",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "iku",
+    "kunyomi_romaji": "sodatsu   sodachi   sodateru   hagukumu",
+    "example_reading_romaji": "nyuuyooku",
+    "example_word_romaji": "nyuuyooku"
   },
   {
     "id": "kanji-n4-056",
@@ -669,7 +882,11 @@
     "lesson": "L3",
     "example_word": "館",
     "example_reading": "やかた",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kan",
+    "kunyomi_romaji": "yakata   tate",
+    "example_reading_romaji": "yakata",
+    "example_word_romaji": "kan"
   },
   {
     "id": "kanji-n4-057",
@@ -681,7 +898,11 @@
     "lesson": "L3",
     "example_word": "無",
     "example_reading": "む",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "mu   bu",
+    "kunyomi_romaji": "nai",
+    "example_reading_romaji": "mu",
+    "example_word_romaji": "mu"
   },
   {
     "id": "kanji-n4-058",
@@ -693,7 +914,11 @@
     "lesson": "L4",
     "example_word": "解消",
     "example_reading": "かいしょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shou",
+    "kunyomi_romaji": "kieru   kesu",
+    "example_reading_romaji": "kaishou",
+    "example_word_romaji": "kaishou"
   },
   {
     "id": "kanji-n4-059",
@@ -705,7 +930,11 @@
     "lesson": "L4",
     "example_word": "折",
     "example_reading": "おり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "setsu   shaku",
+    "kunyomi_romaji": "oru   ori   ori  - ori   oreru",
+    "example_reading_romaji": "ori",
+    "example_word_romaji": "ori"
   },
   {
     "id": "kanji-n4-060",
@@ -717,7 +946,11 @@
     "lesson": "L4",
     "example_word": "下落",
     "example_reading": "げらく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "raku",
+    "kunyomi_romaji": "ochiru   ochi   otosu",
+    "example_reading_romaji": "geraku",
+    "example_word_romaji": "geraku"
   },
   {
     "id": "kanji-n4-061",
@@ -729,7 +962,11 @@
     "lesson": "L4",
     "example_word": "皿",
     "example_reading": "さら",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bei",
+    "kunyomi_romaji": "sara",
+    "example_reading_romaji": "sara",
+    "example_word_romaji": "sara"
   },
   {
     "id": "kanji-n4-062",
@@ -741,7 +978,11 @@
     "lesson": "L4",
     "example_word": "類",
     "example_reading": "るい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "rui",
+    "kunyomi_romaji": "tagui",
+    "example_reading_romaji": "rui",
+    "example_word_romaji": "rui"
   },
   {
     "id": "kanji-n4-063",
@@ -753,7 +994,10 @@
     "lesson": "L4",
     "example_word": "駅",
     "example_reading": "えき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "eki",
+    "example_reading_romaji": "eki",
+    "example_word_romaji": "eki"
   },
   {
     "id": "kanji-n4-064",
@@ -765,7 +1009,10 @@
     "lesson": "L4",
     "example_word": "員",
     "example_reading": "いん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "in",
+    "example_reading_romaji": "in",
+    "example_word_romaji": "in"
   },
   {
     "id": "kanji-n4-065",
@@ -777,7 +1024,11 @@
     "lesson": "L4",
     "example_word": "返",
     "example_reading": "へん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hen",
+    "kunyomi_romaji": "kaesu  - kaesu   kaeru  - kaeru",
+    "example_reading_romaji": "hen",
+    "example_word_romaji": "hen"
   },
   {
     "id": "kanji-n4-066",
@@ -789,7 +1040,11 @@
     "lesson": "L4",
     "example_word": "氏",
     "example_reading": "うじ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi",
+    "kunyomi_romaji": "uji  - uji",
+    "example_reading_romaji": "uji",
+    "example_word_romaji": "shi"
   },
   {
     "id": "kanji-n4-067",
@@ -801,7 +1056,11 @@
     "lesson": "L4",
     "example_word": "側",
     "example_reading": "そば",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "soku",
+    "kunyomi_romaji": "kawa   gawa   soba",
+    "example_reading_romaji": "soba",
+    "example_word_romaji": "gawa"
   },
   {
     "id": "kanji-n4-068",
@@ -813,7 +1072,11 @@
     "lesson": "L4",
     "example_word": "辺",
     "example_reading": "へん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hen",
+    "kunyomi_romaji": "atari   hotori  - be",
+    "example_reading_romaji": "hen",
+    "example_word_romaji": "hen"
   },
   {
     "id": "kanji-n4-069",
@@ -825,7 +1088,11 @@
     "lesson": "L4",
     "example_word": "覚",
     "example_reading": "さとり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kaku",
+    "kunyomi_romaji": "oboeru   samasu   sameru   satoru",
+    "example_reading_romaji": "satori",
+    "example_word_romaji": "kaku"
   },
   {
     "id": "kanji-n4-070",
@@ -837,7 +1104,11 @@
     "lesson": "L5",
     "example_word": "移植",
     "example_reading": "いしょく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shoku",
+    "kunyomi_romaji": "ueru   uwaru",
+    "example_reading_romaji": "ishoku",
+    "example_word_romaji": "ishoku"
   },
   {
     "id": "kanji-n4-071",
@@ -849,7 +1120,11 @@
     "lesson": "L5",
     "example_word": "決",
     "example_reading": "けつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ketsu",
+    "kunyomi_romaji": "kimeru  - gime   kimaru   saku",
+    "example_reading_romaji": "ketsu",
+    "example_word_romaji": "ketsu"
   },
   {
     "id": "kanji-n4-072",
@@ -861,7 +1136,11 @@
     "lesson": "L5",
     "example_word": "予",
     "example_reading": "よ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "yo   sha",
+    "kunyomi_romaji": "arakajime",
+    "example_reading_romaji": "yo",
+    "example_word_romaji": "arakajime"
   },
   {
     "id": "kanji-n4-073",
@@ -873,7 +1152,11 @@
     "lesson": "L5",
     "example_word": "業",
     "example_reading": "ごう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gyou   gou",
+    "kunyomi_romaji": "waza",
+    "example_reading_romaji": "gou",
+    "example_word_romaji": "gyou"
   },
   {
     "id": "kanji-n4-074",
@@ -885,7 +1168,11 @@
     "lesson": "L5",
     "example_word": "定",
     "example_reading": "さだ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tei   jou",
+    "kunyomi_romaji": "sadameru   sadamaru   sadaka",
+    "example_reading_romaji": "sada",
+    "example_word_romaji": "tei"
   },
   {
     "id": "kanji-n4-075",
@@ -897,7 +1184,11 @@
     "lesson": "L5",
     "example_word": "案",
     "example_reading": "あん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "an",
+    "kunyomi_romaji": "tsukue",
+    "example_reading_romaji": "an",
+    "example_word_romaji": "an"
   },
   {
     "id": "kanji-n4-076",
@@ -909,7 +1200,11 @@
     "lesson": "L5",
     "example_word": "箱",
     "example_reading": "はこ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sou",
+    "kunyomi_romaji": "hako",
+    "example_reading_romaji": "hako",
+    "example_word_romaji": "hako"
   },
   {
     "id": "kanji-n4-077",
@@ -921,7 +1216,11 @@
     "lesson": "L5",
     "example_word": "鏡",
     "example_reading": "かがみ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyou   kei",
+    "kunyomi_romaji": "kagami",
+    "example_reading_romaji": "kagami",
+    "example_word_romaji": "kagami"
   },
   {
     "id": "kanji-n4-078",
@@ -933,7 +1232,11 @@
     "lesson": "L5",
     "example_word": "周",
     "example_reading": "しゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuu",
+    "kunyomi_romaji": "mawari",
+    "example_reading_romaji": "shuu",
+    "example_word_romaji": "shuu"
   },
   {
     "id": "kanji-n4-079",
@@ -945,7 +1248,11 @@
     "lesson": "L5",
     "example_word": "表",
     "example_reading": "おもて",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hyou",
+    "kunyomi_romaji": "omote  - omote   arawasu   arawareru   arawasu",
+    "example_reading_romaji": "omote",
+    "example_word_romaji": "omote"
   },
   {
     "id": "kanji-n4-080",
@@ -957,7 +1264,11 @@
     "lesson": "L5",
     "example_word": "希",
     "example_reading": "き",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ki   ke",
+    "kunyomi_romaji": "mare   koinegau",
+    "example_reading_romaji": "ki",
+    "example_word_romaji": "mare"
   },
   {
     "id": "kanji-n4-081",
@@ -969,7 +1280,11 @@
     "lesson": "L5",
     "example_word": "望",
     "example_reading": "もち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bou   mou",
+    "kunyomi_romaji": "nozomu   mochi",
+    "example_reading_romaji": "mochi",
+    "example_word_romaji": "bou"
   },
   {
     "id": "kanji-n4-082",
@@ -981,7 +1296,11 @@
     "lesson": "L5",
     "example_word": "球",
     "example_reading": "きゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyuu",
+    "kunyomi_romaji": "tama",
+    "example_reading_romaji": "kyuu",
+    "example_word_romaji": "tama"
   },
   {
     "id": "kanji-n4-083",
@@ -993,7 +1312,11 @@
     "lesson": "L6",
     "example_word": "開始",
     "example_reading": "かいし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi",
+    "kunyomi_romaji": "hajimeru  - hajimeru   hajimaru",
+    "example_reading_romaji": "kaishi",
+    "example_word_romaji": "kaishi"
   },
   {
     "id": "kanji-n4-084",
@@ -1005,7 +1328,11 @@
     "lesson": "L6",
     "example_word": "続",
     "example_reading": "ぞく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "zoku   shoku   kou   kyou",
+    "kunyomi_romaji": "tsuzuku   tsuzukeru   tsugunai",
+    "example_reading_romaji": "zoku",
+    "example_word_romaji": "zoku"
   },
   {
     "id": "kanji-n4-085",
@@ -1017,7 +1344,11 @@
     "lesson": "L6",
     "example_word": "受",
     "example_reading": "じゅ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ju",
+    "kunyomi_romaji": "ukeru  - uke   ukaru",
+    "example_reading_romaji": "ju",
+    "example_word_romaji": "ju"
   },
   {
     "id": "kanji-n4-086",
@@ -1029,7 +1360,11 @@
     "lesson": "L6",
     "example_word": "卒",
     "example_reading": "そつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sotsu   shutsu",
+    "kunyomi_romaji": "sossuru   oeru   owaru   tsuini   niwaka",
+    "example_reading_romaji": "sotsu",
+    "example_word_romaji": "sotsu"
   },
   {
     "id": "kanji-n4-087",
@@ -1041,7 +1376,11 @@
     "lesson": "L6",
     "example_word": "完結",
     "example_reading": "かんけつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ketsu   kechi",
+    "kunyomi_romaji": "musubu   yuu   yuwaeru",
+    "example_reading_romaji": "kanketsu",
+    "example_word_romaji": "kanketsu"
   },
   {
     "id": "kanji-n4-088",
@@ -1053,7 +1392,10 @@
     "lesson": "L6",
     "example_word": "式",
     "example_reading": "しき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shiki",
+    "example_reading_romaji": "shiki",
+    "example_word_romaji": "shiki"
   },
   {
     "id": "kanji-n4-089",
@@ -1065,7 +1407,10 @@
     "lesson": "L6",
     "example_word": "病院",
     "example_reading": "びょういん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "in",
+    "example_reading_romaji": "byouin",
+    "example_word_romaji": "byouin"
   },
   {
     "id": "kanji-n4-090",
@@ -1077,7 +1422,11 @@
     "lesson": "L6",
     "example_word": "温",
     "example_reading": "ぬく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "on",
+    "kunyomi_romaji": "atataka   atatakai   atatamaru   atatameru   nuku",
+    "example_reading_romaji": "nuku",
+    "example_word_romaji": "on"
   },
   {
     "id": "kanji-n4-091",
@@ -1089,7 +1438,11 @@
     "lesson": "L6",
     "example_word": "残",
     "example_reading": "ざん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "zan   san",
+    "kunyomi_romaji": "nokoru   nokosu   sokonau   nokori",
+    "example_reading_romaji": "zan",
+    "example_word_romaji": "zan"
   },
   {
     "id": "kanji-n4-092",
@@ -1101,7 +1454,11 @@
     "lesson": "L6",
     "example_word": "都",
     "example_reading": "みやこ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "to   tsu",
+    "kunyomi_romaji": "miyako",
+    "example_reading_romaji": "miyako",
+    "example_word_romaji": "miyako"
   },
   {
     "id": "kanji-n4-093",
@@ -1113,7 +1470,11 @@
     "lesson": "L6",
     "example_word": "世",
     "example_reading": "よ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sei   se   sou",
+    "kunyomi_romaji": "yo",
+    "example_reading_romaji": "yo",
+    "example_word_romaji": "yo"
   },
   {
     "id": "kanji-n4-094",
@@ -1125,7 +1486,10 @@
     "lesson": "L6",
     "example_word": "界",
     "example_reading": "かい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kai",
+    "example_reading_romaji": "kai",
+    "example_word_romaji": "kai"
   },
   {
     "id": "kanji-n4-095",
@@ -1137,7 +1501,11 @@
     "lesson": "L6",
     "example_word": "集",
     "example_reading": "しゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuu",
+    "kunyomi_romaji": "atsumaru   atsumeru   tsudou",
+    "example_reading_romaji": "shuu",
+    "example_word_romaji": "shuu"
   },
   {
     "id": "kanji-n4-096",
@@ -1149,7 +1517,11 @@
     "lesson": "L6",
     "example_word": "美",
     "example_reading": "び",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bi   mi",
+    "kunyomi_romaji": "utsukushii",
+    "example_reading_romaji": "bi",
+    "example_word_romaji": "bi"
   },
   {
     "id": "kanji-n4-097",
@@ -1161,7 +1533,11 @@
     "lesson": "L6",
     "example_word": "然",
     "example_reading": "ぜん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "zen   nen",
+    "kunyomi_romaji": "shika   shikari   shikashi   sa",
+    "example_reading_romaji": "zen",
+    "example_word_romaji": "zen"
   },
   {
     "id": "kanji-n4-098",
@@ -1173,7 +1549,11 @@
     "lesson": "L7",
     "example_word": "成す",
     "example_reading": "なす",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sei   jou",
+    "kunyomi_romaji": "naru   nasu  - nasu",
+    "example_reading_romaji": "nasu",
+    "example_word_romaji": "nasu"
   },
   {
     "id": "kanji-n4-099",
@@ -1185,7 +1565,11 @@
     "lesson": "L7",
     "example_word": "功",
     "example_reading": "こう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou   ku",
+    "kunyomi_romaji": "isao",
+    "example_reading_romaji": "kou",
+    "example_word_romaji": "kou"
   },
   {
     "id": "kanji-n4-100",
@@ -1197,7 +1581,11 @@
     "lesson": "L7",
     "example_word": "失",
     "example_reading": "しつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shitsu",
+    "kunyomi_romaji": "ushinau   useru",
+    "example_reading_romaji": "shitsu",
+    "example_word_romaji": "shitsu"
   },
   {
     "id": "kanji-n4-101",
@@ -1209,7 +1597,11 @@
     "lesson": "L7",
     "example_word": "敗",
     "example_reading": "はい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hai",
+    "kunyomi_romaji": "yabureru",
+    "example_reading_romaji": "hai",
+    "example_word_romaji": "hai"
   },
   {
     "id": "kanji-n4-102",
@@ -1221,7 +1613,11 @@
     "lesson": "L7",
     "example_word": "試",
     "example_reading": "し",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi",
+    "kunyomi_romaji": "kokoromiru   tamesu",
+    "example_reading_romaji": "shi",
+    "example_word_romaji": "shi"
   },
   {
     "id": "kanji-n4-103",
@@ -1233,7 +1629,11 @@
     "lesson": "L7",
     "example_word": "治",
     "example_reading": "ち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ji   chi",
+    "kunyomi_romaji": "osameru   osamaru   naoru   naosu",
+    "example_reading_romaji": "chi",
+    "example_word_romaji": "osamu"
   },
   {
     "id": "kanji-n4-104",
@@ -1245,7 +1645,11 @@
     "lesson": "L7",
     "example_word": "冷",
     "example_reading": "れい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "rei",
+    "kunyomi_romaji": "tsumetai   hieru   hiya   hiyayaka   hiyasu   hiyakasu   sameru   samasu",
+    "example_reading_romaji": "rei",
+    "example_word_romaji": "rei"
   },
   {
     "id": "kanji-n4-105",
@@ -1257,7 +1661,11 @@
     "lesson": "L7",
     "example_word": "加配",
     "example_reading": "かはい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hai",
+    "kunyomi_romaji": "kubaru",
+    "example_reading_romaji": "kahai",
+    "example_word_romaji": "kahai"
   },
   {
     "id": "kanji-n4-106",
@@ -1269,7 +1677,11 @@
     "lesson": "L7",
     "example_word": "陽",
     "example_reading": "よう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "you",
+    "kunyomi_romaji": "hi",
+    "example_reading_romaji": "you",
+    "example_word_romaji": "you"
   },
   {
     "id": "kanji-n4-107",
@@ -1281,7 +1693,11 @@
     "lesson": "L7",
     "example_word": "働き",
     "example_reading": "はたらき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "dou",
+    "kunyomi_romaji": "hataraku",
+    "example_reading_romaji": "hataraki",
+    "example_word_romaji": "hataraki"
   },
   {
     "id": "kanji-n4-108",
@@ -1293,7 +1709,11 @@
     "lesson": "L7",
     "example_word": "穏健",
     "example_reading": "おんけん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ken",
+    "kunyomi_romaji": "sukoyaka",
+    "example_reading_romaji": "onken",
+    "example_word_romaji": "onken"
   },
   {
     "id": "kanji-n4-109",
@@ -1305,7 +1725,10 @@
     "lesson": "L7",
     "example_word": "健康",
     "example_reading": "けんこう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou",
+    "example_reading_romaji": "kenkou",
+    "example_word_romaji": "kenkou"
   },
   {
     "id": "kanji-n4-110",
@@ -1317,7 +1740,11 @@
     "lesson": "L7",
     "example_word": "愛",
     "example_reading": "あい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ai",
+    "kunyomi_romaji": "itoshii   kanashii   mederu   oshimu   mana",
+    "example_reading_romaji": "ai",
+    "example_word_romaji": "ai"
   },
   {
     "id": "kanji-n4-111",
@@ -1329,7 +1756,11 @@
     "lesson": "L7",
     "example_word": "持",
     "example_reading": "じ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ji",
+    "kunyomi_romaji": "motsu  - mochi   moteru",
+    "example_reading_romaji": "ji",
+    "example_word_romaji": "ji"
   },
   {
     "id": "kanji-n4-112",
@@ -1341,7 +1772,11 @@
     "lesson": "L8",
     "example_word": "投",
     "example_reading": "とう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tou",
+    "kunyomi_romaji": "nageru  - nage",
+    "example_reading_romaji": "tou",
+    "example_word_romaji": "tou"
   },
   {
     "id": "kanji-n4-113",
@@ -1353,7 +1788,11 @@
     "lesson": "L8",
     "example_word": "守",
     "example_reading": "かみ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shu   su",
+    "kunyomi_romaji": "mamoru   mamori   mori  - mori   kami",
+    "example_reading_romaji": "kami",
+    "example_word_romaji": "shu"
   },
   {
     "id": "kanji-n4-114",
@@ -1365,7 +1804,11 @@
     "lesson": "L8",
     "example_word": "伝写",
     "example_reading": "でんしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "den   ten",
+    "kunyomi_romaji": "tsutawaru   tsutaeru   tsutau   tsudau  - zutai   tsute",
+    "example_reading_romaji": "densha",
+    "example_word_romaji": "densha"
   },
   {
     "id": "kanji-n4-115",
@@ -1377,7 +1820,11 @@
     "lesson": "L8",
     "example_word": "注",
     "example_reading": "ちゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chuu",
+    "kunyomi_romaji": "sosogu   sasu   tsugu",
+    "example_reading_romaji": "chuu",
+    "example_word_romaji": "chuu"
   },
   {
     "id": "kanji-n4-116",
@@ -1389,7 +1836,10 @@
     "lesson": "L8",
     "example_word": "意",
     "example_reading": "い",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "i",
+    "example_reading_romaji": "i",
+    "example_word_romaji": "i"
   },
   {
     "id": "kanji-n4-117",
@@ -1401,7 +1851,11 @@
     "lesson": "L8",
     "example_word": "席",
     "example_reading": "せき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "seki",
+    "kunyomi_romaji": "mushiro",
+    "example_reading_romaji": "seki",
+    "example_word_romaji": "seki"
   },
   {
     "id": "kanji-n4-118",
@@ -1413,7 +1867,11 @@
     "lesson": "L8",
     "example_word": "使",
     "example_reading": "し",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi",
+    "kunyomi_romaji": "tsukau   tsukai  - tsukai  - zukai",
+    "example_reading_romaji": "shi",
+    "example_word_romaji": "shi"
   },
   {
     "id": "kanji-n4-119",
@@ -1425,7 +1883,11 @@
     "lesson": "L8",
     "example_word": "反",
     "example_reading": "たん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "han   hon   tan   ho",
+    "kunyomi_romaji": "soru   sorasu   kaesu   kaeru  - kaeru",
+    "example_reading_romaji": "tan",
+    "example_word_romaji": "han"
   },
   {
     "id": "kanji-n4-120",
@@ -1437,7 +1899,10 @@
     "lesson": "L8",
     "example_word": "察",
     "example_reading": "さつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "satsu",
+    "example_reading_romaji": "satsu",
+    "example_word_romaji": "satsu"
   },
   {
     "id": "kanji-n4-121",
@@ -1449,7 +1914,11 @@
     "lesson": "L8",
     "example_word": "急",
     "example_reading": "きゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyuu",
+    "kunyomi_romaji": "isogu   isogi   seku",
+    "example_reading_romaji": "kyuu",
+    "example_word_romaji": "kyuu"
   },
   {
     "id": "kanji-n4-122",
@@ -1461,7 +1930,11 @@
     "lesson": "L8",
     "example_word": "打",
     "example_reading": "ダース",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "da   daasu",
+    "kunyomi_romaji": "utsu   uchi -  butsu",
+    "example_reading_romaji": "daasu",
+    "example_word_romaji": "da"
   },
   {
     "id": "kanji-n4-123",
@@ -1473,7 +1946,11 @@
     "lesson": "L8",
     "example_word": "代",
     "example_reading": "しろ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "dai   tai",
+    "kunyomi_romaji": "kawaru   kawaru   kawari   kawari  - gawari  - gawari   kaeru   yo   shiro",
+    "example_reading_romaji": "shiro",
+    "example_word_romaji": "dai"
   },
   {
     "id": "kanji-n4-124",
@@ -1485,7 +1962,11 @@
     "lesson": "L8",
     "example_word": "短",
     "example_reading": "たん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tan",
+    "kunyomi_romaji": "mijikai",
+    "example_reading_romaji": "tan",
+    "example_word_romaji": "tan"
   },
   {
     "id": "kanji-n4-125",
@@ -1497,7 +1978,11 @@
     "lesson": "L8",
     "example_word": "重",
     "example_reading": "え",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "juu   chou",
+    "kunyomi_romaji": "e   omoi   omori   omonau   kasaneru   kasanaru   omo",
+    "example_reading_romaji": "e",
+    "example_word_romaji": "juu"
   },
   {
     "id": "kanji-n4-126",
@@ -1509,7 +1994,11 @@
     "lesson": "L8",
     "example_word": "病院",
     "example_reading": "びょういん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "byou   hei",
+    "kunyomi_romaji": "yamu  - yami   yamai",
+    "example_reading_romaji": "byouin",
+    "example_word_romaji": "byouin"
   },
   {
     "id": "kanji-n4-127",
@@ -1521,7 +2010,11 @@
     "lesson": "L8",
     "example_word": "悲",
     "example_reading": "ひ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hi",
+    "kunyomi_romaji": "kanashii   kanashimu",
+    "example_reading_romaji": "hi",
+    "example_word_romaji": "hi"
   },
   {
     "id": "kanji-n4-128",
@@ -1533,7 +2026,11 @@
     "lesson": "L8",
     "example_word": "利",
     "example_reading": "り",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ri",
+    "kunyomi_romaji": "kiku",
+    "example_reading_romaji": "ri",
+    "example_word_romaji": "ri"
   },
   {
     "id": "kanji-n4-129",
@@ -1545,7 +2042,11 @@
     "lesson": "L9",
     "example_word": "問",
     "example_reading": "もん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "mon",
+    "kunyomi_romaji": "tou   toi   ton",
+    "example_reading_romaji": "mon",
+    "example_word_romaji": "ton"
   },
   {
     "id": "kanji-n4-130",
@@ -1557,7 +2058,11 @@
     "lesson": "L9",
     "example_word": "印",
     "example_reading": "いん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "in",
+    "kunyomi_romaji": "shirushi  - jirushi   shirusu",
+    "example_reading_romaji": "in",
+    "example_word_romaji": "in"
   },
   {
     "id": "kanji-n4-131",
@@ -1569,7 +2074,11 @@
     "lesson": "L9",
     "example_word": "苦",
     "example_reading": "く",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ku",
+    "kunyomi_romaji": "kurushii  - gurushii   kurushimu   kurushimeru   nigai   nigaru",
+    "example_reading_romaji": "ku",
+    "example_word_romaji": "ku"
   },
   {
     "id": "kanji-n4-132",
@@ -1581,7 +2090,10 @@
     "lesson": "L9",
     "example_word": "材",
     "example_reading": "ざい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "zai",
+    "example_reading_romaji": "zai",
+    "example_word_romaji": "zai"
   },
   {
     "id": "kanji-n4-133",
@@ -1593,7 +2105,11 @@
     "lesson": "L9",
     "example_word": "調",
     "example_reading": "ちょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chou",
+    "kunyomi_romaji": "shiraberu   shirabe   totonou   totonoeru",
+    "example_reading_romaji": "chou",
+    "example_word_romaji": "chou"
   },
   {
     "id": "kanji-n4-134",
@@ -1605,7 +2121,11 @@
     "lesson": "L10",
     "example_word": "変",
     "example_reading": "へん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hen",
+    "kunyomi_romaji": "kawaru   kawari   kaeru",
+    "example_reading_romaji": "hen",
+    "example_word_romaji": "hen"
   },
   {
     "id": "kanji-n4-135",
@@ -1617,7 +2137,11 @@
     "lesson": "L10",
     "example_word": "一向",
     "example_reading": "いっこう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou",
+    "kunyomi_romaji": "muku   mui  - muki   mukeru  - muke   mukau   mukai   mukou   mukou -  muko   mukai",
+    "example_reading_romaji": "ikkou",
+    "example_word_romaji": "ikkou"
   },
   {
     "id": "kanji-n4-136",
@@ -1629,7 +2153,11 @@
     "lesson": "L10",
     "example_word": "島",
     "example_reading": "しま",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tou",
+    "kunyomi_romaji": "shima",
+    "example_reading_romaji": "shima",
+    "example_word_romaji": "shima"
   },
   {
     "id": "kanji-n4-137",
@@ -1641,7 +2169,11 @@
     "lesson": "L10",
     "example_word": "屋",
     "example_reading": "や",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "oku",
+    "kunyomi_romaji": "ya",
+    "example_reading_romaji": "ya",
+    "example_word_romaji": "ya"
   },
   {
     "id": "kanji-n4-138",
@@ -1653,7 +2185,11 @@
     "lesson": "L10",
     "example_word": "登記",
     "example_reading": "とうき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tou   to   dou   shou   chou",
+    "kunyomi_romaji": "noboru   agaru",
+    "example_reading_romaji": "touki",
+    "example_word_romaji": "touki"
   },
   {
     "id": "kanji-n4-139",
@@ -1665,7 +2201,11 @@
     "lesson": "L10",
     "example_word": "法",
     "example_reading": "のり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hou   hatsu   hotsu   furan",
+    "kunyomi_romaji": "nori",
+    "example_reading_romaji": "nori",
+    "example_word_romaji": "hou"
   },
   {
     "id": "kanji-n4-140",
@@ -1677,7 +2217,11 @@
     "lesson": "L10",
     "example_word": "曲",
     "example_reading": "きょく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyoku",
+    "kunyomi_romaji": "magaru   mageru   kuma",
+    "example_reading_romaji": "kyoku",
+    "example_word_romaji": "kyoku"
   },
   {
     "id": "kanji-n4-141",
@@ -1689,7 +2233,11 @@
     "lesson": "L10",
     "example_word": "初",
     "example_reading": "はつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sho",
+    "kunyomi_romaji": "hajime   hajimete   hatsu   hatsu -  ui - - someru  - zome",
+    "example_reading_romaji": "hatsu",
+    "example_word_romaji": "hatsu"
   },
   {
     "id": "kanji-n4-142",
@@ -1701,7 +2249,11 @@
     "lesson": "L10",
     "example_word": "終",
     "example_reading": "つい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuu",
+    "kunyomi_romaji": "owaru  - owaru   owaru   oeru   tsui   tsuini",
+    "example_reading_romaji": "tsui",
+    "example_word_romaji": "owari"
   },
   {
     "id": "kanji-n4-143",
@@ -1713,7 +2265,11 @@
     "lesson": "L10",
     "example_word": "旅",
     "example_reading": "たび",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ryo",
+    "kunyomi_romaji": "tabi",
+    "example_reading_romaji": "tabi",
+    "example_word_romaji": "tabi"
   },
   {
     "id": "kanji-n4-144",
@@ -1725,7 +2281,11 @@
     "lesson": "L10",
     "example_word": "仲",
     "example_reading": "なか",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chuu",
+    "kunyomi_romaji": "naka",
+    "example_reading_romaji": "naka",
+    "example_word_romaji": "naka"
   },
   {
     "id": "kanji-n4-145",
@@ -1737,7 +2297,11 @@
     "lesson": "L10",
     "example_word": "必",
     "example_reading": "ひつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hitsu",
+    "kunyomi_romaji": "kanarazu",
+    "example_reading_romaji": "hitsu",
+    "example_word_romaji": "hitsu"
   },
   {
     "id": "kanji-n4-146",
@@ -1749,7 +2313,11 @@
     "lesson": "L10",
     "example_word": "要",
     "example_reading": "かなめ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "you",
+    "kunyomi_romaji": "iru   kaname",
+    "example_reading_romaji": "kaname",
+    "example_word_romaji": "you"
   },
   {
     "id": "kanji-n4-147",
@@ -1761,7 +2329,11 @@
     "lesson": "L11",
     "example_word": "確固",
     "example_reading": "かっこ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ko",
+    "kunyomi_romaji": "katameru   katamaru   katamari   katai",
+    "example_reading_romaji": "kakko",
+    "example_word_romaji": "kakko"
   },
   {
     "id": "kanji-n4-148",
@@ -1773,7 +2345,11 @@
     "lesson": "L11",
     "example_word": "帯",
     "example_reading": "おび",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tai",
+    "kunyomi_romaji": "obiru   obi",
+    "example_reading_romaji": "obi",
+    "example_word_romaji": "obi"
   },
   {
     "id": "kanji-n4-149",
@@ -1785,7 +2361,11 @@
     "lesson": "L11",
     "example_word": "対",
     "example_reading": "たい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tai   tsui",
+    "kunyomi_romaji": "aite   kotaeru   soroi   tsureai   narabu   mukau",
+    "example_reading_romaji": "tai",
+    "example_word_romaji": "tsui"
   },
   {
     "id": "kanji-n4-150",
@@ -1797,7 +2377,10 @@
     "lesson": "L11",
     "example_word": "奇特",
     "example_reading": "きとく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "toku",
+    "example_reading_romaji": "kitoku",
+    "example_word_romaji": "kitoku"
   },
   {
     "id": "kanji-n4-151",
@@ -1809,7 +2392,11 @@
     "lesson": "L11",
     "example_word": "別",
     "example_reading": "べつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "betsu",
+    "kunyomi_romaji": "wakareru   wakeru",
+    "example_reading_romaji": "betsu",
+    "example_word_romaji": "betsu"
   },
   {
     "id": "kanji-n4-152",
@@ -1821,7 +2408,11 @@
     "lesson": "L11",
     "example_word": "泳ぐ",
     "example_reading": "およぐ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ei",
+    "kunyomi_romaji": "oyogu",
+    "example_reading_romaji": "oyogu",
+    "example_word_romaji": "oyogu"
   },
   {
     "id": "kanji-n4-153",
@@ -1833,7 +2424,11 @@
     "lesson": "L11",
     "example_word": "乗",
     "example_reading": "じょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jou   shou",
+    "kunyomi_romaji": "noru  - nori   noseru",
+    "example_reading_romaji": "jou",
+    "example_word_romaji": "jou"
   },
   {
     "id": "kanji-n4-154",
@@ -1845,7 +2440,11 @@
     "lesson": "L12",
     "example_word": "縁起",
     "example_reading": "えんぎ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ki",
+    "kunyomi_romaji": "okiru   okoru   okosu   okosu   tatsu",
+    "example_reading_romaji": "engi",
+    "example_word_romaji": "engi"
   },
   {
     "id": "kanji-n4-155",
@@ -1857,7 +2456,11 @@
     "lesson": "L12",
     "example_word": "歓待",
     "example_reading": "かんたい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tai",
+    "kunyomi_romaji": "matsu  - machi",
+    "example_reading_romaji": "kantai",
+    "example_word_romaji": "kantai"
   },
   {
     "id": "kanji-n4-156",
@@ -1869,7 +2472,11 @@
     "lesson": "L12",
     "example_word": "発",
     "example_reading": "はつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hatsu   hotsu",
+    "kunyomi_romaji": "tatsu   abaku   okoru   tsukawasu   hanatsu",
+    "example_reading_romaji": "hatsu",
+    "example_word_romaji": "hatsu"
   },
   {
     "id": "kanji-n4-157",
@@ -1881,7 +2488,11 @@
     "lesson": "L12",
     "example_word": "油",
     "example_reading": "あぶら",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "yu   yuu",
+    "kunyomi_romaji": "abura",
+    "example_reading_romaji": "abura",
+    "example_word_romaji": "abura"
   },
   {
     "id": "kanji-n4-158",
@@ -1893,7 +2504,11 @@
     "lesson": "L12",
     "example_word": "会者",
     "example_reading": "かいしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sha",
+    "kunyomi_romaji": "mono",
+    "example_reading_romaji": "kaisha",
+    "example_word_romaji": "esha"
   },
   {
     "id": "kanji-n4-159",
@@ -1905,7 +2520,11 @@
     "lesson": "L12",
     "example_word": "命",
     "example_reading": "いのち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "mei   myou",
+    "kunyomi_romaji": "inochi",
+    "example_reading_romaji": "inochi",
+    "example_word_romaji": "inochi"
   },
   {
     "id": "kanji-n4-160",
@@ -1917,7 +2536,11 @@
     "lesson": "L13",
     "example_word": "岸",
     "example_reading": "きし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gan",
+    "kunyomi_romaji": "kishi",
+    "example_reading_romaji": "kishi",
+    "example_word_romaji": "kishi"
   },
   {
     "id": "kanji-n4-161",
@@ -1929,7 +2552,11 @@
     "lesson": "L13",
     "example_word": "研究",
     "example_reading": "けんきゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ken",
+    "kunyomi_romaji": "togu",
+    "example_reading_romaji": "kenkyuu",
+    "example_word_romaji": "kenkyuu"
   },
   {
     "id": "kanji-n4-162",
@@ -1941,7 +2568,11 @@
     "lesson": "L13",
     "example_word": "研究",
     "example_reading": "けんきゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyuu   ku",
+    "kunyomi_romaji": "kiwameru",
+    "example_reading_romaji": "kenkyuu",
+    "example_word_romaji": "kenkyuu"
   },
   {
     "id": "kanji-n4-163",
@@ -1953,7 +2584,11 @@
     "lesson": "L13",
     "example_word": "均整",
     "example_reading": "きんせい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sei",
+    "kunyomi_romaji": "totonoeru   totonou",
+    "example_reading_romaji": "kinsei",
+    "example_word_romaji": "kinsei"
   },
   {
     "id": "kanji-n4-164",
@@ -1965,7 +2600,11 @@
     "lesson": "L14",
     "example_word": "延焼",
     "example_reading": "えんしょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shou",
+    "kunyomi_romaji": "yaku   yaki   yaki - - yaki   yakeru",
+    "example_reading_romaji": "enshou",
+    "example_word_romaji": "enshou"
   },
   {
     "id": "kanji-n4-165",
@@ -1977,7 +2616,11 @@
     "lesson": "L14",
     "example_word": "死",
     "example_reading": "し",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi",
+    "kunyomi_romaji": "shinu   shini -",
+    "example_reading_romaji": "shi",
+    "example_word_romaji": "shi"
   },
   {
     "id": "kanji-n4-166",
@@ -1989,7 +2632,11 @@
     "lesson": "L14",
     "example_word": "安",
     "example_reading": "やす",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "an",
+    "kunyomi_romaji": "yasui   yasumaru   yasu   yasuraka",
+    "example_reading_romaji": "yasu",
+    "example_word_romaji": "an"
   },
   {
     "id": "kanji-n4-167",
@@ -2001,7 +2648,11 @@
     "lesson": "L14",
     "example_word": "号",
     "example_reading": "ごう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gou",
+    "kunyomi_romaji": "sakebu   yobina",
+    "example_reading_romaji": "gou",
+    "example_word_romaji": "gou"
   },
   {
     "id": "kanji-n4-168",
@@ -2013,7 +2664,10 @@
     "lesson": "L14",
     "example_word": "洋",
     "example_reading": "よう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "you",
+    "example_reading_romaji": "you",
+    "example_word_romaji": "hiroshi"
   },
   {
     "id": "kanji-n4-169",
@@ -2025,7 +2679,10 @@
     "lesson": "L14",
     "example_word": "服",
     "example_reading": "ふく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "fuku",
+    "example_reading_romaji": "fuku",
+    "example_word_romaji": "fuku"
   },
   {
     "id": "kanji-n4-170",
@@ -2037,7 +2694,11 @@
     "lesson": "L14",
     "example_word": "分化",
     "example_reading": "ぶんか",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ka   ke",
+    "kunyomi_romaji": "bakeru   bakasu   fukeru   kesuru",
+    "example_reading_romaji": "bunka",
+    "example_word_romaji": "bunka"
   },
   {
     "id": "kanji-n4-171",
@@ -2049,7 +2710,11 @@
     "lesson": "L15",
     "example_word": "量",
     "example_reading": "りょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ryou",
+    "kunyomi_romaji": "hakaru",
+    "example_reading_romaji": "ryou",
+    "example_word_romaji": "ryou"
   },
   {
     "id": "kanji-n4-172",
@@ -2061,7 +2726,11 @@
     "lesson": "L15",
     "example_word": "着",
     "example_reading": "ちゃく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chaku   jaku",
+    "kunyomi_romaji": "kiru   kiseru   tsuku   tsukeru",
+    "example_reading_romaji": "chaku",
+    "example_word_romaji": "chaku"
   },
   {
     "id": "kanji-n4-173",
@@ -2073,7 +2742,11 @@
     "lesson": "L15",
     "example_word": "次",
     "example_reading": "つぎ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ji   shi",
+    "kunyomi_romaji": "tsugu   tsugi",
+    "example_reading_romaji": "tsugi",
+    "example_word_romaji": "tsugi"
   },
   {
     "id": "kanji-n4-174",
@@ -2085,7 +2758,11 @@
     "lesson": "L15",
     "example_word": "申",
     "example_reading": "さる",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shin",
+    "kunyomi_romaji": "mousu   moushi -  saru",
+    "example_reading_romaji": "saru",
+    "example_word_romaji": "saru"
   },
   {
     "id": "kanji-n4-175",
@@ -2097,7 +2774,11 @@
     "lesson": "L15",
     "example_word": "便",
     "example_reading": "びん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ben   bin",
+    "kunyomi_romaji": "tayori",
+    "example_reading_romaji": "bin",
+    "example_word_romaji": "bin"
   },
   {
     "id": "kanji-n4-176",
@@ -2109,7 +2790,11 @@
     "lesson": "L15",
     "example_word": "以て",
     "example_reading": "もって",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "i",
+    "kunyomi_romaji": "motte",
+    "example_reading_romaji": "motte",
+    "example_word_romaji": "mote"
   },
   {
     "id": "kanji-n4-177",
@@ -2121,7 +2806,11 @@
     "lesson": "L15",
     "example_word": "積",
     "example_reading": "せき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "seki",
+    "kunyomi_romaji": "tsumu  - zumi   tsumoru   tsumori",
+    "example_reading_romaji": "seki",
+    "example_word_romaji": "seki"
   },
   {
     "id": "kanji-n4-178",
@@ -2133,7 +2822,11 @@
     "lesson": "L15",
     "example_word": "転",
     "example_reading": "くるり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ten",
+    "kunyomi_romaji": "korogaru   korogeru   korogasu   korobu   marobu   utata   utsuru   kurumeku",
+    "example_reading_romaji": "kururi",
+    "example_word_romaji": "ten"
   },
   {
     "id": "kanji-n4-179",
@@ -2145,7 +2838,11 @@
     "lesson": "L16",
     "example_word": "祝",
     "example_reading": "はふり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuku   shuu",
+    "kunyomi_romaji": "iwau",
+    "example_reading_romaji": "hafuri",
+    "example_word_romaji": "shuku"
   },
   {
     "id": "kanji-n4-180",
@@ -2157,7 +2854,11 @@
     "lesson": "L16",
     "example_word": "指",
     "example_reading": "ゆび",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi",
+    "kunyomi_romaji": "yubi   sasu  - sashi",
+    "example_reading_romaji": "yubi",
+    "example_word_romaji": "yubi"
   },
   {
     "id": "kanji-n4-181",
@@ -2169,7 +2870,11 @@
     "lesson": "L16",
     "example_word": "輪",
     "example_reading": "りん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "rin",
+    "kunyomi_romaji": "wa",
+    "example_reading_romaji": "rin",
+    "example_word_romaji": "wa"
   },
   {
     "id": "kanji-n4-182",
@@ -2181,7 +2886,11 @@
     "lesson": "L16",
     "example_word": "孫",
     "example_reading": "まご",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "son",
+    "kunyomi_romaji": "mago",
+    "example_reading_romaji": "mago",
+    "example_word_romaji": "mago"
   },
   {
     "id": "kanji-n4-183",
@@ -2193,7 +2902,11 @@
     "lesson": "L16",
     "example_word": "助",
     "example_reading": "じょ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jo",
+    "kunyomi_romaji": "tasukeru   tasukaru   sukeru   suke",
+    "example_reading_romaji": "jo",
+    "example_word_romaji": "jo"
   },
   {
     "id": "kanji-n4-184",
@@ -2205,7 +2918,11 @@
     "lesson": "L16",
     "example_word": "城",
     "example_reading": "しろ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jou   sei",
+    "kunyomi_romaji": "shiro",
+    "example_reading_romaji": "shiro",
+    "example_word_romaji": "shiro"
   },
   {
     "id": "kanji-n4-185",
@@ -2217,7 +2934,11 @@
     "lesson": "L16",
     "example_word": "陸",
     "example_reading": "りく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "riku   roku",
+    "kunyomi_romaji": "oka",
+    "example_reading_romaji": "riku",
+    "example_word_romaji": "riku"
   },
   {
     "id": "kanji-n4-186",
@@ -2229,7 +2950,11 @@
     "lesson": "L16",
     "example_word": "身",
     "example_reading": "み",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shin",
+    "kunyomi_romaji": "mi",
+    "example_reading_romaji": "mi",
+    "example_word_romaji": "mi"
   },
   {
     "id": "kanji-n4-187",
@@ -2241,7 +2966,11 @@
     "lesson": "L17",
     "example_word": "包",
     "example_reading": "パオ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hou",
+    "kunyomi_romaji": "tsutsumu   kurumu",
+    "example_reading_romaji": "pao",
+    "example_word_romaji": "tsutsumi"
   },
   {
     "id": "kanji-n4-188",
@@ -2253,7 +2982,11 @@
     "lesson": "L17",
     "example_word": "戦",
     "example_reading": "いくさ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sen",
+    "kunyomi_romaji": "ikusa   tatakau   ononoku   soyogu   wananaku",
+    "example_reading_romaji": "ikusa",
+    "example_word_romaji": "sen"
   },
   {
     "id": "kanji-n4-189",
@@ -2265,7 +2998,11 @@
     "lesson": "L17",
     "example_word": "競争",
     "example_reading": "きょうそう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sou",
+    "kunyomi_romaji": "arasou   ikadeka",
+    "example_reading_romaji": "kyousou",
+    "example_word_romaji": "kyousou"
   },
   {
     "id": "kanji-n4-190",
@@ -2277,7 +3014,11 @@
     "lesson": "L17",
     "example_word": "和",
     "example_reading": "わ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "wa   o   ka",
+    "kunyomi_romaji": "yawaragu   yawarageru   nagomu   nagoyaka   aeru",
+    "example_reading_romaji": "wa",
+    "example_word_romaji": "wa"
   },
   {
     "id": "kanji-n4-191",
@@ -2289,7 +3030,11 @@
     "lesson": "L17",
     "example_word": "的",
     "example_reading": "てき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "teki",
+    "kunyomi_romaji": "mato",
+    "example_reading_romaji": "teki",
+    "example_word_romaji": "teki"
   },
   {
     "id": "kanji-n4-192",
@@ -2301,7 +3046,11 @@
     "lesson": "L17",
     "example_word": "全",
     "example_reading": "ぜん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "zen",
+    "kunyomi_romaji": "mattaku   subete",
+    "example_reading_romaji": "zen",
+    "example_word_romaji": "zen"
   },
   {
     "id": "kanji-n4-193",
@@ -2313,7 +3062,11 @@
     "lesson": "L17",
     "example_word": "係",
     "example_reading": "かかり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kei",
+    "kunyomi_romaji": "kakaru   kakari  - gakari   kakawaru",
+    "example_reading_romaji": "kakari",
+    "example_word_romaji": "kakari"
   },
   {
     "id": "kanji-n4-194",
@@ -2325,7 +3078,11 @@
     "lesson": "L18",
     "example_word": "夫",
     "example_reading": "おっと",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "fu   fuu   bu",
+    "kunyomi_romaji": "otto   sore",
+    "example_reading_romaji": "otto",
+    "example_word_romaji": "otto"
   },
   {
     "id": "kanji-n4-195",
@@ -2337,7 +3094,11 @@
     "lesson": "L18",
     "example_word": "幸",
     "example_reading": "さち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou",
+    "kunyomi_romaji": "saiwai   sachi   shiawase",
+    "example_reading_romaji": "sachi",
+    "example_word_romaji": "sachi"
   },
   {
     "id": "kanji-n4-196",
@@ -2349,7 +3110,11 @@
     "lesson": "L19",
     "example_word": "感泣",
     "example_reading": "かんきゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyuu",
+    "kunyomi_romaji": "naku",
+    "example_reading_romaji": "kankyuu",
+    "example_word_romaji": "kankyuu"
   },
   {
     "id": "kanji-n4-197",
@@ -2361,7 +3126,11 @@
     "lesson": "L19",
     "example_word": "笑",
     "example_reading": "わら",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shou",
+    "kunyomi_romaji": "warau   emu",
+    "example_reading_romaji": "wara",
+    "example_word_romaji": "warai"
   },
   {
     "id": "kanji-n4-198",
@@ -2373,7 +3142,11 @@
     "lesson": "L19",
     "example_word": "節",
     "example_reading": "せつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "setsu   sechi",
+    "kunyomi_romaji": "fushi  - bushi   notto",
+    "example_reading_romaji": "setsu",
+    "example_word_romaji": "fushi"
   },
   {
     "id": "kanji-n4-199",
@@ -2385,7 +3158,10 @@
     "lesson": "L19",
     "example_word": "倍",
     "example_reading": "ばい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bai",
+    "example_reading_romaji": "bai",
+    "example_word_romaji": "bai"
   },
   {
     "id": "kanji-n4-200",
@@ -2397,7 +3173,10 @@
     "lesson": "L19",
     "example_word": "順",
     "example_reading": "じゅん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jun",
+    "example_reading_romaji": "jun",
+    "example_word_romaji": "jun"
   },
   {
     "id": "kanji-n4-201",
@@ -2409,7 +3188,11 @@
     "lesson": "L20",
     "example_word": "札",
     "example_reading": "さつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "satsu",
+    "kunyomi_romaji": "fuda",
+    "example_reading_romaji": "satsu",
+    "example_word_romaji": "satsu"
   },
   {
     "id": "kanji-n4-202",
@@ -2421,7 +3204,11 @@
     "lesson": "L20",
     "example_word": "勝",
     "example_reading": "しょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shou",
+    "kunyomi_romaji": "katsu  - gachi   masaru   sugureru   katsu",
+    "example_reading_romaji": "shou",
+    "example_word_romaji": "kachi"
   },
   {
     "id": "kanji-n4-203",
@@ -2433,7 +3220,11 @@
     "lesson": "L21",
     "example_word": "金庫",
     "example_reading": "きんこ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ko   ku",
+    "kunyomi_romaji": "kura",
+    "example_reading_romaji": "kinko",
+    "example_word_romaji": "kinko"
   },
   {
     "id": "kanji-n4-204",
@@ -2445,7 +3236,11 @@
     "lesson": "L21",
     "example_word": "部",
     "example_reading": "ぶ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bu",
+    "kunyomi_romaji": "- be",
+    "example_reading_romaji": "bu",
+    "example_word_romaji": "bu"
   },
   {
     "id": "kanji-n4-205",
@@ -2457,7 +3252,10 @@
     "lesson": "L21",
     "example_word": "秒",
     "example_reading": "びょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "byou",
+    "example_reading_romaji": "byou",
+    "example_word_romaji": "byou"
   },
   {
     "id": "kanji-n4-206",
@@ -2469,7 +3267,11 @@
     "lesson": "L22",
     "example_word": "実",
     "example_reading": "じつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jitsu   shitsu",
+    "kunyomi_romaji": "mi   minoru   makoto   mino   michiru",
+    "example_reading_romaji": "jitsu",
+    "example_word_romaji": "mi"
   },
   {
     "id": "kanji-n4-207",
@@ -2481,7 +3283,11 @@
     "lesson": "L22",
     "example_word": "医",
     "example_reading": "い",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "i",
+    "kunyomi_romaji": "iyasu   isuru   kusushi",
+    "example_reading_romaji": "i",
+    "example_word_romaji": "i"
   },
   {
     "id": "kanji-n4-208",
@@ -2493,7 +3299,11 @@
     "lesson": "L22",
     "example_word": "約",
     "example_reading": "やく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "yaku",
+    "kunyomi_romaji": "tsuzumaru   tsuzumeru   tsuzumayaka",
+    "example_reading_romaji": "yaku",
+    "example_word_romaji": "yaku"
   },
   {
     "id": "kanji-n4-209",
@@ -2505,7 +3315,11 @@
     "lesson": "L22",
     "example_word": "相",
     "example_reading": "あい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sou   shou",
+    "kunyomi_romaji": "ai -",
+    "example_reading_romaji": "ai",
+    "example_word_romaji": "sou"
   },
   {
     "id": "kanji-n4-210",
@@ -2517,7 +3331,10 @@
     "lesson": "L22",
     "example_word": "博",
     "example_reading": "はく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "haku   baku",
+    "example_reading_romaji": "haku",
+    "example_word_romaji": "hiroshi"
   },
   {
     "id": "kanji-n4-211",
@@ -2529,7 +3346,11 @@
     "lesson": "L23",
     "example_word": "徒",
     "example_reading": "と",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "to",
+    "kunyomi_romaji": "itazura   ada",
+    "example_reading_romaji": "to",
+    "example_word_romaji": "to"
   },
   {
     "id": "kanji-n4-212",
@@ -2541,7 +3362,11 @@
     "lesson": "L23",
     "example_word": "競",
     "example_reading": "くら",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyou   kei",
+    "kunyomi_romaji": "kisou   seru   kuraberu",
+    "example_reading_romaji": "kura",
+    "example_word_romaji": "kyou"
   },
   {
     "id": "kanji-n4-213",
@@ -2553,7 +3378,11 @@
     "lesson": "L23",
     "example_word": "芸",
     "example_reading": "げい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gei   un",
+    "kunyomi_romaji": "ueru   nori   waza",
+    "example_reading_romaji": "gei",
+    "example_word_romaji": "gei"
   },
   {
     "id": "kanji-n4-214",
@@ -2565,7 +3394,11 @@
     "lesson": "L24",
     "example_word": "銀",
     "example_reading": "ぎん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gin",
+    "kunyomi_romaji": "shirogane",
+    "example_reading_romaji": "gin",
+    "example_word_romaji": "gin"
   },
   {
     "id": "kanji-n4-215",
@@ -2577,7 +3410,10 @@
     "lesson": "L24",
     "example_word": "礼",
     "example_reading": "れい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "rei   rai",
+    "example_reading_romaji": "rei",
+    "example_word_romaji": "rei"
   },
   {
     "id": "kanji-n4-216",
@@ -2589,7 +3425,10 @@
     "lesson": "L24",
     "example_word": "害",
     "example_reading": "がい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gai",
+    "example_reading_romaji": "gai",
+    "example_word_romaji": "gai"
   },
   {
     "id": "kanji-n4-217",
@@ -2601,7 +3440,11 @@
     "lesson": "L25",
     "example_word": "参",
     "example_reading": "しん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "san   shin",
+    "kunyomi_romaji": "mairu   mai -  majiwaru   mitsu",
+    "example_reading_romaji": "shin",
+    "example_word_romaji": "san"
   },
   {
     "id": "kanji-n4-218",
@@ -2613,7 +3456,11 @@
     "lesson": "L25",
     "example_word": "最",
     "example_reading": "さい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sai   shu",
+    "kunyomi_romaji": "mottomo   tsuma",
+    "example_reading_romaji": "sai",
+    "example_word_romaji": "sai"
   },
   {
     "id": "kanji-n4-219",
@@ -2625,7 +3472,11 @@
     "lesson": "L25",
     "example_word": "下放",
     "example_reading": "かほう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hou",
+    "kunyomi_romaji": "hanasu  - ppanashi   hanatsu   hanareru   koku   houru",
+    "example_reading_romaji": "kahou",
+    "example_word_romaji": "kahou"
   },
   {
     "id": "kanji-n4-220",
@@ -2637,7 +3488,11 @@
     "lesson": "L25",
     "example_word": "移送",
     "example_reading": "いそう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sou",
+    "kunyomi_romaji": "okuru",
+    "example_reading_romaji": "isou",
+    "example_word_romaji": "isou"
   },
   {
     "id": "kanji-n4-221",
@@ -2649,7 +3504,10 @@
     "lesson": "L25",
     "example_word": "協会",
     "example_reading": "きょうかい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyou",
+    "example_reading_romaji": "kyoukai",
+    "example_word_romaji": "kyoukai"
   },
   {
     "id": "kanji-n4-222",
@@ -2661,6 +3519,9 @@
     "lesson": "L25",
     "example_word": "感",
     "example_reading": "かん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kan",
+    "example_reading_romaji": "kan",
+    "example_word_romaji": "kan"
   }
 ]

@@ -12,7 +12,11 @@
     "source_page": 1,
     "example_word": "一",
     "example_reading": "いち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ichi   itsu",
+    "kunyomi_romaji": "hito -  hitotsu",
+    "example_reading_romaji": "ichi",
+    "example_word_romaji": "ichi"
   },
   {
     "id": "kanji_n5_sgk_002",
@@ -27,7 +31,11 @@
     "source_page": 1,
     "example_word": "二",
     "example_reading": "に",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ni   ji",
+    "kunyomi_romaji": "futa   futatsu   futatabi",
+    "example_reading_romaji": "ni",
+    "example_word_romaji": "ni"
   },
   {
     "id": "kanji_n5_sgk_003",
@@ -42,7 +50,11 @@
     "source_page": 1,
     "example_word": "三",
     "example_reading": "さん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "san   zou",
+    "kunyomi_romaji": "mi   mitsu   mittsu",
+    "example_reading_romaji": "san",
+    "example_word_romaji": "san"
   },
   {
     "id": "kanji_n5_sgk_004",
@@ -57,7 +69,11 @@
     "source_page": 1,
     "example_word": "五",
     "example_reading": "ご",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "go",
+    "kunyomi_romaji": "itsu   itsutsu",
+    "example_reading_romaji": "go",
+    "example_word_romaji": "go"
   },
   {
     "id": "kanji_n5_sgk_005",
@@ -72,7 +88,11 @@
     "source_page": 1,
     "example_word": "四",
     "example_reading": "し",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi",
+    "kunyomi_romaji": "yo   yotsu   yottsu   yon",
+    "example_reading_romaji": "shi",
+    "example_word_romaji": "shi"
   },
   {
     "id": "kanji_n5_sgk_006",
@@ -87,7 +107,11 @@
     "source_page": 6,
     "example_word": "六",
     "example_reading": "ろく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "roku   riku",
+    "kunyomi_romaji": "mu   mutsu   muttsu   mui",
+    "example_reading_romaji": "roku",
+    "example_word_romaji": "roku"
   },
   {
     "id": "kanji_n5_sgk_007",
@@ -102,7 +126,11 @@
     "source_page": 6,
     "example_word": "七",
     "example_reading": "しち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shichi",
+    "kunyomi_romaji": "nana   nanatsu   nano",
+    "example_reading_romaji": "shichi",
+    "example_word_romaji": "shichi"
   },
   {
     "id": "kanji_n5_sgk_008",
@@ -117,7 +145,11 @@
     "source_page": 6,
     "example_word": "八",
     "example_reading": "はち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hachi   hatsu",
+    "kunyomi_romaji": "ya   yatsu   yattsu   you",
+    "example_reading_romaji": "hachi",
+    "example_word_romaji": "hachi"
   },
   {
     "id": "kanji_n5_sgk_009",
@@ -132,7 +164,11 @@
     "source_page": 6,
     "example_word": "九",
     "example_reading": "きゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyuu   ku",
+    "kunyomi_romaji": "kokono   kokonotsu",
+    "example_reading_romaji": "kyuu",
+    "example_word_romaji": "kyuu"
   },
   {
     "id": "kanji_n5_sgk_010",
@@ -147,7 +183,11 @@
     "source_page": 6,
     "example_word": "十",
     "example_reading": "じゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "juu   jitsu   jutsu",
+    "kunyomi_romaji": "too   to   so",
+    "example_reading_romaji": "juu",
+    "example_word_romaji": "juu"
   },
   {
     "id": "kanji_n5_sgk_011",
@@ -162,7 +202,11 @@
     "source_page": 12,
     "example_word": "百",
     "example_reading": "ひゃく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hyaku   byaku",
+    "kunyomi_romaji": "momo",
+    "example_reading_romaji": "hyaku",
+    "example_word_romaji": "hyaku"
   },
   {
     "id": "kanji_n5_sgk_012",
@@ -177,7 +221,11 @@
     "source_page": 12,
     "example_word": "千",
     "example_reading": "せん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sen",
+    "kunyomi_romaji": "chi",
+    "example_reading_romaji": "sen",
+    "example_word_romaji": "sen"
   },
   {
     "id": "kanji_n5_sgk_013",
@@ -192,7 +240,11 @@
     "source_page": 12,
     "example_word": "万",
     "example_reading": "ばん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "man   ban",
+    "kunyomi_romaji": "yorozu",
+    "example_reading_romaji": "ban",
+    "example_word_romaji": "man"
   },
   {
     "id": "kanji_n5_sgk_014",
@@ -207,7 +259,11 @@
     "source_page": 12,
     "example_word": "園",
     "example_reading": "その",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "en",
+    "kunyomi_romaji": "sono",
+    "example_reading_romaji": "sono",
+    "example_word_romaji": "sono"
   },
   {
     "id": "kanji_n5_sgk_015",
@@ -222,7 +278,11 @@
     "source_page": 12,
     "example_word": "何",
     "example_reading": "なに",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ka",
+    "kunyomi_romaji": "nani   nan   nani -  nan -",
+    "example_reading_romaji": "nani",
+    "example_word_romaji": "nani"
   },
   {
     "id": "kanji_n5_sgk_016",
@@ -237,7 +297,11 @@
     "source_page": 18,
     "example_word": "日",
     "example_reading": "ひ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "nichi   jitsu",
+    "kunyomi_romaji": "hi  - bi  - ka",
+    "example_reading_romaji": "hi",
+    "example_word_romaji": "nichi"
   },
   {
     "id": "kanji_n5_sgk_017",
@@ -252,7 +316,11 @@
     "source_page": 18,
     "example_word": "月",
     "example_reading": "つき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "getsu   gatsu",
+    "kunyomi_romaji": "tsuki",
+    "example_reading_romaji": "tsuki",
+    "example_word_romaji": "gatsu"
   },
   {
     "id": "kanji_n5_sgk_018",
@@ -267,7 +335,11 @@
     "source_page": 18,
     "example_word": "分火",
     "example_reading": "ぶんか",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ka",
+    "kunyomi_romaji": "hi  - bi   ho -",
+    "example_reading_romaji": "bunka",
+    "example_word_romaji": "fun hi"
   },
   {
     "id": "kanji_n5_sgk_019",
@@ -282,7 +354,11 @@
     "source_page": 18,
     "example_word": "水",
     "example_reading": "みず",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sui",
+    "kunyomi_romaji": "mizu   mizu -",
+    "example_reading_romaji": "mizu",
+    "example_word_romaji": "mizu"
   },
   {
     "id": "kanji_n5_sgk_020",
@@ -297,7 +373,11 @@
     "source_page": 18,
     "example_word": "木",
     "example_reading": "き",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "boku   moku",
+    "kunyomi_romaji": "ki   ko -",
+    "example_reading_romaji": "ki",
+    "example_word_romaji": "ki"
   },
   {
     "id": "kanji_n5_sgk_021",
@@ -312,7 +392,11 @@
     "source_page": 23,
     "example_word": "金",
     "example_reading": "かね",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kin   kon   gon",
+    "kunyomi_romaji": "kane   kana - - gane",
+    "example_reading_romaji": "kane",
+    "example_word_romaji": "kin"
   },
   {
     "id": "kanji_n5_sgk_022",
@@ -327,7 +411,11 @@
     "source_page": 23,
     "example_word": "土",
     "example_reading": "つち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "do   to",
+    "kunyomi_romaji": "tsuchi",
+    "example_reading_romaji": "tsuchi",
+    "example_word_romaji": "tsuchi"
   },
   {
     "id": "kanji_n5_sgk_023",
@@ -342,7 +430,11 @@
     "source_page": 23,
     "example_word": "年",
     "example_reading": "とし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "nen",
+    "kunyomi_romaji": "toshi",
+    "example_reading_romaji": "toshi",
+    "example_word_romaji": "nen"
   },
   {
     "id": "kanji_n5_sgk_024",
@@ -357,7 +449,11 @@
     "source_page": 23,
     "example_word": "夕",
     "example_reading": "ゆう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "seki",
+    "kunyomi_romaji": "yuu",
+    "example_reading_romaji": "yuu",
+    "example_word_romaji": "yuu"
   },
   {
     "id": "kanji_n5_sgk_025",
@@ -372,7 +468,11 @@
     "source_page": 28,
     "example_word": "分化",
     "example_reading": "ぶんか",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bun   fun   bu",
+    "kunyomi_romaji": "wakeru   wake   wakareru   wakaru   wakatsu",
+    "example_reading_romaji": "bunka",
+    "example_word_romaji": "bunka"
   },
   {
     "id": "kanji_n5_sgk_026",
@@ -387,7 +487,11 @@
     "source_page": 28,
     "example_word": "半",
     "example_reading": "はん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "han",
+    "kunyomi_romaji": "nakaba",
+    "example_reading_romaji": "han",
+    "example_word_romaji": "han"
   },
   {
     "id": "kanji_n5_sgk_027",
@@ -402,7 +506,10 @@
     "source_page": 28,
     "example_word": "週",
     "example_reading": "しゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shuu",
+    "example_reading_romaji": "shuu",
+    "example_word_romaji": "shuu"
   },
   {
     "id": "kanji_n5_sgk_028",
@@ -417,7 +524,11 @@
     "source_page": 33,
     "example_word": "哲学",
     "example_reading": "てつがく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gaku",
+    "kunyomi_romaji": "manabu",
+    "example_reading_romaji": "tetsugaku",
+    "example_word_romaji": "tetsugaku"
   },
   {
     "id": "kanji_n5_sgk_029",
@@ -432,7 +543,11 @@
     "source_page": 33,
     "example_word": "生",
     "example_reading": "き",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sei   shou",
+    "kunyomi_romaji": "ikiru   ikasu   ikeru   umareru   umareru   umare   umare   umu   ou   haeru   hayasu   ki   nama   nama -  naru   nasu   musu  - u",
+    "example_reading_romaji": "ki",
+    "example_word_romaji": "nama"
   },
   {
     "id": "kanji_n5_sgk_030",
@@ -447,7 +562,11 @@
     "source_page": 33,
     "example_word": "先",
     "example_reading": "さっき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sen",
+    "kunyomi_romaji": "saki   mazu",
+    "example_reading_romaji": "sakki",
+    "example_word_romaji": "saki"
   },
   {
     "id": "kanji_n5_sgk_031",
@@ -462,7 +581,11 @@
     "source_page": 33,
     "example_word": "友",
     "example_reading": "とも",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "yuu",
+    "kunyomi_romaji": "tomo",
+    "example_reading_romaji": "tomo",
+    "example_word_romaji": "tomo"
   },
   {
     "id": "kanji_n5_sgk_032",
@@ -477,7 +600,11 @@
     "source_page": 33,
     "example_word": "名",
     "example_reading": "な",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "mei   myou",
+    "kunyomi_romaji": "na  - na",
+    "example_reading_romaji": "na",
+    "example_word_romaji": "mei"
   },
   {
     "id": "kanji_n5_sgk_033",
@@ -492,7 +619,11 @@
     "source_page": 38,
     "example_word": "大",
     "example_reading": "おお",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "dai   tai",
+    "kunyomi_romaji": "oo -  ookii  - ooini",
+    "example_reading_romaji": "oo",
+    "example_word_romaji": "dai"
   },
   {
     "id": "kanji_n5_sgk_034",
@@ -507,7 +638,11 @@
     "source_page": 38,
     "example_word": "中小",
     "example_reading": "ちゅうしょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shou",
+    "kunyomi_romaji": "chiisai   ko -  o -  sa -",
+    "example_reading_romaji": "chuushou",
+    "example_word_romaji": "chuushou"
   },
   {
     "id": "kanji_n5_sgk_035",
@@ -522,7 +657,11 @@
     "source_page": 38,
     "example_word": "字",
     "example_reading": "あざ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ji",
+    "kunyomi_romaji": "aza   azana  - na",
+    "example_reading_romaji": "aza",
+    "example_word_romaji": "ji"
   },
   {
     "id": "kanji_n5_sgk_036",
@@ -537,7 +676,11 @@
     "source_page": 38,
     "example_word": "本",
     "example_reading": "ほん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hon",
+    "kunyomi_romaji": "moto",
+    "example_reading_romaji": "hon",
+    "example_word_romaji": "hon"
   },
   {
     "id": "kanji_n5_sgk_037",
@@ -552,7 +695,10 @@
     "source_page": 38,
     "example_word": "校",
     "example_reading": "こう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou   kyou",
+    "example_reading_romaji": "kou",
+    "example_word_romaji": "kou"
   },
   {
     "id": "kanji_n5_sgk_038",
@@ -567,7 +713,11 @@
     "source_page": 43,
     "example_word": "行",
     "example_reading": "ぎょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou   gyou   an",
+    "kunyomi_romaji": "iku   yuku  - yuki  - yuki  - iki  - iki   okonau   okonau",
+    "example_reading_romaji": "gyou",
+    "example_word_romaji": "gyou"
   },
   {
     "id": "kanji_n5_sgk_039",
@@ -582,7 +732,11 @@
     "source_page": 43,
     "example_word": "来",
     "example_reading": "らい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "rai   tai",
+    "kunyomi_romaji": "kuru   kitaru   kitasu   kitasu   kitaru   ki   ko",
+    "example_reading_romaji": "rai",
+    "example_word_romaji": "rai"
   },
   {
     "id": "kanji_n5_sgk_040",
@@ -597,7 +751,11 @@
     "source_page": 43,
     "example_word": "回帰",
     "example_reading": "かいき",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ki",
+    "kunyomi_romaji": "kaeru   kaesu   okuru   totsugu",
+    "example_reading_romaji": "kaiki",
+    "example_word_romaji": "kaiki"
   },
   {
     "id": "kanji_n5_sgk_041",
@@ -612,7 +770,11 @@
     "source_page": 43,
     "example_word": "国",
     "example_reading": "くに",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "koku",
+    "kunyomi_romaji": "kuni",
+    "example_reading_romaji": "kuni",
+    "example_word_romaji": "kuni"
   },
   {
     "id": "kanji_n5_sgk_042",
@@ -627,7 +789,11 @@
     "source_page": 43,
     "example_word": "人",
     "example_reading": "じん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jin   nin",
+    "kunyomi_romaji": "hito  - ri  - to",
+    "example_reading_romaji": "jin",
+    "example_word_romaji": "nin"
   },
   {
     "id": "kanji_n5_sgk_043",
@@ -642,7 +808,11 @@
     "source_page": 48,
     "example_word": "父",
     "example_reading": "ちち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "fu",
+    "kunyomi_romaji": "chichi",
+    "example_reading_romaji": "chichi",
+    "example_word_romaji": "chichi"
   },
   {
     "id": "kanji_n5_sgk_044",
@@ -657,7 +827,11 @@
     "source_page": 48,
     "example_word": "母",
     "example_reading": "はは",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bo",
+    "kunyomi_romaji": "haha   mo",
+    "example_reading_romaji": "haha",
+    "example_word_romaji": "haha"
   },
   {
     "id": "kanji_n5_sgk_045",
@@ -672,7 +846,11 @@
     "source_page": 48,
     "example_word": "子",
     "example_reading": "こ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shi   su   tsu",
+    "kunyomi_romaji": "ko  - ko   ne",
+    "example_reading_romaji": "ko",
+    "example_word_romaji": "ko"
   },
   {
     "id": "kanji_n5_sgk_046",
@@ -687,7 +865,11 @@
     "source_page": 48,
     "example_word": "男",
     "example_reading": "おとこ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "dan   nan",
+    "kunyomi_romaji": "otoko   o",
+    "example_reading_romaji": "otoko",
+    "example_word_romaji": "otoko"
   },
   {
     "id": "kanji_n5_sgk_047",
@@ -702,7 +884,11 @@
     "source_page": 48,
     "example_word": "女",
     "example_reading": "おんな",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jo   nyo   nyou",
+    "kunyomi_romaji": "onna   me",
+    "example_reading_romaji": "onna",
+    "example_word_romaji": "onna"
   },
   {
     "id": "kanji_n5_sgk_048",
@@ -717,7 +903,11 @@
     "source_page": 53,
     "example_word": "上",
     "example_reading": "うえ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "jou   shou   shan",
+    "kunyomi_romaji": "ue  - ue   uwa -  kami   ageru  - ageru   agaru  - agaru   agari  - agari   noboru   nobori   noboseru   nobosu   tatematsuru",
+    "example_reading_romaji": "ue",
+    "example_word_romaji": "ue"
   },
   {
     "id": "kanji_n5_sgk_049",
@@ -732,7 +922,11 @@
     "source_page": 53,
     "example_word": "下位者",
     "example_reading": "かいしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ka   ge",
+    "kunyomi_romaji": "shita   shimo   moto   sageru   sagaru   kudaru   kudari   kudasu  - kudasu   kudasaru   orosu   oriru",
+    "example_reading_romaji": "kaisha",
+    "example_word_romaji": "kai mono"
   },
   {
     "id": "kanji_n5_sgk_050",
@@ -747,7 +941,11 @@
     "source_page": 53,
     "example_word": "左",
     "example_reading": "ひだり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sa   sha",
+    "kunyomi_romaji": "hidari",
+    "example_reading_romaji": "hidari",
+    "example_word_romaji": "hidari"
   },
   {
     "id": "kanji_n5_sgk_051",
@@ -762,7 +960,11 @@
     "source_page": 54,
     "example_word": "中傷",
     "example_reading": "ちゅうしょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chuu",
+    "kunyomi_romaji": "naka   uchi   ataru",
+    "example_reading_romaji": "chuushou",
+    "example_word_romaji": "chuushou"
   },
   {
     "id": "kanji_n5_sgk_052",
@@ -777,7 +979,11 @@
     "source_page": 58,
     "example_word": "前",
     "example_reading": "ぜん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "zen",
+    "kunyomi_romaji": "mae  - mae",
+    "example_reading_romaji": "zen",
+    "example_word_romaji": "mae"
   },
   {
     "id": "kanji_n5_sgk_053",
@@ -792,7 +998,11 @@
     "source_page": 58,
     "example_word": "後",
     "example_reading": "あと",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "go   kou",
+    "kunyomi_romaji": "nochi   ushiro   ushiro   ato   okureru",
+    "example_reading_romaji": "ato",
+    "example_word_romaji": "nochi"
   },
   {
     "id": "kanji_n5_sgk_054",
@@ -807,7 +1017,11 @@
     "source_page": 58,
     "example_word": "外",
     "example_reading": "そと",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gai   ge",
+    "kunyomi_romaji": "soto   hoka   hazusu   hazureru   to -",
+    "example_reading_romaji": "soto",
+    "example_word_romaji": "soto"
   },
   {
     "id": "kanji_n5_sgk_055",
@@ -822,7 +1036,11 @@
     "source_page": 58,
     "example_word": "入",
     "example_reading": "しお",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "nyuu   ju",
+    "kunyomi_romaji": "iru  - iru  - iri   ireru  - ire   hairu",
+    "example_reading_romaji": "shio",
+    "example_word_romaji": "nyuu"
   },
   {
     "id": "kanji_n5_sgk_056",
@@ -837,7 +1055,11 @@
     "source_page": 58,
     "example_word": "出",
     "example_reading": "で",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shutsu   sui",
+    "kunyomi_romaji": "deru  - de   dasu  - dasu   ideru   idasu",
+    "example_reading_romaji": "de",
+    "example_word_romaji": "shutsu"
   },
   {
     "id": "kanji_n5_sgk_057",
@@ -852,7 +1074,11 @@
     "source_page": 63,
     "example_word": "西",
     "example_reading": "にし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sei   sai   su",
+    "kunyomi_romaji": "nishi",
+    "example_reading_romaji": "nishi",
+    "example_word_romaji": "nishi"
   },
   {
     "id": "kanji_n5_sgk_058",
@@ -867,7 +1093,11 @@
     "source_page": 63,
     "example_word": "東",
     "example_reading": "あずま",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "tou",
+    "kunyomi_romaji": "higashi",
+    "example_reading_romaji": "azuma",
+    "example_word_romaji": "higashi"
   },
   {
     "id": "kanji_n5_sgk_059",
@@ -882,7 +1112,11 @@
     "source_page": 63,
     "example_word": "北",
     "example_reading": "きた",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hoku",
+    "kunyomi_romaji": "kita",
+    "example_reading_romaji": "kita",
+    "example_word_romaji": "kita"
   },
   {
     "id": "kanji_n5_sgk_060",
@@ -897,7 +1131,11 @@
     "source_page": 63,
     "example_word": "方",
     "example_reading": "かた",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "hou",
+    "kunyomi_romaji": "kata  - kata  - gata",
+    "example_reading_romaji": "kata",
+    "example_word_romaji": "hou"
   },
   {
     "id": "kanji_n5_sgk_061",
@@ -912,7 +1150,11 @@
     "source_page": 68,
     "example_word": "口",
     "example_reading": "くち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou   ku",
+    "kunyomi_romaji": "kuchi",
+    "example_reading_romaji": "kuchi",
+    "example_word_romaji": "kuchi"
   },
   {
     "id": "kanji_n5_sgk_062",
@@ -927,7 +1169,11 @@
     "source_page": 68,
     "example_word": "目",
     "example_reading": "め",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "moku   boku",
+    "kunyomi_romaji": "me  - me   ma -",
+    "example_reading_romaji": "me",
+    "example_word_romaji": "me"
   },
   {
     "id": "kanji_n5_sgk_063",
@@ -942,7 +1188,11 @@
     "source_page": 68,
     "example_word": "耳",
     "example_reading": "みみ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ji",
+    "kunyomi_romaji": "mimi",
+    "example_reading_romaji": "mimi",
+    "example_word_romaji": "mimi"
   },
   {
     "id": "kanji_n5_sgk_064",
@@ -957,7 +1207,11 @@
     "source_page": 68,
     "example_word": "手",
     "example_reading": "て",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shu   zu",
+    "kunyomi_romaji": "te   te - - te   ta -",
+    "example_reading_romaji": "te",
+    "example_word_romaji": "te"
   },
   {
     "id": "kanji_n5_sgk_065",
@@ -972,7 +1226,11 @@
     "source_page": 68,
     "example_word": "足",
     "example_reading": "あし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "soku",
+    "kunyomi_romaji": "ashi   tariru   taru   tasu",
+    "example_reading_romaji": "ashi",
+    "example_word_romaji": "ashi"
   },
   {
     "id": "kanji_n5_sgk_066",
@@ -987,7 +1245,11 @@
     "source_page": 73,
     "example_word": "牛",
     "example_reading": "うし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gyuu",
+    "kunyomi_romaji": "ushi",
+    "example_reading_romaji": "ushi",
+    "example_word_romaji": "ushi"
   },
   {
     "id": "kanji_n5_sgk_067",
@@ -1002,7 +1264,11 @@
     "source_page": 73,
     "example_word": "魚",
     "example_reading": "さかな",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gyo",
+    "kunyomi_romaji": "uo   sakana  - zakana",
+    "example_reading_romaji": "sakana",
+    "example_word_romaji": "sakana"
   },
   {
     "id": "kanji_n5_sgk_068",
@@ -1017,7 +1283,11 @@
     "source_page": 73,
     "example_word": "犬",
     "example_reading": "いぬ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ken",
+    "kunyomi_romaji": "inu   inu -",
+    "example_reading_romaji": "inu",
+    "example_word_romaji": "inu"
   },
   {
     "id": "kanji_n5_sgk_069",
@@ -1032,7 +1302,11 @@
     "source_page": 73,
     "example_word": "鳥",
     "example_reading": "とり",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chou",
+    "kunyomi_romaji": "tori",
+    "example_reading_romaji": "tori",
+    "example_word_romaji": "tori"
   },
   {
     "id": "kanji_n5_sgk_070",
@@ -1047,7 +1321,11 @@
     "source_page": 73,
     "example_word": "馬",
     "example_reading": "うま",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ba",
+    "kunyomi_romaji": "uma   uma -  ma",
+    "example_reading_romaji": "uma",
+    "example_word_romaji": "uma"
   },
   {
     "id": "kanji_n5_sgk_071",
@@ -1062,7 +1340,11 @@
     "source_page": 78,
     "example_word": "山",
     "example_reading": "やま",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "san   sen",
+    "kunyomi_romaji": "yama",
+    "example_reading_romaji": "yama",
+    "example_word_romaji": "yama"
   },
   {
     "id": "kanji_n5_sgk_072",
@@ -1077,7 +1359,11 @@
     "source_page": 78,
     "example_word": "川",
     "example_reading": "かわ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sen",
+    "kunyomi_romaji": "kawa",
+    "example_reading_romaji": "kawa",
+    "example_word_romaji": "kawa"
   },
   {
     "id": "kanji_n5_sgk_073",
@@ -1092,7 +1378,11 @@
     "source_page": 78,
     "example_word": "田舎",
     "example_reading": "でんしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "den",
+    "kunyomi_romaji": "ta",
+    "example_reading_romaji": "densha",
+    "example_word_romaji": "inaka"
   },
   {
     "id": "kanji_n5_sgk_074",
@@ -1107,7 +1397,11 @@
     "source_page": 78,
     "example_word": "海",
     "example_reading": "うみ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kai",
+    "kunyomi_romaji": "umi",
+    "example_reading_romaji": "umi",
+    "example_word_romaji": "umi"
   },
   {
     "id": "kanji_n5_sgk_075",
@@ -1122,7 +1416,11 @@
     "source_page": 78,
     "example_word": "空",
     "example_reading": "から",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kuu",
+    "kunyomi_romaji": "sora   aku   aki   akeru   kara   suku   sukasu   munashii",
+    "example_reading_romaji": "kara",
+    "example_word_romaji": "sora"
   },
   {
     "id": "kanji_n5_sgk_076",
@@ -1137,7 +1435,11 @@
     "source_page": 83,
     "example_word": "花",
     "example_reading": "はな",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ka   ke",
+    "kunyomi_romaji": "hana",
+    "example_reading_romaji": "hana",
+    "example_word_romaji": "hana"
   },
   {
     "id": "kanji_n5_sgk_077",
@@ -1152,7 +1454,11 @@
     "source_page": 83,
     "example_word": "雨",
     "example_reading": "あめ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "u",
+    "kunyomi_romaji": "ame   ama - - same",
+    "example_reading_romaji": "ame",
+    "example_word_romaji": "ame"
   },
   {
     "id": "kanji_n5_sgk_078",
@@ -1167,7 +1473,11 @@
     "source_page": 88,
     "example_word": "見",
     "example_reading": "み",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ken",
+    "kunyomi_romaji": "miru   mieru   miseru",
+    "example_reading_romaji": "mi",
+    "example_word_romaji": "ken"
   },
   {
     "id": "kanji_n5_sgk_079",
@@ -1182,7 +1492,11 @@
     "source_page": 88,
     "example_word": "文化",
     "example_reading": "ぶんか",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bun   mon",
+    "kunyomi_romaji": "fumi   aya",
+    "example_reading_romaji": "bunka",
+    "example_word_romaji": "bunka"
   },
   {
     "id": "kanji_n5_sgk_080",
@@ -1197,7 +1511,11 @@
     "source_page": 88,
     "example_word": "書",
     "example_reading": "しょ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sho",
+    "kunyomi_romaji": "kaku  - gaki  - gaki",
+    "example_reading_romaji": "sho",
+    "example_word_romaji": "kaki"
   },
   {
     "id": "kanji_n5_sgk_081",
@@ -1212,7 +1530,11 @@
     "source_page": 88,
     "example_word": "食",
     "example_reading": "しょく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shoku   jiki",
+    "kunyomi_romaji": "kuu   kurau   taberu   hamu",
+    "example_reading_romaji": "shoku",
+    "example_word_romaji": "shoku"
   },
   {
     "id": "kanji_n5_sgk_082",
@@ -1227,7 +1549,11 @@
     "source_page": 93,
     "example_word": "故買",
     "example_reading": "こばい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bai",
+    "kunyomi_romaji": "kau",
+    "example_reading_romaji": "kobai",
+    "example_word_romaji": "kobai"
   },
   {
     "id": "kanji_n5_sgk_083",
@@ -1242,7 +1568,11 @@
     "source_page": 93,
     "example_word": "言",
     "example_reading": "げん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gen   gon",
+    "kunyomi_romaji": "iu   koto",
+    "example_reading_romaji": "gen",
+    "example_word_romaji": "gen"
   },
   {
     "id": "kanji_n5_sgk_084",
@@ -1257,7 +1587,11 @@
     "source_page": 93,
     "example_word": "愛読",
     "example_reading": "あいどく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "doku   toku   tou",
+    "kunyomi_romaji": "yomu  - yomi",
+    "example_reading_romaji": "aidoku",
+    "example_word_romaji": "aidoku"
   },
   {
     "id": "kanji_n5_sgk_085",
@@ -1272,7 +1606,11 @@
     "source_page": 93,
     "example_word": "話",
     "example_reading": "はなし",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "wa",
+    "kunyomi_romaji": "hanasu   hanashi",
+    "example_reading_romaji": "hanashi",
+    "example_word_romaji": "hanashi"
   },
   {
     "id": "kanji_n5_sgk_086",
@@ -1287,7 +1625,11 @@
     "source_page": 93,
     "example_word": "運休",
     "example_reading": "うんきゅう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kyuu",
+    "kunyomi_romaji": "yasumu   yasumaru   yasumeru",
+    "example_reading_romaji": "unkyuu",
+    "example_word_romaji": "unkyuu"
   },
   {
     "id": "kanji_n5_sgk_087",
@@ -1302,7 +1644,11 @@
     "source_page": 98,
     "example_word": "高",
     "example_reading": "たか",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kou",
+    "kunyomi_romaji": "takai   taka  - daka   takamaru   takameru",
+    "example_reading_romaji": "taka",
+    "example_word_romaji": "taka"
   },
   {
     "id": "kanji_n5_sgk_088",
@@ -1317,7 +1663,11 @@
     "source_page": 99,
     "example_word": "気",
     "example_reading": "き",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ki   ke",
+    "kunyomi_romaji": "iki   ki",
+    "example_reading_romaji": "ki",
+    "example_word_romaji": "ki"
   },
   {
     "id": "kanji_n5_sgk_089",
@@ -1332,7 +1682,11 @@
     "source_page": 99,
     "example_word": "原",
     "example_reading": "げん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "gen",
+    "kunyomi_romaji": "hara",
+    "example_reading_romaji": "gen",
+    "example_word_romaji": "hara"
   },
   {
     "id": "kanji_n5_sgk_090",
@@ -1347,7 +1701,11 @@
     "source_page": 99,
     "example_word": "長",
     "example_reading": "ちょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "chou",
+    "kunyomi_romaji": "nagai   osa",
+    "example_reading_romaji": "chou",
+    "example_word_romaji": "chou"
   },
   {
     "id": "kanji_n5_sgk_091",
@@ -1362,7 +1720,11 @@
     "source_page": 103,
     "example_word": "新",
     "example_reading": "しん",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shin",
+    "kunyomi_romaji": "atarashii   arata   ara -  nii -",
+    "example_reading_romaji": "shin",
+    "example_word_romaji": "shin"
   },
   {
     "id": "kanji_n5_sgk_092",
@@ -1377,7 +1739,11 @@
     "source_page": 103,
     "example_word": "古",
     "example_reading": "いにしえ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ko",
+    "kunyomi_romaji": "furui   furu - - furusu",
+    "example_reading_romaji": "inishie",
+    "example_word_romaji": "ko"
   },
   {
     "id": "kanji_n5_sgk_093",
@@ -1392,7 +1758,11 @@
     "source_page": 103,
     "example_word": "少",
     "example_reading": "しょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "shou",
+    "kunyomi_romaji": "sukunai   sukoshi",
+    "example_reading_romaji": "shou",
+    "example_word_romaji": "shou"
   },
   {
     "id": "kanji_n5_sgk_094",
@@ -1407,7 +1777,11 @@
     "source_page": 103,
     "example_word": "多",
     "example_reading": "た",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ta",
+    "kunyomi_romaji": "ooi   masani   masaru",
+    "example_reading_romaji": "ta",
+    "example_word_romaji": "ta"
   },
   {
     "id": "kanji_n5_sgk_095",
@@ -1422,7 +1796,11 @@
     "source_page": 103,
     "example_word": "明",
     "example_reading": "みょう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "mei   myou   min",
+    "kunyomi_romaji": "akari   akarui   akarumu   akaramu   akiraka   akeru  - ake   aku   akuru   akasu",
+    "example_reading_romaji": "myou",
+    "example_word_romaji": "mei"
   },
   {
     "id": "kanji_n5_sgk_096",
@@ -1437,7 +1815,11 @@
     "source_page": 108,
     "example_word": "米",
     "example_reading": "メートル",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "bei   mai   meetoru",
+    "kunyomi_romaji": "kome   yone",
+    "example_reading_romaji": "meetoru",
+    "example_word_romaji": "kome"
   },
   {
     "id": "kanji_n5_sgk_097",
@@ -1452,7 +1834,11 @@
     "source_page": 108,
     "example_word": "肉",
     "example_reading": "にく",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "niku",
+    "kunyomi_romaji": "shishi",
+    "example_reading_romaji": "niku",
+    "example_word_romaji": "niku"
   },
   {
     "id": "kanji_n5_sgk_098",
@@ -1467,7 +1853,10 @@
     "source_page": 108,
     "example_word": "茶",
     "example_reading": "ちゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "cha   sa",
+    "example_reading_romaji": "cha",
+    "example_word_romaji": "cha"
   },
   {
     "id": "kanji_n5_sgk_099",
@@ -1482,7 +1871,10 @@
     "source_page": 113,
     "example_word": "電車",
     "example_reading": "でんしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "den",
+    "example_reading_romaji": "densha",
+    "example_word_romaji": "densha"
   },
   {
     "id": "kanji_n5_sgk_100",
@@ -1497,7 +1889,11 @@
     "source_page": 113,
     "example_word": "電車",
     "example_reading": "でんしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sha",
+    "kunyomi_romaji": "kuruma",
+    "example_reading_romaji": "densha",
+    "example_word_romaji": "densha"
   },
   {
     "id": "kanji_n5_sgk_101",
@@ -1512,7 +1908,11 @@
     "source_page": 118,
     "example_word": "会社",
     "example_reading": "かいしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kai   e",
+    "kunyomi_romaji": "au   awaseru   atsumaru",
+    "example_reading_romaji": "kaisha",
+    "example_word_romaji": "kaisha"
   },
   {
     "id": "kanji_n5_sgk_102",
@@ -1527,7 +1927,11 @@
     "source_page": 118,
     "example_word": "会社",
     "example_reading": "かいしゃ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "sha",
+    "kunyomi_romaji": "yashiro",
+    "example_reading_romaji": "kaisha",
+    "example_word_romaji": "kaisha"
   },
   {
     "id": "kanji_n5_sgk_103",
@@ -1542,7 +1946,11 @@
     "source_page": 118,
     "example_word": "店",
     "example_reading": "みせ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ten",
+    "kunyomi_romaji": "mise   tana",
+    "example_reading_romaji": "mise",
+    "example_word_romaji": "mise"
   },
   {
     "id": "kanji_n5_sgk_104",
@@ -1557,7 +1965,11 @@
     "source_page": 123,
     "example_word": "毎",
     "example_reading": "ごと",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "mai",
+    "kunyomi_romaji": "goto  - gotoni",
+    "example_reading_romaji": "goto",
+    "example_word_romaji": "mai"
   },
   {
     "id": "kanji_n5_sgk_105",
@@ -1572,7 +1984,11 @@
     "source_page": 123,
     "example_word": "回",
     "example_reading": "かい",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "kai   e",
+    "kunyomi_romaji": "mawaru  - mawaru  - mawari   mawasu  - mawasu   mawashi - - mawashi   motooru   kaeru",
+    "example_reading_romaji": "kai",
+    "example_word_romaji": "kai"
   },
   {
     "id": "kanji_n5_sgk_106",
@@ -1587,7 +2003,11 @@
     "source_page": 123,
     "example_word": "午",
     "example_reading": "うま",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "go",
+    "kunyomi_romaji": "uma",
+    "example_reading_romaji": "uma",
+    "example_word_romaji": "uma"
   },
   {
     "id": "kanji_n5_sgk_107",
@@ -1602,7 +2022,11 @@
     "source_page": 123,
     "example_word": "同",
     "example_reading": "どう",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "dou",
+    "kunyomi_romaji": "onaji",
+    "example_reading_romaji": "dou",
+    "example_word_romaji": "dou"
   },
   {
     "id": "kanji_n5_sgk_108",
@@ -1617,7 +2041,11 @@
     "source_page": 123,
     "example_word": "王立",
     "example_reading": "おうりつ",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ritsu   ryuu   rittoru",
+    "kunyomi_romaji": "tatsu  - tatsu   tachi -  tateru  - tateru   tate -  tate - - tate  - date  - dateru",
+    "example_reading_romaji": "ouritsu",
+    "example_word_romaji": "ouritsu"
   },
   {
     "id": "kanji_n5_sgk_109",
@@ -1632,7 +2060,11 @@
     "source_page": 128,
     "example_word": "内",
     "example_reading": "うち",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "nai   dai",
+    "kunyomi_romaji": "uchi",
+    "example_reading_romaji": "uchi",
+    "example_word_romaji": "nai"
   },
   {
     "id": "kanji_n5_sgk_110",
@@ -1647,6 +2079,10 @@
     "source_page": 128,
     "example_word": "力",
     "example_reading": "ちから",
-    "example_meaning": ""
+    "example_meaning": "",
+    "onyomi_romaji": "ryoku   riki   rii",
+    "kunyomi_romaji": "chikara",
+    "example_reading_romaji": "chikara",
+    "example_word_romaji": "chikara"
   }
 ]

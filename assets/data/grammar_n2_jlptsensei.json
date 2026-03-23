@@ -25,7 +25,8 @@
       "ageku"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "ageku"
   },
   {
     "id": "grammar_n2_jlptsensei_0002",
@@ -53,7 +54,8 @@
       "aruiwa"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "aruiha"
   },
   {
     "id": "grammar_n2_jlptsensei_0003",
@@ -81,7 +83,8 @@
       "bakari"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "bakari"
   },
   {
     "id": "grammar_n2_jlptsensei_0004",
@@ -109,7 +112,8 @@
       "bakari da"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "bakarida"
   },
   {
     "id": "grammar_n2_jlptsensei_0005",
@@ -137,7 +141,8 @@
       "bakari ka"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "bakarika"
   },
   {
     "id": "grammar_n2_jlptsensei_0006",
@@ -165,7 +170,8 @@
       "bakari ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "bakarini"
   },
   {
     "id": "grammar_n2_jlptsensei_0007",
@@ -193,7 +199,8 @@
       "chinamini"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 7
+    "sort_order": 7,
+    "pattern_romaji": "chinamini"
   },
   {
     "id": "grammar_n2_jlptsensei_0008",
@@ -221,7 +228,8 @@
       "chitto mo~nai"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 8
+    "sort_order": 8,
+    "pattern_romaji": "chittomo ~ nai"
   },
   {
     "id": "grammar_n2_jlptsensei_0009",
@@ -249,7 +257,8 @@
       "dake atte"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 9
+    "sort_order": 9,
+    "pattern_romaji": "dakeatte"
   },
   {
     "id": "grammar_n2_jlptsensei_0010",
@@ -277,7 +286,8 @@
       "dake mashi da"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 10
+    "sort_order": 10,
+    "pattern_romaji": "dakemashida"
   },
   {
     "id": "grammar_n2_jlptsensei_0011",
@@ -305,7 +315,8 @@
       "dake ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 11
+    "sort_order": 11,
+    "pattern_romaji": "dakeni"
   },
   {
     "id": "grammar_n2_jlptsensei_0012",
@@ -333,7 +344,8 @@
       "dake no koto wa aru"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 12
+    "sort_order": 12,
+    "pattern_romaji": "dakenokotohaaru"
   },
   {
     "id": "grammar_n2_jlptsensei_0013",
@@ -361,7 +373,8 @@
       "dake wa"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 13
+    "sort_order": 13,
+    "pattern_romaji": "dakeha"
   },
   {
     "id": "grammar_n2_jlptsensei_0014",
@@ -389,7 +402,8 @@
       "datte"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 14
+    "sort_order": 14,
+    "pattern_romaji": "datte"
   },
   {
     "id": "grammar_n2_jlptsensei_0015",
@@ -417,7 +431,8 @@
       "de shika nai"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 15
+    "sort_order": 15,
+    "pattern_romaji": "deshikanai"
   },
   {
     "id": "grammar_n2_jlptsensei_0016",
@@ -445,7 +460,8 @@
       "dokoro dewa nai"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 16
+    "sort_order": 16,
+    "pattern_romaji": "dokorodehanai"
   },
   {
     "id": "grammar_n2_jlptsensei_0017",
@@ -473,7 +489,8 @@
       "dokoro ka"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 17
+    "sort_order": 17,
+    "pattern_romaji": "dokoroka"
   },
   {
     "id": "grammar_n2_jlptsensei_0018",
@@ -501,7 +518,8 @@
       "dou yara"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 18
+    "sort_order": 18,
+    "pattern_romaji": "douyara"
   },
   {
     "id": "grammar_n2_jlptsensei_0019",
@@ -529,7 +547,8 @@
       "douse"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 19
+    "sort_order": 19,
+    "pattern_romaji": "douse"
   },
   {
     "id": "grammar_n2_jlptsensei_0020",
@@ -557,7 +576,8 @@
       "enai"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 20
+    "sort_order": 20,
+    "pattern_romaji": "ena i ( enai )"
   },
   {
     "id": "grammar_n2_jlptsensei_0021",
@@ -585,7 +605,8 @@
       "eru / uru"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 21
+    "sort_order": 21,
+    "pattern_romaji": "eru ( eru  /  uru )"
   },
   {
     "id": "grammar_n2_jlptsensei_0022",
@@ -613,7 +634,8 @@
       "futatabi"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 22
+    "sort_order": 22,
+    "pattern_romaji": "futatabi ( futatabi )"
   },
   {
     "id": "grammar_n2_jlptsensei_0023",
@@ -641,7 +663,8 @@
       "fuu ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 23
+    "sort_order": 23,
+    "pattern_romaji": "fuuni"
   },
   {
     "id": "grammar_n2_jlptsensei_0024",
@@ -669,7 +692,8 @@
       "ga kikkake de / o kikkake ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 24
+    "sort_order": 24,
+    "pattern_romaji": "gakikkakede  /  wokikkakeni"
   },
   {
     "id": "grammar_n2_jlptsensei_0025",
@@ -697,7 +721,8 @@
       "ge"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 25
+    "sort_order": 25,
+    "pattern_romaji": "ge"
   },
   {
     "id": "grammar_n2_jlptsensei_0026",
@@ -725,7 +750,8 @@
       "gyaku ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 26
+    "sort_order": 26,
+    "pattern_romaji": "gyakuni ( gyakuni )"
   },
   {
     "id": "grammar_n2_jlptsensei_0027",
@@ -753,7 +779,8 @@
       "hanmen"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 27
+    "sort_order": 27,
+    "pattern_romaji": "hanmen ( hanmen )"
   },
   {
     "id": "grammar_n2_jlptsensei_0028",
@@ -781,7 +808,8 @@
       "hatashite"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 28
+    "sort_order": 28,
+    "pattern_romaji": "hata shite ( hatashite )"
   },
   {
     "id": "grammar_n2_jlptsensei_0029",
@@ -809,7 +837,8 @@
       "ichiou"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 29
+    "sort_order": 29,
+    "pattern_romaji": "ichiou ( ichiou )"
   },
   {
     "id": "grammar_n2_jlptsensei_0030",
@@ -837,7 +866,8 @@
       "igai"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 30
+    "sort_order": 30,
+    "pattern_romaji": "igai ( igai )"
   },
   {
     "id": "grammar_n2_jlptsensei_0031",
@@ -865,7 +895,8 @@
       "ijou ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 31
+    "sort_order": 31,
+    "pattern_romaji": "ijou ni ( ijouni )"
   },
   {
     "id": "grammar_n2_jlptsensei_0032",
@@ -893,7 +924,8 @@
       "ijou wa"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 32
+    "sort_order": 32,
+    "pattern_romaji": "ijou ha ( ijouha )"
   },
   {
     "id": "grammar_n2_jlptsensei_0033",
@@ -921,7 +953,8 @@
       "ikinari"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 33
+    "sort_order": 33,
+    "pattern_romaji": "ikinari"
   },
   {
     "id": "grammar_n2_jlptsensei_0034",
@@ -949,7 +982,8 @@
       "ikki ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 34
+    "sort_order": 34,
+    "pattern_romaji": "ikki ni ( ikkini )"
   },
   {
     "id": "grammar_n2_jlptsensei_0035",
@@ -977,7 +1011,8 @@
       "ippou de"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 35
+    "sort_order": 35,
+    "pattern_romaji": "ippou de ( ippoude )"
   },
   {
     "id": "grammar_n2_jlptsensei_0036",
@@ -1005,7 +1040,8 @@
       "iwayuru"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 36
+    "sort_order": 36,
+    "pattern_romaji": "iwayuru"
   },
   {
     "id": "grammar_n2_jlptsensei_0037",
@@ -1033,7 +1069,8 @@
       "iyoiyo"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 37
+    "sort_order": 37,
+    "pattern_romaji": "iyoiyo"
   },
   {
     "id": "grammar_n2_jlptsensei_0038",
@@ -1061,7 +1098,8 @@
       "jou"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 38
+    "sort_order": 38,
+    "pattern_romaji": "ue ( jou )"
   },
   {
     "id": "grammar_n2_jlptsensei_0039",
@@ -1089,7 +1127,8 @@
       "ka no you ni"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 39
+    "sort_order": 39,
+    "pattern_romaji": "kanoyouni"
   },
   {
     "id": "grammar_n2_jlptsensei_0040",
@@ -1117,6 +1156,7 @@
       "ka to omottara"
     ],
     "source_url": "https://jlptsensei.com/jlpt-n2-grammar-list/",
-    "sort_order": 40
+    "sort_order": 40,
+    "pattern_romaji": "kato omotta ra ( katoomottara )"
   }
 ]

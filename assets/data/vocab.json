@@ -11,7 +11,9 @@
     "lesson": "L1",
     "example": "学校へ行きます",
     "example_reading": "がっこう へ いきます",
-    "example_meaning": "Tôi đi học"
+    "example_meaning": "Tôi đi học",
+    "word_romaji": "gakkou",
+    "reading_romaji": "gakkou"
   },
   {
     "id": "vocab-n5-002",
@@ -25,7 +27,9 @@
     "lesson": "L1",
     "example": "本を読みます",
     "example_reading": "ほん を よみます",
-    "example_meaning": "Tôi đọc sách"
+    "example_meaning": "Tôi đọc sách",
+    "word_romaji": "hon",
+    "reading_romaji": "hon"
   },
   {
     "id": "vocab-n5-003",
@@ -39,7 +43,9 @@
     "lesson": "L2",
     "example": "ご飯を食べる",
     "example_reading": "ごはん を たべる",
-    "example_meaning": "ăn cơm"
+    "example_meaning": "ăn cơm",
+    "word_romaji": "tabe ru",
+    "reading_romaji": "taberu"
   },
   {
     "id": "vocab-n5-004",
@@ -53,7 +59,9 @@
     "lesson": "L1",
     "example": "水を飲む",
     "example_reading": "みず を のむ",
-    "example_meaning": "uống nước"
+    "example_meaning": "uống nước",
+    "word_romaji": "mizu",
+    "reading_romaji": "mizu"
   },
   {
     "id": "vocab-n5-005",
@@ -67,7 +75,9 @@
     "lesson": "L2",
     "example": "東京に行く",
     "example_reading": "とうきょう に いく",
-    "example_meaning": "đi Tokyo"
+    "example_meaning": "đi Tokyo",
+    "word_romaji": "iku",
+    "reading_romaji": "iku"
   },
   {
     "id": "vocab-n5-006",
@@ -81,7 +91,9 @@
     "lesson": "L1",
     "example": "友達と遊ぶ",
     "example_reading": "ともだち と あそぶ",
-    "example_meaning": "chơi với bạn bè"
+    "example_meaning": "chơi với bạn bè",
+    "word_romaji": "tomodachi",
+    "reading_romaji": "tomodachi"
   },
   {
     "id": "vocab-n5-007",
@@ -95,7 +107,9 @@
     "lesson": "L1",
     "example": "家に帰る",
     "example_reading": "いえ に かえる",
-    "example_meaning": "về nhà"
+    "example_meaning": "về nhà",
+    "word_romaji": "ie",
+    "reading_romaji": "ie"
   },
   {
     "id": "vocab-n5-008",
@@ -109,7 +123,9 @@
     "lesson": "L3",
     "example": "大きい犬",
     "example_reading": "おおきい いぬ",
-    "example_meaning": "con chó lớn"
+    "example_meaning": "con chó lớn",
+    "word_romaji": "ookii",
+    "reading_romaji": "ookii"
   },
   {
     "id": "vocab-n5-009",
@@ -123,7 +139,9 @@
     "lesson": "L3",
     "example": "小さい猫",
     "example_reading": "ちいさい ねこ",
-    "example_meaning": "con mèo nhỏ"
+    "example_meaning": "con mèo nhỏ",
+    "word_romaji": "chiisai",
+    "reading_romaji": "chiisai"
   },
   {
     "id": "vocab-n5-010",
@@ -137,7 +155,9 @@
     "lesson": "L3",
     "example": "新しい車",
     "example_reading": "あたらしい くるま",
-    "example_meaning": "xe mới"
+    "example_meaning": "xe mới",
+    "word_romaji": "atarashii",
+    "reading_romaji": "atarashii"
   },
   {
     "id": "vocab-n4-001",
@@ -151,7 +171,9 @@
     "lesson": "L5",
     "example": "会社で働く",
     "example_reading": "かいしゃ で はたらく",
-    "example_meaning": "làm việc tại công ty"
+    "example_meaning": "làm việc tại công ty",
+    "word_romaji": "kaisha",
+    "reading_romaji": "kaisha"
   },
   {
     "id": "vocab-n4-002",
@@ -165,7 +187,9 @@
     "lesson": "L5",
     "example": "説明する",
     "example_reading": "せつめい する",
-    "example_meaning": "giải thích"
+    "example_meaning": "giải thích",
+    "word_romaji": "setsumei",
+    "reading_romaji": "setsumei"
   },
   {
     "id": "vocab-n4-003",
@@ -179,7 +203,9 @@
     "lesson": "L6",
     "example": "経験がある",
     "example_reading": "けいけん が ある",
-    "example_meaning": "có kinh nghiệm"
+    "example_meaning": "có kinh nghiệm",
+    "word_romaji": "keiken",
+    "reading_romaji": "keiken"
   },
   {
     "id": "vocab-n4-004",
@@ -193,7 +219,9 @@
     "lesson": "L6",
     "example": "準備する",
     "example_reading": "じゅんび する",
-    "example_meaning": "chuẩn bị"
+    "example_meaning": "chuẩn bị",
+    "word_romaji": "junbi",
+    "reading_romaji": "junbi"
   },
   {
     "id": "vocab-n4-005",
@@ -207,7 +235,9 @@
     "lesson": "L7",
     "example": "残念です",
     "example_reading": "ざんねん です",
-    "example_meaning": "thật đáng tiếc"
+    "example_meaning": "thật đáng tiếc",
+    "word_romaji": "zannen",
+    "reading_romaji": "zannen"
   },
   {
     "id": "vocab-n4-006",
@@ -221,7 +251,9 @@
     "lesson": "L7",
     "example": "便利な場所",
     "example_reading": "べんり な ばしょ",
-    "example_meaning": "địa điểm tiện lợi"
+    "example_meaning": "địa điểm tiện lợi",
+    "word_romaji": "benri",
+    "reading_romaji": "benri"
   },
   {
     "id": "vocab-n4-007",
@@ -235,7 +267,9 @@
     "lesson": "L7",
     "example": "簡単な問題",
     "example_reading": "かんたん な もんだい",
-    "example_meaning": "vấn đề đơn giản"
+    "example_meaning": "vấn đề đơn giản",
+    "word_romaji": "kantan",
+    "reading_romaji": "kantan"
   },
   {
     "id": "vocab-n4-008",
@@ -249,7 +283,9 @@
     "lesson": "L8",
     "example": "時間を決める",
     "example_reading": "じかん を きめる",
-    "example_meaning": "quyết định thời gian"
+    "example_meaning": "quyết định thời gian",
+    "word_romaji": "kime ru",
+    "reading_romaji": "kimeru"
   },
   {
     "id": "vocab-n4-009",
@@ -263,7 +299,9 @@
     "lesson": "L8",
     "example": "予定を変える",
     "example_reading": "よてい を かえる",
-    "example_meaning": "thay đổi kế hoạch"
+    "example_meaning": "thay đổi kế hoạch",
+    "word_romaji": "kae ru",
+    "reading_romaji": "kaeru"
   },
   {
     "id": "vocab-n4-010",
@@ -277,7 +315,9 @@
     "lesson": "L8",
     "example": "勉強を続ける",
     "example_reading": "べんきょう を つづける",
-    "example_meaning": "tiếp tục học tập"
+    "example_meaning": "tiếp tục học tập",
+    "word_romaji": "tsuzuke ru",
+    "reading_romaji": "tsuzukeru"
   },
   {
     "id": "vocab-n3-001",
@@ -291,7 +331,9 @@
     "lesson": "L10",
     "example": "承知しました",
     "example_reading": "しょうち しました",
-    "example_meaning": "Tôi hiểu"
+    "example_meaning": "Tôi hiểu",
+    "word_romaji": "shouchi",
+    "reading_romaji": "shouchi"
   },
   {
     "id": "vocab-n3-002",
@@ -305,7 +347,9 @@
     "lesson": "L10",
     "example": "状況を把握する",
     "example_reading": "じょうきょう を はあく する",
-    "example_meaning": "nắm bắt tình hình"
+    "example_meaning": "nắm bắt tình hình",
+    "word_romaji": "haaku",
+    "reading_romaji": "haaku"
   },
   {
     "id": "vocab-n3-003",
@@ -319,7 +363,9 @@
     "lesson": "L11",
     "example": "計画を実施する",
     "example_reading": "けいかく を じっし する",
-    "example_meaning": "thực hiện kế hoạch"
+    "example_meaning": "thực hiện kế hoạch",
+    "word_romaji": "jisshi",
+    "reading_romaji": "jisshi"
   },
   {
     "id": "vocab-n3-004",
@@ -333,7 +379,9 @@
     "lesson": "L11",
     "example": "該当する項目",
     "example_reading": "がいとう する こうもく",
-    "example_meaning": "các mục tương ứng"
+    "example_meaning": "các mục tương ứng",
+    "word_romaji": "gaitou",
+    "reading_romaji": "gaitou"
   },
   {
     "id": "vocab-n3-005",
@@ -347,7 +395,9 @@
     "lesson": "L12",
     "example": "仮にそうだとしても",
     "example_reading": "かりに そう だ としても",
-    "example_meaning": "ngay cả khi giả sử điều đó đúng"
+    "example_meaning": "ngay cả khi giả sử điều đó đúng",
+    "word_romaji": "karini",
+    "reading_romaji": "karini"
   },
   {
     "id": "vocab-n3-006",
@@ -361,7 +411,9 @@
     "lesson": "L12",
     "example": "比較的簡単",
     "example_reading": "ひかくてき かんたん",
-    "example_meaning": "tương đối đơn giản"
+    "example_meaning": "tương đối đơn giản",
+    "word_romaji": "hikakuteki",
+    "reading_romaji": "hikakuteki"
   },
   {
     "id": "vocab-n3-007",
@@ -375,7 +427,9 @@
     "lesson": "L13",
     "example": "著しい変化",
     "example_reading": "いちじるしい へんか",
-    "example_meaning": "sự thay đổi đáng kể"
+    "example_meaning": "sự thay đổi đáng kể",
+    "word_romaji": "ichijirushii",
+    "reading_romaji": "ichijirushii"
   },
   {
     "id": "vocab-n3-008",
@@ -389,7 +443,9 @@
     "lesson": "L13",
     "example": "概ね順調",
     "example_reading": "おおむね じゅんちょう",
-    "example_meaning": "nói chung suôn sẻ"
+    "example_meaning": "nói chung suôn sẻ",
+    "word_romaji": "oomune",
+    "reading_romaji": "oomune"
   },
   {
     "id": "vocab-n3-009",
@@ -403,7 +459,9 @@
     "lesson": "L14",
     "example": "専ら仕事に集中",
     "example_reading": "もっぱら しごと に しゅうちゅう",
-    "example_meaning": "chủ yếu tập trung vào công việc"
+    "example_meaning": "chủ yếu tập trung vào công việc",
+    "word_romaji": "moppara",
+    "reading_romaji": "moppara"
   },
   {
     "id": "vocab-n3-010",
@@ -417,7 +475,9 @@
     "lesson": "L14",
     "example": "抜群の成績",
     "example_reading": "ばつぐん の せいせき",
-    "example_meaning": "kết quả xuất sắc"
+    "example_meaning": "kết quả xuất sắc",
+    "word_romaji": "batsugun",
+    "reading_romaji": "batsugun"
   },
   {
     "id": "vocab-n2-001",
@@ -431,7 +491,9 @@
     "lesson": "L15",
     "example": "任務を遂行する",
     "example_reading": "にんむ を すいこう する",
-    "example_meaning": "hoàn thành nhiệm vụ"
+    "example_meaning": "hoàn thành nhiệm vụ",
+    "word_romaji": "suikou",
+    "reading_romaji": "suikou"
   },
   {
     "id": "vocab-n2-002",
@@ -445,7 +507,9 @@
     "lesson": "L15",
     "example": "顕著な効果",
     "example_reading": "けんちょ な こうか",
-    "example_meaning": "hiệu quả đáng kể"
+    "example_meaning": "hiệu quả đáng kể",
+    "word_romaji": "kencho",
+    "reading_romaji": "kencho"
   },
   {
     "id": "vocab-n2-003",
@@ -459,7 +523,9 @@
     "lesson": "L16",
     "example": "懸念を表明する",
     "example_reading": "けねん を ひょうめい する",
-    "example_meaning": "bày tỏ lo ngại"
+    "example_meaning": "bày tỏ lo ngại",
+    "word_romaji": "kenen",
+    "reading_romaji": "kenen"
   },
   {
     "id": "vocab-n2-004",
@@ -473,7 +539,9 @@
     "lesson": "L16",
     "example": "規則を遵守する",
     "example_reading": "きそく を じゅんしゅ する",
-    "example_meaning": "tuân thủ quy tắc"
+    "example_meaning": "tuân thủ quy tắc",
+    "word_romaji": "junshu",
+    "reading_romaji": "junshu"
   },
   {
     "id": "vocab-n2-005",
@@ -487,7 +555,9 @@
     "lesson": "L17",
     "example": "抽象的な概念",
     "example_reading": "ちゅうしょうてき な がいねん",
-    "example_meaning": "khái niệm trừu tượng"
+    "example_meaning": "khái niệm trừu tượng",
+    "word_romaji": "chuushouteki",
+    "reading_romaji": "chuushouteki"
   },
   {
     "id": "vocab-n2-006",
@@ -501,7 +571,9 @@
     "lesson": "L17",
     "example": "妥当な判断",
     "example_reading": "だとう な はんだん",
-    "example_meaning": "phán đoán thích đáng"
+    "example_meaning": "phán đoán thích đáng",
+    "word_romaji": "datou",
+    "reading_romaji": "datou"
   },
   {
     "id": "vocab-n2-007",
@@ -515,7 +587,9 @@
     "lesson": "L18",
     "example": "問題が顕在化する",
     "example_reading": "もんだい が けんざいか する",
-    "example_meaning": "vấn đề trở nên rõ ràng"
+    "example_meaning": "vấn đề trở nên rõ ràng",
+    "word_romaji": "kenzaika",
+    "reading_romaji": "kenzaika"
   },
   {
     "id": "vocab-n2-008",
@@ -529,7 +603,9 @@
     "lesson": "L18",
     "example": "組織が硬直化する",
     "example_reading": "そしき が こうちょくか する",
-    "example_meaning": "tổ chức trở nên cứng nhắc"
+    "example_meaning": "tổ chức trở nên cứng nhắc",
+    "word_romaji": "kouchoku",
+    "reading_romaji": "kouchoku"
   },
   {
     "id": "vocab-n2-009",
@@ -543,7 +619,9 @@
     "lesson": "L19",
     "example": "不安を払拭する",
     "example_reading": "ふあん を ふっしょく する",
-    "example_meaning": "xóa bỏ lo lắng"
+    "example_meaning": "xóa bỏ lo lắng",
+    "word_romaji": "fusshoku",
+    "reading_romaji": "fusshoku"
   },
   {
     "id": "vocab-n2-010",
@@ -557,7 +635,9 @@
     "lesson": "L19",
     "example": "前例を踏襲する",
     "example_reading": "ぜんれい を とうしゅう する",
-    "example_meaning": "theo tiền lệ"
+    "example_meaning": "theo tiền lệ",
+    "word_romaji": "toushuu",
+    "reading_romaji": "toushuu"
   },
   {
     "id": "vocab-n1-001",
@@ -571,7 +651,9 @@
     "lesson": "L20",
     "example": "視力を矯正する",
     "example_reading": "しりょく を きょうせい する",
-    "example_meaning": "chỉnh sửa thị lực"
+    "example_meaning": "chỉnh sửa thị lực",
+    "word_romaji": "kyousei",
+    "reading_romaji": "kyousei"
   },
   {
     "id": "vocab-n1-002",
@@ -585,7 +667,9 @@
     "lesson": "L20",
     "example": "画面を凝視する",
     "example_reading": "がめん を ぎょうし する",
-    "example_meaning": "nhìn chằm chằm vào màn hình"
+    "example_meaning": "nhìn chằm chằm vào màn hình",
+    "word_romaji": "gyoushi",
+    "reading_romaji": "gyoushi"
   },
   {
     "id": "vocab-n1-003",
@@ -599,7 +683,9 @@
     "lesson": "L21",
     "example": "慣例に従う",
     "example_reading": "かんれい に したがう",
-    "example_meaning": "theo tập quán"
+    "example_meaning": "theo tập quán",
+    "word_romaji": "kanrei",
+    "reading_romaji": "kanrei"
   },
   {
     "id": "vocab-n1-004",
@@ -613,7 +699,9 @@
     "lesson": "L21",
     "example": "寡黙な人",
     "example_reading": "かもく な ひと",
-    "example_meaning": "người ít nói"
+    "example_meaning": "người ít nói",
+    "word_romaji": "kamoku",
+    "reading_romaji": "kamoku"
   },
   {
     "id": "vocab-n1-005",
@@ -627,7 +715,9 @@
     "lesson": "L22",
     "example": "惰性で続ける",
     "example_reading": "だせい で つづける",
-    "example_meaning": "tiếp tục theo quán tính"
+    "example_meaning": "tiếp tục theo quán tính",
+    "word_romaji": "dasei",
+    "reading_romaji": "dasei"
   },
   {
     "id": "vocab-n1-006",
@@ -641,7 +731,9 @@
     "lesson": "L22",
     "example": "截然と区別する",
     "example_reading": "せつぜん と くべつ する",
-    "example_meaning": "phân biệt rõ ràng"
+    "example_meaning": "phân biệt rõ ràng",
+    "word_romaji": "setsu zen",
+    "reading_romaji": "setsuzen"
   },
   {
     "id": "vocab-n1-007",
@@ -655,7 +747,9 @@
     "lesson": "L23",
     "example": "功績を顕彰する",
     "example_reading": "こうせき を けんしょう する",
-    "example_meaning": "tôn vinh thành tích"
+    "example_meaning": "tôn vinh thành tích",
+    "word_romaji": "kenshou",
+    "reading_romaji": "kenshou"
   },
   {
     "id": "vocab-n1-008",
@@ -669,7 +763,9 @@
     "lesson": "L23",
     "example": "逡巡している暇はない",
     "example_reading": "しゅんじゅん している ひま は ない",
-    "example_meaning": "không có thời gian do dự"
+    "example_meaning": "không có thời gian do dự",
+    "word_romaji": "shunjun",
+    "reading_romaji": "shunjun"
   },
   {
     "id": "vocab-n1-009",
@@ -683,7 +779,9 @@
     "lesson": "L24",
     "example": "憔悴しきった顔",
     "example_reading": "しょうすい しきった かお",
-    "example_meaning": "khuôn mặt tiêu tụy"
+    "example_meaning": "khuôn mặt tiêu tụy",
+    "word_romaji": "shousui",
+    "reading_romaji": "shousui"
   },
   {
     "id": "vocab-n1-010",
@@ -697,6 +795,8 @@
     "lesson": "L24",
     "example": "伝統を踏襲する",
     "example_reading": "でんとう を とうしゅう する",
-    "example_meaning": "kế thừa truyền thống"
+    "example_meaning": "kế thừa truyền thống",
+    "word_romaji": "toushuu",
+    "reading_romaji": "toushuu"
   }
 ]

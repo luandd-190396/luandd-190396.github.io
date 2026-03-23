@@ -24,7 +24,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "Normal form +  ndesu"
   },
   {
     "id": "grammar_n4_minna2_26_2",
@@ -51,7 +52,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "~  n   de   su   ka"
   },
   {
     "id": "grammar_n4_minna2_26_3",
@@ -78,7 +80,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "~ ndesu"
   },
   {
     "id": "grammar_n4_minna2_26_4",
@@ -105,7 +108,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "~ ndesuga ~  How to use : [ ~ ndesuga ~ ]  has a function that opens the story the speaker wants to present ,  followed by an offer ,  invitation or permission question [ ga ]  has a function of linking sentences with nuanced ,  hesitating nuances of the speaker"
   },
   {
     "id": "grammar_n4_minna2_26_5",
@@ -132,7 +136,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "The verb form  te   itadakemasenka"
   },
   {
     "id": "grammar_n4_minna2_26_6",
@@ -159,7 +164,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-26.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "The word in question + the verb form  ta  +  ra  +  iidesuka"
   },
   {
     "id": "grammar_n4_minna2_27_1",
@@ -186,7 +192,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "Verb ability Group 1 verb"
   },
   {
     "id": "grammar_n4_minna2_27_2",
@@ -213,7 +220,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Sentence verb possibilities"
   },
   {
     "id": "grammar_n4_minna2_27_3",
@@ -240,7 +248,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "miemasu  and  kikoemasu  Means : [ miemasu ]  is visible [ kikoemasu ]  can be heard How to use: Sentences used with [ miemasu ]  and [ kikoemasu ]  describe an object that is seen or heard because something in sight or sound enters the ear itself ,  without the need for intention of the observer .  Expressed by the particle [ ga ]"
   },
   {
     "id": "grammar_n4_minna2_27_4",
@@ -267,7 +276,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "dekimasu"
   },
   {
     "id": "grammar_n4_minna2_27_5",
@@ -294,7 +304,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "ha   deha  /  niha  /  heha /  karaha /  madeha , …  [ ha ]  refers to nouns denoted as the subject of the sentence .  When you change the nouns after the words [ wo ]  and [ ga ]  into sentence topics ,  [ ha ]  will replace [ wo ]  and [ ga ] .  For other auxiliary characters ,  [ ha ]  comes after the auxiliary words"
   },
   {
     "id": "grammar_n4_minna2_27_6",
@@ -321,7 +332,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "mo  How to use : [ mo ]  replaces the adjectives [ wo ]  and [ ga ]  Added after another The case of [ he ]  can be omitted"
   },
   {
     "id": "grammar_n4_minna2_27_7",
@@ -348,7 +360,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-27.html",
-    "sort_order": 7
+    "sort_order": 7,
+    "pattern_romaji": "shika"
   },
   {
     "id": "grammar_n4_minna2_28_1",
@@ -375,7 +388,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The verb 1  na   ga   ra  the verb 2"
   },
   {
     "id": "grammar_n4_minna2_28_2",
@@ -402,7 +416,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "verb form  te  +  imasu  How to use : Indicate a habit or routine If it is a habit in the past ,  use [ imashita ]"
   },
   {
     "id": "grammar_n4_minna2_28_3",
@@ -429,7 +444,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Normal form  shi   , ~ How to use : Match clauses or sentences that share the same opinion ."
   },
   {
     "id": "grammar_n4_minna2_28_4",
@@ -456,7 +472,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "soreni"
   },
   {
     "id": "grammar_n4_minna2_28_5",
@@ -483,7 +500,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-28.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "sorede"
   },
   {
     "id": "grammar_n4_minna2_29_1",
@@ -510,7 +528,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The verb form  te  +  imasu  Describe the state arising as a result of the action or action indicated by the verb"
   },
   {
     "id": "grammar_n4_minna2_29_2",
@@ -537,7 +556,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The noun +  ga  + the verb form  te   imasu"
   },
   {
     "id": "grammar_n4_minna2_29_3",
@@ -564,7 +584,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "The noun +  ha  + The verb form  teimasu  How to use : When you want to put something ,  something that is the subject of the sentence ,  replace the word  ( ga )  with  ( ha )  In this way people often use pronouns such as  ( kono ) ( sono ) ( ano )  to indicate the subject in question ."
   },
   {
     "id": "grammar_n4_minna2_29_4",
@@ -591,7 +612,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "The verb form  te   shimaimasu  /  te   shimaimashita  Used to emphasize that certain movements or things have ended"
   },
   {
     "id": "grammar_n4_minna2_29_5",
@@ -618,7 +640,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "The verb form  te   shimaimashita"
   },
   {
     "id": "grammar_n4_minna2_29_6",
@@ -645,7 +668,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "arimashita"
   },
   {
     "id": "grammar_n4_minna2_29_7",
@@ -672,7 +696,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-29.html",
-    "sort_order": 7
+    "sort_order": 7,
+    "pattern_romaji": "dokokade  and  dokokani"
   },
   {
     "id": "grammar_n4_minna2_30_1",
@@ -699,7 +724,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The verb form  te   arimasu  Describe a state arising as a result of whose intentional action The verb used here is the transitive verb and the verb indicates attention"
   },
   {
     "id": "grammar_n4_minna2_30_2",
@@ -726,7 +752,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The noun 1 +  ni  + the noun 2 + the verb form  te   arimasu"
   },
   {
     "id": "grammar_n4_minna2_30_3",
@@ -753,7 +780,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "The noun 2  ha  the noun 1  ni  the verb form  te   arimasu"
   },
   {
     "id": "grammar_n4_minna2_30_4",
@@ -780,7 +808,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "The verb form  teoki   masu  This phrase is used to describe things that were completed before a certain time ."
   },
   {
     "id": "grammar_n4_minna2_30_5",
@@ -807,7 +836,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "ma   da  + verb (affirmative )"
   },
   {
     "id": "grammar_n4_minna2_30_6",
@@ -834,7 +864,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-30.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "sore"
   },
   {
     "id": "grammar_n4_minna2_31_1",
@@ -861,7 +892,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The affirmative How to form the intention body is as follows"
   },
   {
     "id": "grammar_n4_minna2_31_2",
@@ -888,7 +920,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "How to use the intention In the regular expression form The intention form is used in the normal sentence as a regular form of [ ~   mashou ]  Example:  sukoshiyasumouka  Take a break"
   },
   {
     "id": "grammar_n4_minna2_31_3",
@@ -915,7 +948,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Dictionary-form verb / verb +"
   },
   {
     "id": "grammar_n4_minna2_31_4",
@@ -942,7 +976,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "Fully noun / verb +  yotei"
   },
   {
     "id": "grammar_n4_minna2_31_5",
@@ -969,7 +1004,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-31.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "ma   da  + verb form  te  +  imasen"
   },
   {
     "id": "grammar_n4_minna2_32_1",
@@ -996,7 +1032,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The verb form  ta  / the verb form  na   i  +  hougaiidesu"
   },
   {
     "id": "grammar_n4_minna2_32_2",
@@ -1023,7 +1060,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Verbs ,  the adjectives in the tail [ i ] ,  the adjectives in the tail [ na ] ,  and regular nouns +  deshou"
   },
   {
     "id": "grammar_n4_minna2_32_3",
@@ -1050,7 +1088,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Verb ,  adjective adjective [ i ] ,  adjective adjective [ na ] ,  and ordinary nouns +  kamoshiremasen"
   },
   {
     "id": "grammar_n4_minna2_32_4",
@@ -1077,7 +1116,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "kitto  /  tabun  /  moshikashitara   kitto"
   },
   {
     "id": "grammar_n4_minna2_32_5",
@@ -1104,7 +1144,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-32.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "Amount of words  de"
   },
   {
     "id": "grammar_n4_minna2_33_1",
@@ -1131,7 +1172,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The imperative and the ban How to create the command form"
   },
   {
     "id": "grammar_n4_minna2_33_2",
@@ -1158,7 +1200,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The use of imperative and the ban The imperative and prohibitive form is only used to order or ban someone from doing something .  It has a hard and sour tint ,  so it should only be used when the person with the higher status and the person with the lower status is used in the following specific cases"
   },
   {
     "id": "grammar_n4_minna2_33_3",
@@ -1185,7 +1228,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "[ ~ toyomimasuka ]  and [ ~ tokakimasuka ]"
   },
   {
     "id": "grammar_n4_minna2_33_4",
@@ -1212,7 +1256,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "Noun 1  ha  Noun 2  toiuimi   desu"
   },
   {
     "id": "grammar_n4_minna2_33_5",
@@ -1239,7 +1284,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "[Sentence ]  / ordinary form +  to  +  itteimashita"
   },
   {
     "id": "grammar_n4_minna2_33_6",
@@ -1266,7 +1312,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-33.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "[Sentence ]  / regular form +  to   +   tsutaete   itadakemasenka"
   },
   {
     "id": "grammar_n4_minna2_34_1",
@@ -1293,7 +1340,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The noun  no  / The verb +  to   o   ri   ni ,  The verb Noun  no   +   toorini ,  verbs"
   },
   {
     "id": "grammar_n4_minna2_34_2",
@@ -1320,7 +1368,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The noun  no  / the verb form  ta  + ,  the verb 2"
   },
   {
     "id": "grammar_n4_minna2_34_3",
@@ -1347,7 +1396,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "The verb form  te  / the verb form  ( nai )   na   i   de  + Verb 2"
   },
   {
     "id": "grammar_n4_minna2_34_4",
@@ -1374,7 +1424,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-34.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "The verb form  ( nai )   naide ,  the verb 2"
   },
   {
     "id": "grammar_n4_minna2_35_1",
@@ -1401,7 +1452,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "How to create conditions Verb Group 1 verb: Change from column [ i ]  to column [ e ]  + [ ba ]"
   },
   {
     "id": "grammar_n4_minna2_35_2",
@@ -1428,7 +1480,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Use case conditional Describe a necessary condition for something to happen Example:  botan wooseba ,   doa gaakimasu  If the button is pressed ,  the door will open"
   },
   {
     "id": "grammar_n4_minna2_35_3",
@@ -1455,7 +1508,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Restrictions on the use of conditional sentences One of the two sentences does not indicate intention: Example:  jikangaareba , terebi womimasu  If you have time ,  watch the telly"
   },
   {
     "id": "grammar_n4_minna2_35_4",
@@ -1482,7 +1536,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "Differentiate conditionals with [ to ]  and [ ta   ra ]   to"
   },
   {
     "id": "grammar_n4_minna2_35_5",
@@ -1509,7 +1564,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "Interrogative word + conditional verb +  iidesuka"
   },
   {
     "id": "grammar_n4_minna2_35_6",
@@ -1536,7 +1592,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-35.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "Adjective tailed  i  /  na  conditional + verb forms  , adjective tailed  i ,  adjective tailed  na  +  hodo"
   },
   {
     "id": "grammar_n4_minna2_36_1",
@@ -1563,7 +1620,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "Verb form / verb form  nai  +  youni  ~"
   },
   {
     "id": "grammar_n4_minna2_36_2",
@@ -1590,7 +1648,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The verb in the form of  youni   narimashita"
   },
   {
     "id": "grammar_n4_minna2_36_3",
@@ -1617,7 +1676,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Verb form / verb form  nai  +  youni   shite   imasu / kudasai"
   },
   {
     "id": "grammar_n4_minna2_36_4",
@@ -1644,7 +1704,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-36.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "toka"
   },
   {
     "id": "grammar_n4_minna2_37_1",
@@ -1671,7 +1732,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "How to create passive verbs Group 1 verb: Change from column [ i ]  to column [ a ]  + [ remasu ]"
   },
   {
     "id": "grammar_n4_minna2_37_2",
@@ -1698,7 +1760,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The noun 1 +  ha  + the noun 2  ni  + The passive verb"
   },
   {
     "id": "grammar_n4_minna2_37_3",
@@ -1725,7 +1788,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Noun 1 +  ha  + noun 2  ni  + Noun 3  wo  Passive verb Example:  watashiha   dareka   ni   ashi   wo   fumaremashita  I was stepped on by someone foot"
   },
   {
     "id": "grammar_n4_minna2_37_4",
@@ -1752,7 +1816,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "The noun / + passive verb"
   },
   {
     "id": "grammar_n4_minna2_37_5",
@@ -1779,7 +1844,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "Noun 1  ha  Noun 2  niyotte  + Passive verb"
   },
   {
     "id": "grammar_n4_minna2_37_6",
@@ -1806,7 +1872,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-37.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "Noun"
   },
   {
     "id": "grammar_n4_minna2_38_1",
@@ -1833,7 +1900,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The regular verb  no  When we add the adjective [ no ]  after a regular verb ,  We can noun become verb"
   },
   {
     "id": "grammar_n4_minna2_38_2",
@@ -1860,7 +1928,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The infinitive verb  noha  + the adjective  desu"
   },
   {
     "id": "grammar_n4_minna2_38_3",
@@ -1887,7 +1956,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "The verb in the form of the verb  no   wo   wasuremashita"
   },
   {
     "id": "grammar_n4_minna2_38_4",
@@ -1914,7 +1984,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "The verb in the form of the verb  no   wo   shitteimasu"
   },
   {
     "id": "grammar_n4_minna2_38_5",
@@ -1941,7 +2012,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "Ordinary form  noha  noun  desu"
   },
   {
     "id": "grammar_n4_minna2_38_6",
@@ -1968,7 +2040,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-38.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "~ tokimo / ~ tokino / ~ tokini / ~ tokiya , . .  [ toki ]  is also a noun so it can go with many kinds of auxiliary words"
   },
   {
     "id": "grammar_n4_minna2_39_1",
@@ -1995,7 +2068,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "Verb / adjective / noun +  te  /  de ,  ~ How to use : Causes only ,  the following is the result of the first (cause ) ."
   },
   {
     "id": "grammar_n4_minna2_39_2",
@@ -2022,7 +2096,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The noun +  de"
   },
   {
     "id": "grammar_n4_minna2_39_3",
@@ -2049,7 +2124,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Regular form +  no   de ,   …"
   },
   {
     "id": "grammar_n4_minna2_39_4",
@@ -2076,7 +2152,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-39.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "to   chi   yu   u   de"
   },
   {
     "id": "grammar_n4_minna2_40_1",
@@ -2103,7 +2180,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The word to ask + regular form +  ka ,  ~"
   },
   {
     "id": "grammar_n4_minna2_40_2",
@@ -2130,7 +2208,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Regular form +  ka   douka , ~"
   },
   {
     "id": "grammar_n4_minna2_40_3",
@@ -2157,7 +2236,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "The verb form  te  +  mimasu"
   },
   {
     "id": "grammar_n4_minna2_40_4",
@@ -2184,7 +2264,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "Adjective ending  i  (remove [ i ] ) ,  add [ sa ]  We change [ i ]  in the adjective ending [ i ]  and add [ sa ]  to turn it into a noun Example:  takai   — ->  takasa   nagai   — ->  nagasa   hatai   — ->  hayasa"
   },
   {
     "id": "grammar_n4_minna2_40_5",
@@ -2211,7 +2292,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-40.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "hansu hagakkoudedoudeshouka  [~ dedoudeshouka ]  which is used to ask listeners something they may not know the answer to .  But it can also be used in cases where the listener knows the answer well .  In this case ,  the question is soft ,  gentle ,  so more polite ."
   },
   {
     "id": "grammar_n4_minna2_41_1",
@@ -2238,7 +2320,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "How to speak give and receive Noun 1  ni  Noun 2  wo   yarimasu"
   },
   {
     "id": "grammar_n4_minna2_41_2",
@@ -2265,7 +2348,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Giving on behavior The verb form  te   + yarimasu"
   },
   {
     "id": "grammar_n4_minna2_41_3",
@@ -2292,7 +2376,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "The verb form  te  +  kudasaimasenka"
   },
   {
     "id": "grammar_n4_minna2_41_4",
@@ -2319,7 +2404,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-41.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "Noun  ni  Verb"
   },
   {
     "id": "grammar_n4_minna2_42_1",
@@ -2346,7 +2432,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The noun  no  / the verb in the verb form +  tameni   , ~"
   },
   {
     "id": "grammar_n4_minna2_42_2",
@@ -2373,7 +2460,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "the verb in the verb form / noun +  ni"
   },
   {
     "id": "grammar_n4_minna2_42_3",
@@ -2400,7 +2488,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Summary of speech that indicates the purpose you have learned Noun / verb form [ masu ]  +  ni   ikimasu /  kimasu  /  kaerimasu"
   },
   {
     "id": "grammar_n4_minna2_42_4",
@@ -2427,7 +2516,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "Amount of words  ha"
   },
   {
     "id": "grammar_n4_minna2_42_5",
@@ -2454,7 +2544,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-42.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "Amount of words  mo"
   },
   {
     "id": "grammar_n4_minna2_43_1",
@@ -2481,7 +2572,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "soudesu"
   },
   {
     "id": "grammar_n4_minna2_43_2",
@@ -2508,7 +2600,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-43.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The verb form  te  +  kimasu"
   },
   {
     "id": "grammar_n4_minna2_44_1",
@@ -2535,7 +2628,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "sugimasu"
   },
   {
     "id": "grammar_n4_minna2_44_2",
@@ -2562,7 +2656,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The verb form  masu  +  yasui  /  nikuidesu  Used to indicate whether something is difficult or easy Example:  konokusurihanomiyasuidesu  This drug is easy to drink"
   },
   {
     "id": "grammar_n4_minna2_44_3",
@@ -2589,7 +2684,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Adjectives ,  nouns +  shimasu"
   },
   {
     "id": "grammar_n4_minna2_44_4",
@@ -2616,7 +2712,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "The noun  ni  +  shimasu"
   },
   {
     "id": "grammar_n4_minna2_44_5",
@@ -2643,7 +2740,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-44.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "Adjectives + Verbs"
   },
   {
     "id": "grammar_n4_minna2_45_1",
@@ -2670,7 +2768,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "~ +  baaiha , ~"
   },
   {
     "id": "grammar_n4_minna2_45_2",
@@ -2697,7 +2796,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Regular form +  noni , ~"
   },
   {
     "id": "grammar_n4_minna2_45_3",
@@ -2724,7 +2824,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-45.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "The difference between [ ~ noni ]  and [ ~ ga / ~ temo ]  Let ’ s take a look at the following examples to see the difference Example:  watashinoheyahasemaidesuga , kireidesu (1 )  My room is narrow but beautiful ."
   },
   {
     "id": "grammar_n4_minna2_46_1",
@@ -2751,7 +2852,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "tokorodesu  [ tokoro ]  means root ,  is the location ,  in addition to indicating time .  In this lesson we will learn the second meaning .  This sentence is used to indicate and emphasize how the present moment is positioned in the course of an action or event ."
   },
   {
     "id": "grammar_n4_minna2_46_2",
@@ -2778,7 +2880,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "The verb form  ta  +  bakaridesu"
   },
   {
     "id": "grammar_n4_minna2_46_3",
@@ -2805,7 +2908,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-46.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "+  hazudesu"
   },
   {
     "id": "grammar_n4_minna2_47_1",
@@ -2832,7 +2936,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "Regular form +  soudesu"
   },
   {
     "id": "grammar_n4_minna2_47_2",
@@ -2859,7 +2964,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Regular form +  youdesu"
   },
   {
     "id": "grammar_n4_minna2_47_3",
@@ -2886,7 +2992,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-47.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "koe  /  nioi  /  oto  /  ajiga   shimasu"
   },
   {
     "id": "grammar_n4_minna2_48_1",
@@ -2913,7 +3020,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "The verb dictates Group 1 verb: Converts the string [i ]  to array [ a ]  +  se"
   },
   {
     "id": "grammar_n4_minna2_48_2",
@@ -2940,7 +3048,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Verbs dictate There are two types of verb dictated by the auxiliary verbs that indicate the subject of the verb: [ wo ]  comes with the intransitive verb and [ ni ]  goes with the verb"
   },
   {
     "id": "grammar_n4_minna2_48_4",
@@ -2967,7 +3076,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-48.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Verbs dictate  te  +  itadakemasenka"
   },
   {
     "id": "grammar_n4_minna2_49_1",
@@ -2994,7 +3104,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "Honorifics A way of showing respect to the listener or the speaker The use of honorifics depends on three factors:  –  If the speaker has status or age lower than the listener ,  he or she must use honorifics to show respect to the listener  –  If the speaker is not very familiar with the listener as he first met ,  the speaker uses honorific language to show respect to the listener  –  Internal and external relations Internal relationships refer to people who belong to a certain group (family ,  company ,  etc . ) ,  external relationships are people who are not in those groups .  When the speaker speaks to an outsider about a person in the same group as him ,  then the person in question has the same position as the speaker even though the group is in a higher position ."
   },
   {
     "id": "grammar_n4_minna2_49_2",
@@ -3021,7 +3132,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Types of honorifics There are 3 types of honorifics:  –   sonkeigo  : respectful speech  –   kenjougo  : humble language  –   teineigo  : be polite"
   },
   {
     "id": "grammar_n4_minna2_49_3",
@@ -3048,7 +3160,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49.html",
-    "sort_order": 3
+    "sort_order": 3,
+    "pattern_romaji": "Respectful speech ( sonkeigo )  The expression used to show the respect of the speaker to the listener or the talkee .  This expression is used when talking about objects or events related to the listener"
   },
   {
     "id": "grammar_n4_minna2_49_4",
@@ -3075,7 +3188,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49.html",
-    "sort_order": 4
+    "sort_order": 4,
+    "pattern_romaji": "Honorific and type of sentences Honorifics are not only polite but Regular form .  When we put the regular form at the end of the sentence ,  the sentence will become the regular form .  Sentences like this often appear when the speaker talks to his best friend about someone that he wants to use respectful expressions to show respect for .  Example:  buchouhananjiniirassharu ? what time hours manager will come"
   },
   {
     "id": "grammar_n4_minna2_49_5",
@@ -3102,7 +3216,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49.html",
-    "sort_order": 5
+    "sort_order": 5,
+    "pattern_romaji": "Consistency of using honorifics in sentences When using honorifics ,  you should not use only a part of sentences but should use other words to ensure the consistency of using honorifics .  Example:  buchounookusamamogoisshani gorufu niikaremasu  The manage wife also goes golf with"
   },
   {
     "id": "grammar_n4_minna2_49_6",
@@ -3129,7 +3244,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-49.html",
-    "sort_order": 6
+    "sort_order": 6,
+    "pattern_romaji": "~ mashite  When you want to say politely ,  the verb form  te  is also transformed into the verb form  mashite .  In sentences to ensure consistency ,  then the verb [ ~ mashite ]  is often used Example:  hansu gayuubenetsudashimashite , kesamomadasagaranaindesu  Last night Hans had a fever ,  this morning the temperature was no reduction ."
   },
   {
     "id": "grammar_n4_minna2_50_1",
@@ -3156,7 +3272,8 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50.html",
-    "sort_order": 1
+    "sort_order": 1,
+    "pattern_romaji": "Humble language A condescending language used to speak about one ’ s own behavior through which to show respect to the listener or the speaker"
   },
   {
     "id": "grammar_n4_minna2_50_2",
@@ -3183,6 +3300,7 @@
       "minna-no-nihongo-2"
     ],
     "source_url": "https://learnjapaneseaz.com/minna-no-nihongo-lesson-50.html",
-    "sort_order": 2
+    "sort_order": 2,
+    "pattern_romaji": "Polite form"
   }
 ]
